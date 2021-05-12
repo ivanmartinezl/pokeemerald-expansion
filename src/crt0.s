@@ -99,6 +99,8 @@ GPIOPortReadEnable: @ 80000C8
 	.4byte 0x000031a8 @ offsetof(struct SaveBlock1, giftRibbons)
 	.4byte 0x000031f8 @ offsetof(struct SaveBlock1, enigmaBerry)
 	.4byte 0x00000034 @ offsetof(struct SaveBlock1, mapView)
+	.4byte gEgg1PaletteTable
+	.4byte gEgg2PaletteTable
 	.4byte 0x00000000
 	.4byte 0x00000000
 
