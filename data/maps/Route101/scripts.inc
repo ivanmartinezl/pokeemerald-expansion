@@ -266,24 +266,30 @@ Route101_Text_HelpMe:
 Route101_Text_PleaseHelp:
 	.string "Hello! You over there!\n"
 	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "In my Bag!\n"
+	.string "There's a Poké Ball!$"
 
 Route101_Text_DontLeaveMe:
 	.string "Wh-Where are you going?!\n"
 	.string "Don't leave me like this!$"
 
+<<<<<<< HEAD
 Route101_Text_YouSavedMe:
 	.string "PROF. BIRCH: Whew…\p"
+=======
+Route101_Text_YouSavedMe: @ 81EBF12
+	.string "Prof. Birch: Whew…\p"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
+	.string "Pokémon when I was jumped.\p"
 	.string "You saved me.\n"
 	.string "Thanks a lot!\p"
 	.string "Oh?\p"
 	.string "Hi, you're {PLAYER}{KUN}!\p"
 	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "by my Pokémon Lab later, okay?$"
 
+<<<<<<< HEAD
 Route101_Text_TakeTiredPokemonToPokeCenter:
 	.string "If POKéMON get tired, take them to\n"
 	.string "a POKéMON CENTER.\p"
@@ -292,11 +298,27 @@ Route101_Text_TakeTiredPokemonToPokeCenter:
 
 Route101_Text_WildPokemonInTallGrass:
 	.string "Wild POKéMON will jump out at you in\n"
+=======
+Route101_Text_TakeTiredPokemonToPokeCenter: @ 81EBFDD
+	.string "If Pokémon get tired, take them to\n"
+	.string "a Pokémon Center.\p"
+	.string "There's a Pokémon Center in Oldale\n"
+	.string "Town right close by.$"
+
+Route101_Text_WildPokemonInTallGrass: @ 81EC04A
+	.string "Wild Pokémon will jump out at you in\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
+	.string "If you want to catch Pokémon, you have\n"
 	.string "to go into the tall grass and search.$"
 
+<<<<<<< HEAD
 Route101_Text_RouteSign:
 	.string "ROUTE 101\n"
 	.string "{UP_ARROW} OLDALE TOWN$"
+=======
+Route101_Text_RouteSign: @ 81EC0C8
+	.string "Route 101\n"
+	.string "{UP_ARROW} Oldale Town$"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

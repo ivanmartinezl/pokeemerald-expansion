@@ -343,10 +343,15 @@ BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon:
 	.string "It seems to have the distinct aroma\n"
-	.string "of POKéMON wafting around it…$"
+	.string "of Pokémon wafting around it…$"
 
+<<<<<<< HEAD
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople:
 	.string "Is it… A TRAINER?\n"
+=======
+BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople: @ 825CFE5
+	.string "Is it… A Trainer?\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I sense the presence of people…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:

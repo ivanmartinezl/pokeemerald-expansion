@@ -150,33 +150,49 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	setflag FLAG_RECEIVED_HM08
 	end
 
+<<<<<<< HEAD
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
 	.string "STEVEN: {PLAYER}{KUN}…\p"
+=======
+MossdeepCity_StevensHouse_Text_YouveEarnedHMDive: @ 8222936
+	.string "Steven: {PLAYER}{KUN}…\p"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "As you can see, there's not much here,\n"
 	.string "but this is my home.\p"
 	.string "Thank you for all that you've done.\p"
 	.string "This is my token of appreciation.\n"
-	.string "It's the HIDDEN MACHINE DIVE.\p"
+	.string "It's the Hidden Machine Dive.\p"
 	.string "No need to be shy--you've earned\n"
 	.string "this HM.$"
 
+<<<<<<< HEAD
 MossdeepCity_StevensHouse_Text_ExplainDive:
 	.string "STEVEN: While you're using SURF, you\n"
+=======
+MossdeepCity_StevensHouse_Text_ExplainDive: @ 8222A0E
+	.string "Steven: While you're using Surf, you\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
+	.string "Use Dive if you come to deep water\n"
 	.string "like it. You'll drop to the seafloor.\p"
 	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
+	.string "Dive again.\p"
 	.string "In some places, it won't be possible\n"
 	.string "for you to surface, though.$"
 
+<<<<<<< HEAD
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
 	.string "STEVEN: Apparently, there's an\n"
+=======
+MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis: @ 8222B11
+	.string "Steven: Apparently, there's an\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "underwater cavern between\l"
-	.string "MOSSDEEP and SOOTOPOLIS.\p"
-	.string "You know, the one that CAPT. STERN\n"
+	.string "Mossdeep and Sootopolis.\p"
+	.string "You know, the one that Capt. Stern\n"
 	.string "found in his submarine.$"
 
+<<<<<<< HEAD
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
 	.string "{PLAYER} checked the POKé BALL.\p"
 	.string "It contained the POKéMON\n"
@@ -192,6 +208,23 @@ MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
 	.string "{PLAYER} left the POKé BALL where\n"
+=======
+MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum: @ 8222B9E
+	.string "{PLAYER} checked the Poké Ball.\p"
+	.string "It contained the Pokémon\n"
+	.string "Beldum.\p"
+	.string "Take the Poké Ball?$"
+
+MossdeepCity_StevensHouse_Text_ObtainedBeldum: @ 8222BED
+	.string "{PLAYER} obtained a Beldum.$"
+
+@ Unused
+MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon: @ 8222C03
+	.string "There is no space for another Pokémon.$"
+
+MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas: @ 8222C2A
+	.string "{PLAYER} left the Poké Ball where\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "it was.$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
@@ -203,15 +236,15 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "I don't plan to return home for some\n"
 	.string "time.\p"
 	.string "I have a favor to ask of you.\p"
-	.string "I want you to take the POKé BALL on\n"
+	.string "I want you to take the Poké Ball on\n"
 	.string "the desk.\p"
-	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
+	.string "Inside it is a Beldum, my favorite\n"
+	.string "Pokémon.\p"
 	.string "I'm counting on you.\p"
 	.string "May our paths cross someday.\p"
-	.string "STEVEN STONE$"
+	.string "Steven Stone$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
 	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.string "stones assembled by Steven.$"
 

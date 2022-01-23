@@ -41,24 +41,39 @@ OldaleTown_PokemonCenter_1F_EventScript_WirelessClubAvailable::
 
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
 	.string "That PC in the corner there is\n"
-	.string "for any POKéMON TRAINER to use.\p"
+	.string "for any Pokémon Trainer to use.\p"
 	.string "Naturally, that means you're welcome\n"
 	.string "to use it, too.$"
 
+<<<<<<< HEAD
 OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
 	.string "POKéMON CENTERS are great!\p"
+=======
+OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat: @ 81FC0CD
+	.string "Pokémon Centers are great!\p"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You can use their services as much\n"
 	.string "as you like, and it's all for free.\l"
 	.string "You never have to worry!$"
 
+<<<<<<< HEAD
 OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable:
 	.string "The POKéMON WIRELESS CLUB on\n"
+=======
+OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable: @ 81FC148
+	.string "The Pokémon Wireless Club on\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the second floor was built recently.\p"
 	.string "But they say they're still making\n"
 	.string "adjustments.$"
 
+<<<<<<< HEAD
 OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub:
 	.string "The POKéMON WIRELESS CLUB on\n"
+=======
+OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub: @ 81FC1B9
+	.string "The Pokémon Wireless Club on\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the second floor was built recently.\p"
-	.string "I traded POKéMON right away.$"
+	.string "I traded Pokémon right away.$"
 

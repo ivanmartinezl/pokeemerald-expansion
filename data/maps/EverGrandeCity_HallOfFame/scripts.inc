@@ -83,17 +83,29 @@ EverGrandeCity_HallOfFame_Movement_WalkIntoHallOfFame2:
 	walk_up
 	step_end
 
+<<<<<<< HEAD
 EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions:
 	.string "WALLACE: This room…\p"
+=======
+EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions: @ 822990E
+	.string "Wallace: This room…\p"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "This is where we keep records of\n"
-	.string "POKéMON that prevailed through\l"
+	.string "Pokémon that prevailed through\l"
 	.string "harsh battles.\p"
-	.string "It is here that the LEAGUE CHAMPIONS\n"
+	.string "It is here that the League Champions\n"
 	.string "are honored.$"
 
+<<<<<<< HEAD
 EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames:
 	.string "WALLACE: Come on, let's record your\n"
 	.string "name as a TRAINER who triumphed over\l"
 	.string "the POKéMON LEAGUE, and the names of\l"
+=======
+EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames: @ 82299A3
+	.string "Wallace: Come on, let's record your\n"
+	.string "name as a Trainer who triumphed over\l"
+	.string "the Pokémon League, and the names of\l"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the partners who battled with you.$"
 

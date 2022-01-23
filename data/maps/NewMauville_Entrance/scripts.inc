@@ -49,10 +49,18 @@ NewMauville_Entrance_EventScript_DontOpenDoor::
 NewMauville_Entrance_Text_DoorIsLocked:
 	.string "The door is locked.$"
 
+<<<<<<< HEAD
 NewMauville_Entrance_Text_UseBasementKey:
 	.string "Use the BASEMENT KEY?$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
 	.string "{PLAYER} used the BASEMENT KEY.\p"
+=======
+NewMauville_Entrance_Text_UseBasementKey: @ 8237396
+	.string "Use the Basement Key?$"
+
+NewMauville_Entrance_Text_UsedBasementKey: @ 82373AC
+	.string "{PLAYER} used the Basement Key.\p"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "The door opened!$"
 

@@ -2486,7 +2486,11 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_GLIGAR] =
     {
+<<<<<<< HEAD
         .categoryName = _("Fly Scorpion"),
+=======
+        .categoryName = _("FlyScorpion"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
         .height = 11,
         .weight = 648,
         .description = gGligarPokedexText,
@@ -3158,7 +3162,11 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_ZIGZAGOON] =
     {
+<<<<<<< HEAD
         .categoryName = _("Tiny Raccoon"),
+=======
+        .categoryName = _("TinyRaccoon"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
         .height = 4,
         .weight = 175,
         .description = gZigzagoonPokedexText,
@@ -3314,7 +3322,11 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_TAILLOW] =
     {
+<<<<<<< HEAD
         .categoryName = _("Tiny Swallow"),
+=======
+        .categoryName = _("TinySwallow"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
         .height = 3,
         .weight = 23,
         .description = gTaillowPokedexText,

@@ -49,6 +49,7 @@ AbandonedShip_Rooms2_1F_EventScript_Garrison::
 	msgbox AbandonedShip_Rooms2_1F_Text_GarrisonPostBattle, MSGBOX_AUTOCLOSE
 	end
 
+<<<<<<< HEAD
 AbandonedShip_Rooms2_1F_Text_DanIntro:
 	.string "DAN: While searching for treasures,\n"
 	.string "we discovered a TRAINER!$"
@@ -67,9 +68,30 @@ AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
 
 AbandonedShip_Rooms2_1F_Text_KiraIntro:
 	.string "KIRA: Oh?\n"
-	.string "We were searching for treasures.\l"
-	.string "But we discovered a TRAINER instead!$"
+=======
+AbandonedShip_Rooms2_1F_Text_DanIntro: @ 823819D
+	.string "Dan: While searching for treasures,\n"
+	.string "we discovered a Trainer!$"
 
+AbandonedShip_Rooms2_1F_Text_DanDefeat: @ 82381DA
+	.string "Dan: We couldn't win even though\n"
+	.string "we worked together…$"
+
+AbandonedShip_Rooms2_1F_Text_DanPostBattle: @ 823820F
+	.string "Dan: We can't find any treasures…\n"
+	.string "I wonder if someone got them already?$"
+
+AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons: @ 8238257
+	.string "Dan: You don't even have two Pokémon.\n"
+	.string "You can't expect to beat us like that.$"
+
+AbandonedShip_Rooms2_1F_Text_KiraIntro: @ 82382A4
+	.string "Kira: Oh?\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
+	.string "We were searching for treasures.\l"
+	.string "But we discovered a Trainer instead!$"
+
+<<<<<<< HEAD
 AbandonedShip_Rooms2_1F_Text_KiraDefeat:
 	.string "KIRA: Ooh, so strong!$"
 
@@ -88,10 +110,31 @@ AbandonedShip_Rooms2_1F_Text_KiraRegister:
 
 AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
 	.string "DAN: We've been searching for\n"
+=======
+AbandonedShip_Rooms2_1F_Text_KiraDefeat: @ 82382F4
+	.string "Kira: Ooh, so strong!$"
+
+AbandonedShip_Rooms2_1F_Text_KiraPostBattle: @ 823830A
+	.string "Kira: Where could the treasures be?\p"
+	.string "I've already decided what I'm buying\n"
+	.string "when we find the treasures!$"
+
+AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons: @ 823836F
+	.string "Kira: Oh, you don't have two Pokémon?\n"
+	.string "We'll have to battle some other time!$"
+
+AbandonedShip_Rooms2_1F_Text_KiraRegister: @ 82383BB
+	.string "Kira: Oh, you make me so angry!\n"
+	.string "I'm going to register you for that!$"
+
+AbandonedShip_Rooms2_1F_Text_DanRematchIntro: @ 82383FF
+	.string "Dan: We've been searching for\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "treasures all this time.\p"
-	.string "Our POKéMON have grown stronger, too.\n"
+	.string "Our Pokémon have grown stronger, too.\n"
 	.string "Let us show you, okay?$"
 
+<<<<<<< HEAD
 AbandonedShip_Rooms2_1F_Text_DanRematchDefeat:
 	.string "DAN: You're strong, as usual!$"
 
@@ -107,11 +150,29 @@ AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons:
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchIntro:
 	.string "KIRA: Oh? We meet again!\p"
+=======
+AbandonedShip_Rooms2_1F_Text_DanRematchDefeat: @ 8238473
+	.string "Dan: You're strong, as usual!$"
+
+AbandonedShip_Rooms2_1F_Text_DanPostRematch: @ 8238491
+	.string "Dan: We can't find any treasures,\n"
+	.string "we lose at Pokémon…\p"
+	.string "I want to go home… But if I say that,\n"
+	.string "she gets all angry with me…$"
+
+AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons: @ 8238509
+	.string "Dan: You don't even have two Pokémon.\n"
+	.string "You can't expect to beat us like that.$"
+
+AbandonedShip_Rooms2_1F_Text_KiraRematchIntro: @ 8238556
+	.string "Kira: Oh? We meet again!\p"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Just like us, you still haven't given up\n"
 	.string "searching for treasures, have you?\p"
 	.string "Want to make it so the loser has\n"
 	.string "to give up searching?$"
 
+<<<<<<< HEAD
 AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat:
 	.string "KIRA: Oh, we lost again…$"
 
@@ -122,6 +183,18 @@ AbandonedShip_Rooms2_1F_Text_KiraPostRematch:
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons:
 	.string "KIRA: Oh, you don't have two POKéMON?\n"
+=======
+AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat: @ 82385F2
+	.string "Kira: Oh, we lost again…$"
+
+AbandonedShip_Rooms2_1F_Text_KiraPostRematch: @ 823860B
+	.string "Kira: We're not leaving until we raise\n"
+	.string "our Pokémon some more and we find\l"
+	.string "the treasures here!$"
+
+AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons: @ 8238668
+	.string "Kira: Oh, you don't have two Pokémon?\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "We'll have to battle some other time!$"
 
 AbandonedShip_Rooms2_1F_Text_JaniIntro:
@@ -138,7 +211,7 @@ AbandonedShip_Rooms2_1F_Text_JaniPostBattle:
 
 AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
 	.string "Strength and compassion…\n"
-	.string "Those are a TRAINER's treasures!$"
+	.string "Those are a Trainer's treasures!$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
 	.string "Ah, there is something about you\n"

@@ -695,7 +695,7 @@ static const u8 sSnoreDescription[] = _(
 
 static const u8 sCurseDescription[] = _(
     "A move that functions\n"
-    "differently for GHOSTS.");
+    "differently for Ghosts.");
 
 static const u8 sFlailDescription[] = _(
     "Inflicts more damage when\n"
@@ -967,7 +967,11 @@ static const u8 sSunnyDayDescription[] = _(
 
 static const u8 sCrunchDescription[] = _(
     "Crunches with sharp fangs.\n"
+<<<<<<< HEAD
     "May lower Defense.");
+=======
+    "May lower Sp. Def.");
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 static const u8 sMirrorCoatDescription[] = _(
     "Counters the foe's special\n"
@@ -1119,7 +1123,7 @@ static const u8 sRevengeDescription[] = _(
 
 static const u8 sBrickBreakDescription[] = _(
     "Destroys barriers such as\n"
-    "REFLECT and causes damage.");
+    "Reflect and causes damage.");
 
 static const u8 sYawnDescription[] = _(
     "Lulls the foe into yawning,\n"
@@ -1416,6 +1420,7 @@ static const u8 sDoomDesireDescription[] = _(
 static const u8 sPsychoBoostDescription[] = _(
     "Allows a full-power attack,\n"
     "but sharply lowers Sp. Atk.");
+<<<<<<< HEAD
 
 static const u8 sROOSTDescription[] = _(
     "Restores the user's HP by\n"
@@ -2944,6 +2949,8 @@ static const u8 sEERIE_SPELLDescription[] = _(
 
 static const u8 sNotDoneYetDescription[] = _(
     "Not done yet.");
+=======
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 // MOVE_NONE is ignored in this table. Make sure to always subtract 1 before getting the right pointer.
 const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =

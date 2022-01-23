@@ -1,5 +1,9 @@
 static const u8 sNoneDescription[] = _("No special ability.");
+<<<<<<< HEAD
 static const u8 sStenchDescription[] = _("May cause a foe to flinch.");
+=======
+static const u8 sStenchDescription[] = _("Helps repel wild Pokémon.");
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 static const u8 sDrizzleDescription[] = _("Summons rain in battle.");
 static const u8 sSpeedBoostDescription[] = _("Gradually boosts Speed.");
 static const u8 sBattleArmorDescription[] = _("Blocks critical hits.");
@@ -23,7 +27,11 @@ static const u8 sSuctionCupsDescription[] = _("Firmly anchors the body.");
 static const u8 sIntimidateDescription[] = _("Lowers the foe's Attack.");
 static const u8 sShadowTagDescription[] = _("Prevents the foe's escape.");
 static const u8 sRoughSkinDescription[] = _("Hurts to touch.");
+<<<<<<< HEAD
 static const u8 sWonderGuardDescription[] = _("“Supereffective” hits.");
+=======
+static const u8 sWonderGuardDescription[] = _("“Super effective” hits.");
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 static const u8 sLevitateDescription[] = _("Not hit by Ground attacks.");
 static const u8 sEffectSporeDescription[] = _("Leaves spores on contact.");
 static const u8 sSynchronizeDescription[] = _("Passes on status problems.");
@@ -333,6 +341,7 @@ const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
     [ABILITY_WHITE_SMOKE] = _("White Smoke"),
     [ABILITY_PURE_POWER] = _("Pure Power"),
     [ABILITY_SHELL_ARMOR] = _("Shell Armor"),
+<<<<<<< HEAD
     [ABILITY_AIR_LOCK] = _("Air Lock"),
     [ABILITY_TANGLED_FEET] = _("Tangled Feet"),
     [ABILITY_MOTOR_DRIVE] = _("Motor Drive"),
@@ -525,6 +534,10 @@ const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
     [ABILITY_GRIM_NEIGH] = _("Grim Neigh"),
     [ABILITY_AS_ONE_ICE_RIDER] = _("As One"),
     [ABILITY_AS_ONE_SHADOW_RIDER] = _("As One"),
+=======
+    [ABILITY_CACOPHONY] = _("Cacophony"),
+    [ABILITY_AIR_LOCK] = _("Air Lock"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 };
 
 const u8 *const gAbilityDescriptionPointers[ABILITIES_COUNT] =

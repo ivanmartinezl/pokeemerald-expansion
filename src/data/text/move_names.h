@@ -3,7 +3,11 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_NONE] = _("-"),
     [MOVE_POUND] = _("Pound"),
     [MOVE_KARATE_CHOP] = _("Karate Chop"),
+<<<<<<< HEAD
     [MOVE_DOUBLE_SLAP] = _("Double Slap"),
+=======
+    [MOVE_DOUBLE_SLAP] = _("DoubleSlap"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_COMET_PUNCH] = _("Comet Punch"),
     [MOVE_MEGA_PUNCH] = _("Mega Punch"),
     [MOVE_PAY_DAY] = _("Pay Day"),
@@ -11,7 +15,11 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_ICE_PUNCH] = _("Ice Punch"),
     [MOVE_THUNDER_PUNCH] = _("ThunderPunch"),
     [MOVE_SCRATCH] = _("Scratch"),
+<<<<<<< HEAD
     [MOVE_VISE_GRIP] = _("Vise Grip"),
+=======
+    [MOVE_VICE_GRIP] = _("ViceGrip"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_GUILLOTINE] = _("Guillotine"),
     [MOVE_RAZOR_WIND] = _("Razor Wind"),
     [MOVE_SWORDS_DANCE] = _("Swords Dance"),
@@ -28,7 +36,11 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_MEGA_KICK] = _("Mega Kick"),
     [MOVE_JUMP_KICK] = _("Jump Kick"),
     [MOVE_ROLLING_KICK] = _("Rolling Kick"),
+<<<<<<< HEAD
     [MOVE_SAND_ATTACK] = _("Sand Attack"),
+=======
+    [MOVE_SAND_ATTACK] = _("Sand-Attack"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_HEADBUTT] = _("Headbutt"),
     [MOVE_HORN_ATTACK] = _("Horn Attack"),
     [MOVE_FURY_ATTACK] = _("Fury Attack"),
@@ -48,8 +60,13 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_GROWL] = _("Growl"),
     [MOVE_ROAR] = _("Roar"),
     [MOVE_SING] = _("Sing"),
+<<<<<<< HEAD
     [MOVE_SUPERSONIC] = _("Supersonic"),
     [MOVE_SONIC_BOOM] = _("Sonic Boom"),
+=======
+    [MOVE_SUPERSONIC] = _("SuperSonic"),
+    [MOVE_SONIC_BOOM] = _("SonicBoom"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_DISABLE] = _("Disable"),
     [MOVE_ACID] = _("Acid"),
     [MOVE_EMBER] = _("Ember"),
@@ -61,7 +78,11 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_ICE_BEAM] = _("Ice Beam"),
     [MOVE_BLIZZARD] = _("Blizzard"),
     [MOVE_PSYBEAM] = _("Psybeam"),
+<<<<<<< HEAD
     [MOVE_BUBBLE_BEAM] = _("Bubble Beam"),
+=======
+    [MOVE_BUBBLE_BEAM] = _("BubbleBeam"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_AURORA_BEAM] = _("Aurora Beam"),
     [MOVE_HYPER_BEAM] = _("Hyper Beam"),
     [MOVE_PECK] = _("Peck"),
@@ -76,7 +97,11 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_LEECH_SEED] = _("Leech Seed"),
     [MOVE_GROWTH] = _("Growth"),
     [MOVE_RAZOR_LEAF] = _("Razor Leaf"),
+<<<<<<< HEAD
     [MOVE_SOLAR_BEAM] = _("Solar Beam"),
+=======
+    [MOVE_SOLAR_BEAM] = _("SolarBeam"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_POISON_POWDER] = _("PoisonPowder"),
     [MOVE_STUN_SPORE] = _("Stun Spore"),
     [MOVE_SLEEP_POWDER] = _("Sleep Powder"),
@@ -108,7 +133,11 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_RECOVER] = _("Recover"),
     [MOVE_HARDEN] = _("Harden"),
     [MOVE_MINIMIZE] = _("Minimize"),
+<<<<<<< HEAD
     [MOVE_SMOKESCREEN] = _("Smokescreen"),
+=======
+    [MOVE_SMOKESCREEN] = _("SmokeScreen"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_CONFUSE_RAY] = _("Confuse Ray"),
     [MOVE_WITHDRAW] = _("Withdraw"),
     [MOVE_DEFENSE_CURL] = _("Defense Curl"),
@@ -135,8 +164,13 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_CONSTRICT] = _("Constrict"),
     [MOVE_AMNESIA] = _("Amnesia"),
     [MOVE_KINESIS] = _("Kinesis"),
+<<<<<<< HEAD
     [MOVE_SOFT_BOILED] = _("Soft-Boiled"),
     [MOVE_HIGH_JUMP_KICK] = _("HighJumpKick"),
+=======
+    [MOVE_SOFT_BOILED] = _("SoftBoiled"),
+    [MOVE_HI_JUMP_KICK] = _("Hi Jump Kick"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_GLARE] = _("Glare"),
     [MOVE_DREAM_EATER] = _("Dream Eater"),
     [MOVE_POISON_GAS] = _("Poison Gas"),
@@ -152,7 +186,11 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_PSYWAVE] = _("Psywave"),
     [MOVE_SPLASH] = _("Splash"),
     [MOVE_ACID_ARMOR] = _("Acid Armor"),
+<<<<<<< HEAD
     [MOVE_CRABHAMMER] = _("Crabhammer"),
+=======
+    [MOVE_CRABHAMMER] = _("CrabHammer"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_EXPLOSION] = _("Explosion"),
     [MOVE_FURY_SWIPES] = _("Fury Swipes"),
     [MOVE_BONEMERANG] = _("Bonemerang"),
@@ -185,7 +223,11 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_PROTECT] = _("Protect"),
     [MOVE_MACH_PUNCH] = _("Mach Punch"),
     [MOVE_SCARY_FACE] = _("Scary Face"),
+<<<<<<< HEAD
     [MOVE_FEINT_ATTACK] = _("Feint Attack"),
+=======
+    [MOVE_FAINT_ATTACK] = _("Faint Attack"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_SWEET_KISS] = _("Sweet Kiss"),
     [MOVE_BELLY_DRUM] = _("Belly Drum"),
     [MOVE_SLUDGE_BOMB] = _("Sludge Bomb"),
@@ -261,11 +303,19 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_HAIL] = _("Hail"),
     [MOVE_TORMENT] = _("Torment"),
     [MOVE_FLATTER] = _("Flatter"),
+<<<<<<< HEAD
     [MOVE_WILL_O_WISP] = _("Will-o-Wisp"),
     [MOVE_MEMENTO] = _("Memento"),
     [MOVE_FACADE] = _("Facade"),
     [MOVE_FOCUS_PUNCH] = _("Focus Punch"),
     [MOVE_SMELLING_SALTS] = _("SmellngSalts"),
+=======
+    [MOVE_WILL_O_WISP] = _("Will-O-Wisp"),
+    [MOVE_MEMENTO] = _("Memento"),
+    [MOVE_FACADE] = _("Facade"),
+    [MOVE_FOCUS_PUNCH] = _("Focus Punch"),
+    [MOVE_SMELLING_SALT] = _("SmellingSalt"),
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     [MOVE_FOLLOW_ME] = _("Follow Me"),
     [MOVE_NATURE_POWER] = _("Nature Power"),
     [MOVE_CHARGE] = _("Charge"),
@@ -355,6 +405,7 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_WATER_PULSE] = _("Water Pulse"),
     [MOVE_DOOM_DESIRE] = _("Doom Desire"),
     [MOVE_PSYCHO_BOOST] = _("Psycho Boost"),
+<<<<<<< HEAD
     [MOVE_ROOST] = _("Roost"),
     [MOVE_GRAVITY] = _("Gravity"),
     [MOVE_MIRACLE_EYE] = _("Miracle Eye"),
@@ -756,4 +807,6 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 1] =
     [MOVE_GLACIAL_LANCE] = _("GlacialLance"),
     [MOVE_ASTRAL_BARRAGE] = _("AstrlBarrage"),
     [MOVE_EERIE_SPELL] = _("Eerie Spell"),
+=======
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 };

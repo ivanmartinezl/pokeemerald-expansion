@@ -49,8 +49,13 @@ AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
 	.string "He says he's just sightseeing,\n"
 	.string "but I don't know about that.$"
 
+<<<<<<< HEAD
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
 	.string "You're such a tough TRAINER!\n"
+=======
+AbandonedShip_Rooms_1F_Text_ThaliaRegister: @ 8237C2A
+	.string "You're such a tough Trainer!\n"
+>>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Let me register you as a memento!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
