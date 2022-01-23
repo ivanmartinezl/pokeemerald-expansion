@@ -333,7 +333,6 @@ const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
     [ABILITY_WHITE_SMOKE] = _("White Smoke"),
     [ABILITY_PURE_POWER] = _("Pure Power"),
     [ABILITY_SHELL_ARMOR] = _("Shell Armor"),
-    [ABILITY_CACOPHONY] = _("Cacophony"),
     [ABILITY_AIR_LOCK] = _("Air Lock"),
 };
 
