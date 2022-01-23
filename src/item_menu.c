@@ -544,8 +544,27 @@ static const struct WindowTemplate sContextMenuWindowTemplates[] =
     },
 };
 
-EWRAM_DATA struct BagMenu *gBagMenu = 0;
-EWRAM_DATA struct BagPosition gBagPosition = {0};
+// .text
+
+struct ListBuffer1 {
+    struct ListMenuItem subBuffers[129];
+};
+
+struct ListBuffer2 {
+    s8 name[129][24];
+};
+
+struct TempWallyStruct {
+    struct ItemSlot bagPocket_Items[BAG_ITEMS_COUNT];
+    struct ItemSlot bagPocket_PokeBalls[BAG_POKEBALLS_COUNT];
+    u16 cursorPosition[POCKETS_COUNT];
+    u16 scrollPosition[POCKETS_COUNT];
+    u8 filler[0x2];
+    u16 pocket;
+};
+
+EWRAM_DATA struct BagMenuStruct *gBagMenu = 0;
+EWRAM_DATA struct BagStruct gBagPositionStruct = {0};
 static EWRAM_DATA struct ListBuffer1 *sListBuffer1 = 0;
 static EWRAM_DATA struct ListBuffer2 *sListBuffer2 = 0;
 EWRAM_DATA u16 gSpecialVar_ItemId = 0;
@@ -898,29 +917,27 @@ static void GetItemName(s8 *dest, u16 itemId)
 {
     switch (gBagPosition.pocket)
     {
-    case TMHM_POCKET:
-        StringCopy(gStringVar2, gMoveNames[ItemIdToBattleMoveId(itemId)]);
-        if (itemId >= ITEM_HM01)
-        {
-            // Get HM number
-            ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_HM01 + 1, STR_CONV_MODE_LEADING_ZEROS, 1);
-            StringExpandPlaceholders(dest, gText_NumberItem_HM);
-        }
-        else
-        {
-            // Get TM number
-            ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, 2);
-            StringExpandPlaceholders(dest, gText_NumberItem_TMBerry);
-        }
-        break;
-    case BERRIES_POCKET:
-        ConvertIntToDecimalStringN(gStringVar1, itemId - FIRST_BERRY_INDEX + 1, STR_CONV_MODE_LEADING_ZEROS, 2);
-        CopyItemName(itemId, gStringVar2);
-        StringExpandPlaceholders(dest, gText_NumberItem_TMBerry);
-        break;
-    default:
-        CopyItemName(itemId, dest);
-        break;
+        case TMHM_POCKET:
+            StringCopy(gStringVar2, gMoveNames[ItemIdToBattleMoveId(itemId)]);
+            if (itemId >= ITEM_HM01)
+            {
+                ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_HM01 + 1, STR_CONV_MODE_LEADING_ZEROS, 1);
+                StringExpandPlaceholders(dest, gText_ClearTo11Var1Clear5Var2);
+            }
+            else
+            {
+                ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, 3);
+                StringExpandPlaceholders(dest, gText_NumberVar1Clear7Var2);
+            }
+            break;
+        case BERRIES_POCKET:
+            ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_CHERI_BERRY + 1, STR_CONV_MODE_LEADING_ZEROS, 2);
+            CopyItemName(itemId, gStringVar2);
+            StringExpandPlaceholders(dest, gText_NumberVar1Clear7Var2);
+            break;
+        default:
+            CopyItemName(itemId, dest);
+            break;
     }
 }
 
