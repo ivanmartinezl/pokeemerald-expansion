@@ -180,13 +180,8 @@ Route117_EventScript_Aisha::
 	msgbox Route117_Text_AishaPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-Route117_Text_DayCarePokemonHadNewMove:
-	.string "I left my POKéMON at the DAY CARE.\p"
-=======
 Route117_Text_DayCarePokemonHadNewMove: @ 81F3C7C
 	.string "I left my Pokémon at the Day Care.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "When I got it back, it had a new move\n"
 	.string "that I didn't teach it.\l"
 	.string "I was really, really surprised.$"
@@ -199,19 +194,6 @@ Route117_Text_ArentTheseFlowersPretty:
 Route117_Text_AirIsTastyHere:
 	.string "The air is tasty here!$"
 
-<<<<<<< HEAD
-Route117_Text_RouteSignVerdanturf:
-	.string "ROUTE 117\n"
-	.string "{LEFT_ARROW} VERDANTURF TOWN$"
-
-Route117_Text_RouteSignMauville:
-	.string "ROUTE 117\n"
-	.string "{RIGHT_ARROW} MAUVILLE CITY$"
-
-Route117_Text_DayCareSign:
-	.string "POKéMON DAY CARE\n"
-	.string "“Let us raise your POKéMON.”$"
-=======
 Route117_Text_RouteSignVerdanturf: @ 81F3D58
 	.string "Route 117\n"
 	.string "{LEFT_ARROW} Verdanturf Town$"
@@ -223,5 +205,4 @@ Route117_Text_RouteSignMauville: @ 81F3D74
 Route117_Text_DayCareSign: @ 81F3D8E
 	.string "Pokémon Day Care\n"
 	.string "“Let us raise your Pokémon.”$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

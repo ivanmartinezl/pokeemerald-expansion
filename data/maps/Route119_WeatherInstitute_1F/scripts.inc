@@ -70,13 +70,8 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	msgbox Route119_WeatherInstitute_1F_Text_Grunt4PostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-	.string "The BOSS got interested in\n"
-=======
 Route119_WeatherInstitute_1F_Text_Grunt1Intro: @ 826FB57
 	.string "The Boss got interested in\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the research they have going here,\l"
 	.string "so he sent us out.\p"
 	.string "You quit meddling!$"
@@ -85,15 +80,9 @@ Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
 	.string "Blast it…\n"
 	.string "Blasted by a kid…$"
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
-	.string "Our BOSS knows everything.\p"
-	.string "But I'm just a GRUNT. What would I know\n"
-=======
 Route119_WeatherInstitute_1F_Text_Grunt1PostBattle: @ 826FBD7
 	.string "Our Boss knows everything.\p"
 	.string "But I'm just a Grunt. What would I know\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "about what he's thinking?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:
@@ -118,26 +107,16 @@ Route119_WeatherInstitute_1F_Text_WowYoureStrong:
 	.string "I wish I could be a Pokémon Trainer\n"
 	.string "like you!$"
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
-	.string "The PROFESSOR loves rain.\n"
-=======
 Route119_WeatherInstitute_1F_Text_ProfStudyingRain: @ 826FD2E
 	.string "The Professor loves rain.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That's a fact.\p"
 	.string "But if it keeps raining, people will be in\n"
 	.string "trouble. That's another fact.\p"
 	.string "And thus, the Professor is studying\n"
 	.string "if the rain can be put to good use.$"
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "On the 2nd floor of the INSTITUTE,\n"
-=======
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather: @ 826FDE8
 	.string "On the 2nd floor of the Institute,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "we study the weather patterns over\l"
 	.string "the Hoenn region.\p"
 	.string "We've been noticing temporary and\n"

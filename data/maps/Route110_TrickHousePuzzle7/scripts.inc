@@ -321,13 +321,8 @@ Route110_TrickHousePuzzle7_EventScript_WroteSecretCodeLockOpened::
 	.string "… … … … … … … …\p"
 	.string "The lock clicked open!$"
 
-<<<<<<< HEAD
-Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The TRICK MASTER always vanishes\n"
-=======
 Route110_TrickHousePuzzle7_Text_JoshuaIntro: @ 826E481
 	.string "The Trick Master always vanishes\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "like smoke. How does he do it?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:

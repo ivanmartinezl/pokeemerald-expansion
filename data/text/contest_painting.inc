@@ -3,13 +3,8 @@ gContestHallPaintingCaption::
 	.string "{STR_VAR_2}'s {STR_VAR_3}$"
 
 @ Unused
-<<<<<<< HEAD
-gContestPaintingContest::
-	.string "CONTEST$"
-=======
 gContestPaintingContest:: @ 827EA17
 	.string "Contest$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 gContestRankNormal::
 	.string "Normal Rank$"

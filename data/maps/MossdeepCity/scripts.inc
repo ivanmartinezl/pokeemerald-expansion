@@ -310,13 +310,8 @@ MossdeepCity_Movement_ScottExitEast:
 	walk_left
 	step_end
 
-<<<<<<< HEAD
-MossdeepCity_Text_WantKingsRockStevenGaveMe:
-	.string "I got this from STEVEN, but I don't\n"
-=======
 MossdeepCity_Text_WantKingsRockStevenGaveMe: @ 81E4CED
 	.string "I got this from Steven, but I don't\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "know what it's good for.\p"
 	.string "I think it's called King's Rock.\n"
 	.string "Do you want it?$"
@@ -327,52 +322,27 @@ MossdeepCity_Text_YouCanKeepIt:
 	.string "You can keep it, but keep it a secret\n"
 	.string "from Steven.$"
 
-<<<<<<< HEAD
-MossdeepCity_Text_StevensHouseOverThere:
-	.string "STEVEN's house is right over there!$"
-=======
 MossdeepCity_Text_StevensHouseOverThere: @ 81E4DB3
 	.string "Steven's house is right over there!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MossdeepCity_Text_WhatToDoWithWeirdRock:
 	.string "Yeah, you think so, too! What are you\n"
 	.string "supposed to do with some weird rock?$"
 
-<<<<<<< HEAD
-MossdeepCity_Text_WailmerWatching:
-	.string "Around MOSSDEEP, you can see wild\n"
-	.string "WAILMER.\p"
-=======
 MossdeepCity_Text_WailmerWatching: @ 81E4E22
 	.string "Around Mossdeep, you can see wild\n"
 	.string "Wailmer.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's called, uh…\n"
 	.string "What was it now…\p"
 	.string "Wai, Wai, Wai…\p"
 	.string "Wailmer watching!$"
 
-<<<<<<< HEAD
-MossdeepCity_Text_SpaceCenterReceivedLetter:
-	.string "The island's SPACE CENTER has been\n"
-=======
 MossdeepCity_Text_SpaceCenterReceivedLetter: @ 81E4E90
 	.string "The island's Space Center has been\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "launching huge rockets.\p"
 	.string "There's been some kind of an uproar\n"
 	.string "over a letter they received recently.$"
 
-<<<<<<< HEAD
-MossdeepCity_Text_SpaceCenterLaunchingRockets:
-	.string "The island's SPACE CENTER has been\n"
-	.string "launching huge rockets.$"
-
-MossdeepCity_Text_MossdeepTargetedByMagma:
-	.string "I heard from a SAILOR buddy that\n"
-	.string "TEAM AQUA set up shop in LILYCOVE.\p"
-=======
 MossdeepCity_Text_SpaceCenterLaunchingRockets: @ 81E4F15
 	.string "The island's Space Center has been\n"
 	.string "launching huge rockets.$"
@@ -380,7 +350,6 @@ MossdeepCity_Text_SpaceCenterLaunchingRockets: @ 81E4F15
 MossdeepCity_Text_MossdeepTargetedByMagma: @ 81E4F50
 	.string "I heard from a Sailor buddy that\n"
 	.string "Team Aqua set up shop in Lilycove.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I also heard that someone came along\n"
 	.string "and wiped the floor with them!\p"
 	.string "But Mossdeep here's been targeted\n"
@@ -388,13 +357,8 @@ MossdeepCity_Text_MossdeepTargetedByMagma: @ 81E4F50
 	.string "If you want to know what they're up to,\n"
 	.string "go visit the Space Center.$"
 
-<<<<<<< HEAD
-MossdeepCity_Text_FeelReliefOnLand:
-	.string "I'm a SAILOR, so the sea's obviously\n"
-=======
 MossdeepCity_Text_FeelReliefOnLand: @ 81E5051
 	.string "I'm a Sailor, so the sea's obviously\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "more important to me.\p"
 	.string "But you know? When I get back on land\n"
 	.string "after a long voyage, I do feel relief!$"
@@ -433,23 +397,6 @@ MossdeepCity_Text_SpecialSpaceCenterRock:
 MossdeepCity_Text_ItsAWhiteRock:
 	.string "It's a white rock.$"
 
-<<<<<<< HEAD
-MossdeepCity_Text_GymSign:
-	.string "MOSSDEEP CITY POKéMON GYM\n"
-	.string "LEADERS: LIZA & TATE\p"
-	.string "“The mystic combination!”$"
-
-MossdeepCity_Text_CitySign:
-	.string "MOSSDEEP CITY\n"
-	.string "“Our slogan: Cherish POKéMON!”$"
-
-MossdeepCity_Text_SpaceCenterSign:
-	.string "MOSSDEEP SPACE CENTER\n"
-	.string "“The closest place to space.”$"
-
-MossdeepCity_Text_ScottSomethingWrongWithTown:
-	.string "SCOTT: {PLAYER}{KUN}, feeling good?\n"
-=======
 MossdeepCity_Text_GymSign: @ 81E53A9
 	.string "Mossdeep City Pokémon Gym\n"
 	.string "Leaders: Liza & Tate\p"
@@ -465,7 +412,6 @@ MossdeepCity_Text_SpaceCenterSign: @ 81E541F
 
 MossdeepCity_Text_ScottSomethingWrongWithTown: @ 81E5453
 	.string "Scott: {PLAYER}{KUN}, feeling good?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm doing great!\p"
 	.string "I'd heard Mossdeep's Gym Leader is\n"
 	.string "pretty strong, so I decided to come\l"

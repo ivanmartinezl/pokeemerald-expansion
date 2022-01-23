@@ -51,14 +51,8 @@ InsideOfTruck_EventScript_MovingBox::
 	msgbox InsideOfTruck_Text_BoxPrintedWithMonLogo, MSGBOX_SIGN
 	end
 
-<<<<<<< HEAD
-InsideOfTruck_Text_BoxPrintedWithMonLogo:
-	.string "The box is printed with a POKéMON logo.\p"
-	.string "It's a POKéMON brand moving and\n"
-=======
 InsideOfTruck_Text_BoxPrintedWithMonLogo: @ 823BF75
 	.string "The box is printed with a Pokémon logo.\p"
 	.string "It's a Pokémon brand moving and\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "delivery service.$"
 

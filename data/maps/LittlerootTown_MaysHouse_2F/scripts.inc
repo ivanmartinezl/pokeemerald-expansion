@@ -334,13 +334,8 @@ RivalsHouse_2F_Text_MayWhoAreYou:
 	.string "some wild Pokémon!\p"
 	.string "{PLAYER}{KUN}, I'll catch you later!$"
 
-<<<<<<< HEAD
-RivalsHouse_2F_Text_MayGettingReady:
-	.string "POKéMON fully restored!\n"
-=======
 RivalsHouse_2F_Text_MayGettingReady: @ 81F978A
 	.string "Pokémon fully restored!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Items ready, and…$"
 
 RivalsHouse_2F_Text_BrendanWhoAreYou:
@@ -363,20 +358,6 @@ RivalsHouse_2F_Text_BrendanWhoAreYou:
 	.string "some wild Pokémon.\p"
 	.string "Some other time, okay?$"
 
-<<<<<<< HEAD
-RivalsHouse_2F_Text_BrendanGettingReady:
-	.string "POKéMON fully restored…\n"
-	.string "Items all packed, and…$"
-
-RivalsHouse_2F_Text_ItsRivalsPokeBall:
-	.string "It's {RIVAL}'s POKé BALL!\p"
-	.string "Better leave it right where it is.$"
-
-RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
-	.string "MAY: {PLAYER}{KUN}!\p"
-	.string "I was just checking my POKéDEX.\p"
-	.string "There's still a lot of POKéMON that\n"
-=======
 RivalsHouse_2F_Text_BrendanGettingReady: @ 81F9962
 	.string "Pokémon fully restored…\n"
 	.string "Items all packed, and…$"
@@ -389,25 +370,12 @@ RivalsHouse_2F_Text_MayJustCheckingMyPokedex: @ 81F99C9
 	.string "May: {PLAYER}{KUN}!\p"
 	.string "I was just checking my Pokédex.\p"
 	.string "There's still a lot of Pokémon that\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I've seen but haven't caught.\p"
 	.string "And there are many others that\n"
 	.string "I think will evolve.\p"
 	.string "I wonder where I should go catch\n"
 	.string "some Pokémon next?$"
 
-<<<<<<< HEAD
-RivalsHouse_2F_Text_MayWhereShouldIGoNext:
-	.string "MAY: I wonder where I should go catch\n"
-	.string "some POKéMON next?\p"
-	.string "Wouldn't it be funny if we ran into each\n"
-	.string "other, {PLAYER}{KUN}?$"
-
-RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex:
-	.string "BRENDAN: Hey, it's {PLAYER}.\p"
-	.string "I was just checking out my POKéDEX.\p"
-	.string "There are still many POKéMON that\n"
-=======
 RivalsHouse_2F_Text_MayWhereShouldIGoNext: @ 81F9A9E
 	.string "May: I wonder where I should go catch\n"
 	.string "some Pokémon next?\p"
@@ -418,21 +386,14 @@ RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex: @ 81F9B0D
 	.string "Brendan: Hey, it's {PLAYER}.\p"
 	.string "I was just checking out my Pokédex.\p"
 	.string "There are still many Pokémon that\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I need to catch, I know, but this\l"
 	.string "is looking pretty good.\p"
 	.string "Checking this Pokédex out gives me\n"
 	.string "the urge to hit the road again.$"
 
-<<<<<<< HEAD
-RivalsHouse_2F_Text_BrendanWhereShouldIGoNext:
-	.string "BRENDAN: I'm having a hard time deciding\n"
-	.string "where I should catch POKéMON next.\p"
-=======
 RivalsHouse_2F_Text_BrendanWhereShouldIGoNext: @ 81F9BE7
 	.string "Brendan: I'm having a hard time deciding\n"
 	.string "where I should catch Pokémon next.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Hey, {PLAYER}, if I see you while I'm out\n"
 	.string "catching Pokémon, I can pitch you a\l"
 	.string "battle if you'd like.$"

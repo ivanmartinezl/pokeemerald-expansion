@@ -210,37 +210,21 @@ Route119_WeatherInstitute_2F_EventScript_WeatherScientist::
 	goto Route119_WeatherInstitute_2F_EventScript_ReceiveCastform
 	end
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_2F_Text_Grunt2Intro:
-	.string "The INSTITUTE created a type of\n"
-	.string "POKéMON that has something to do with\l"
-=======
 Route119_WeatherInstitute_2F_Text_Grunt2Intro: @ 827019C
 	.string "The Institute created a type of\n"
 	.string "Pokémon that has something to do with\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the weather. We're here to take them!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt2Defeat:
 	.string "Our plan's being spoiled by a kid?$"
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_2F_Text_Grunt2PostBattle:
-	.string "If the POKéMON they made here can\n"
-=======
 Route119_WeatherInstitute_2F_Text_Grunt2PostBattle: @ 827022B
 	.string "If the Pokémon they made here can\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "control the weather freely, then we of\l"
 	.string "Team Aqua definitely need it!$"
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_2F_Text_Grunt3Intro:
-	.string "We're TEAM AQUA!\n"
-=======
 Route119_WeatherInstitute_2F_Text_Grunt3Intro: @ 8270292
 	.string "We're Team Aqua!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "We appear wherever anything rare is\l"
 	.string "found!$"
 
@@ -258,13 +242,8 @@ Route119_WeatherInstitute_2F_Text_Grunt5Intro:
 	.string "That's a no-no!\n"
 	.string "We were here to get it first!$"
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_2F_Text_Grunt5Defeat:
-	.string "Oh, will you look at my POKéMON?$"
-=======
 Route119_WeatherInstitute_2F_Text_Grunt5Defeat: @ 827039F
 	.string "Oh, will you look at my Pokémon?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route119_WeatherInstitute_2F_Text_Grunt5PostBattle:
 	.string "Humph, so what?\n"
@@ -285,13 +264,8 @@ Route119_WeatherInstitute_2F_Text_ShellyDefeat:
 	.string "Ahahahaha!\n"
 	.string "You're disgustingly strong!$"
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
-	.string "It's bad enough to have TEAM MAGMA\n"
-=======
 Route119_WeatherInstitute_2F_Text_ShellyPostBattle: @ 82704E4
 	.string "It's bad enough to have Team Magma\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "blunder about, but now there's you!\p"
 	.string "What makes you want to sniff around\n"
 	.string "in our business, anyway?$"
@@ -321,19 +295,11 @@ Route119_WeatherInstitute_2F_Text_NoRoomForPokemon:
 	.string "Hm? You don't seem to have any room\n"
 	.string "for this Pokémon.$"
 
-<<<<<<< HEAD
-Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
-	.string "{PLAYER} received CASTFORM!$"
-
-Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather:
-	.string "That POKéMON changes shape according\n"
-=======
 Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform: @ 82706E8
 	.string "{PLAYER} received Castform!$"
 
 Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather: @ 82706FE
 	.string "That Pokémon changes shape according\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "to the weather conditions.\p"
 	.string "There're plenty of them in the\n"
 	.string "Institute--go ahead and take it.$"

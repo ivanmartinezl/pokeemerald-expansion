@@ -13,13 +13,8 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy::
 	msgbox BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
-	.string "What a TRAINER needs…\p"
-=======
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds: @ 82676E5
 	.string "What a Trainer needs…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Knowledge…\n"
 	.string "Strategy…\l"
 	.string "Luck…\l"
@@ -32,17 +27,6 @@ BattleFrontier_Lounge8_Text_WhatATrainerNeeds: @ 82676E5
 	.string "Huh? Pokémon?\n"
 	.string "What's that?$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains:
-	.string "Do you know about the FRONTIER\n"
-	.string "BRAINS?\p"
-	.string "That's what SCOTT calls the seven\n"
-	.string "special TRAINERS that run the seven\l"
-	.string "facilities in the BATTLE FRONTIER.$"
-
-BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling:
-	.string "At the BATTLE TOWER, an older girl\n"
-=======
 BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains: @ 826779C
 	.string "Do you know about the Frontier\n"
 	.string "Brains?\p"
@@ -52,7 +36,6 @@ BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains: @ 826779C
 
 BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling: @ 826782C
 	.string "At the Battle Tower, an older girl\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "told me that I have a lot of talent\l"
 	.string "for battling!\p"
 	.string "I like Pokémon Contests more!\p"

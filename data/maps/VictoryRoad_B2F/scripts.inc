@@ -63,13 +63,8 @@ VictoryRoad_B2F_Text_CarolineIntro:
 VictoryRoad_B2F_Text_CarolineDefeat:
 	.string "No signs of tiring at all!$"
 
-<<<<<<< HEAD
-VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "VICTORY ROAD and the POKéMON LEAGUE\n"
-=======
 VictoryRoad_B2F_Text_CarolinePostBattle: @ 8236B2F
 	.string "Victory Road and the Pokémon League\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "are long and grueling challenges.\l"
 	.string "Beware of fatigue!$"
 
@@ -82,15 +77,9 @@ VictoryRoad_B2F_Text_JulieIntro:
 VictoryRoad_B2F_Text_JulieDefeat:
 	.string "You're better than me!$"
 
-<<<<<<< HEAD
-VictoryRoad_B2F_Text_JuliePostBattle:
-	.string "Gaze on your collected BADGES and\n"
-	.string "remember the TRAINERS you've faced.$"
-=======
 VictoryRoad_B2F_Text_JuliePostBattle: @ 8236C21
 	.string "Gaze on your collected Badges and\n"
 	.string "remember the Trainers you've faced.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 VictoryRoad_B2F_Text_FelixIntro:
 	.string "I've come this far, but the tension's\n"

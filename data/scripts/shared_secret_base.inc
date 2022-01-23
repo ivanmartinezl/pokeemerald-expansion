@@ -167,54 +167,6 @@ SecretBase_EventScript_FurnitureMiddle::
 	end
 
 @ Unused
-<<<<<<< HEAD
-SecretBase_EventScript_FurnitureTop::
-	special CheckInteractedWithFriendsFurnitureTop
-	end
-
-SecretBase_EventScript_SandOrnament::
-	special CheckInteractedWithFriendsSandOrnament
-	dofieldeffect FLDEFF_SAND_PILLAR
-	waitstate
-	end
-
-SecretBase_EventScript_ShieldOrToyTV::
-	special InteractWithShieldOrTVDecoration
-	goto_if_eq VAR_RESULT, 0, SecretBase_EventScript_BattleTowerShield
-	goto_if_eq VAR_RESULT, 1, SecretBase_EventScript_ToyTV
-	goto_if_eq VAR_RESULT, 2, SecretBase_EventScript_SeedotTV
-	goto_if_eq VAR_RESULT, 3, SecretBase_EventScript_SkittyTV
-	end
-
-SecretBase_EventScript_BattleTowerShield::
-	msgbox SecretBase_Text_BattleTowerShield, MSGBOX_SIGN
-	end
-
-SecretBase_EventScript_ToyTV::
-	msgbox SecretBase_Text_ToyTV, MSGBOX_SIGN
-	end
-
-SecretBase_EventScript_SeedotTV::
-	msgbox SecretBase_Text_SeedotTV, MSGBOX_SIGN
-	end
-
-SecretBase_EventScript_SkittyTV::
-	msgbox SecretBase_Text_SkittyTV, MSGBOX_SIGN
-	end
-
-SecretBase_Text_SmallIndentInWall::
-	.string "There's a small indent in the wall.$"
-
-SecretBase_Text_IndentUseSecretPower::
-	.string "There's a small indent in the wall.\p"
-	.string "Use the SECRET POWER?$"
-
-SecretBase_Text_DiscoveredSmallCavern::
-	.string "Discovered a small cavern!$"
-
-SecretBase_Text_WantToMakeYourSecretBaseHere:
-	.string "Want to make your SECRET BASE here?$"
-=======
 SecretBase_EventScript_FurnitureTop:: @ 823B680
     special CheckInteractedWithFriendsFurnitureTop
     end
@@ -265,4 +217,3 @@ SecretBase_Text_DiscoveredSmallCavern:: @ 823B73E
 
 SecretBase_Text_WantToMakeYourSecretBaseHere: @ 823B759
     .string "Want to make your Secret Base here?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24

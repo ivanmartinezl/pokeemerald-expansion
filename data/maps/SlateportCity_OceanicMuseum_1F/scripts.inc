@@ -224,13 +224,8 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth:
 	delay_8
 	step_end
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter:
-	.string "Welcome to the OCEANIC MUSEUM.\p"
-=======
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter: @ 820AFD5
 	.string "Welcome to the Oceanic Museum.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "The entrance fee is ¥50.\n"
 	.string "Would you like to enter?$"
 
@@ -247,13 +242,8 @@ SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup:
 	.string "You're the only one who's late.\n"
 	.string "You'd better go catch up to them!$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
-	.string "We, TEAM AQUA, exist for the good\n"
-=======
 SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll: @ 820B0E8
 	.string "We, Team Aqua, exist for the good\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of all!$"
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
@@ -293,13 +283,8 @@ SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
 	.string "There must be many Pokémon that\n"
 	.string "we don't know about.$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "I want a sea POKéMON.\p"
-=======
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon: @ 820B369
 	.string "I want a sea Pokémon.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I think it would feel cool and nice\n"
 	.string "to hug.$"
 
@@ -351,13 +336,8 @@ SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
 	.string "“They are reduced to grains and end\n"
 	.string "up as sand on beaches.”$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
-	.string "“OCEANIC MINIFACT 1\n"
-=======
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1: @ 820B74B
 	.string "“Oceanic Minifact 1\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Why is seawater blue?\p"
 	.string "“Light is composed of many colors.\p"
 	.string "“When light passes through water,\n"
@@ -365,13 +345,8 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1: @ 820B74B
 	.string "“However, blue light retains its\n"
 	.string "color, making the sea appear blue.”$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
-	.string "“OCEANIC MINIFACT 2\n"
-=======
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2: @ 820B81F
 	.string "“Oceanic Minifact 2\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Why is the sea salty?\p"
 	.string "“Seawater contains dissolved salt in\n"
 	.string "the form of sodium and chlorine ions.\p"
@@ -380,13 +355,8 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2: @ 820B81F
 	.string "“The concentration of dissolved salt\n"
 	.string "makes the sea salty.”$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
-	.string "“OCEANIC MINIFACT 3\n"
-=======
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3: @ 820B912
 	.string "“Oceanic Minifact 3\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Which is bigger? The sea or land?\p"
 	.string "“The sea covers about 70% of\n"
 	.string "the planet, and the rest is land.\p"

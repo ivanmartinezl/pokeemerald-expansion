@@ -92,12 +92,6 @@ Route104_Text_DadPokenavCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Click!$"
 
-<<<<<<< HEAD
-Route104_Text_RegisteredDadInPokenav:
-	.string "Registered DAD NORMAN\n"
-	.string "in the POKéNAV.$"
-=======
 Route104_Text_RegisteredDadInPokenav: @ 81EE463
 	.string "Registered Dad Norman\n"
 	.string "in the Pokénav.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24

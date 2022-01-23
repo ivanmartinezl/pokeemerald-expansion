@@ -96,15 +96,9 @@ Route109_SeashoreHouse_EventScript_TrainersNotCompleted::
 	release
 	end
 
-<<<<<<< HEAD
-Route109_SeashoreHouse_Text_SeashoreHouseIntro:
-	.string "I'm the owner of the SEASHORE HOUSE.\n"
-	.string "But you can call me MR. SEA!\p"
-=======
 Route109_SeashoreHouse_Text_SeashoreHouseIntro: @ 8269555
 	.string "I'm the owner of the Seashore House.\n"
 	.string "But you can call me Mr. Sea!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "What I love above all is to see hot\n"
 	.string "Pokémon battles.\p"
 	.string "Let me see that your heart burns hot!\p"
@@ -124,15 +118,6 @@ Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
 	.string "streak, I want you to take these.\p"
 	.string "It's half a dozen bottles of Soda Pop!$"
 
-<<<<<<< HEAD
-Route109_SeashoreHouse_Text_BagFull:
-	.string "Oh, but hey, your BAG's jammed full.\n"
-	.string "I'll hang on to these for you.$"
-
-Route109_SeashoreHouse_Text_WantToBuySodaPop:
-	.string "Want to buy some SODA POP?\n"
-	.string "POKéMON love it!\p"
-=======
 Route109_SeashoreHouse_Text_BagFull: @ 826973A
 	.string "Oh, but hey, your Bag's jammed full.\n"
 	.string "I'll hang on to these for you.$"
@@ -140,7 +125,6 @@ Route109_SeashoreHouse_Text_BagFull: @ 826973A
 Route109_SeashoreHouse_Text_WantToBuySodaPop: @ 826977E
 	.string "Want to buy some Soda Pop?\n"
 	.string "Pokémon love it!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Just ¥300 a bottle!\n"
 	.string "Buy some!$"
 
@@ -163,15 +147,9 @@ Route109_SeashoreHouse_Text_DwayneDefeated:
 	.string "That was a hot battle!\n"
 	.string "I can accept that loss, matey!$"
 
-<<<<<<< HEAD
-Route109_SeashoreHouse_Text_DwaynePostBattle:
-	.string "Whenever I'm in SLATEPORT, I enjoy\n"
-	.string "hot battles and ice-cold SODA POP!$"
-=======
 Route109_SeashoreHouse_Text_DwaynePostBattle: @ 826989D
 	.string "Whenever I'm in Slateport, I enjoy\n"
 	.string "hot battles and ice-cold Soda Pop!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route109_SeashoreHouse_Text_JohannaIntro:
 	.string "Boring battles aren't worth the effort.\p"
@@ -192,13 +170,8 @@ Route109_SeashoreHouse_Text_SimonIntro:
 Route109_SeashoreHouse_Text_SimonDefeated:
 	.string "…I lost, but I won't cry…$"
 
-<<<<<<< HEAD
-Route109_SeashoreHouse_Text_SimonPostBattle:
-	.string "If one of my POKéMON knew the move\n"
-=======
 Route109_SeashoreHouse_Text_SimonPostBattle: @ 82699DF
 	.string "If one of my Pokémon knew the move\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "for carrying me across water on its\l"
 	.string "back, I could get rid of this inner tube.$"
 

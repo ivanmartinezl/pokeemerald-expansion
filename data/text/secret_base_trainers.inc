@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-SecretBase_Text_Trainer0Intro:
-    .string "Have you made a SECRET BASE already?\p"
-=======
 SecretBase_Text_Trainer0Intro: @ 82748A0
     .string "Have you made a Secret Base already?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "I went here, there, everywhere before\n"
     .string "choosing this place.\p"
     .string "Since you're already here, how would\n"
@@ -22,21 +17,12 @@ SecretBase_Text_Trainer0Defeated::
     .string "Waaargh! You're too strong!\n"
     .string "About me losing… Please keep it secret!$"
 
-<<<<<<< HEAD
-SecretBase_Text_Trainer0PostBattle:
-    .string "What do you think of my SECRET BASE?\n"
-    .string "Come visit me again tomorrow.$"
-
-SecretBase_Text_Trainer0PreChampion:
-    .string "Have you made a SECRET BASE already?\p"
-=======
 SecretBase_Text_Trainer0PostBattle: @ 82749AA
     .string "What do you think of my Secret Base?\n"
     .string "Come visit me again tomorrow.$"
 
 SecretBase_Text_Trainer0PreChampion: @ 82749ED
     .string "Have you made a Secret Base already?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "I went here, there, everywhere before\n"
     .string "choosing this place.\p"
     .string "Feel free to hang out!$"
@@ -100,13 +86,8 @@ SecretBase_Text_Trainer1PreChampion:
     .string "I waited a long time for it to open.\n"
     .string "I finally got to use it!$"
 
-<<<<<<< HEAD
-SecretBase_Text_Trainer6Intro:
-    .string "Welcome to my POKéMON LAB.\p"
-=======
 SecretBase_Text_Trainer6Intro: @ 8274DD2
     .string "Welcome to my Pokémon Lab.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "I carry out research on battling in\n"
     .string "secrecy.\p"
     .string "Would you like to see how strong I am?$"
@@ -126,13 +107,8 @@ SecretBase_Text_Trainer6PostBattle:
     .string "Thanks for battling with me.\n"
     .string "Please come back again tomorrow.$"
 
-<<<<<<< HEAD
-SecretBase_Text_Trainer6PreChampion:
-    .string "Welcome to my POKéMON LAB.\p"
-=======
 SecretBase_Text_Trainer6PreChampion: @ 8274EF1
     .string "Welcome to my Pokémon Lab.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "I carry out research on battling in\n"
     .string "secrecy.$"
 
@@ -194,13 +170,8 @@ SecretBase_Text_Trainer7PreChampion:
     .string "I also love raising Pokémon just\n"
     .string "as much.$"
 
-<<<<<<< HEAD
-SecretBase_Text_Trainer3Intro:
-    .string "Some people make their SECRET BASES in\n"
-=======
 SecretBase_Text_Trainer3Intro: @ 8275287
     .string "Some people make their Secret Bases in\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "hard-to-find places.\l"
     .string "Do they want to just lie low?\p"
     .string "But since you found me, how about we\n"
@@ -216,21 +187,12 @@ SecretBase_Text_Trainer3DeclineBattle:
 SecretBase_Text_Trainer3Defeated::
     .string "I went down…$"
 
-<<<<<<< HEAD
-SecretBase_Text_Trainer3PostBattle:
-    .string "Where's your SECRET BASE?\n"
-    .string "I should go visit you there.$"
-
-SecretBase_Text_Trainer3PreChampion:
-    .string "Some people make their SECRET BASES in\n"
-=======
 SecretBase_Text_Trainer3PostBattle: @ 8275374
     .string "Where's your Secret Base?\n"
     .string "I should go visit you there.$"
 
 SecretBase_Text_Trainer3PreChampion: @ 82753AB
     .string "Some people make their Secret Bases in\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "hard-to-find places.\l"
     .string "Do they want to just lie low?$"
 
@@ -241,13 +203,8 @@ SecretBase_Text_Trainer8Intro:
     .string "get nicer decorations and furniture!\p"
     .string "In the meantime, want to battle?$"
 
-<<<<<<< HEAD
-SecretBase_Text_Trainer8AcceptBattle:
-    .string "This is my SECRET BASE.\n"
-=======
 SecretBase_Text_Trainer8AcceptBattle: @ 82754B2
     .string "This is my Secret Base.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "I can't lose!$"
 
 SecretBase_Text_Trainer8DeclineBattle:

@@ -150,13 +150,8 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	setflag FLAG_RECEIVED_HM08
 	end
 
-<<<<<<< HEAD
-MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
-	.string "STEVEN: {PLAYER}{KUN}…\p"
-=======
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive: @ 8222936
 	.string "Steven: {PLAYER}{KUN}…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "As you can see, there's not much here,\n"
 	.string "but this is my home.\p"
 	.string "Thank you for all that you've done.\p"
@@ -165,13 +160,8 @@ MossdeepCity_StevensHouse_Text_YouveEarnedHMDive: @ 8222936
 	.string "No need to be shy--you've earned\n"
 	.string "this HM.$"
 
-<<<<<<< HEAD
-MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: While you're using SURF, you\n"
-=======
 MossdeepCity_StevensHouse_Text_ExplainDive: @ 8222A0E
 	.string "Steven: While you're using Surf, you\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "should notice dark patches of water.\p"
 	.string "Use Dive if you come to deep water\n"
 	.string "like it. You'll drop to the seafloor.\p"
@@ -180,35 +170,13 @@ MossdeepCity_StevensHouse_Text_ExplainDive: @ 8222A0E
 	.string "In some places, it won't be possible\n"
 	.string "for you to surface, though.$"
 
-<<<<<<< HEAD
-MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "STEVEN: Apparently, there's an\n"
-=======
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis: @ 8222B11
 	.string "Steven: Apparently, there's an\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "underwater cavern between\l"
 	.string "Mossdeep and Sootopolis.\p"
 	.string "You know, the one that Capt. Stern\n"
 	.string "found in his submarine.$"
 
-<<<<<<< HEAD
-MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
-	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
-	.string "BELDUM.\p"
-	.string "Take the POKé BALL?$"
-
-MossdeepCity_StevensHouse_Text_ObtainedBeldum:
-	.string "{PLAYER} obtained a BELDUM.$"
-
-@ Unused
-MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
-	.string "There is no space for another POKéMON.$"
-
-MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} left the POKé BALL where\n"
-=======
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum: @ 8222B9E
 	.string "{PLAYER} checked the Poké Ball.\p"
 	.string "It contained the Pokémon\n"
@@ -224,7 +192,6 @@ MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon: @ 8222C03
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas: @ 8222C2A
 	.string "{PLAYER} left the Poké Ball where\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "it was.$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:

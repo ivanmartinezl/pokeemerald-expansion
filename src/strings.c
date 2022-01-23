@@ -294,17 +294,10 @@ const u8 *const gPocketNamesStringsTable[] =
     [KEYITEMS_POCKET] = gText_KeyItemsPocket
 };
 
-<<<<<<< HEAD
-const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
-const u8 gText_NumberItem_HM[] = _("{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}");
-const u8 gText_SizeSlash[] = _("SIZE /");
-const u8 gText_FirmSlash[] = _("FIRM /");
-=======
 const u8 gText_NumberVar1Clear7Var2[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
 const u8 gText_ClearTo11Var1Clear5Var2[] = _("{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}");
 const u8 gText_SizeSlash[] = _("Size /");
 const u8 gText_FirmSlash[] = _("Firm /");
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 const u8 gText_Var1DotVar2[] = _("{STR_VAR_1}.{STR_VAR_2}”");
 
 // Berry firmness strings
@@ -664,22 +657,6 @@ const u8 gText_BunnyHops[] = _("Bunny-Hops");
 const u8 gText_Jump[] = _("Jump");
 const u8 gText_Satisfied[] = _("Satisfied");
 const u8 gText_Dissatisfied[] = _("Dissatisfied");
-<<<<<<< HEAD
-const u8 gText_DeepSeaTooth[] = _("DEEPSEATOOTH");
-const u8 gText_DeepSeaScale[] = _("DEEPSEASCALE");
-const u8 gText_BlueFlute2[] = _("BLUE FLUTE");
-const u8 gText_YellowFlute2[] = _("YELLOW FLUTE");
-const u8 gText_RedFlute2[] = _("RED FLUTE");
-const u8 gText_WhiteFlute2[] = _("WHITE FLUTE");
-const u8 gText_BlackFlute2[] = _("BLACK FLUTE");
-const u8 gText_GlassChair[] = _("GLASS CHAIR");
-const u8 gText_GlassDesk[] = _("GLASS DESK");
-const u8 gText_TreeckoDollAndPrice[] = _("TREECKO DOLL 1,000 COINS");
-const u8 gText_TorchicDollAndPrice[] = _("TORCHIC DOLL 1,000 COINS");
-const u8 gText_MudkipDollAndPrice[] = _("MUDKIP DOLL   1,000 COINS");
-const u8 gText_50CoinsAndPrice[] = _("  50 COINS    ¥1,000");
-const u8 gText_500CoinsAndPrice[] = _("500 COINS  ¥10,000");
-=======
 const u8 gText_DeepSeaTooth[] = _("DeepSeaTooth");
 const u8 gText_DeepSeaScale[] = _("DeepSeaScale");
 const u8 gText_BlueFlute2[] = _("Blue Flute"); 
@@ -694,7 +671,6 @@ const u8 gText_TorchicDollAndPrice[] = _("Torchic Doll 1,000 Coins");
 const u8 gText_MudkipDollAndPrice[] = _("Mudkip Doll   1,000 Coins");
 const u8 gText_50CoinsAndPrice[] = _("  50 Coins    ¥1,000");
 const u8 gText_500CoinsAndPrice[] = _("500 Coins  ¥10,000");
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 const u8 gText_Excellent2[] = _("Excellent");
 const u8 gText_NotSoGood[] = _("Not so good");
 const u8 gText_RedShard[] = _("Red Shard");
@@ -864,26 +840,6 @@ const u8 gText_B4F[] = _("B4F");
 const u8 gText_Rooftop[] = _("Rooftop");
 const u8 gText_ElevatorNowOn[] = _("Now on:");
 const u8 gText_BP[] = _("BP");
-<<<<<<< HEAD
-const u8 gText_EnergyPowder50[] = _("ENERGYPOWDER{CLEAR_TO 114}{FONT_SMALL}50");
-const u8 gText_EnergyRoot80[] = _("ENERGY ROOT{CLEAR_TO 114}{FONT_SMALL}80");
-const u8 gText_HealPowder50[] = _("HEAL POWDER{CLEAR_TO 114}{FONT_SMALL}50");
-const u8 gText_RevivalHerb300[] = _("REVIVAL HERB{CLEAR_TO 108}{FONT_SMALL}300");
-const u8 gText_Protein1000[] = _("PROTEIN{CLEAR_TO 99}{FONT_SMALL}1,000");
-const u8 gText_Iron1000[] = _("IRON{CLEAR_TO 99}{FONT_SMALL}1,000");
-const u8 gText_Carbos1000[] = _("CARBOS{CLEAR_TO 99}{FONT_SMALL}1,000");
-const u8 gText_Calcium1000[] = _("CALCIUM{CLEAR_TO 99}{FONT_SMALL}1,000");
-const u8 gText_Zinc1000[] = _("ZINC{CLEAR_TO 99}{FONT_SMALL}1,000");
-const u8 gText_HPUp1000[] = _("HP UP{CLEAR_TO 99}{FONT_SMALL}1,000");
-const u8 gText_PPUp3000[] = _("PP UP{CLEAR_TO 99}{FONT_SMALL}3,000");
-const u8 gText_RankingHall[] = _("RANKING HALL");
-const u8 gText_ExchangeService[] = _("EXCHANGE SERVICE");
-const u8 gText_LilycoveCity[] = _("LILYCOVE CITY");
-const u8 gText_SlateportCity[] = _("SLATEPORT CITY");
-const u8 gText_CaveOfOrigin[] = _("CAVE OF ORIGIN");
-const u8 gText_MtPyre[] = _("MT. PYRE");
-const u8 gText_SkyPillar[] = _("SKY PILLAR");
-=======
 const u8 gText_EnergyPowder50[] = _("EnergyPowder{CLEAR_TO 0x72}{SIZE 0}50");
 const u8 gText_EnergyRoot80[] = _("Energy Root{CLEAR_TO 0x72}{SIZE 0}80");
 const u8 gText_HealPowder50[] = _("Heal Powder{CLEAR_TO 0x72}{SIZE 0}50");
@@ -902,7 +858,6 @@ const u8 gText_SlateportCity[] = _("Slateport City");
 const u8 gText_CaveOfOrigin[] = _("Cave Of Origin");
 const u8 gText_MtPyre[] = _("Mt. Pyre");
 const u8 gText_SkyPillar[] = _("Sky Pillar");
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 const u8 gText_DontRemember[] = _("Don't remember");
 const u8 gText_Exit[] = _("Exit");
 const u8 gText_ExitFromBox[] = _("Exit from the Box?");
@@ -1032,21 +987,12 @@ const u8 gText_Ribbons[] = _("Ribbons"); // Unused
 const u8 gText_PokemonMaleLv[] = _("{DYNAMIC 0}{COLOR_HIGHLIGHT_SHADOW LIGHT_RED WHITE GREEN}♂{COLOR_HIGHLIGHT_SHADOW DARK_GRAY WHITE LIGHT_GRAY}/{LV}{DYNAMIC 1}"); // Unused
 const u8 gText_PokemonFemaleLv[] = _("{DYNAMIC 0}{COLOR_HIGHLIGHT_SHADOW LIGHT_GREEN WHITE BLUE}♀{COLOR_HIGHLIGHT_SHADOW DARK_GRAY WHITE LIGHT_GRAY}/{LV}{DYNAMIC 1}"); // Unused
 const u8 gText_PokemonNoGenderLv[] = _("{DYNAMIC 0}/{LV}{DYNAMIC 1}"); // Unused
-<<<<<<< HEAD
-const u8 gText_Unknown[] = _("UNKNOWN");
-const u8 gText_Call[] = _("CALL");
-const u8 gText_Check[] = _("CHECK");
-const u8 gText_Cancel6[] = _("CANCEL");
-const u8 gText_NumberIndex[] = _("No. {DYNAMIC 0}");
-const u8 gText_RibbonsF700[] = _("RIBBONS {DYNAMIC 0}");
-=======
 const u8 gText_Unknown[] = _("Unknown");
 const u8 gText_Call[] = _("Call");
 const u8 gText_Check[] = _("Check");
 const u8 gText_Cancel6[] = _("Cancel");
 const u8 gText_NumberF700[] = _("No. {DYNAMIC 0}");
 const u8 gText_RibbonsF700[] = _("Ribbons {DYNAMIC 0}");
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 const u8 gText_PokemonMaleLv2[] = _("{DYNAMIC 0}{COLOR_HIGHLIGHT_SHADOW LIGHT_RED WHITE GREEN}♂{COLOR_HIGHLIGHT_SHADOW DARK_GRAY WHITE LIGHT_GRAY}/{LV}{DYNAMIC 1}{DYNAMIC 2}"); // Unused
 const u8 gText_PokemonFemaleLv2[] = _("{DYNAMIC 0}{COLOR_HIGHLIGHT_SHADOW LIGHT_GREEN WHITE BLUE}♀{COLOR_HIGHLIGHT_SHADOW DARK_GRAY WHITE LIGHT_GRAY}/{LV}{DYNAMIC 1}{DYNAMIC 2}"); // Unused
 const u8 gText_PokemonNoGenderLv2[] = _("{DYNAMIC 0}/{LV}{DYNAMIC 1}{DYNAMIC 2}"); // Unused
@@ -1299,17 +1245,10 @@ const u8 gText_ColorDarkGray[] = _("{COLOR DARK_GRAY}");
 const u8 gText_ColorDynamic6WhiteDynamic5[] = _("{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR6 WHITE DYNAMIC_COLOR5}"); // Unused
 const u8 gText_HealthboxNickname[] = _("{HIGHLIGHT DARK_GRAY}");
 const u8 gText_EmptySpace2[] = _(" "); // Unused
-<<<<<<< HEAD
-const u8 gText_HealthboxGender_Male[] = _("{COLOR DYNAMIC_COLOR2}♂");
-const u8 gText_HealthboxGender_Female[] = _("{COLOR DYNAMIC_COLOR1}♀");
-const u8 gText_HealthboxGender_None[] = _("{COLOR DYNAMIC_COLOR2}");
-const u8 gText_Upper[] = _("UPPER");
-=======
 const u8 gText_DynColor2Male[] = _("{COLOR DYNAMIC_COLOR2}♂");
 const u8 gText_DynColor1Female[] = _("{COLOR DYNAMIC_COLOR1}♀");
 const u8 gText_DynColor2[] = _("{COLOR DYNAMIC_COLOR2}");
 const u8 gText_Upper[] = _("Upper");
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 const u8 gText_Lower[] = _("lower");
 const u8 gText_Others[] = _("Others");
 const u8 gText_Symbols[] = _("Symbols");

@@ -764,13 +764,8 @@ gText_ApprenticeWhatHeldItem3::
 	.string "{PLAYER}, please, could you decide\n"
 	.string "for me?$"
 
-<<<<<<< HEAD
-gText_ApprenticeHoldNothing3::
-	.string "A POKéMON belonging to someone like me\n"
-=======
 gText_ApprenticeHoldNothing3:: @ 82BA96B
 	.string "A Pokémon belonging to someone like me\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "would be better off without an item?$"
 
 gText_ApprenticeThanksNoHeldItem3::
@@ -920,13 +915,8 @@ gText_ApprenticeWhatHeldItem7::
 	.string "It would please me if you could decide\n"
 	.string "what would be right for my Pokémon…$"
 
-<<<<<<< HEAD
-gText_ApprenticeHoldNothing7::
-	.string "In other words… My POKéMON has\n"
-=======
 gText_ApprenticeHoldNothing7:: @ 82BB4C3
 	.string "In other words… My Pokémon has\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "no need to hold an item?$"
 
 gText_ApprenticeThanksNoHeldItem7::

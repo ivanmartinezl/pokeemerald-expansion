@@ -53,15 +53,9 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	msgbox AbandonedShip_Corridors_B1F_Text_DuncanPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-	.string "When we go out to sea, we SAILORS\n"
-	.string "always bring our POKéMON.\l"
-=======
 AbandonedShip_Corridors_B1F_Text_DuncanIntro: @ 8237E2A
 	.string "When we go out to sea, we Sailors\n"
 	.string "always bring our Pokémon.\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "How about a quick battle?$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:

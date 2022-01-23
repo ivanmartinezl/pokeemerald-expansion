@@ -40,13 +40,8 @@ Underwater_SeafloorCavern_EventScript_CheckStolenSub::
 	msgbox Underwater_SeafloorCavern_Text_SubExplorer1, MSGBOX_SIGN
 	end
 
-<<<<<<< HEAD
-Underwater_SeafloorCavern_Text_SubExplorer1:
-	.string "“SUBMARINE EXPLORER 1” is painted\n"
-=======
 Underwater_SeafloorCavern_Text_SubExplorer1: @ 82343E5
 	.string "“Submarine Explorer 1” is painted\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "on the hull.\p"
 	.string "This is the submarine Team Aqua\n"
 	.string "stole in Slateport!\p"

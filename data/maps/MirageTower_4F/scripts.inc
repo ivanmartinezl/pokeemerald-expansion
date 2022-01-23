@@ -60,41 +60,21 @@ MirageTower_4F_EventScript_CollapseMirageTower::
 	release
 	end
 
-<<<<<<< HEAD
-MirageTower_4F_Text_TakeRootFossil:
-	.string "You found the ROOT FOSSIL.\p"
-	.string "If this FOSSIL is taken, the ground\n"
-=======
 MirageTower_4F_Text_TakeRootFossil: @ 823ADF9
 	.string "You found the Root Fossil.\p"
 	.string "If this Fossil is taken, the ground\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "around it will likely crumble away…\p"
 	.string "Take the Root Fossil anyway?$"
 
-<<<<<<< HEAD
-MirageTower_4F_Text_LeftRootFossilAlone:
-	.string "{PLAYER} left the ROOT FOSSIL alone.$"
-
-MirageTower_4F_Text_TakeClawFossil:
-	.string "You found the CLAW FOSSIL.\p"
-	.string "If this FOSSIL is taken, the ground\n"
-=======
 MirageTower_4F_Text_LeftRootFossilAlone: @ 823AE79
 	.string "{PLAYER} left the Root Fossil alone.$"
 
 MirageTower_4F_Text_TakeClawFossil: @ 823AE98
 	.string "You found the Claw Fossil.\p"
 	.string "If this Fossil is taken, the ground\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "around it will likely crumble away…\p"
 	.string "Take the Claw Fossil anyway?$"
 
-<<<<<<< HEAD
-MirageTower_4F_Text_LeaveClawFossilAlone:
-	.string "{PLAYER} left the CLAW FOSSIL alone.$"
-=======
 MirageTower_4F_Text_LeaveClawFossilAlone: @ 823AF18
 	.string "{PLAYER} left the Claw Fossil alone.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

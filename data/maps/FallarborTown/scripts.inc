@@ -68,21 +68,12 @@ FallarborTown_Text_MyPreciousAzurill:
 	.string "This is my precious Azurill!\p"
 	.string "It's slick and smooth and plushy, too!$"
 
-<<<<<<< HEAD
-FallarborTown_Text_Azurill:
-	.string "AZURILL: Rooreelooo.$"
-
-FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
-	.string "the LEADER of LAVARIDGE GYM?\p"
-=======
 FallarborTown_Text_Azurill: @ 81EB3B5
 	.string "Azurill: Rooreelooo.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery: @ 81EB3CA
 	.string "Have you already challenged Flannery,\n"
 	.string "the Leader of Lavaridge Gym?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "The girl's grandfather was famous.\n"
 	.string "He was one of the Elite Four in the\l"
 	.string "Pokémon League at one point.\p"
@@ -90,19 +81,6 @@ FallarborTown_Text_HaveYouChallengedFlannery: @ 81EB3CA
 	.string "become a great Trainer in her own\l"
 	.string "right.$"
 
-<<<<<<< HEAD
-FallarborTown_Text_BattleTentSign:
-	.string "BATTLE TENT FALLARBOR SITE\n"
-	.string "“May the Greatest Teams Gather!”$"
-
-FallarborTown_Text_TownSign:
-	.string "FALLARBOR TOWN\n"
-	.string "“A farm community with small gardens.”$"
-
-FallarborTown_Text_MoveTutorSign:
-	.string "MOVE TUTOR'S HOUSE\n"
-	.string "“New moves taught to POKéMON.”$"
-=======
 FallarborTown_Text_BattleTentSign: @ 81EB4C2
 	.string "Battle Tent Fallarbor Site\n"
 	.string "“May the Greatest Teams Gather!”$"
@@ -114,5 +92,4 @@ FallarborTown_Text_TownSign: @ 81EB4FE
 FallarborTown_Text_MoveTutorSign: @ 81EB534
 	.string "Move Tutor's House\n"
 	.string "“New moves taught to Pokémon.”$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

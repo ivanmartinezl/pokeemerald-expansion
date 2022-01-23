@@ -245,13 +245,8 @@ Route128_EventScript_Carlee::
 	msgbox Route128_Text_CarleePostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-Route128_Text_ArchieWhatHappened:
-	.string "ARCHIE: What happened…\n"
-=======
 Route128_Text_ArchieWhatHappened: @ 81F6DF5
 	.string "Archie: What happened…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "What is this wretched scene…\p"
 	.string "Did I…make a horrible mistake?$"
 
@@ -259,28 +254,17 @@ Route128_Text_ArchieIOnlyWanted:
 	.string "I…\n"
 	.string "I only wanted…$"
 
-<<<<<<< HEAD
-Route128_Text_MaxieDoYouUnderstandNow:
-	.string "MAXIE: Do you understand now,\n"
-	.string "ARCHIE?\p"
-=======
 Route128_Text_MaxieDoYouUnderstandNow: @ 81F6E5A
 	.string "Maxie: Do you understand now,\n"
 	.string "Archie?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Do you finally see how disastrous\n"
 	.string "your dream turned out to be?\p"
 	.string "We have to hurry! We have to do\n"
 	.string "something before the situation goes\l"
 	.string "completely out of control!$"
 
-<<<<<<< HEAD
-Route128_Text_MaxieResposibilityFallsToArchieAndMe:
-	.string "MAXIE: {PLAYER}, don't say anything.\p"
-=======
 Route128_Text_MaxieResposibilityFallsToArchieAndMe: @ 81F6F1E
 	.string "Maxie: {PLAYER}, don't say anything.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I know that I have no right to be\n"
 	.string "critical of Archie…\p"
 	.string "But the way things are now, I doubt\n"
@@ -291,16 +275,6 @@ Route128_Text_MaxieResposibilityFallsToArchieAndMe: @ 81F6F1E
 	.string "The responsibility for putting an end\n"
 	.string "to this falls to Archie and me…$"
 
-<<<<<<< HEAD
-Route128_Text_MaxieThisDefiesBelief:
-	.string "MAXIE: This defies belief…\p"
-	.string "Those super-ancient POKéMON…\p"
-	.string "Their power is unbelievable.\n"
-	.string "They've upset the balance of nature…$"
-
-Route128_Text_StevenWhatIsHappening:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
-=======
 Route128_Text_MaxieThisDefiesBelief: @ 81F704F
 	.string "Maxie: This defies belief…\p"
 	.string "Those super-ancient Pokémon…\p"
@@ -309,7 +283,6 @@ Route128_Text_MaxieThisDefiesBelief: @ 81F704F
 
 Route128_Text_StevenWhatIsHappening: @ 81F70C9
 	.string "Steven: {PLAYER}{KUN}!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "What is happening?$"
 
 Route128_Text_StevenWholeWorldWillDrown:

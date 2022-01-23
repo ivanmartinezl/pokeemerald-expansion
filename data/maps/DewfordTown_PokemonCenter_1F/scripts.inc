@@ -32,13 +32,8 @@ DewfordTown_PokemonCenter_1F_Text_StoneCavern:
 	.string "I've heard you can find rare stones\n"
 	.string "there.$"
 
-<<<<<<< HEAD
-DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM:
-	.string "Even if a POKéMON faints and can't\n"
-=======
 DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM: @ 81FC5AE
 	.string "Even if a Pokémon faints and can't\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "battle, it can still use a move learned\l"
 	.string "from a Hidden Machine (HM).$"
 

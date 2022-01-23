@@ -85,13 +85,8 @@ MtChimney_CableCarStation_Movement_ExitCableCar:
 	delay_16
 	step_end
 
-<<<<<<< HEAD
-MtChimney_CableCarStation_Text_CableCarReadyGetOn:
-	.string "The CABLE CAR is ready to go down.\n"
-=======
 MtChimney_CableCarStation_Text_CableCarReadyGetOn: @ 822ACB9
 	.string "The Cable Car is ready to go down.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Would you like to be on it?$"
 
 MtChimney_CableCarStation_Text_StepThisWay:

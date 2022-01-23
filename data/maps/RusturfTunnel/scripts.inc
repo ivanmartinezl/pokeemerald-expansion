@@ -427,13 +427,8 @@ RusturfTunnel_Text_ComeAndGetSome:
 	.string "What, are you coming?\n"
 	.string "Come and get some, then!$"
 
-<<<<<<< HEAD
-RusturfTunnel_Text_Peeko:
-	.string "PEEKO: Pii pihyoh!$"
-=======
 RusturfTunnel_Text_Peeko: @ 822D1F7
 	.string "Peeko: Pii pihyoh!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 RusturfTunnel_Text_GruntIntro:
 	.string "Grah, keelhaul it all!\p"
@@ -457,15 +452,6 @@ RusturfTunnel_Text_GruntTakePackage:
 	.string "Tch!\n"
 	.string "You want it back that badly, take it!$"
 
-<<<<<<< HEAD
-RusturfTunnel_Text_PeekoGladToSeeYouSafe:
-	.string "PEEKO!\n"
-	.string "Am I glad to see you're safe!$"
-
-RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
-	.string "PEEKO owes her life to you!\p"
-	.string "They call me MR. BRINEY.\n"
-=======
 RusturfTunnel_Text_PeekoGladToSeeYouSafe: @ 822D395
 	.string "Peeko!\n"
 	.string "Am I glad to see you're safe!$"
@@ -473,7 +459,6 @@ RusturfTunnel_Text_PeekoGladToSeeYouSafe: @ 822D395
 RusturfTunnel_Text_ThankYouLetsGoHomePeeko: @ 822D3BA
 	.string "Peeko owes her life to you!\p"
 	.string "They call me Mr. Briney.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "And, you are?\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
@@ -499,17 +484,10 @@ RusturfTunnel_Text_WhyCantTheyKeepDigging:
 	.string "But this…\n"
 	.string "What am I to do?$"
 
-<<<<<<< HEAD
-RusturfTunnel_Text_ToGetToVerdanturf:
-	.string "To get from RUSTBORO to VERDANTURF,\n"
-	.string "you need to go to DEWFORD, then pass\l"
-	.string "through SLATEPORT and MAUVILLE…$"
-=======
 RusturfTunnel_Text_ToGetToVerdanturf: @ 822D5F3
 	.string "To get from Rustboro to Verdanturf,\n"
 	.string "you need to go to Dewford, then pass\l"
 	.string "through Slateport and Mauville…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 RusturfTunnel_Text_YouShatteredBoulderTakeHM:
 	.string "Wow! You shattered that boulder\n"
@@ -517,16 +495,6 @@ RusturfTunnel_Text_YouShatteredBoulderTakeHM:
 	.string "To show you how much I appreciate it,\n"
 	.string "I'd like you to have this HM.$"
 
-<<<<<<< HEAD
-RusturfTunnel_Text_ExplainStrength:
-	.string "That HM contains STRENGTH.\p"
-	.string "If a muscular POKéMON were to learn\n"
-	.string "that, it would be able to move even\l"
-	.string "large boulders.$"
-
-RusturfTunnel_Text_WandaReunion:
-	.string "WANDA!\n"
-=======
 RusturfTunnel_Text_ExplainStrength: @ 822D6D2
 	.string "That HM contains Strength.\p"
 	.string "If a muscular Pokémon were to learn\n"
@@ -535,7 +503,6 @@ RusturfTunnel_Text_ExplainStrength: @ 822D6D2
 
 RusturfTunnel_Text_WandaReunion: @ 822D745
 	.string "Wanda!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Now I can see you anytime!\p"
 	.string "Wanda: That's…wonderful.\p"
 	.string "Please, take some rest at my home.$"
@@ -554,13 +521,8 @@ RusturfTunnel_Text_MikeIntro:
 	.string "So why don't they call a Pokémon in\n"
 	.string "the mountains a mountain Pokémon?$"
 
-<<<<<<< HEAD
-RusturfTunnel_Text_MikeDefeat:
-	.string "My POKéMON…\n"
-=======
 RusturfTunnel_Text_MikeDefeat: @ 822D8DB
 	.string "My Pokémon…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Ran out of power…$"
 
 RusturfTunnel_Text_MikePostBattle:

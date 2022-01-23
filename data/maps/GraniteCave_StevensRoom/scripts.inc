@@ -81,25 +81,15 @@ GraniteCave_StevensRoom_Movement_StevenExitSouth:
 	delay_8
 	step_end
 
-<<<<<<< HEAD
-GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
-	.string "My name is STEVEN.\p"
-=======
-GraniteCave_StevensRoom_Text_ImStevenLetterForMe: @ 822DD5A
+StevensRoom_Text_ImStevenLetterForMe: @ 822DD5A
 	.string "My name is Steven.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm interested in rare stones,\n"
 	.string "so I travel here and there.\p"
 	.string "Oh?\n"
 	.string "A Letter for me?$"
 
-<<<<<<< HEAD
-GraniteCave_StevensRoom_Text_ThankYouTakeThis:
-	.string "STEVEN: Okay, thank you.\p"
-=======
 GraniteCave_StevensRoom_Text_ThankYouTakeThis: @ 822DDBD
 	.string "Steven: Okay, thank you.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You went through all this trouble to\n"
 	.string "deliver that. I need to thank you.\p"
 	.string "Let me see…\n"
@@ -107,13 +97,8 @@ GraniteCave_StevensRoom_Text_ThankYouTakeThis: @ 822DDBD
 	.string "It contains my favorite move,\n"
 	.string "Steel Wing.$"
 
-<<<<<<< HEAD
-GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
-	.string "STEVEN: Your POKéMON appear quite\n"
-=======
 GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister: @ 822DE6B
 	.string "Steven: Your Pokémon appear quite\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "capable.\p"
 	.string "If you keep training, you could even\n"
 	.string "become the Champion of the Pokémon\l"
@@ -123,25 +108,14 @@ GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister: @ 822DE6B
 	.string "our Pokénavs.\p"
 	.string "… … … … … …$"
 
-<<<<<<< HEAD
-GraniteCave_StevensRoom_Text_RegisteredSteven:
-	.string "Registered STEVEN\n"
-	.string "in the POKéNAV.$"
-=======
 GraniteCave_StevensRoom_Text_RegisteredSteven: @ 822DF6A
 	.string "Registered Steven\n"
 	.string "in the Pokénav.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
 	.string "Now, I've got to hurry along.$"
 
-<<<<<<< HEAD
-GraniteCave_StevensRoom_Text_OhBagIsFull:
-	.string "Oh, your BAG is full…\n"
-=======
 GraniteCave_StevensRoom_Text_OhBagIsFull: @ 822DFAA
 	.string "Oh, your Bag is full…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That's too bad, then.$"
 

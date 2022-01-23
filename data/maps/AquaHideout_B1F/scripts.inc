@@ -113,27 +113,16 @@ AquaHideout_B1F_Text_Grunt2Intro:
 AquaHideout_B1F_Text_Grunt2Defeat:
 	.string "I can't win at all…$"
 
-<<<<<<< HEAD
-AquaHideout_B1F_Text_Grunt2PostBattle:
-	.string "Our HIDEOUT's secret?\p"
-=======
 AquaHideout_B1F_Text_Grunt2PostBattle: @ 8233B5E
 	.string "Our Hideout's secret?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Well, let's just say…\n"
 	.string "There's a submarine at the far end!\p"
 	.string "But, by now…\n"
 	.string "Kekekeke…$"
 
-<<<<<<< HEAD
-AquaHideout_B1F_Text_Grunt3Intro:
-	.string "Fuel supply loaded A-OK!\n"
-	.string "In-cruise snacks loaded A-OK!\p"
-=======
 AquaHideout_B1F_Text_Grunt3Intro: @ 8233BC5
 	.string "Fuel supply loaded A-Ok!\n"
 	.string "In-cruise snacks loaded A-Ok!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Nothing left to do but KO a pesky\n"
 	.string "meddler!$"
 
@@ -153,15 +142,9 @@ AquaHideout_B1F_Text_Grunt5Defeat:
 	.string "Yawn…\n"
 	.string "Oh, I lost…$"
 
-<<<<<<< HEAD
-AquaHideout_B1F_Text_Grunt5PostBattle:
-	.string "If you scurry too much, other TEAM\n"
-	.string "AQUA members might get you.$"
-=======
 AquaHideout_B1F_Text_Grunt5PostBattle: @ 8233CDC
 	.string "If you scurry too much, other Team\n"
 	.string "Aqua members might get you.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 AquaHideout_B1F_Text_Grunt7Intro:
 	.string "Hey!\n"

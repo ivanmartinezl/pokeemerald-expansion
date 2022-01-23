@@ -86,62 +86,36 @@ SlateportCity_SternsShipyard_1F_Text_MeetDockDeliverToStern:
 	.string "Could I get you to go find Capt.\n"
 	.string "Stern and deliver that to him?$"
 
-<<<<<<< HEAD
-SlateportCity_SternsShipyard_1F_Text_CouldYouFindStern:
-	.string "DOCK: Where could CAPT. STERN have\n"
-=======
 SlateportCity_SternsShipyard_1F_Text_CouldYouFindStern: @ 82081A5
 	.string "Dock: Where could Capt. Stern have\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "gone off to?\p"
 	.string "Could you go find Capt. Stern and\n"
 	.string "deliver that parcel to him?$"
 
-<<<<<<< HEAD
-SlateportCity_SternsShipyard_1F_Text_CouldUseAdviceFromVeteran:
-	.string "DOCK: Shipbuilding is an art.\p"
-=======
 SlateportCity_SternsShipyard_1F_Text_CouldUseAdviceFromVeteran: @ 8208213
 	.string "Dock: Shipbuilding is an art.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "A lot of things can't be figured out\n"
 	.string "just by calculating.\p"
 	.string "I really could use advice from a veteran\n"
 	.string "who knows the seas…$"
 
-<<<<<<< HEAD
-SlateportCity_SternsShipyard_1F_Text_BrineyJoinedUs:
-	.string "DOCK: Hi! MR. BRINEY's joined us to\n"
-=======
 SlateportCity_SternsShipyard_1F_Text_BrineyJoinedUs: @ 82082A8
 	.string "Dock: Hi! Mr. Briney's joined us to\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "lend us his help.\p"
 	.string "Thanks to the veteran sailor, the\n"
 	.string "ferry is steadily coming together.$"
 
-<<<<<<< HEAD
-SlateportCity_SternsShipyard_1F_Text_FerryIsReady:
-	.string "DOCK: The ferry is finally ready!\p"
-	.string "The new S.S. TIDAL is truly a marvel\n"
-=======
 SlateportCity_SternsShipyard_1F_Text_FerryIsReady: @ 8208323
 	.string "Dock: The ferry is finally ready!\p"
 	.string "The new S.S. Tidal is truly a marvel\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of technology!\p"
 	.string "But, I get the feeling that we can\n"
 	.string "make something even better.\p"
 	.string "You know, there's never an end to\n"
 	.string "technology's march.$"
 
-<<<<<<< HEAD
-SlateportCity_SternsShipyard_1F_Text_DecidedToHelpDock:
-	.string "MR. BRINEY: Ah, {PLAYER}{KUN}!\n"
-=======
 SlateportCity_SternsShipyard_1F_Text_DecidedToHelpDock: @ 82083EE
 	.string "Mr. Briney: Ah, {PLAYER}{KUN}!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's been too long!\p"
 	.string "Aye, since I met you, this old sea dog's\n"
 	.string "been feeling frisky!\p"

@@ -288,15 +288,9 @@ Route103_EventScript_Isabelle::
 	msgbox Route103_Text_IsabellePostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-Route103_Text_MayRoute103Pokemon:
-	.string "MAY: Let's see… The POKéMON found\n"
-	.string "on ROUTE 103 include…$"
-=======
 Route103_Text_MayRoute103Pokemon: @ 81EC7A6
 	.string "May: Let's see… The Pokémon found\n"
 	.string "on Route 103 include…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route103_Text_MayLetsBattle:
 	.string "Oh, hi, {PLAYER}{KUN}!\p"
@@ -311,13 +305,8 @@ Route103_Text_MayDefeated:
 	.string "Wow! That's great!\n"
 	.string "{PLAYER}{KUN}, you're pretty good!$"
 
-<<<<<<< HEAD
-Route103_Text_MayTimeToHeadBack:
-	.string "MAY: I think I know why my dad has\n"
-=======
 Route103_Text_MayTimeToHeadBack: @ 81EC8AE
 	.string "May: I think I know why my dad has\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "an eye out for you now.\p"
 	.string "I mean, you just got that Pokémon,\n"
 	.string "but it already likes you.\p"
@@ -326,15 +315,9 @@ Route103_Text_MayTimeToHeadBack: @ 81EC8AE
 	.string "Well, it's time to head back to\n"
 	.string "the Lab.$"
 
-<<<<<<< HEAD
-Route103_Text_BrendanRoute103Pokemon:
-	.string "BRENDAN: Okay, so it's this one and\n"
-	.string "that one that live on ROUTE 103…$"
-=======
 Route103_Text_BrendanRoute103Pokemon: @ 81EC989
 	.string "Brendan: Okay, so it's this one and\n"
 	.string "that one that live on Route 103…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route103_Text_BrendanLetsBattle:
 	.string "Hey, it's {PLAYER}!\p"
@@ -347,13 +330,8 @@ Route103_Text_BrendanLetsBattle:
 Route103_Text_BrendanDefeated:
 	.string "Huh, {PLAYER}, you're not too shabby.$"
 
-<<<<<<< HEAD
-Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: I think I get it.\n"
-=======
 Route103_Text_BrendanTimeToHeadBack: @ 81ECA79
 	.string "Brendan: I think I get it.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I think I know why my dad has his eye\l"
 	.string "out for you now.\p"
 	.string "Look, your Pokémon already likes you,\n"
@@ -362,28 +340,16 @@ Route103_Text_BrendanTimeToHeadBack: @ 81ECA79
 	.string "could befriend any Pokémon with ease.\p"
 	.string "We should head back to the Lab.$"
 
-<<<<<<< HEAD
-Route103_Text_ShouldHaveBroughtPotion:
-	.string "My POKéMON is staggeringly tired…\n"
-	.string "I should have brought a POTION…$"
-=======
 Route103_Text_ShouldHaveBroughtPotion: @ 81ECB73
 	.string "My Pokémon is staggeringly tired…\n"
 	.string "I should have brought a Potion…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route103_Text_ShortcutToOldale:
 	.string "If you cross the sea from here,\n"
 	.string "it'll be a shortcut to Oldale Town.\p"
 	.string "Fufufu, that's useful, isn't it?$"
 
-<<<<<<< HEAD
-Route103_Text_RouteSign:
-	.string "ROUTE 103\n"
-	.string "{DOWN_ARROW} OLDALE TOWN$"
-=======
 Route103_Text_RouteSign: @ 81ECC1A
 	.string "Route 103\n"
 	.string "{DOWN_ARROW} Oldale Town$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

@@ -276,13 +276,8 @@ PlayersHouse_2F_Text_ClockIsStopped:
 	.string "The clock is stopped…\p"
 	.string "Better set it and start it!$"
 
-<<<<<<< HEAD
-PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-=======
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom: @ 81F869A
 	.string "Mom: {PLAYER}, how do you like your\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "new room?\p"
 	.string "Good! Everything's put away neatly!\p"
 	.string "They finished moving everything in\n"

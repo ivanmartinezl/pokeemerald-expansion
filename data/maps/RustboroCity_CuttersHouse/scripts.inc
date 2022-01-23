@@ -33,15 +33,9 @@ RustboroCity_CuttersHouse_Text_YouCanPutThisHMToGoodUse:
 	.string "No need to be modest or shy.\n"
 	.string "Go on, take it!$"
 
-<<<<<<< HEAD
-RustboroCity_CuttersHouse_Text_ExplainCut:
-	.string "That HIDDEN MACHINE, or HM for\n"
-	.string "short, is CUT.\p"
-=======
 RustboroCity_CuttersHouse_Text_ExplainCut: @ 8215D33
 	.string "That Hidden Machine, or HM for\n"
 	.string "short, is Cut.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "An HM move is one that can be used\n"
 	.string "by Pokémon outside of battle.\p"
 	.string "Any Pokémon that's learned Cut can\n"

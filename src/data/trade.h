@@ -1005,11 +1005,7 @@ static const struct InGameTrade sIngameTrades[] =
 {
     [INGAME_TRADE_SEEDOT] =
     {
-<<<<<<< HEAD
-        .nickname = _("DOTS"),
-=======
         .nickname = _("Dots"), 
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
         .species = SPECIES_SEEDOT,
         .ivs = {5, 4, 5, 4, 4, 4},
         .abilityNum = 1,
@@ -1025,11 +1021,7 @@ static const struct InGameTrade sIngameTrades[] =
     },
     [INGAME_TRADE_PLUSLE] =
     {
-<<<<<<< HEAD
-        .nickname = _("PLUSES"),
-=======
         .nickname = _("Pluses"), 
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
         .species = SPECIES_PLUSLE,
         .ivs = {4, 4, 4, 5, 5, 4},
         .abilityNum = 0,

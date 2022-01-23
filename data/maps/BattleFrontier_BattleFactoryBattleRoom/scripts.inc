@@ -254,13 +254,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
 	.string "Hey, hey!\n"
 	.string "Get a move on!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-	.string "Hey, my name's NOLAND!\n"
-=======
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead: @ 825B1FB
 	.string "Hey, my name's Noland!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm basically in charge of this place,\l"
 	.string "which is why I'm the Factory Head!\p"
 	.string "I had a look at your Battle Swap data.\p"
@@ -280,15 +275,9 @@ BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
 	.string "Shake out every last bit of your\n"
 	.string "knowledge and bring it on!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
-	.string "NOLAND: Smart going!\n"
-	.string "Let's see your FRONTIER PASS.$"
-=======
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass: @ 825B42D
 	.string "Noland: Smart going!\n"
 	.string "Let's see your Frontier Pass.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
 	.string "The Knowledge Symbol was embossed\n"
@@ -301,13 +290,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
 	.string "No holds barred, understand?\p"
 	.string "You keep up your studies!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
-	.string "NOLAND: Hey, hey! How's it going?\n"
-=======
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime: @ 825B517
 	.string "Noland: Hey, hey! How's it going?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You keeping up with your studies?\p"
 	.string "…Oh?\p"
 	.string "You've taken on a harder look than\n"
@@ -319,13 +303,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
 	.string "All right!\n"
 	.string "Bring it on!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "NOLAND: What the…\n"
-=======
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass: @ 825B5E7
 	.string "Noland: What the…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You're getting out of my league!\p"
 	.string "Sheesh!\n"
 	.string "Let's see that Frontier Pass!$"

@@ -496,28 +496,17 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
 	.string "earned the privilege of challenging\l"
 	.string "our master, the Palace Maven…$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-	.string "I shall send for the PALACE MAVEN.\n"
-=======
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven: @ 825014A
 	.string "I shall send for the Palace Maven.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Are you ready?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
 	.string "Let great fanfare announce the arrival\n"
 	.string "of the Palace Maven, Spenser!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SPENSER: My physical being is with\n"
-	.string "POKéMON always!\p"
-=======
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro: @ 82501C1
 	.string "Spenser: My physical being is with\n"
 	.string "Pokémon always!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "My heart beats as one with\n"
 	.string "Pokémon always!\p"
 	.string "Young one of a Trainer!\n"
@@ -527,21 +516,12 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro: @ 82501C1
 	.string "If your bonds of trust are frail,\n"
 	.string "you will never beat my brethren!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-	.string "The bond you share with your POKéMON!\n"
-	.string "Prove it to me here!$"
-
-BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
-	.string "SPENSER: Gwahahah!\p"
-=======
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons: @ 82502C4
 	.string "The bond you share with your Pokémon!\n"
 	.string "Prove it to me here!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle: @ 82502FF
 	.string "Spenser: Gwahahah!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Hah, you never fell for my bluster!\n"
 	.string "Sorry for trying that stunt!\p"
 	.string "Here!\n"
@@ -557,24 +537,14 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
 	.string "The Spirits Symbol was embossed on\n"
 	.string "the Frontier Pass!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "SPENSER: Your POKéMON's eyes are \n"
-=======
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime: @ 8250412
 	.string "Spenser: Your Pokémon's eyes are \n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "truly clear and unclouded.\p"
 	.string "I will eagerly await the next\n"
 	.string "opportunity to see you.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "SPENSER: Gwahahah!\n"
-=======
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack: @ 8250485
 	.string "Spenser: Gwahahah!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You've battled your way up again?\p"
 	.string "You must have developed a truly\n"
 	.string "formidable bond with your Pokémon.\p"
@@ -587,13 +557,8 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack: @ 825048
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
 	.string "… … …Kaaah!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SPENSER: Well, that was some display!\n"
-=======
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable: @ 825057E
 	.string "Spenser: Well, that was some display!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Even fully unleashed, my brethren\l"
 	.string "could not overpower you.\p"
 	.string "Your team spirit is truly admirable!\p"
@@ -610,12 +575,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
 	.string "The Spirits Symbol took on\n"
 	.string "a golden shine!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
-	.string "SPENSER: Gwahahah!\p"
-=======
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain: @ 82506C4
 	.string "Spenser: Gwahahah!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Come see me time and again!\n"
 	.string "My brethren and I will be waiting!$"

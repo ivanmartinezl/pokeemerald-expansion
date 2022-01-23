@@ -137,25 +137,15 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "the stairs to the Championship!\p"
 	.string "That's got to feel awesome!$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_JoshIntro:
-	.string "Don't take us GYM TRAINERS lightly!\n"
-=======
 RustboroCity_Gym_Text_JoshIntro: @ 82133E9
 	.string "Don't take us Gym Trainers lightly!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'll show you why we're better!$"
 
 RustboroCity_Gym_Text_JoshDefeat:
 	.string "You were too good for me…$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_JoshPostBattle:
-	.string "You haven't seen anything of the ROCK\n"
-=======
 RustboroCity_Gym_Text_JoshPostBattle: @ 8213447
 	.string "You haven't seen anything of the Rock\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "type's terrifying power!$"
 
 RustboroCity_Gym_Text_TommyIntro:
@@ -165,13 +155,8 @@ RustboroCity_Gym_Text_TommyIntro:
 RustboroCity_Gym_Text_TommyDefeat:
 	.string "Wow! You've got some potential!$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_TommyPostBattle:
-	.string "ROXANNE is stronger than me by\n"
-=======
 RustboroCity_Gym_Text_TommyPostBattle: @ 82134E6
 	.string "Roxanne is stronger than me by\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "several times.\p"
 	.string "You'd better be on your guard!$"
 
@@ -185,31 +170,17 @@ RustboroCity_Gym_Text_MarcDefeat:
 	.string "Oh, man oh man!\n"
 	.string "Our challenger is one feisty customer!$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_MarcPostBattle:
-	.string "I have to hand it to our LEADER.\p"
-=======
 RustboroCity_Gym_Text_MarcPostBattle: @ 82135C0
 	.string "I have to hand it to our Leader.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It took smarts and sense for her to\n"
 	.string "pick the Rock type at her young age.$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_RoxanneIntro:
-	.string "Hello, I am ROXANNE, the RUSTBORO\n"
-	.string "POKéMON GYM LEADER.\p"
-	.string "I became a GYM LEADER so that I might\n"
-	.string "apply what I learned at the POKéMON\l"
-	.string "TRAINER'S SCHOOL in battle.\p"
-=======
 RustboroCity_Gym_Text_RoxanneIntro: @ 821362A
 	.string "Hello, I am Roxanne, the Rustboro\n"
 	.string "Pokémon Gym Leader.\p"
 	.string "I became a Gym Leader so that I might\n"
 	.string "apply what I learned at the Pokémon\l"
 	.string "Trainer's School in battle.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Would you kindly demonstrate how you\n"
 	.string "battle, and with which Pokémon?$"
 
@@ -225,15 +196,6 @@ RustboroCity_Gym_Text_RoxanneDefeat:
 	.string "Please accept the official Pokémon\n"
 	.string "League Stone Badge.$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_ReceivedStoneBadge:
-	.string "{PLAYER} received the STONE BADGE\n"
-	.string "from ROXANNE.$"
-
-RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
-	.string "The STONE BADGE heightens the ATTACK\n"
-	.string "power of your POKéMON.\p"
-=======
 RustboroCity_Gym_Text_ReceivedStoneBadge: @ 82137EC
 	.string "{PLAYER} received the Stone Badge\n"
 	.string "from Roxanne.$"
@@ -241,20 +203,13 @@ RustboroCity_Gym_Text_ReceivedStoneBadge: @ 82137EC
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis: @ 8213816
 	.string "The Stone Badge heightens the Attack\n"
 	.string "power of your Pokémon.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It also enables them to use the HM move\n"
 	.string "CUT outside of battle.\p"
 	.string "Please take this with you, too.$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_ExplainRockTomb:
-	.string "That TECHNICAL MACHINE, TM39,\n"
-	.string "contains ROCK TOMB.\p"
-=======
 RustboroCity_Gym_Text_ExplainRockTomb: @ 82138B1
 	.string "That Technical Machine, TM39,\n"
 	.string "contains Rock Tomb.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It not only inflicts damage by dropping\n"
 	.string "rocks, it also lowers Speed.\p"
 	.string "If you use a TM, it instantly teaches\n"
@@ -268,21 +223,12 @@ RustboroCity_Gym_Text_RoxannePostBattle:
 	.string "By battling many Trainers, you should\n"
 	.string "learn many things.$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_GymStatue:
-	.string "RUSTBORO CITY POKéMON GYM$"
-
-RustboroCity_Gym_Text_GymStatueCertified:
-	.string "RUSTBORO CITY POKéMON GYM\p"
-	.string "ROXANNE'S CERTIFIED TRAINERS:\n"
-=======
 RustboroCity_Gym_Text_GymStatue: @ 8213A21
 	.string "Rustboro City Pokémon Gym$"
 
 RustboroCity_Gym_Text_GymStatueCertified: @ 8213A3B
 	.string "Rustboro City Pokémon Gym\p"
 	.string "Roxanne's Certified Trainers:\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall:
@@ -302,15 +248,6 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Click!$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_RegisteredRoxanne:
-	.string "Registered GYM LEADER ROXANNE\n"
-	.string "in the POKéNAV.$"
-
-RustboroCity_Gym_Text_RoxannePreRematch:
-	.string "ROXANNE: I'm so glad to see you again.\n"
-	.string "I'm ROXANNE, the GYM LEADER here.\p"
-=======
 RustboroCity_Gym_Text_RegisteredRoxanne: @ 8213C01
 	.string "Registered Gym Leader Roxanne\n"
 	.string "in the Pokénav.$"
@@ -318,7 +255,6 @@ RustboroCity_Gym_Text_RegisteredRoxanne: @ 8213C01
 RustboroCity_Gym_Text_RoxannePreRematch: @ 8213C2F
 	.string "Roxanne: I'm so glad to see you again.\n"
 	.string "I'm Roxanne, the Gym Leader here.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm sure we've both experienced many\n"
 	.string "battles since we last met.\p"
 	.string "I would like to see how much better\n"
@@ -328,17 +264,6 @@ RustboroCity_Gym_Text_RoxanneRematchDefeat:
 	.string "Grr…\n"
 	.string "Again, I have lost…$"
 
-<<<<<<< HEAD
-RustboroCity_Gym_Text_RoxannePostRematch:
-	.string "ROXANNE: I still have much to learn\n"
-	.string "when it comes to battling POKéMON.\p"
-	.string "That awareness makes me love battling\n"
-	.string "all that much more!$"
-
-RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons:
-	.string "ROXANNE: I'm so glad to see you again.\n"
-	.string "I'm ROXANNE, the GYM LEADER here.\p"
-=======
 RustboroCity_Gym_Text_RoxannePostRematch: @ 8213D12
 	.string "Roxanne: I still have much to learn\n"
 	.string "when it comes to battling Pokémon.\p"
@@ -348,7 +273,6 @@ RustboroCity_Gym_Text_RoxannePostRematch: @ 8213D12
 RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons: @ 8213D93
 	.string "Roxanne: I'm so glad to see you again.\n"
 	.string "I'm Roxanne, the Gym Leader here.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm sure we've both experienced many\n"
 	.string "battles since we last met.\p"
 	.string "I would like to see how much better\n"

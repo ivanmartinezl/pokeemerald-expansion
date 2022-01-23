@@ -704,15 +704,9 @@ PetalburgCity_EventScript_GymBoy::
 	msgbox PetalburgCity_Text_AreYouRookieTrainer, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-PetalburgCity_Text_WhereIsWally:
-	.string "Where has our WALLY gone?\p"
-	.string "We have to leave for VERDANTURF TOWN\n"
-=======
 PetalburgCity_Text_WhereIsWally: @ 81DC837
 	.string "Where has our Wally gone?\p"
 	.string "We have to leave for Verdanturf Town\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "very soon…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
@@ -723,21 +717,12 @@ PetalburgCity_Text_AreYouRookieTrainer:
 	.string "They first check what kind of Gym\n"
 	.string "is in the town.$"
 
-<<<<<<< HEAD
-PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "See? This is PETALBURG CITY's GYM.$"
-
-PetalburgCity_Text_ThisIsGymSign:
-	.string "This is the GYM's sign. Look for it\n"
-	.string "whenever you're looking for a GYM.$"
-=======
 PetalburgCity_Text_ThisIsPetalburgGym: @ 81DC91B
 	.string "See? This is Petalburg City's Gym.$"
 
 PetalburgCity_Text_ThisIsGymSign: @ 81DC93E
 	.string "This is the Gym's sign. Look for it\n"
 	.string "whenever you're looking for a Gym.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 PetalburgCity_Text_WaterReflection:
 	.string "My face is reflected in the water.\p"
@@ -746,30 +731,12 @@ PetalburgCity_Text_WaterReflection:
 	.string "struggling with fear…\p"
 	.string "What do you see reflected in your face?$"
 
-<<<<<<< HEAD
-PetalburgCity_Text_FullPartyExplanation:
-	.string "Let's say you have six POKéMON.\n"
-=======
 PetalburgCity_Text_FullPartyExplanation: @ 81DCA30
 	.string "Let's say you have six Pokémon.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "If you catch another one…\p"
 	.string "It is automatically sent to a Storage\n"
 	.string "Box over a PC connection.$"
 
-<<<<<<< HEAD
-PetalburgCity_Text_GymSign:
-	.string "PETALBURG CITY POKéMON GYM\n"
-	.string "LEADER: NORMAN\l"
-	.string "“A man in pursuit of power!”$"
-
-PetalburgCity_Text_CitySign:
-	.string "PETALBURG CITY\n"
-	.string "“Where people mingle with nature.”$"
-
-PetalburgCity_Text_WallyHouseSign:
-	.string "WALLY'S HOUSE$"
-=======
 PetalburgCity_Text_GymSign: @ 81DCAAA
 	.string "Petalburg City Pokémon Gym\n"
 	.string "Leader: Norman\l"
@@ -781,7 +748,6 @@ PetalburgCity_Text_CitySign: @ 81DCAF1
 
 PetalburgCity_Text_WallyHouseSign: @ 81DCB23
 	.string "Wally's House$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 PetalburgCity_Text_AreYouATrainer:
 	.string "Excuse me!\p"

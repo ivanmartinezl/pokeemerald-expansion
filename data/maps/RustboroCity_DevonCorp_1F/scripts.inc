@@ -80,15 +80,9 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	msgbox RustboroCity_DevonCorp_1F_Text_ProductDisplay, MSGBOX_SIGN
 	end
 
-<<<<<<< HEAD
-RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Hello and welcome to the DEVON\n"
-	.string "CORPORATION.\p"
-=======
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp: @ 821131B
 	.string "Hello and welcome to the Devon\n"
 	.string "Corporation.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "We're proud producers of items and\n"
 	.string "medicine that enhance your life.$"
 
@@ -96,13 +90,8 @@ RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
 	.string "One of our research staff stupidly\n"
 	.string "got robbed of an important parcel.$"
 
-<<<<<<< HEAD
-RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, those RUNNING SHOES!\n"
-=======
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct: @ 82113D1
 	.string "Hey, those Running Shoes!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "They're one of our products!\p"
 	.string "It makes me happy when I see someone\n"
 	.string "using something we made.$"

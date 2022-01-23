@@ -128,13 +128,8 @@ BattlePyramid_Retire::
 BattleFacility_TrainerBattle_PlaceholderText:
 	.string "This is a sample message.$"
 
-<<<<<<< HEAD
-gText_BattlePyramidConfirmRest::
-	.string "Your BATTLE PYRAMID quest will be\n"
-=======
 gText_BattlePyramidConfirmRest:: @ 8252CA7
 	.string "Your Battle Pyramid quest will be\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "saved so that you may quit for now.\l"
 	.string "Is that okay?$"
 
@@ -437,42 +432,6 @@ BattlePyramid_Text_ZeroItemsRemaining4::
 	.string "There appear to be no more\n"
 	.string "items on the ground.$"
 
-<<<<<<< HEAD
-BattlePyramid_Text_EightItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are eight items…$"
-
-BattlePyramid_Text_SevenItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are seven items…$"
-
-BattlePyramid_Text_SixItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are six items…$"
-
-BattlePyramid_Text_FiveItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are five items…$"
-
-BattlePyramid_Text_FourItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are four items…$"
-
-BattlePyramid_Text_ThreeItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are three items…$"
-
-BattlePyramid_Text_TwoItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are two items…$"
-
-BattlePyramid_Text_OneItemRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there is one item…$"
-
-BattlePyramid_Text_ZeroItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-=======
 BattlePyramid_Text_EightItemsRemaining5:: @ 8253D96
 	.string "On this floor of the Pyramid,\n"
 	.string "I hear there are eight items…$"
@@ -507,7 +466,6 @@ BattlePyramid_Text_OneItemRemaining5:: @ 8253F34
 
 BattlePyramid_Text_ZeroItemsRemaining5:: @ 8253F6C
 	.string "On this floor of the Pyramid,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I hear there are no items…$"
 
 BattlePyramid_Text_EightItemsRemaining6::
@@ -768,11 +726,6 @@ BattlePyramid_Text_OneTrainersRemaining6::
 	.string "Can you keep winning against\n"
 	.string "the last remaining Trainer?$"
 
-<<<<<<< HEAD
-BattlePyramid_Text_ZeroTrainersRemaining6::
-	.string "There aren't any TRAINERS left that\n"
-=======
 BattlePyramid_Text_ZeroTrainersRemaining6:: @ 8255068
 	.string "There aren't any Trainers left that\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "can take you on now…$"

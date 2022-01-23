@@ -173,11 +173,6 @@ RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
 	.string "That will give you access to the new\n"
 	.string "wallpaper patterns.$"
 
-<<<<<<< HEAD
-RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll:
-	.string "It's a POKéMON plush DOLL!$"
-=======
 RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll: @ 8215923
 	.string "It's a Pokémon plush Doll!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

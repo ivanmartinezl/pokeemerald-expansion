@@ -6,13 +6,8 @@ gText_Birch_Welcome::
 	.string "Professor.\p"
 	.string "$"
 
-<<<<<<< HEAD
-gText_Birch_Pokemon::
-	.string "This is what we call a “POKéMON.”\p"
-=======
 gText_Birch_Pokemon:: @ 82C89FB
 	.string "This is what we call a “Pokémon.”\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "\n"
 	.string "$"
 

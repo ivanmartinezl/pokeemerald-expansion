@@ -346,26 +346,16 @@ VerdanturfTown_BattleTentLobby_Text_GentleMonsScaryIfAngry:
 	.string "I bet a gentle Pokémon will be scary\n"
 	.string "if it gets angry!$"
 
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep:
-	.string "My feelings toward my POKéMON…\n"
-=======
 VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep: @ 8201D9E
 	.string "My feelings toward my Pokémon…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "The attraction runs deep…\p"
 	.string "Oh, hi, you didn't see that, did you?\n"
 	.string "Well, it doesn't matter.\p"
 	.string "How would you like this TM for\n"
 	.string "your Pokémon?$"
 
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_AttractionMutual:
-	.string "My feelings toward my POKéMON…\n"
-=======
 VerdanturfTown_BattleTentLobby_Text_AttractionMutual: @ 8201E43
 	.string "My feelings toward my Pokémon…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm sure the attraction is mutual!\p"
 	.string "They battle exactly the way I want\n"
 	.string "them to!$"
@@ -377,13 +367,8 @@ VerdanturfTown_BattleTentLobby_Text_TaughtWhatKindsOfMoves:
 	.string "an advantage if they knew how to\l"
 	.string "heal or protect themselves.$"
 
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers:
-	.string "SCOTT: Hey there, {PLAYER}{KUN}!\n"
-=======
 VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers: @ 8201F3F
 	.string "Scott: Hey there, {PLAYER}{KUN}!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I thought I might see you here.\p"
 	.string "A Battle Tent's a place where\n"
 	.string "you can meet tough Trainers.\p"
@@ -392,13 +377,7 @@ VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers: @ 8201F3F
 	.string "{PLAYER}{KUN}, I expect you to do\n"
 	.string "the best you can!$"
 
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_ScottVisitRegularly:
-	.string "SCOTT: I visit here regularly in hopes\n"
-	.string "of seeing tough TRAINERS in action\l"
-=======
 VerdanturfTown_BattleTentLobby_Text_ScottVisitRegularly: @ 8202025
 	.string "Scott: I visit here regularly in hopes\n"
 	.string "of seeing tough Trainers in action\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "in whatever the situation.$"

@@ -133,13 +133,8 @@ MagmaHideout_4F_EventScript_Tabitha::
 	msgbox MagmaHideout_4F_Text_TabithaPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-MagmaHideout_4F_Text_Grunt11Intro:
-	.string "I want to see GROUDON, too, but they\n"
-=======
 MagmaHideout_4F_Text_Grunt11Intro: @ 823A6E8
 	.string "I want to see Groudon, too, but they\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "won't let me see even its tail…\p"
 	.string "It's got me feeling really frustrated.\p"
 	.string "Oh, no!\n"
@@ -149,13 +144,8 @@ MagmaHideout_4F_Text_Grunt11Defeat:
 	.string "I guess it's impossible to win if one\n"
 	.string "doesn't have a calm mind…$"
 
-<<<<<<< HEAD
-MagmaHideout_4F_Text_Grunt11PostBattle:
-	.string "I wonder if GROUDON even has a tail?$"
-=======
 MagmaHideout_4F_Text_Grunt11PostBattle: @ 823A7B5
 	.string "I wonder if Groudon even has a tail?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MagmaHideout_4F_Text_Grunt12Intro:
 	.string "Fuhahaha!\n"
@@ -166,13 +156,8 @@ MagmaHideout_4F_Text_Grunt12Defeat:
 	.string "Grrr…\n"
 	.string "I've come so far, but now this?$"
 
-<<<<<<< HEAD
-MagmaHideout_4F_Text_Grunt12PostBattle:
-	.string "MAXIE, sir!\n"
-=======
 MagmaHideout_4F_Text_Grunt12PostBattle: @ 823A841
 	.string "Maxie, sir!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "An intruder is headed your way!$"
 
 MagmaHideout_4F_Text_Grunt13Intro:
@@ -203,13 +188,8 @@ MagmaHideout_4F_Text_TabithaPostBattle:
 	.string "…And while you wasted time with me,\n"
 	.string "Maxie should have awakened Groudon…$"
 
-<<<<<<< HEAD
-MagmaHideout_4F_Text_MaxieAwakenGroudon:
-	.string "MAXIE: GROUDON…\p"
-=======
 MagmaHideout_4F_Text_MaxieAwakenGroudon: @ 823A9F4
 	.string "Maxie: Groudon…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Nothing could awaken you from your\n"
 	.string "sleep bathed in magma…\p"
 	.string "This Blue Orb is what you sought.\n"
@@ -219,25 +199,15 @@ MagmaHideout_4F_Text_MaxieAwakenGroudon: @ 823A9F4
 	.string "And show me…\n"
 	.string "Show me the full extent of your power!$"
 
-<<<<<<< HEAD
-MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
-	.string "MAXIE: GROUDON!\n"
-=======
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong: @ 823AADA
 	.string "Maxie: Groudon!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "What's wrong?\p"
 	.string "Wasn't the Blue Orb the key?\p"
 	.string "Groudon!\n"
 	.string "Where have you gone…$"
 
-<<<<<<< HEAD
-MagmaHideout_4F_Text_MaxieOhItWasYou:
-	.string "MAXIE: Oh, so it was you?\p"
-=======
 MagmaHideout_4F_Text_MaxieOhItWasYou: @ 823AB33
 	.string "Maxie: Oh, so it was you?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I've seen you poking around uninvited\n"
 	.string "here and there…\p"
 	.string "I get it now!\n"
@@ -247,15 +217,9 @@ MagmaHideout_4F_Text_MaxieDefeat:
 	.string "What makes you so adept at handling\n"
 	.string "Pokémon?$"
 
-<<<<<<< HEAD
-MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
-	.string "MAXIE: There has to be some reason\n"
-	.string "why GROUDON fled…\p"
-=======
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon: @ 823ABE2
 	.string "Maxie: There has to be some reason\n"
 	.string "why Groudon fled…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That's what you're trying to say,\n"
 	.string "aren't you?\p"
 	.string "… … … … … …\n"

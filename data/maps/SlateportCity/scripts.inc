@@ -950,13 +950,8 @@ SlateportCity_EventScript_BerryCrushRankingsSign::
 	releaseall
 	end
 
-<<<<<<< HEAD
-SlateportCity_Text_EnergyGuruSellWhatYouNeed:
-	.string "I'm the ENERGY GURU! I'll go for it and\n"
-=======
 SlateportCity_Text_EnergyGuruSellWhatYouNeed: @ 81DD64A
 	.string "I'm the Energy Guru! I'll go for it and\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "sell you what you need!$"
 
 SlateportCity_Text_OhYourPokemon:
@@ -968,19 +963,11 @@ SlateportCity_Text_PleaseGiveItThisEffortRibbon:
 	.string "As its reward, please give it this\n"
 	.string "Effort Ribbon.$"
 
-<<<<<<< HEAD
-SlateportCity_Text_ReceivedEffortRibbon:
-	.string "{PLAYER} received the EFFORT RIBBON.$"
-
-SlateportCity_Text_PutEffortRibbonOnMon:
-	.string "{PLAYER} put the EFFORT RIBBON\n"
-=======
 SlateportCity_Text_ReceivedEffortRibbon: @ 81DD6E3
 	.string "{PLAYER} received the Effort Ribbon.$"
 
 SlateportCity_Text_PutEffortRibbonOnMon: @ 81DD702
 	.string "{PLAYER} put the Effort Ribbon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "on {STR_VAR_1}.$"
 
 SlateportCity_Text_GoForItLittleHarder:
@@ -988,15 +975,9 @@ SlateportCity_Text_GoForItLittleHarder:
 	.string "If you do, I'll give your Pokémon\n"
 	.string "something nice.$"
 
-<<<<<<< HEAD
-SlateportCity_Text_EffortRibbonLooksGoodOnIt:
-	.string "Oh! Your {STR_VAR_1}, that EFFORT\n"
-	.string "RIBBON looks good on it!$"
-=======
 SlateportCity_Text_EffortRibbonLooksGoodOnIt: @ 81DD77B
 	.string "Oh! Your {STR_VAR_1}, that Effort\n"
 	.string "Ribbon looks good on it!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
 	.string "The light of the lighthouse reaches\n"
@@ -1023,13 +1004,8 @@ SlateportCity_Text_SlateportWonderfulPlace:
 	.string "scent of the ocean…\p"
 	.string "Slateport is such a wonderful place!$"
 
-<<<<<<< HEAD
-SlateportCity_Text_BuyBricksSoDecorWontGetDirty:
-	.string "If you put DOLLS or CUSHIONS on\n"
-=======
 SlateportCity_Text_BuyBricksSoDecorWontGetDirty: @ 81DD999
 	.string "If you put Dolls or Cushions on\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the floor, they'll get dirty.\p"
 	.string "I'm going to buy some Bricks so my\n"
 	.string "Dolls and Cushions won't get dirty\l"
@@ -1048,15 +1024,9 @@ SlateportCity_Text_BushedHikingFromMauville:
 	.string "If I'd known this, I would've ridden\n"
 	.string "my Bike here.$"
 
-<<<<<<< HEAD
-SlateportCity_Text_EveryoneCallsHimCaptStern:
-	.string "STERN, the fellow who built the\n"
-	.string "MUSEUM, also happens to be the leader\l"
-=======
 SlateportCity_Text_EveryoneCallsHimCaptStern: @ 81DDB21
 	.string "Stern, the fellow who built the\n"
 	.string "Museum, also happens to be the leader\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of an undersea exploration team.\p"
 	.string "So, everyone calls him Capt. Stern.$"
 
@@ -1074,15 +1044,6 @@ SlateportCity_Text_QuitPushing:
 	.string "Hey, there! Quit pushing!\n"
 	.string "This is the line, can't you see?$"
 
-<<<<<<< HEAD
-SlateportCity_Text_AquaHasPolicy:
-	.string "TEAM AQUA has a policy of\n"
-	.string "assembling and dispersing at\l"
-	.string "the operation site.$"
-
-SlateportCity_Text_BossIsBrilliant:
-	.string "Our BOSS is brilliant.\p"
-=======
 SlateportCity_Text_AquaHasPolicy: @ 81DDC8A
 	.string "Team Aqua has a policy of\n"
 	.string "assembling and dispersing at\l"
@@ -1090,7 +1051,6 @@ SlateportCity_Text_AquaHasPolicy: @ 81DDC8A
 
 SlateportCity_Text_BossIsBrilliant: @ 81DDCD5
 	.string "Our Boss is brilliant.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "What would he want to do with\n"
 	.string "a Museum now?$"
 
@@ -1158,15 +1118,6 @@ SlateportCity_Text_BuyTooMuch:
 	.string "Whenever I visit here, I get carried\n"
 	.string "away and buy too much.$"
 
-<<<<<<< HEAD
-SlateportCity_Text_GetNameRaterToHelpYou:
-	.string "If you want to change your POKéMON's\n"
-	.string "nickname, you'll have to get the NAME\l"
-	.string "RATER to help you.$"
-
-SlateportCity_Text_CantChangeTradeMonName:
-	.string "Any POKéMON you get in a trade,\n"
-=======
 SlateportCity_Text_GetNameRaterToHelpYou: @ 81DE10E
 	.string "If you want to change your Pokémon's\n"
 	.string "nickname, you'll have to get the Name\l"
@@ -1174,22 +1125,14 @@ SlateportCity_Text_GetNameRaterToHelpYou: @ 81DE10E
 
 SlateportCity_Text_CantChangeTradeMonName: @ 81DE16C
 	.string "Any Pokémon you get in a trade,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "you can't change its nickname.\p"
 	.string "The original Trainer's love for that\n"
 	.string "Pokémon is in the nickname.$"
 
-<<<<<<< HEAD
-SlateportCity_Text_BattleTentBuiltRecently:
-	.string "Recently, a BATTLE TENT was built\n"
-	.string "in SLATEPORT.\p"
-	.string "GYMS are fun, but the BATTLE TENT's\n"
-=======
 SlateportCity_Text_BattleTentBuiltRecently: @ 81DE1EC
 	.string "Recently, a Battle Tent was built\n"
 	.string "in Slateport.\p"
 	.string "Gyms are fun, but the Battle Tent's\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "awesome in its own way.\p"
 	.string "You should go find tough Pokémon\n"
 	.string "for the Battle Tent!$"
@@ -1206,13 +1149,8 @@ SlateportCity_Text_InterviewerSoCool:
 	.string "When I grow up, I'm going to be\n"
 	.string "an international journalist!$"
 
-<<<<<<< HEAD
-SlateportCity_Text_SternSaysDiscoveredSomething:
-	.string "CAPT. STERN says they discovered\n"
-=======
 SlateportCity_Text_SternSaysDiscoveredSomething: @ 81DE376
 	.string "Capt. Stern says they discovered\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "something at the bottom of the sea.\p"
 	.string "I wonder what it is?\n"
 	.string "What could it be?$"
@@ -1230,22 +1168,6 @@ SlateportCity_Text_CaptainsACelebrity:
 	.string "A TV interview! Here!\n"
 	.string "The Captain's a celebrity!$"
 
-<<<<<<< HEAD
-SlateportCity_Text_BigSmileForCamera:
-	.string "TY: Okay, CAPT. STERN, a big smile\n"
-	.string "for the camera!$"
-
-SlateportCity_Text_MostInvaluableExperience:
-	.string "GABBY: I see, I see. You've had a most\n"
-	.string "invaluable experience…$"
-
-SlateportCity_Text_SternMoveAheadWithExploration:
-	.string "CAPT. STERN: Yes, indeed. We intend to\n"
-	.string "move ahead with our exploration.$"
-
-SlateportCity_Text_GabbyWonderfulThanksForInterview:
-	.string "GABBY: That's wonderful, CAPT. STERN!\n"
-=======
 SlateportCity_Text_BigSmileForCamera: @ 81DE491
 	.string "Ty: Okay, Capt. Stern, a big smile\n"
 	.string "for the camera!$"
@@ -1260,19 +1182,13 @@ SlateportCity_Text_SternMoveAheadWithExploration: @ 81DE502
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview: @ 81DE54A
 	.string "Gabby: That's wonderful, Capt. Stern!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Thank you for taking the time from\l"
 	.string "your busy schedule to talk to us.\p"
 	.string "We hope we can interview you again\n"
 	.string "with news of more discoveries!$"
 
-<<<<<<< HEAD
-SlateportCity_Text_SternWhewFirstInterview:
-	.string "CAPT. STERN: Whew…\p"
-=======
 SlateportCity_Text_SternWhewFirstInterview: @ 81DE5F7
 	.string "Capt. Stern: Whew…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That was my first time to be filmed for\n"
 	.string "TV. That was nerve-wracking.$"
 
@@ -1297,24 +1213,14 @@ SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
 	.string "Just watch and learn what Team\l"
 	.string "Aqua has planned!$"
 
-<<<<<<< HEAD
-SlateportCity_Text_SternWhatWasAllThat:
-	.string "CAPT. STERN: What was that all about?\p"
-=======
 SlateportCity_Text_SternWhatWasAllThat: @ 81DE7F7
 	.string "Capt. Stern: What was that all about?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It sounded like someone using\n"
 	.string "a megaphone…\p"
 	.string "Where did it come from?$"
 
-<<<<<<< HEAD
-SlateportCity_Text_FromHarborTryingToTakeSub:
-	.string "It's from the HARBOR!\p"
-=======
 SlateportCity_Text_FromHarborTryingToTakeSub: @ 81DE860
 	.string "It's from the Harbor!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "The submarine!\n"
 	.string "They're trying to take it!$"
 
@@ -1322,20 +1228,6 @@ SlateportCity_Text_PleaseComeWithMe:
 	.string "{PLAYER}{KUN}!\n"
 	.string "Please, come with me!$"
 
-<<<<<<< HEAD
-SlateportCity_Text_BattleTentSign:
-	.string "BATTLE TENT SLATEPORT SITE\n"
-	.string "“Find it! The ultimate POKéMON!”$"
-
-SlateportCity_Text_SternsShipyardWantedSign:
-	.string "STERN'S SHIPYARD\p"
-	.string "“Wanted: A sailor capable of sailing\n"
-	.string "in all currents.”$"
-
-SlateportCity_Text_SternsShipyardNearsCompletion:
-	.string "STERN'S SHIPYARD\p"
-	.string "“The ferry S.S. TIDAL nears\n"
-=======
 SlateportCity_Text_BattleTentSign: @ 81DE8BC
 	.string "Battle Tent Slateport Site\n"
 	.string "“Find it! The ultimate Pokémon!”$"
@@ -1348,21 +1240,9 @@ SlateportCity_Text_SternsShipyardWantedSign: @ 81DE8F8
 SlateportCity_Text_SternsShipyardNearsCompletion: @ 81DE940
 	.string "Stern's Shipyard\p"
 	.string "“The ferry S.S. Tidal nears\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "completion for serving the ports of\l"
 	.string "Slateport and Lilycove.”$"
 
-<<<<<<< HEAD
-SlateportCity_Text_SternsShipyardFerryComplete:
-	.string "STERN'S SHIPYARD\p"
-	.string "“Boarding of the SLATEPORT-LILYCOVE\n"
-	.string "ferry S.S. TIDAL is handled at the\l"
-	.string "HARBOR.”$"
-
-SlateportCity_Text_PokemonFanClubSign:
-	.string "POKéMON FAN CLUB\n"
-	.string "“Calling all fans of POKéMON!”$"
-=======
 SlateportCity_Text_SternsShipyardFerryComplete: @ 81DE9AA
 	.string "Stern's Shipyard\p"
 	.string "“Boarding of the Slateport-Lilycove\n"
@@ -1372,33 +1252,12 @@ SlateportCity_Text_SternsShipyardFerryComplete: @ 81DE9AA
 SlateportCity_Text_PokemonFanClubSign: @ 81DEA0B
 	.string "Pokémon Fan Club\n"
 	.string "“Calling all fans of Pokémon!”$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SlateportCity_Text_OceanicMuseumSign:
 	.string "“The endless sea sustains\n"
 	.string "all life.”\p"
 	.string "Oceanic Museum$"
 
-<<<<<<< HEAD
-SlateportCity_Text_CitySign:
-	.string "SLATEPORT CITY\p"
-	.string "“The port where people and POKéMON\n"
-	.string "cross paths.”$"
-
-SlateportCity_Text_MarketSign:
-	.string "SLATEPORT MARKET\n"
-	.string "“Unique items found nowhere else!”$"
-
-SlateportCity_Text_HarborFerryUnderConstruction:
-	.string "SLATEPORT HARBOR\p"
-	.string "“The ferry S.S. TIDAL is under\n"
-	.string "construction in the SHIPYARD.\p"
-	.string "“Service is scheduled to begin\n"
-	.string "shortly.”$"
-
-SlateportCity_Text_HarborSign:
-	.string "SLATEPORT HARBOR\p"
-=======
 SlateportCity_Text_CitySign: @ 81DEA6F
 	.string "Slateport City\p"
 	.string "“The port where people and Pokémon\n"
@@ -1417,19 +1276,9 @@ SlateportCity_Text_HarborFerryUnderConstruction: @ 81DEAE3
 
 SlateportCity_Text_HarborSign: @ 81DEB5A
 	.string "Slateport Harbor\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“Enjoy a delightful cruise on\n"
 	.string "the ferry S.S. Tidal.”$"
 
-<<<<<<< HEAD
-SlateportCity_Text_NameRatersHouseSign:
-	.string "NAME RATER'S HOUSE\n"
-	.string "“POKéMON nicknames rated.”$"
-
-SlateportCity_Text_ExplainBerries:
-	.string "If a wild POKéMON gets hurt, it heals\n"
-	.string "itself by chewing on BERRIES.\p"
-=======
 SlateportCity_Text_NameRatersHouseSign: @ 81DEBA0
 	.string "Name Rater's House\n"
 	.string "“Pokémon nicknames rated.”$"
@@ -1437,7 +1286,6 @@ SlateportCity_Text_NameRatersHouseSign: @ 81DEBA0
 SlateportCity_Text_ExplainBerries: @ 81DEBCE
 	.string "If a wild Pokémon gets hurt, it heals\n"
 	.string "itself by chewing on Berries.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Did you know that?\p"
 	.string "Somebody saw that and got the idea\n"
 	.string "of making medicine from Berries.\p"
@@ -1477,13 +1325,8 @@ SlateportCity_Text_DontHaveEnoughBerryPowder:
 	.string "Oh, dear. You don't have enough\n"
 	.string "Berry Powder.$"
 
-<<<<<<< HEAD
-SlateportCity_Text_FineBerryPowderTradeSomethingElse:
-	.string "This is fine BERRY POWDER.\n"
-=======
 SlateportCity_Text_FineBerryPowderTradeSomethingElse: @ 81DEEF7
 	.string "This is fine Berry Powder.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It will make excellent medicine.\p"
 	.string "Would you like to trade more of your\n"
 	.string "Berry Powder for something else?$"
@@ -1498,13 +1341,8 @@ SlateportCity_Text_ComeBackToTradeBerryPowder:
 	.string "I'm always running a bazaar here.\p"
 	.string "Did you know?$"
 
-<<<<<<< HEAD
-SlateportCity_Text_YouDroveTeamAquaAway:
-	.string "SCOTT: Huh?\n"
-=======
 SlateportCity_Text_YouDroveTeamAquaAway: @ 81DF032
 	.string "Scott: Huh?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm sure I met you somewhere before.\p"
 	.string "Have I introduced myself to you?\n"
 	.string "If not, my name's Scott.\p"
@@ -1512,54 +1350,31 @@ SlateportCity_Text_YouDroveTeamAquaAway: @ 81DF032
 	.string "here like they were stung.\p"
 	.string "Let me guess--you drove them away?$"
 
-<<<<<<< HEAD
-SlateportCity_Text_MaybeThisTrainer:
-	.string "SCOTT: Hmm…\n"
-	.string "Maybe, just maybe, this TRAINER…$"
-
-SlateportCity_Text_LetsRegisterEachOther:
-	.string "SCOTT: All right! I think you're going\n"
-=======
 SlateportCity_Text_MaybeThisTrainer: @ 81DF0FE
 	.string "Scott: Hmm…\n"
 	.string "Maybe, just maybe, this Trainer…$"
 
 SlateportCity_Text_LetsRegisterEachOther: @ 81DF12B
 	.string "Scott: All right! I think you're going\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "to become a good friend.\p"
 	.string "So, let's register each other in our\n"
 	.string "Pokénavs.\p"
 	.string "… … … … … …$"
 
-<<<<<<< HEAD
-SlateportCity_Text_RegisteredScott:
-	.string "Registered this SCOTT person\n"
-	.string "in the POKéNAV.$"
-
-SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "SCOTT: What I'd like to do is tag along\n"
-=======
 SlateportCity_Text_RegisteredScott: @ 81DF1A6
 	.string "Registered this Scott person\n"
 	.string "in the Pokénav.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou: @ 81DF1D3
 	.string "Scott: What I'd like to do is tag along\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "with you, but I do want to keep an eye\l"
 	.string "on the talents of other people, too.\p"
 	.string "So, I'll be off to roam other towns\n"
 	.string "a bit more.\p"
 	.string "Be seeing you, {PLAYER}{KUN}!$"
 
-<<<<<<< HEAD
-SlateportCity_Text_TakingBattleTentChallenge:
-	.string "SCOTT: Oh, hey!\n"
-=======
 SlateportCity_Text_TakingBattleTentChallenge: @ 81DF28C
 	.string "Scott: Oh, hey!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "If it isn't {PLAYER}{KUN}!\p"
 	.string "{PLAYER}{KUN}, let me guess--you're going\n"
 	.string "to take the Battle Tent challenge?\p"

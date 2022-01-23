@@ -267,13 +267,8 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	waitse
 	return
 
-<<<<<<< HEAD
-BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-	.string "Where the luck of TRAINERS\n"
-=======
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike: @ 825BB52
 	.string "Where the luck of Trainers\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "is put to the test…\p"
 	.string "Welcome to the Battle Pike…\p"
 	.string "I am your guide to the Battle Pike…$"
@@ -334,13 +329,8 @@ BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Please come see me when\n"
 	.string "you are ready…$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
-	.string "Please choose the three POKéMON\n"
-=======
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons: @ 825C094
 	.string "Please choose the three Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "you wish to enter in the challenge…$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge:
@@ -424,13 +414,8 @@ BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
 BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "The BAG and POKéNAV may not be used\n"
-=======
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules: @ 825C644
 	.string "The Bag and Pokénav may not be used\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "during a Battle Choice challenge.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:

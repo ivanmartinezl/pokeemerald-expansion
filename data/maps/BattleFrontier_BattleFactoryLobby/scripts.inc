@@ -322,13 +322,8 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 	releaseall
 	end
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-=======
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle: @ 82588EE
 	.string "Where the intelligence of Trainers\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "is put to the test!\p"
 	.string "Welcome to the Battle Factory!\p"
 	.string "I am your guide to the Battle Swap\n"
@@ -368,13 +363,8 @@ BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
 	.string "I need to save the game. Is that okay?$"
 
 @ Unused
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-=======
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping: @ 8258C6F
 	.string "Okay, I will hold your Pokémon for\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "safekeeping while you compete.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
@@ -388,15 +378,9 @@ BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
 	.string "Please wait.$"
 
 @ Unused
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
-=======
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons: @ 8258D54
 	.string "I will return your Pokémon in exchange\n"
 	.string "for our rental Pokémon.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
 	.string "Congratulations! You've won seven\n"
@@ -426,26 +410,16 @@ BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
 	.string "from your challenge.$"
 
 @ Unused
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
-	.string "We'll return your personal POKéMON.$"
-=======
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons: @ 8258F55
 	.string "We'll return your personal Pokémon.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
 	.string "{PLAYER} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-=======
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle: @ 8258F93
 	.string "Where the intelligence of Trainers\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "is put to the test!\p"
 	.string "Welcome to the Battle Factory!\p"
 	.string "I am your guide to the Battle Swap\n"
@@ -483,15 +457,9 @@ BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
 	.string "knowledge and keen intelligence,\l"
 	.string "we award you these Battle Point(s).$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
-	.string "Let me exchange your POKéMON\n"
-	.string "for our rental POKéMON.\p"
-=======
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave: @ 8259323
 	.string "Let me exchange your Pokémon\n"
 	.string "for our rental Pokémon.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I need to save the battle data,\n"
 	.string "so please wait.$"
 
@@ -512,13 +480,8 @@ BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
 	.string "about Pokémon and their moves,\l"
 	.string "it will be tough to keep winning.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
-	.string "I swapped for a weak POKéMON…\n"
-=======
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon: @ 82594E5
 	.string "I swapped for a weak Pokémon…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I thought it was a good kind to have…\p"
 	.string "They wiped the floor with us…$"
 
@@ -557,19 +520,11 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
 	.string "your team may not have two or more\l"
 	.string "of the same Pokémon.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
-=======
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules: @ 82597FB
 	.string "You may swap Pokémon only with\n"
 	.string "the Trainer you have just defeated.\p"
 	.string "You may swap for only those Pokémon\n"
 	.string "used by the beaten Trainer.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules:
 	.string "After every battle you win, you may\n"
@@ -590,13 +545,7 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
 	.string "This sequence remains unchanged\n"
 	.string "even when swaps are made.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules:
-	.string "In the Open Level, the rental POKéMON\n"
-	.string "and the opposing TRAINERS' POKéMON\l"
-=======
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules: @ 8259A5E
 	.string "In the Open Level, the rental Pokémon\n"
 	.string "and the opposing Trainers' Pokémon\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "are all Level 100.$"

@@ -401,17 +401,6 @@ Route116_Text_ThankYouTokenOfAppreciation:
 	.string "As a token of our appreciation, this\n"
 	.string "is our gift to our wonderful Trainer!$"
 
-<<<<<<< HEAD
-Route116_Text_NewBallAvailableAtMart:
-	.string "Our new POKé BALL will be available\n"
-	.string "at the POKéMON MART in RUSTBORO.\p"
-	.string "Please do try it out!\n"
-	.string "Thank you and bye-bye!$"
-
-Route116_Text_BagIsJamPacked:
-	.string "Your BAG is jam-packed.\n"
-	.string "I can't give you this REPEAT BALL.$"
-=======
 Route116_Text_NewBallAvailableAtMart: @ 81F3521
 	.string "Our new Poké Ball will be available\n"
 	.string "at the Pokémon Mart in Rustboro.\p"
@@ -421,7 +410,6 @@ Route116_Text_NewBallAvailableAtMart: @ 81F3521
 Route116_Text_BagIsJamPacked: @ 81F3593
 	.string "Your Bag is jam-packed.\n"
 	.string "I can't give you this Repeat Ball.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route116_Text_TokenOfAppreciation:
 	.string "As a token of our appreciation for\n"
@@ -454,24 +442,6 @@ Route116_Text_NotWhatImLookingFor:
 	.string "These are BlackGlasses.\l"
 	.string "They're not what I'm looking for…$"
 
-<<<<<<< HEAD
-Route116_Text_RouteSignRustboro:
-	.string "ROUTE 116\n"
-	.string "{LEFT_ARROW} RUSTBORO CITY$"
-
-Route116_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
-
-Route116_Text_TunnelersRestHouse:
-	.string "TUNNELER'S REST HOUSE$"
-
-Route116_Text_TrainerTipsBToStopEvolution:
-	.string "TRAINER TIPS\p"
-	.string "If you want to stop a POKéMON from\n"
-=======
 Route116_Text_RouteSignRustboro: @ 81F379D
 	.string "Route 116\n"
 	.string "{LEFT_ARROW} Rustboro City$"
@@ -488,21 +458,14 @@ Route116_Text_TunnelersRestHouse: @ 81F380F
 Route116_Text_TrainerTipsBToStopEvolution: @ 81F3825
 	.string "Trainer Tips\p"
 	.string "If you want to stop a Pokémon from\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "evolving, press the B Button while it\l"
 	.string "is trying to evolve.\l"
 	.string "The startled Pokémon will stop.\p"
 	.string "This is called an evolution cancel.$"
 
-<<<<<<< HEAD
-Route116_Text_TrainerTipsBagHasPockets:
-	.string "TRAINER TIPS\p"
-	.string "Your BAG has several POCKETS.\p"
-=======
 Route116_Text_TrainerTipsBagHasPockets: @ 81F38D4
 	.string "Trainer Tips\p"
 	.string "Your Bag has several Pockets.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Items you obtain are automatically\n"
 	.string "placed in the appropriate Pockets.\p"
 	.string "No Trainer can afford to be without\n"

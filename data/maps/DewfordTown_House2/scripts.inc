@@ -41,19 +41,11 @@ DewfordTown_House2_Text_NoRoom:
 	.string "have! Why, I would sell all my items\l"
 	.string "in order to get it!$"
 
-<<<<<<< HEAD
-DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
-=======
 DewfordTown_House2_Text_ExplainSilkScarf: @ 81FE3D1
 	.string "The Silk Scarf raises the power of\n"
 	.string "Normal-type moves.\p"
 	.string "It's a marvelous Scarf that will go\n"
 	.string "with almost all Pokémon!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 DewfordTown_House2_Text_BrawlySoCool:
 	.string "Wow, you bothered to cross the sea\n"

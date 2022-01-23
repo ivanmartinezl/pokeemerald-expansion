@@ -396,43 +396,25 @@ SlateportCity_Harbor_Text_MayISeeYourTicket:
 	.string "Hello, are you here for the ferry?\n"
 	.string "May I see your Ticket?$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_YouMustHaveTicket:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-=======
 SlateportCity_Harbor_Text_YouMustHaveTicket: @ 820CEC1
 	.string "{PLAYER} doesn't have the Ticket…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm terribly sorry.\p"
 	.string "You must have a Ticket to board\n"
 	.string "the ferry.$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_FlashedTicketWhereTo:
-	.string "{PLAYER} flashed the TICKET.\p"
-=======
 SlateportCity_Harbor_Text_FlashedTicketWhereTo: @ 820CF1C
 	.string "{PLAYER} flashed the Ticket.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Perfect! That's all you need!\p"
 	.string "And where would you like to go?$"
 
 SlateportCity_Harbor_Text_SailAnotherTime:
 	.string "Please sail with us another time!$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_LilycoveItIs:
-	.string "LILYCOVE CITY it is, then!$"
-
-SlateportCity_Harbor_Text_BattleFrontierItIs:
-	.string "BATTLE FRONTIER it is, then!$"
-=======
 SlateportCity_Harbor_Text_LilycoveItIs: @ 820CF93
 	.string "Lilycove City it is, then!$"
 
 SlateportCity_Harbor_Text_BattleFrontierItIs: @ 820CFAE
 	.string "Battle Frontier it is, then!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SlateportCity_Harbor_Text_PleaseBoardFerry:
 	.string "Please board the ferry and wait for\n"
@@ -457,35 +439,20 @@ SlateportCity_Harbor_Text_AbnormalWeather:
 	.string "You should visit the Weather Institute\n"
 	.string "and ask around!$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_SubTooSmallForMe:
-	.string "I wanted to go with CAPT. STERN on\n"
-=======
 SlateportCity_Harbor_Text_SubTooSmallForMe: @ 820D194
 	.string "I wanted to go with Capt. Stern on\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the ocean floor exploration.\p"
 	.string "But the sub's too small for me.\p"
 	.string "If I squeezed in, there wouldn't be\n"
 	.string "any room for the Captain…$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum:
-	.string "CAPT. STERN: Those thugs…\p"
-=======
 SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum: @ 820D232
 	.string "Capt. Stern: Those thugs…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "They're the same lot who tried to rob\n"
 	.string "the Devon Goods at the Museum.$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove:
-	.string "ARCHIE: Oh?\n"
-=======
 SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove: @ 820D291
 	.string "Archie: Oh?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Not you again…\p"
 	.string "You are tenacious to track us here,\n"
 	.string "that much I will give you.\p"
@@ -495,31 +462,18 @@ SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove: @ 820D291
 	.string "Hideout in Lilycove City?\p"
 	.string "Fwahahahaha…$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine:
-	.string "CAPT. STERN: Why…\p"
-	.string "Why would TEAM AQUA steal my\n"
-	.string "SUBMARINE EXPLORER 1?\p"
-=======
 SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine: @ 820D35A
 	.string "Capt. Stern: Why…\p"
 	.string "Why would Team Aqua steal my\n"
 	.string "Submarine Explorer 1?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "They can't be after the slumbering\n"
 	.string "Pokémon at the bottom of the sea…\p"
 	.string "But even if I were to chase them,\n"
 	.string "I don't stand a chance against them…$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_TeamAquaLeftNeedDive:
-	.string "CAPT. STERN: Oh, {PLAYER}{KUN}…\p"
-	.string "Okay… So TEAM AQUA left before you\n"
-=======
 SlateportCity_Harbor_Text_TeamAquaLeftNeedDive: @ 820D42B
 	.string "Capt. Stern: Oh, {PLAYER}{KUN}…\p"
 	.string "Okay… So Team Aqua left before you\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "could stop them…\p"
 	.string "Oh, no, don't blame yourself.\n"
 	.string "You're not responsible for this.\p"
@@ -532,13 +486,8 @@ SlateportCity_Harbor_Text_TeamAquaLeftNeedDive: @ 820D42B
 	.string "A lot of divers live out there, so\n"
 	.string "someone might teach you…$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_NeedDiveToCatchSub:
-	.string "CAPT. STERN: Trying to catch a\n"
-=======
 SlateportCity_Harbor_Text_NeedDiveToCatchSub: @ 820D58A
 	.string "Capt. Stern: Trying to catch a\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "submarine… It's impossible.\p"
 	.string "You would need a Pokémon that knows\n"
 	.string "how to Dive…\p"
@@ -547,16 +496,6 @@ SlateportCity_Harbor_Text_NeedDiveToCatchSub: @ 820D58A
 	.string "A lot of divers live out there, so\n"
 	.string "someone might teach you…$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_WontBeLongBeforeWeFinishFerry:
-	.string "CAPT. STERN: Oh, yes.\n"
-	.string "MR. BRINEY came to our SHIPYARD.\p"
-	.string "It won't be long now before we finish\n"
-	.string "making the ferry!$"
-
-SlateportCity_Harbor_Text_FinishedMakingFerry:
-	.string "CAPT. STERN: {PLAYER}{KUN}!\p"
-=======
 SlateportCity_Harbor_Text_WontBeLongBeforeWeFinishFerry: @ 820D65C
 	.string "Capt. Stern: Oh, yes.\n"
 	.string "Mr. Briney came to our Shipyard.\p"
@@ -565,20 +504,14 @@ SlateportCity_Harbor_Text_WontBeLongBeforeWeFinishFerry: @ 820D65C
 
 SlateportCity_Harbor_Text_FinishedMakingFerry: @ 820D6CB
 	.string "Capt. Stern: {PLAYER}{KUN}!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "We finally finished making the ferry\n"
 	.string "S.S. Tidal!\p"
 	.string "We couldn't have done it without\n"
 	.string "your friend Mr. Briney.\p"
 	.string "Please go for a short cruise on it!$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_WouldYouTradeScanner:
-	.string "CAPT. STERN: Oh?\n"
-=======
 SlateportCity_Harbor_Text_WouldYouTradeScanner: @ 820D76C
 	.string "Capt. Stern: Oh?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{PLAYER}{KUN}, that item you have…\p"
 	.string "That's a Scanner! That would sure\n"
 	.string "help us on our explorations.\p"
@@ -587,36 +520,12 @@ SlateportCity_Harbor_Text_WouldYouTradeScanner: @ 820D76C
 	.string "Like, say, a DeepSeaTooth or\n"
 	.string "a DeepSeaScale that I have?$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_IfYouWantToTradeLetMeKnow:
-	.string "CAPT. STERN: Are you certain?\n"
-=======
 SlateportCity_Harbor_Text_IfYouWantToTradeLetMeKnow: @ 820D841
 	.string "Capt. Stern: Are you certain?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's useless to you, {PLAYER}{KUN}…\p"
 	.string "Well, okay, then. If you want to trade\n"
 	.string "your Scanner, let me know.$"
 
-<<<<<<< HEAD
-SlateportCity_Harbor_Text_TradeForDeepSeaTooth:
-	.string "CAPT. STERN: So you'll trade it for\n"
-	.string "my DEEPSEATOOTH?$"
-
-SlateportCity_Harbor_Text_TradeForDeepSeaScale:
-	.string "CAPT. STERN: So you'll trade it for\n"
-	.string "my DEEPSEASCALE?$"
-
-SlateportCity_Harbor_Text_WhichOneDoYouWant:
-	.string "CAPT. STERN: Which one do you want?$"
-
-SlateportCity_Harbor_Text_HandedScannerToStern:
-	.string "{PLAYER} handed the SCANNER to\n"
-	.string "CAPT. STERN.$"
-
-SlateportCity_Harbor_Text_ThisWillHelpResearch:
-	.string "CAPT. STERN: Thanks, {PLAYER}{KUN}!\n"
-=======
 SlateportCity_Harbor_Text_TradeForDeepSeaTooth: @ 820D8BC
 	.string "Capt. Stern: So you'll trade it for\n"
 	.string "my DeepSeaTooth?$"
@@ -634,5 +543,4 @@ SlateportCity_Harbor_Text_HandedScannerToStern: @ 820D94A
 
 SlateportCity_Harbor_Text_ThisWillHelpResearch: @ 820D970
 	.string "Capt. Stern: Thanks, {PLAYER}{KUN}!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "This will help our research a lot!$"

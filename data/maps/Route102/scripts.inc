@@ -73,29 +73,17 @@ Route102_EventScript_Allen::
 	msgbox Route102_Text_AllenPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-Route102_Text_WatchMeCatchPokemon:
-	.string "WALLY: {PLAYER}…\n"
-	.string "POKéMON hide in tall grass like this,\l"
-=======
 Route102_Text_WatchMeCatchPokemon: @ 81EC1F8
 	.string "Wally: {PLAYER}…\n"
 	.string "Pokémon hide in tall grass like this,\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "don't they?\p"
 	.string "Please watch me and see if I can\n"
 	.string "catch one properly.\p"
 	.string "…Whoa!$"
 
-<<<<<<< HEAD
-Route102_Text_WallyIDidIt:
-	.string "WALLY: I did it… It's my…\n"
-	.string "My POKéMON!$"
-=======
 Route102_Text_WallyIDidIt: @ 81EC271
 	.string "Wally: I did it… It's my…\n"
 	.string "My Pokémon!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route102_Text_LetsGoBack:
 	.string "{PLAYER}, thank you!\n"
@@ -112,15 +100,6 @@ Route102_Text_CatchWholeBunchOfPokemon:
 	.string "I'm going to catch a whole bunch of\n"
 	.string "Pokémon!$"
 
-<<<<<<< HEAD
-Route102_Text_RouteSignOldale:
-	.string "ROUTE 102\n"
-	.string "{RIGHT_ARROW} OLDALE TOWN$"
-
-Route102_Text_RouteSignPetalburg:
-	.string "ROUTE 102\n"
-	.string "{LEFT_ARROW} PETALBURG CITY$"
-=======
 Route102_Text_RouteSignOldale: @ 81EC35B
 	.string "Route 102\n"
 	.string "{RIGHT_ARROW} Oldale Town$"
@@ -128,4 +107,3 @@ Route102_Text_RouteSignOldale: @ 81EC35B
 Route102_Text_RouteSignPetalburg: @ 81EC373
 	.string "Route 102\n"
 	.string "{LEFT_ARROW} Petalburg City$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24

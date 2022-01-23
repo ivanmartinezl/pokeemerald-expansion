@@ -27,13 +27,8 @@ Route116_TunnelersRestHouse_EventScript_TunnelOpened::
 	release
 	end
 
-<<<<<<< HEAD
-Route116_TunnelersRestHouse_Text_WeHadToStopBoring:
-	.string "That RUSTURF TUNNEL there…\p"
-=======
 Route116_TunnelersRestHouse_Text_WeHadToStopBoring: @ 822B88B
 	.string "That Rusturf Tunnel there…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "At first, we had a huge work crew boring\n"
 	.string "through rock with the latest machinery.\l"
 	.string "But, we had to stop.\p"
@@ -53,16 +48,6 @@ Route116_TunnelersRestHouse_Text_ManDiggingHisWayToVerdanturf:
 	.string "harming the natural environment.\p"
 	.string "I wonder if he made it through yet.$"
 
-<<<<<<< HEAD
-Route116_TunnelersRestHouse_Text_GetToVerdanturfWithoutTunnel:
-	.string "To get to VERDANTURF without using\n"
-	.string "this TUNNEL, you'd have to cross the\l"
-	.string "sea to DEWFORD, sail on to SLATEPORT,\l"
-	.string "then travel through MAUVILLE.$"
-
-Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough:
-	.string "Did you hear? The TUNNEL to VERDANTURF\n"
-=======
 Route116_TunnelersRestHouse_Text_GetToVerdanturfWithoutTunnel: @ 822BAAF
 	.string "To get to Verdanturf without using\n"
 	.string "this Tunnel, you'd have to cross the\l"
@@ -71,7 +56,6 @@ Route116_TunnelersRestHouse_Text_GetToVerdanturfWithoutTunnel: @ 822BAAF
 
 Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough: @ 822BB3B
 	.string "Did you hear? The Tunnel to Verdanturf\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "has gone through!\p"
 	.string "Sometimes, if you hope strongly enough,\n"
 	.string "dreams do come true.$"

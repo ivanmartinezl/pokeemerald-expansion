@@ -318,13 +318,8 @@ BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
 	.string "The move {STR_VAR_1}, is it?\n"
 	.string "That will be {STR_VAR_2} Battle Points, okay?$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
-	.string "Fine, fine, now pick the POKéMON\n"
-=======
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon: @ 826595A
 	.string "Fine, fine, now pick the Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I should teach the move to.$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
@@ -371,13 +366,8 @@ BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
 	.string "But if that were true, they wouldn't\n"
 	.string "stay out here together, would they?$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
-	.string "When I was just a wee YOUNGSTER,\n"
-=======
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful: @ 8265D17
 	.string "When I was just a wee Youngster,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "those ladies were strong and beautiful.\p"
 	.string "They were idols among us Trainers.\p"
 	.string "Even now, age hasn't dulled their\n"

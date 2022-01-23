@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-BerryBlender_Text_BlendWithTheBlendMaster:
-	.string "BLEND MASTER: Indeed I am!\n"
-	.string "The BLEND MASTER am I!\p"
-	.string "Blend with me, and you shall witness\n"
-	.string "the mastery I bring to blending!$"
-
-BerryBlender_Text_SeeMyMasteryInAction:
-	.string "BLEND MASTER: Hmmm! So, you wish to\n"
-=======
 BerryBlender_Text_BlendWithTheBlendMaster: @ 82C427C
 	.string "Blend Master: Indeed I am!\n"
 	.string "The Blend Master am I!\p"
@@ -16,7 +6,6 @@ BerryBlender_Text_BlendWithTheBlendMaster: @ 82C427C
 
 BerryBlender_Text_SeeMyMasteryInAction: @ 82C42F4
 	.string "Blend Master: Hmmm! So, you wish to\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "see my mastery in action?$"
 
 BerryBlender_Text_TooBusyNowIsee:
@@ -77,15 +66,9 @@ BerryBlender_Text_WickedlyFast:
 BerryBlender_Text_WhatAnExpert:
 	.string "What an expert!$"
 
-<<<<<<< HEAD
-BerryBlender_Text_MadeAmazingPokeblocksWithMaster:
-	.string "When I blended with the MASTER,\n"
-	.string "we made amazing {POKEBLOCK}S!$"
-=======
 BerryBlender_Text_MadeAmazingPokeblocksWithMaster: @ 82C4679
 	.string "When I blended with the Master,\n"
 	.string "we made amazing {POKEBLOCK}s!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BerryBlender_Text_QualitiesOfBlendMaster:
 	.string "Eyes that track the arrow with\n"
@@ -95,13 +78,8 @@ BerryBlender_Text_QualitiesOfBlendMaster:
 	.string "Possessing these qualities makes\n"
 	.string "the Blend Master truly great.$"
 
-<<<<<<< HEAD
-BerryBlender_Text_MasterWorksOnSkillsInMountains:
-	.string "The BLEND MASTER's supposed to work\n"
-=======
 BerryBlender_Text_MasterWorksOnSkillsInMountains: @ 82C4763
 	.string "The Blend Master's supposed to work\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "on his skills deep in the mountains.\p"
 	.string "Sometimes, he comes to Lilycove\n"
 	.string "to blend Berries all day long.$"

@@ -45,13 +45,8 @@ BattleFrontier_Lounge6_EventScript_TradeCompleted::
 	release
 	end
 
-<<<<<<< HEAD
-BattleFrontier_Lounge6_Text_WouldYouLikeToTrade:
-	.string "My POKéMON is a {STR_VAR_2}.\n"
-=======
 BattleFrontier_Lounge6_Text_WouldYouLikeToTrade: @ 826508D
 	.string "My Pokémon is a {STR_VAR_2}.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Do you know it?\l"
 	.string "It's quite cute and rather nice.\p"
 	.string "This little one, I could trade with\n"

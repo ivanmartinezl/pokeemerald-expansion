@@ -597,13 +597,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_OthersDontKnowYoureTheBest:
 	.string "Isn't that right, {PLAYER}?\n"
 	.string "Show them you've got guts!$"
 
-<<<<<<< HEAD
-LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary:
-	.string "I hate to say this, but the TRAINER\n"
-=======
 LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary: @ 821D12A
 	.string "I hate to say this, but the Trainer\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "everybody's talking about is\l"
 	.string "{STR_VAR_1}, no question about it!\p"
 	.string "That Trainer's power…\n"
@@ -666,13 +661,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_YourFatherNeverGaveUpSoKeepOnBattling:
 	.string "You never give up even if you lose!\n"
 	.string "So keep on battling!$"
 
-<<<<<<< HEAD
-LilycoveCity_PokemonTrainerFanClub_Text_LongWayToGoComparedToNorman:
-	.string "NORMAN battled with more power,\n"
-=======
 LilycoveCity_PokemonTrainerFanClub_Text_LongWayToGoComparedToNorman: @ 821D52E
 	.string "Norman battled with more power,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "charisma, and showmanship than you.\p"
 	.string "Even though people may say that\n"
 	.string "you're strong…\p"
@@ -718,13 +708,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsReallyCoolItsJustMe:
 	.string "Even if it's just me, I'm going to keep\n"
 	.string "cheering my favorite Trainer.$"
 
-<<<<<<< HEAD
-LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat:
-	.string "My favorite TRAINER is…\p"
-=======
 LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat: @ 821D8C4
 	.string "My favorite Trainer is…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Cool…\p"
 	.string "Strong…\p"
 	.string "And really nice…\p"
@@ -766,13 +751,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_ImInYourCorner:
 	.string "You don't need to worry. Just get\n"
 	.string "out there and battle like always.$"
 
-<<<<<<< HEAD
-LilycoveCity_PokemonTrainerFanClub_Text_ThinkTrainerIsNumberOne:
-	.string "You're a pretty decent TRAINER,\n"
-=======
 LilycoveCity_PokemonTrainerFanClub_Text_ThinkTrainerIsNumberOne: @ 821DB69
 	.string "You're a pretty decent Trainer,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I think.\p"
 	.string "But I also think that {STR_VAR_1}\n"
 	.string "is number one right now.\p"
@@ -797,13 +777,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation:
 	.string "attractively you battle.\p"
 	.string "I can't wait for your next battle!$"
 
-<<<<<<< HEAD
-LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsStandout:
-	.string "Among the recently hot TRAINERS,\n"
-=======
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsStandout: @ 821DD36
 	.string "Among the recently hot Trainers,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{STR_VAR_1} is the standout.\p"
 	.string "That toughness, it's simply not normal.\p"
 	.string "You're doing okay, but you're not in\n"

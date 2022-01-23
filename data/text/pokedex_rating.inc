@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-gBirchDexRatingText_AreYouCurious::
-	.string "PROF. BIRCH: Ah, {PLAYER}{KUN}!\p"
-=======
 gBirchDexRatingText_AreYouCurious:: @ 82A5C9C
 	.string "Prof. Birch: Ah, {PLAYER}{KUN}!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Are you curious about how your\n"
 	.string "Pokédex is coming along?$"
 
@@ -25,13 +20,8 @@ gBirchDexRatingText_LessThan20::
 	.string "I guess you're getting the hang\n"
 	.string "of it. But, it gets harder from here.$"
 
-<<<<<<< HEAD
-gBirchDexRatingText_LessThan30::
-	.string "Some POKéMON only appear in\n"
-=======
 gBirchDexRatingText_LessThan30:: @ 82A5DF1
 	.string "Some Pokémon only appear in\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "certain areas.\l"
 	.string "You must be persistent.$"
 
@@ -44,21 +34,12 @@ gBirchDexRatingText_LessThan50::
 	.string "This is coming along pretty good.\n"
 	.string "Keep up the effort.$"
 
-<<<<<<< HEAD
-gBirchDexRatingText_LessThan60::
-	.string "Are you using any RODS?\n"
-	.string "There are many POKéMON in the sea.$"
-
-gBirchDexRatingText_LessThan70::
-	.string "Instead of just catching POKéMON,\n"
-=======
 gBirchDexRatingText_LessThan60:: @ 82A5EB9
 	.string "Are you using any Rods?\n"
 	.string "There are many Pokémon in the sea.$"
 
 gBirchDexRatingText_LessThan70:: @ 82A5EF4
 	.string "Instead of just catching Pokémon,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "how about making them evolve, too?$"
 
 gBirchDexRatingText_LessThan80::
@@ -70,15 +51,9 @@ gBirchDexRatingText_LessThan90::
 	.string "You've collected this many…\n"
 	.string "Your talent is remarkable!$"
 
-<<<<<<< HEAD
-gBirchDexRatingText_LessThan100::
-	.string "Have you visited the SAFARI ZONE?\p"
-	.string "I hear there are some POKéMON that\n"
-=======
 gBirchDexRatingText_LessThan100:: @ 82A5FB9
 	.string "Have you visited the Safari Zone?\p"
 	.string "I hear there are some Pokémon that\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "can only be caught there.$"
 
 gBirchDexRatingText_LessThan110::
@@ -86,18 +61,6 @@ gBirchDexRatingText_LessThan110::
 	.string "the 100-kind mark.\p"
 	.string "This is an impressive Pokédex!$"
 
-<<<<<<< HEAD
-gBirchDexRatingText_LessThan120::
-	.string "There might be POKéMON that can be\n"
-	.string "found using ROCK SMASH.$"
-
-gBirchDexRatingText_LessThan130::
-	.string "You should get some more POKéMON\n"
-	.string "by trading with others.$"
-
-gBirchDexRatingText_LessThan140::
-	.string "I've heard of POKéMON that evolve\n"
-=======
 gBirchDexRatingText_LessThan120:: @ 82A6061
 	.string "There might be Pokémon that can be\n"
 	.string "found using Rock Smash.$"
@@ -108,7 +71,6 @@ gBirchDexRatingText_LessThan130:: @ 82A609C
 
 gBirchDexRatingText_LessThan140:: @ 82A60D5
 	.string "I've heard of Pokémon that evolve\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when they come to fully love their\l"
 	.string "Trainers.$"
 
@@ -117,13 +79,8 @@ gBirchDexRatingText_LessThan150::
 	.string "many Pokémon species in the Hoenn\l"
 	.string "region.$"
 
-<<<<<<< HEAD
-gBirchDexRatingText_LessThan160::
-	.string "On occasion, some POKéMON appear\n"
-=======
 gBirchDexRatingText_LessThan160:: @ 82A616F
 	.string "On occasion, some Pokémon appear\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "in large numbers like outbreaks.\p"
 	.string "Don't miss opportunities like\n"
 	.string "those.$"
@@ -138,13 +95,8 @@ gBirchDexRatingText_LessThan180::
 	.string "a Pokémon Professor, and a good\l"
 	.string "one, too!$"
 
-<<<<<<< HEAD
-gBirchDexRatingText_LessThan190::
-	.string "With a POKéDEX this complete,\n"
-=======
 gBirchDexRatingText_LessThan190:: @ 82A6287
 	.string "With a Pokédex this complete,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "you're a real professional at this!$"
 
 gBirchDexRatingText_LessThan200::

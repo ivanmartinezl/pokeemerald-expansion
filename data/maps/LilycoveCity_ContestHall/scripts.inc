@@ -335,25 +335,15 @@ LilycoveCity_ContestHall_EventScript_SmartStageSign::
 	msgbox LilycoveCity_ContestHall_Text_SmartContestStage, MSGBOX_SIGN
 	end
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_TodayWonSmartnessContest:
-	.string "This POKéMON won the BEAUTY CONTEST\n"
-=======
 LilycoveCity_ContestHall_Text_TodayWonSmartnessContest: @ 821B74E
 	.string "This Pokémon won the Beauty Contest\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "here before.\p"
 	.string "Well, guess what? Today, I made it\n"
 	.string "win a Smartness Contest!\p"
 	.string "My abilities scare even me…$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_EnteredBunchOfContests:
-	.string "I've entered a bunch of CONTESTS,\n"
-=======
 LilycoveCity_ContestHall_Text_EnteredBunchOfContests: @ 821B7D7
 	.string "I've entered a bunch of Contests,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "so I'm seeing how things work.\p"
 	.string "If you're in a Coolness Contest,\n"
 	.string "cool moves go over as appeals.\p"
@@ -371,16 +361,6 @@ LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
 	.string "The tension in the air… It's not\n"
 	.string "like a Contest hall in the sticks.$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal:
-	.string "MC: Okay, SMART POKéMON and their\n"
-	.string "TRAINERS, are you ready?!\p"
-	.string "Give it your best showing!\n"
-	.string "Let's appeal!$"
-
-LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest:
-	.string "JUDGE: Are you enjoying this CONTEST?\p"
-=======
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal: @ 821B977
 	.string "MC: Okay, Smart Pokémon and their\n"
 	.string "Trainers, are you ready?!\p"
@@ -389,7 +369,6 @@ LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal: @ 821B977
 
 LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest: @ 821B9DC
 	.string "Judge: Are you enjoying this Contest?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Come back with three friends, and\n"
 	.string "all of you may enter a Contest!$"
 
@@ -424,28 +403,16 @@ LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife:
 LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa:
 	.string "Kiyaaah! You're beautiful, Grandpa!$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves:
-	.string "Even when TRAINERS enter the same\n"
-	.string "kind of POKéMON, they all seem to use\l"
-=======
 LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves: @ 821BC89
 	.string "Even when Trainers enter the same\n"
 	.string "kind of Pokémon, they all seem to use\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "different moves for appeals.\p"
 	.string "It's just like the way people have\n"
 	.string "different styles for battling.$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers:
-	.string "I think the POKéMON look smarter\n"
-	.string "than their TRAINERS. By a lot.$"
-=======
 LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers: @ 821BD30
 	.string "I think the Pokémon look smarter\n"
 	.string "than their Trainers. By a lot.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests:
 	.string "When all's said and done, I still love\n"
@@ -453,19 +420,6 @@ LilycoveCity_ContestHall_Text_StillLoveSmartnessContests:
 	.string "That intellectual green color…\n"
 	.string "It's so… So… Cool.$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest:
-	.string "MC: Are you entering the BEAUTY\n"
-	.string "CONTEST, too? Good luck!$"
-
-LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty:
-	.string "JUDGE: Ah, every POKéMON here is\n"
-	.string "a model of pristine beauty!\p"
-	.string "Why, I almost forgot to score them!$"
-
-LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty:
-	.string "A POKéMON this beautiful…\n"
-=======
 LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest: @ 821BDDD
 	.string "MC: Are you entering the Beauty\n"
 	.string "Contest, too? Good luck!$"
@@ -477,7 +431,6 @@ LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty: @ 821BE16
 
 LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty: @ 821BE77
 	.string "A Pokémon this beautiful…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "There isn't another one like it.\p"
 	.string "Everyone's eyes will be glued to\n"
 	.string "my beauty.$"
@@ -490,16 +443,6 @@ LilycoveCity_ContestHall_Text_OverdidGrooming:
 	.string "My Pokémon's coat turned all scraggly…\p"
 	.string "What should I do?$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam:
-	.string "This AURORA BEAM is so dazzling,\n"
-	.string "the JUDGE won't be able to see it.\p"
-	.string "Uh, wait a second…\n"
-	.string "That'll be meaningless, then!$"
-
-LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe:
-	.string "This pretty POKéMON looks just like\n"
-=======
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam: @ 821BF6E
 	.string "This Aurora Beam is so dazzling,\n"
 	.string "the Judge won't be able to see it.\p"
@@ -508,21 +451,14 @@ LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam: @ 821BF6E
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe: @ 821BFE3
 	.string "This pretty Pokémon looks just like\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "me when I was younger.\p"
 	.string "Right when I said that, my husband\n"
 	.string "spewed the coffee he was drinking.\p"
 	.string "Did I say something funny?$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy:
-	.string "You know, if I win at a BEAUTY\n"
-	.string "CONTEST, sure it makes me\l"
-=======
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy: @ 821C07F
 	.string "You know, if I win at a Beauty\n"
 	.string "Contest, sure it makes me\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "happy. More than usual, anyway.$"
 
 LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon:
@@ -543,29 +479,12 @@ LilycoveCity_ContestHall_Text_InTheMiddleOfContest:
 	.string "Please enter at our registration\n"
 	.string "counter and come out, okay?$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals:
-	.string "JUDGE: Oh, such charming and cute\n"
-=======
 LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals: @ 821C215
 	.string "Judge: Oh, such charming and cute\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "appeals!\p"
 	.string "Oh, my goodness! What a perfectly\n"
 	.string "adorable Water Sport appeal!$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_MyAzurillWasDistracted:
-	.string "Oh, no… My sweet AZURILL was\n"
-	.string "distracted by another POKéMON.$"
-
-LilycoveCity_ContestHall_Text_NeverWonBattleButContest:
-	.string "My POKéMON has never won in a battle,\n"
-	.string "but put it in a CONTEST and look out!$"
-
-LilycoveCity_ContestHall_Text_PetalDanceIsMarvel:
-	.string "My POKéMON's PETAL DANCE is a marvel\n"
-=======
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted: @ 821C27F
 	.string "Oh, no… My sweet Azurill was\n"
 	.string "distracted by another Pokémon.$"
@@ -576,31 +495,19 @@ LilycoveCity_ContestHall_Text_NeverWonBattleButContest: @ 821C2BB
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel: @ 821C307
 	.string "My Pokémon's Petal Dance is a marvel\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of elegance.\p"
 	.string "I won't let anyone disturb its\n"
 	.string "performance.$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter:
-	.string "Everyone's POKéMON are very cute.\p"
-	.string "However, if my POKéMON were to make\n"
-=======
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter: @ 821C365
 	.string "Everyone's Pokémon are very cute.\p"
 	.string "However, if my Pokémon were to make\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "a cute appeal…\p"
 	.string "I'm sure that it would be so much \n"
 	.string "cuter than the others.$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_MyChildIsInContest:
-	.string "My child is in this CONTEST.$"
-=======
 LilycoveCity_ContestHall_Text_MyChildIsInContest: @ 821C3F4
 	.string "My child is in this Contest.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LilycoveCity_ContestHall_Text_ComeOnDear:
 	.string "Come on, dear. Go for it!\n"
@@ -612,24 +519,6 @@ LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest:
 	.string "What's that? They're judging\n"
 	.string "Pokémon by their looks?$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn:
-	.string "Ohh, seeing all these cute POKéMON,\n"
-	.string "they make we want to get my own!\p"
-	.string "I'm going to go catch some!$"
-
-LilycoveCity_ContestHall_Text_BeautyContestStage:
-	.string "BEAUTY CONTEST STAGE\n"
-	.string "BE ALLURED BY BEAUTIFUL POKéMON!$"
-
-LilycoveCity_ContestHall_Text_CuteContestStage:
-	.string "CUTENESS CONTEST STAGE\n"
-	.string "BE CHARMED BY CUTE POKéMON!$"
-
-LilycoveCity_ContestHall_Text_SmartContestStage:
-	.string "SMARTNESS CONTEST STAGE\n"
-	.string "BE IMPRESSED BY SMART POKéMON!$"
-=======
 LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn: @ 821C4B1
 	.string "Ohh, seeing all these cute Pokémon,\n"
 	.string "they make we want to get my own!\p"
@@ -646,5 +535,4 @@ LilycoveCity_ContestHall_Text_CuteContestStage: @ 821C548
 LilycoveCity_ContestHall_Text_SmartContestStage: @ 821C57B
 	.string "Smartness Contest Stage\n"
 	.string "Be Impressed By Smart Pokémon!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

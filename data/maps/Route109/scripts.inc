@@ -476,17 +476,6 @@ Route109_EventScript_Elijah::
 	msgbox Route109_Text_ElijahPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've made land in SLATEPORT!\p"
-	.string "I suppose you're going to visit CAPT.\n"
-	.string "STERN and deliver the DEVON GOODS?$"
-
-Route109_Text_BrineySailToDewfordQuestion:
-	.string "MR. BRINEY: I thought you're supposed\n"
-	.string "to deliver the DEVON GOODS.\p"
-=======
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods: @ 81EEC1D
 	.string "Mr. Briney: Ahoy!\n"
 	.string "We've made land in Slateport!\p"
@@ -496,43 +485,14 @@ DewfordTown_Text_BrineyLandedInSlateportDeliverGoods: @ 81EEC1D
 Route109_Text_BrineySailToDewfordQuestion: @ 81EEC96
 	.string "Mr. Briney: I thought you're supposed\n"
 	.string "to deliver the Devon Goods.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Would you like to sail back to\n"
 	.string "Dewford, then?$"
 
-<<<<<<< HEAD
-Route109_Text_BrineyDewfordItIs:
-	.string "MR. BRINEY: DEWFORD it is, then!\p"
-=======
 Route109_Text_BrineyDewfordItIs: @ 81EED06
 	.string "Mr. Briney: Dewford it is, then!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Anchors aweigh!\n"
 	.string "Peeko, we're setting sail, my darling!$"
 
-<<<<<<< HEAD
-Route109_Text_BrineyDeliverDevonGoods:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the DEVON GOODS. I'll be waiting.$"
-
-DewfordTown_Text_BrineyLandedInSlateport:
-	.string "MR. BRINEY: Ahoy! We've made land in\n"
-	.string "SLATEPORT!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
-
-Route109_Text_BrineyWhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
-
-Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
-
-Route109_Text_ChillAtMyPapasSpot:
-	.string "Yo, TRAINERS!\n"
-=======
 Route109_Text_BrineyDeliverDevonGoods: @ 81EED5E
 	.string "Mr. Briney: Then you go on and deliver\n"
 	.string "the Devon Goods. I'll be waiting.$"
@@ -554,7 +514,6 @@ Route109_Text_BrineyTellMeWhenYouNeedToSail: @ 81EEE72
 
 Route109_Text_ChillAtMyPapasSpot: @ 81EEEB4
 	.string "Yo, Trainers!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Whether you're hot to trot,\l"
 	.string "or cool cat not,\l"
 	.string "chill at my papa's spot!$"
@@ -589,31 +548,17 @@ Route109_Text_ZigzagoonPicksUpLitter:
 	.string "If we pollute the sea, it all comes\n"
 	.string "back to haunt us eventually.$"
 
-<<<<<<< HEAD
-Route109_Text_ZigzagoonCry:
-	.string "ZIGZAGOON: Guguu?$"
-
-Route109_Text_SeashoreHouseSign:
-	.string "SEASHORE HOUSE\p"
-=======
 Route109_Text_ZigzagoonCry: @ 81EF173
 	.string "Zigzagoon: Guguu?$"
 
 Route109_Text_SeashoreHouseSign: @ 81EF185
 	.string "Seashore House\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“May hot battles rage on hot sands!\n"
 	.string "The place for hot Trainers!”$"
 
-<<<<<<< HEAD
-Route109_Text_TrainerTipsSign:
-	.string "TRAINER TIPS\p"
-	.string "POKéMON at the same level may not\n"
-=======
 Route109_Text_TrainerTipsSign: @ 81EF1D5
 	.string "Trainer Tips\p"
 	.string "Pokémon at the same level may not\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "always have identical stats.\p"
 	.string "Pokémon raised by Trainers are said\n"
 	.string "to grow stronger than wild Pokémon.$"

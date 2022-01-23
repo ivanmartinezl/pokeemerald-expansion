@@ -233,36 +233,11 @@ BattleFrontier_OutsideEast_EventScript_Camper::
 	msgbox BattleFrontier_OutsideEast_Text_StickyMonWithLongTail, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-BattleFrontier_OutsideEast_Text_BattleTowerSign:
-	.string "This is the BATTLE TOWER!\n"
-=======
 BattleFrontier_OutsideEast_Text_BattleTowerSign: @ 8242E11
 	.string "This is the Battle Tower!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Keep the win streak as the toughest\l"
 	.string "Trainer!$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideEast_Text_BattlePalaceSign:
-	.string "This is the BATTLE PALACE!\n"
-	.string "Keep your eyes on POKéMON battles!$"
-
-BattleFrontier_OutsideEast_Text_BattleArenaSign:
-	.string "This is the BATTLE ARENA!\n"
-	.string "Let the toughest teams gather!$"
-
-BattleFrontier_OutsideEast_Text_BattlePyramidSign:
-	.string "This is the BATTLE PYRAMID!\n"
-	.string "Advance through the Battle Quest!$"
-
-BattleFrontier_OutsideEast_Text_RankingHallSign:
-	.string "BATTLE FRONTIER RANKING HALL\n"
-	.string "Set your sights on new records!$"
-
-BattleFrontier_OutsideEast_Text_ExchangeCornerSign:
-	.string "BATTLE POINT EXCHANGE SERVICE CORNER\n"
-=======
 BattleFrontier_OutsideEast_Text_BattlePalaceSign: @ 8242E58
 	.string "This is the Battle Palace!\n"
 	.string "Keep your eyes on Pokémon battles!$"
@@ -281,7 +256,6 @@ BattleFrontier_OutsideEast_Text_RankingHallSign: @ 8242F0D
 
 BattleFrontier_OutsideEast_Text_ExchangeCornerSign: @ 8242F4A
 	.string "Battle Point Exchange Service Corner\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Exchange your Battle Points!$"
 
 BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial:
@@ -298,13 +272,8 @@ BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier:
 	.string "I… I'm going to ask Mimi next door\n"
 	.string "if she will be friends with me!$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideEast_Text_PyramidTooHarsh:
-	.string "The BATTLE PYRAMID's too harsh!\n"
-=======
 BattleFrontier_OutsideEast_Text_PyramidTooHarsh: @ 824308C
 	.string "The Battle Pyramid's too harsh!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I just can't make it to the top!\p"
 	.string "Since I'm out of options, maybe I can\n"
 	.string "climb the outside…$"
@@ -322,37 +291,22 @@ BattleFrontier_OutsideEast_Text_PutTogetherUltimateTeam:
 	.string "I can't see myself losing, no joke.\n"
 	.string "We're storming the Battle Arena!$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideEast_Text_DidScottBringYouHere:
-	.string "Did SCOTT bring you here, too?\n"
-=======
 BattleFrontier_OutsideEast_Text_DidScottBringYouHere: @ 8243230
 	.string "Did Scott bring you here, too?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "What is it with that guy?\p"
 	.string "It sounds like he really does know\n"
 	.string "how to spot talented Trainers, but…\p"
 	.string "I've never seen him battling in person\n"
 	.string "ever.$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideEast_Text_BelieveInYouBuddy:
-	.string "ZIGG!\n"
-=======
 BattleFrontier_OutsideEast_Text_BelieveInYouBuddy: @ 82432DD
 	.string "Zigg!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I believe in you, little buddy!\p"
 	.string "I'll make my little Zigg any favorite\n"
 	.string "tasty treats you like if you win!$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideEast_Text_ZigzagoonLooksVacant:
-	.string "ZIGZAGOON looks vacant…$"
-=======
 BattleFrontier_OutsideEast_Text_ZigzagoonLooksVacant: @ 824334B
 	.string "Zigzagoon looks vacant…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody:
 	.string "People call me a busybody,\n"
@@ -369,13 +323,8 @@ BattleFrontier_OutsideEast_Text_OnceBeatGymLeader:
 	.string "Who knows, maybe I should give it\n"
 	.string "another shot at glory.$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideEast_Text_FastOnBikeAndBattles:
-	.string "I'm fast on my BIKE, and that goes for\n"
-=======
 BattleFrontier_OutsideEast_Text_FastOnBikeAndBattles: @ 82434A0
 	.string "I'm fast on my Bike, and that goes for\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the way I battle, too.\p"
 	.string "I win matches in the blink of\n"
 	.string "an eye!$"
@@ -460,15 +409,9 @@ BattleFrontier_OutsideEast_Text_PowerOfOurLoveWillOvercome:
 	.string "Why, before us, darling, everything\n"
 	.string "will topple like dominoes!$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers:
-	.string "The BATTLE FRONTIER isn't exclusively\n"
-	.string "for tough TRAINERS.\p"
-=======
 BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers: @ 8243B68
 	.string "The Battle Frontier isn't exclusively\n"
 	.string "for tough Trainers.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Many people with special abilities\n"
 	.string "have been invited, it seems.\p"
 	.string "That man Scott…\p"

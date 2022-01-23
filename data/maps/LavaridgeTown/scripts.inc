@@ -276,13 +276,8 @@ LavaridgeTown_EventScript_HerbShopSign::
 	msgbox LavaridgeTown_Text_HerbShopSign, MSGBOX_SIGN
 	end
 
-<<<<<<< HEAD
-LavaridgeTown_Text_MayNiceBadgesTakeThis:
-	.string "MAY: {PLAYER}{KUN}! Long time no see!\p"
-=======
 LavaridgeTown_Text_MayNiceBadgesTakeThis: @ 81EA7C0
 	.string "May: {PLAYER}{KUN}! Long time no see!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Oh? While I visited the hot springs,\n"
 	.string "you got the Lavaridge Gym Badge.\p"
 	.string "You must have collected\n"
@@ -291,13 +286,8 @@ LavaridgeTown_Text_MayNiceBadgesTakeThis: @ 81EA7C0
 	.string "I guess it would be okay for you to\n"
 	.string "have this.$"
 
-<<<<<<< HEAD
-LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
-	.string "MAY: With those GO-GOGGLES, you'll\n"
-=======
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad: @ 81EA897
 	.string "May: With those Go-Goggles, you'll\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "have no trouble getting through the\l"
 	.string "desert near Route 111.\p"
 	.string "But, wow, {PLAYER}{KUN}…\n"
@@ -308,26 +298,16 @@ LavaridgeTown_Text_MayExplainGoGogglesChallengeDad: @ 81EA897
 	.string "your dad in Petalburg Gym.\p"
 	.string "See you again!$"
 
-<<<<<<< HEAD
-LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
-	.string "BRENDAN: {PLAYER}, hey, it's been a while.\n"
-=======
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis: @ 81EA9A2
 	.string "Brendan: {PLAYER}, hey, it's been a while.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "How's it going?\p"
 	.string "Hmm…\n"
 	.string "That's a decent collection of Badges.\p"
 	.string "All right, then.\n"
 	.string "You may as well have this.$"
 
-<<<<<<< HEAD
-LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
-	.string "BRENDAN: Keep those with you if you're\n"
-=======
 LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad: @ 81EAA2E
 	.string "Brendan: Keep those with you if you're\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "planning on going into that desert near\l"
 	.string "Route 111.\p"
 	.string "There should be some Pokémon that\n"
@@ -340,13 +320,8 @@ LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad: @ 81EAA2E
 	.string "he really is tough.\p"
 	.string "See you around!$"
 
-<<<<<<< HEAD
-LavaridgeTown_Text_HaveEggWillYouTakeIt:
-	.string "I have here an EGG.\p"
-=======
 LavaridgeTown_Text_HaveEggWillYouTakeIt: @ 81EAB80
 	.string "I have here an Egg.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'd hoped to hatch it by covering it in\n"
 	.string "hot sand by the hot springs.\l"
 	.string "But that doesn't seem to be enough…\p"
@@ -362,36 +337,21 @@ LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:
 	.string "Good! I hope you'll walk plenty with\n"
 	.string "this here Egg!$"
 
-<<<<<<< HEAD
-LavaridgeTown_Text_ReceivedTheEgg:
-	.string "{PLAYER} received the EGG.$"
-
-LavaridgeTown_Text_NoRoomForThisEgg:
-	.string "Oh? You've too many POKéMON.\n"
-	.string "There's no room for this EGG…$"
-=======
 LavaridgeTown_Text_ReceivedTheEgg: @ 81EACF4
 	.string "{PLAYER} received the Egg.$"
 
 LavaridgeTown_Text_NoRoomForThisEgg: @ 81EAD09
 	.string "Oh? You've too many Pokémon.\n"
 	.string "There's no room for this Egg…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LavaridgeTown_Text_AsYouWishThen:
 	.string "As you wish, then…\p"
 	.string "If you have a change of heart about\n"
 	.string "hatching this Egg, I will be here.$"
 
-<<<<<<< HEAD
-LavaridgeTown_Text_EverySoOftenEggFoundAtDayCare:
-	.string "Every so often, an EGG will be found at\n"
-	.string "the POKéMON DAY CARE.\p"
-=======
 LavaridgeTown_Text_EverySoOftenEggFoundAtDayCare: @ 81EAD9E
 	.string "Every so often, an Egg will be found at\n"
 	.string "the Pokémon Day Care.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Or at least that's how the rumor goes.$"
 
 LavaridgeTown_Text_HotSpringsNeverRunDry:
@@ -420,13 +380,8 @@ LavaridgeTown_Text_BatheInHotSpringsEveryDay:
 	.string "I want to become a beautiful and strong\n"
 	.string "Gym Leader like Flannery.$"
 
-<<<<<<< HEAD
-LavaridgeTown_Text_IfPokemonInHotSprings:
-	.string "If people put POKéMON in hot springs,\n"
-=======
 LavaridgeTown_Text_IfPokemonInHotSprings: @ 81EB003
 	.string "If people put Pokémon in hot springs,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "it might be seriously strange.\p"
 	.string "Why, it might be an electric bath, or\n"
 	.string "a bubble bath, or even a lava bath…$"
@@ -438,20 +393,6 @@ LavaridgeTown_Text_HotSpringsClaims:
 	.string "romantic problems, and attracting\l"
 	.string "money…$"
 
-<<<<<<< HEAD
-LavaridgeTown_Text_TownSign:
-	.string "LAVARIDGE TOWN\p"
-	.string "“POKéMON CENTER HOT SPRINGS\n"
-	.string "An excellent place for relaxing!”$"
-
-LavaridgeTown_Text_GymSign:
-	.string "LAVARIDGE TOWN POKéMON GYM\n"
-	.string "LEADER: FLANNERY\l"
-	.string "“One with a fiery passion that burns!”$"
-
-LavaridgeTown_Text_HerbShopSign:
-	.string "POKéMON HERB SHOP\n"
-=======
 LavaridgeTown_Text_TownSign: @ 81EB12B
 	.string "Lavaridge Town\p"
 	.string "“Pokémon Center Hot Springs\n"
@@ -464,6 +405,5 @@ LavaridgeTown_Text_GymSign: @ 81EB178
 
 LavaridgeTown_Text_HerbShopSign: @ 81EB1CB
 	.string "Pokémon Herb Shop\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“Bitter taste--better cure!”$"
 

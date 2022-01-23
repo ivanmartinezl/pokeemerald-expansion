@@ -65,13 +65,8 @@ Route110_TrickHousePuzzle1_Text_EddiePostBattle:
 	.string "I lost my way, I lost a battle, and I'm\n"
 	.string "now even more lost… I can't get out…$"
 
-<<<<<<< HEAD
-Route110_TrickHousePuzzle1_Text_RobinIntro:
-	.string "Just who is the TRICK MASTER?$"
-=======
 Route110_TrickHousePuzzle1_Text_RobinIntro: @ 826BB10
 	.string "Just who is the Trick Master?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route110_TrickHousePuzzle1_Text_RobinDefeat:
 	.string "I lost while I was lost in thought!$"

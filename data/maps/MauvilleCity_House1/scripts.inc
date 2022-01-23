@@ -30,13 +30,8 @@ MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
 	.string "I like that!\n"
 	.string "Here, take this Hidden Machine!$"
 
-<<<<<<< HEAD
-MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "That HM contains ROCK SMASH.\p"
-=======
 MauvilleCity_House1_Text_ExplainRockSmash: @ 820FAA9
 	.string "That HM contains Rock Smash.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "If you come across large boulders\n"
 	.string "that block your path…\p"
 	.string "Well, use that HM move and smash\n"
@@ -44,13 +39,8 @@ MauvilleCity_House1_Text_ExplainRockSmash: @ 820FAA9
 	.string "Yes, sir! Smash rocks aside, I say!\n"
 	.string "Woohoo!$"
 
-<<<<<<< HEAD
-MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
-=======
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock: @ 820FB67
 	.string "Oh, yes, if you smash a rock, a Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "could come flying out of hiding.\p"
 	.string "Woohoo!$"
 

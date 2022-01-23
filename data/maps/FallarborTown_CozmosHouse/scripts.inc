@@ -64,13 +64,8 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy::
 	release
 	end
 
-<<<<<<< HEAD
-FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
-	.string "PROF. COZMO: Oh…\n"
-=======
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow: @ 8200FEE
 	.string "Prof. Cozmo: Oh…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I never should have let myself be\l"
 	.string "conned into telling Team Magma where\l"
 	.string "you can find Meteorites…\p"
@@ -88,39 +83,6 @@ FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
 	.string "I'm not asking for it for free.\n"
 	.string "How about in exchange for this TM?$"
 
-<<<<<<< HEAD
-FallarborTown_CozmosHouse_Text_PleaseUseThisTM:
-	.string "PROF. COZMO: This TM, it represents\n"
-	.string "my feeling of gratitude.\l"
-	.string "Please use it!$"
-
-FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch:
-	.string "PROF. COZMO: Oh, I can't believe it.\n"
-	.string "This is really, really great!\p"
-	.string "This is really going to help my research!$"
-
-FallarborTown_CozmosHouse_Text_CrushedWithDisappointment:
-	.string "PROF. COZMO: Oh, but…\n"
-	.string "I'm crushed with disappointment…$"
-
-FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
-	.string "PROF. COZMO: Please, may I have that\n"
-	.string "METEORITE?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
-
-FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls:
-	.string "PROF. COZMO went off to METEOR FALLS\n"
-	.string "on ROUTE 114 with some people from\l"
-	.string "TEAM MAGMA.$"
-
-FallarborTown_CozmosHouse_Text_FeelSorryForCozmo:
-	.string "Poor PROF. COZMO…\n"
-	.string "He's so depressed… I feel sorry for him.$"
-
-FallarborTown_CozmosHouse_Text_CozmoIsSoHappy:
-	.string "Look at PROF. COZMO…\n"
-=======
 FallarborTown_CozmosHouse_Text_PleaseUseThisTM: @ 8201159
 	.string "Prof. Cozmo: This TM, it represents\n"
 	.string "my feeling of gratitude.\l"
@@ -152,6 +114,5 @@ FallarborTown_CozmosHouse_Text_FeelSorryForCozmo: @ 8201310
 
 FallarborTown_CozmosHouse_Text_CozmoIsSoHappy: @ 820134B
 	.string "Look at Prof. Cozmo…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "He's so happy! I think it's cute.$"
 

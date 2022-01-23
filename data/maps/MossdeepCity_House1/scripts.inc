@@ -25,13 +25,8 @@ MossdeepCity_House1_Text_HmmYourPokemon:
 	.string "Hmm!\n"
 	.string "Your {STR_VAR_1}…$"
 
-<<<<<<< HEAD
-MossdeepCity_House1_Text_ItLikesXPokeblocks:
-	.string "It likes {STR_VAR_1}S,\n"
-=======
 MossdeepCity_House1_Text_ItLikesXPokeblocks: @ 822201D
 	.string "It likes {STR_VAR_1}s,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "doesn't it?\p"
 	.string "No, I'm positive of it! It definitely\n"
 	.string "likes {STR_VAR_1}s!$"

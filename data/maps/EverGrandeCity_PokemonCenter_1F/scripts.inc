@@ -76,16 +76,6 @@ EverGrandeCity_PokemonCenter_1F_Movement_ScottExit:
 	walk_down
 	step_end
 
-<<<<<<< HEAD
-EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
-	.string "The POKéMON LEAGUE is only a short\n"
-	.string "distance after the VICTORY ROAD.\p"
-	.string "If you've come this far, what choice\n"
-	.string "do you have but to keep going?$"
-
-EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
-	.string "The long and harrowing VICTORY ROAD…\p"
-=======
 EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad: @ 8229ADA
 	.string "The Pokémon League is only a short\n"
 	.string "distance after the Victory Road.\p"
@@ -94,21 +84,14 @@ EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad: @ 8229ADA
 
 EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon: @ 8229B62
 	.string "The long and harrowing Victory Road…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's like reliving the path one has\n"
 	.string "traveled in life…\p"
 	.string "Believe in your Pokémon and give it\n"
 	.string "your very best!$"
 
-<<<<<<< HEAD
-EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "SCOTT: {PLAYER}{KUN}, you've clawed your\n"
-	.string "way up to face the POKéMON LEAGUE!\p"
-=======
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou: @ 8229BF1
 	.string "Scott: {PLAYER}{KUN}, you've clawed your\n"
 	.string "way up to face the Pokémon League!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm happy for you!\n"
 	.string "You made my cheering worthwhile!\p"
 	.string "{PLAYER}{KUN}, if you were to become\n"

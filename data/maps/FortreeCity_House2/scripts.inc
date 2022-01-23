@@ -41,13 +41,8 @@ FortreeCity_House2_EventScript_WrongGuess::
 	release
 	end
 
-<<<<<<< HEAD
-FortreeCity_House2_Text_HiddenPowersArousedByNature:
-	.string "People… POKéMON…\p"
-=======
 FortreeCity_House2_Text_HiddenPowersArousedByNature: @ 8217882
 	.string "People… Pokémon…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Their hidden powers are aroused by\n"
 	.string "living in natural environments…$"
 
@@ -76,15 +71,9 @@ FortreeCity_House2_Text_YourHiddenPowerHasAwoken:
 	.string "Here, take this and awaken the hidden\n"
 	.string "power of your Pokémon.$"
 
-<<<<<<< HEAD
-FortreeCity_House2_Text_ExplainHiddenPower:
-	.string "HIDDEN POWER is a move that changes\n"
-	.string "with the POKéMON.$"
-=======
 FortreeCity_House2_Text_ExplainHiddenPower: @ 8217A91
 	.string "Hidden Power is a move that changes\n"
 	.string "with the Pokémon.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 FortreeCity_House2_Text_YouGuessedWrong:
 	.string "No, too bad.\n"

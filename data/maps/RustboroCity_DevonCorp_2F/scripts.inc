@@ -291,13 +291,8 @@ RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls:
 	.string "the Devon Corporation.\p"
 	.string "Please give them a try!$"
 
-<<<<<<< HEAD
-RustboroCity_DevonCorp_2F_Text_IMadePokenav:
-	.string "I made the POKéNAV!\p"
-=======
 RustboroCity_DevonCorp_2F_Text_IMadePokenav: @ 8211D9F
 	.string "I made the Pokénav!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "As an engineer, I feel blessed to have\n"
 	.string "made something so great!$"
 
@@ -350,13 +345,8 @@ RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher:
 	.string "{PLAYER} handed the {STR_VAR_1} to\n"
 	.string "the Devon Researcher.$"
 
-<<<<<<< HEAD
-RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime:
-	.string "The FOSSIL REGENERATOR, which I made,\n"
-=======
 RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime: @ 82121A2
 	.string "The Fossil Regenerator, which I made,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "is incredible.\p"
 	.string "But it has one drawback--it takes\n"
 	.string "a long time to work.\p"
@@ -375,13 +365,8 @@ RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher:
 	.string "the Devon Researcher.$"
 
 @ Unused
-<<<<<<< HEAD
-RustboroCity_DevonCorp_2F_Text_TooManyPokemon:
-	.string "Uh-oh, you've got too many POKéMON.\n"
-=======
 RustboroCity_DevonCorp_2F_Text_TooManyPokemon: @ 82122F5
 	.string "Uh-oh, you've got too many Pokémon.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You have no room for this one.$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature:

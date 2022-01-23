@@ -117,13 +117,8 @@ Text_WantToSmash:
 	.string "This rock appears to be breakable.\n"
 	.string "Would you like to use Rock Smash?$"
 
-<<<<<<< HEAD
-Text_CantSmash:
-	.string "It's a rugged rock, but a POKéMON\n"
-=======
 Text_CantSmash: @ 829087F
 	.string "It's a rugged rock, but a Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "may be able to smash it.$"
 
 EventScript_StrengthBoulder::
@@ -169,29 +164,11 @@ EventScript_CancelStrength::
 	releaseall
 	end
 
-<<<<<<< HEAD
-Text_WantToStrength:
-	.string "It's a big boulder, but a POKéMON\n"
-=======
 Text_WantToStrength: @ 829092C
 	.string "It's a big boulder, but a Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "may be able to push it aside.\p"
 	.string "Would you like to use Strength?$"
 
-<<<<<<< HEAD
-Text_MonUsedStrength:
-	.string "{STR_VAR_1} used STRENGTH!\p"
-	.string "{STR_VAR_1}'s STRENGTH made it\n"
-	.string "possible to move boulders around!$"
-
-Text_CantStrength:
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.$"
-
-Text_StrengthActivated:
-	.string "STRENGTH made it possible to move\n"
-=======
 Text_MonUsedStrength: @ 829098C
 	.string "{STR_VAR_1} used Strength!\p"
 	.string "{STR_VAR_1}'s Strength made it\n"
@@ -203,7 +180,6 @@ Text_CantStrength: @ 82909D6
 
 Text_StrengthActivated: @ 8290A16
 	.string "Strength made it possible to move\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "boulders around.$"
 
 EventScript_UseWaterfall::
@@ -236,13 +212,8 @@ Text_WantToWaterfall:
 	.string "It's a large waterfall.\n"
 	.string "Would you like to use Waterfall?$"
 
-<<<<<<< HEAD
-Text_MonUsedWaterfall:
-	.string "{STR_VAR_1} used WATERFALL.$"
-=======
 Text_MonUsedWaterfall: @ 8290AFC
 	.string "{STR_VAR_1} used Waterfall.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 EventScript_UseDive::
 	lockall
@@ -291,26 +262,16 @@ EventScript_EndSurface::
 	releaseall
 	end
 
-<<<<<<< HEAD
-Text_CantDive:
-	.string "The sea is deep here. A POKéMON\n"
-=======
 Text_CantDive: @ 8290BAA
 	.string "The sea is deep here. A Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "may be able to go underwater.$"
 
 Text_WantToDive:
 	.string "The sea is deep here.\n"
 	.string "Would you like to use Dive?$"
 
-<<<<<<< HEAD
-Text_MonUsedDive:
-	.string "{STR_VAR_1} used DIVE.$"
-=======
 Text_MonUsedDive: @ 8290C1A
 	.string "{STR_VAR_1} used Dive.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Text_CantSurface:
 	.string "Light is filtering down from above.\n"

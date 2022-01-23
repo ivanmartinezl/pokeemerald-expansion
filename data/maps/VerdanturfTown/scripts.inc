@@ -86,13 +86,8 @@ VerdanturfTown_Text_AirCleanHere:
 	.string "Living here should do wonders for even\l"
 	.string "frail and sickly people.$"
 
-<<<<<<< HEAD
-VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "My POKéMON and I, we've been riding\n"
-=======
 VerdanturfTown_Text_MakeBattleTentDebut: @ 81EB7E2
 	.string "My Pokémon and I, we've been riding\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "a hot winning streak.\p"
 	.string "So I decided to make my Battle Tent\n"
 	.string "debut in this town.$"
@@ -106,34 +101,12 @@ VerdanturfTown_Text_GuyTryingToBustThroughCave:
 	.string "It'd be great if we could go through…\n"
 	.string "It'll make it easy to visit Rustboro.$"
 
-<<<<<<< HEAD
-VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "That cave next to the POKéMON MART\n"
-=======
 VerdanturfTown_Text_EasyToGetToRustboroNow: @ 81EB935
 	.string "That cave next to the Pokémon Mart\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "is now a tunnel to the other side.\p"
 	.string "It's great--it's easy to go shop for\n"
 	.string "new Devon products in Rustboro now.$"
 
-<<<<<<< HEAD
-VerdanturfTown_Text_TownSign:
-	.string "VERDANTURF TOWN\p"
-	.string "“The windswept highlands with the\n"
-	.string "sweet fragrance of grass.”$"
-
-VerdanturfTown_Text_WandasHouse:
-	.string "WANDA'S HOUSE$"
-
-VerdanturfTown_Text_BattleTentSign:
-	.string "BATTLE TENT VERDANTURF SITE\n"
-	.string "“Feast Your Eyes on Battles!”$"
-
-VerdanturfTown_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-=======
 VerdanturfTown_Text_TownSign: @ 81EB9C4
 	.string "Verdanturf Town\p"
 	.string "“The windswept highlands with the\n"
@@ -149,7 +122,6 @@ VerdanturfTown_Text_BattleTentSign: @ 81EBA1F
 VerdanturfTown_Text_RusturfTunnelSign: @ 81EBA59
 	.string "Rusturf Tunnel\n"
 	.string "“Linking Rustboro and Verdanturf\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“The tunnel project has been\n"
 	.string "canceled.”$"
 

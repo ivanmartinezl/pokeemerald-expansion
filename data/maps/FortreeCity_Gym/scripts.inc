@@ -132,13 +132,8 @@ FortreeCity_Gym_EventScript_GymStatue::
 	releaseall
 	end
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-\n"
-=======
 FortreeCity_Gym_Text_GymGuideAdvice: @ 8216785
 	.string "Yo, how's it going, Champion-\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "bound {PLAYER}?\p"
 	.string "Fortree Gym Leader Winona is\n"
 	.string "a master of Flying-type Pokémon.\p"
@@ -160,28 +155,16 @@ FortreeCity_Gym_Text_JaredDefeat:
 	.string "You…\n"
 	.string "You're strong…$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_JaredPostBattle:
-	.string "A TRAINER has to be smart to keep\n"
-=======
 FortreeCity_Gym_Text_JaredPostBattle: @ 82168E7
 	.string "A Trainer has to be smart to keep\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "up with unexpected turns of events.\p"
 	.string "Do you have the smarts to get to\n"
 	.string "our Leader?$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_EdwardoIntro:
-	.string "The lovers of BIRD POKéMON aspire\n"
-	.string "to join this GYM.\p"
-	.string "As a member of the FORTREE GYM,\n"
-=======
 FortreeCity_Gym_Text_EdwardoIntro: @ 821695A
 	.string "The lovers of Bird Pokémon aspire\n"
 	.string "to join this Gym.\p"
 	.string "As a member of the Fortree Gym,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm not allowed to lose!$"
 
 FortreeCity_Gym_Text_EdwardoDefeat:
@@ -194,24 +177,6 @@ FortreeCity_Gym_Text_EdwardoPostBattle:
 	.string "I'm going to keep training and make\n"
 	.string "myself even stronger.$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_FlintIntro:
-	.string "There's no need for WINONA, our GYM\n"
-	.string "LEADER, to deal with you!\p"
-	.string "I'm plenty good enough for you!$"
-
-FortreeCity_Gym_Text_FlintDefeat:
-	.string "WINONA, I…\n"
-	.string "I lost!$"
-
-FortreeCity_Gym_Text_FlintPostBattle:
-	.string "WINONA is cute and she's strong.\n"
-	.string "She's the ultimate LEADER!\p"
-	.string "Blush…$"
-
-FortreeCity_Gym_Text_AshleyIntro:
-	.string "WINONA taught me personally!\n"
-=======
 FortreeCity_Gym_Text_FlintIntro: @ 8216A66
 	.string "There's no need for Winona, our Gym\n"
 	.string "Leader, to deal with you!\p"
@@ -228,27 +193,17 @@ FortreeCity_Gym_Text_FlintPostBattle: @ 8216AD7
 
 FortreeCity_Gym_Text_AshleyIntro: @ 8216B1A
 	.string "Winona taught me personally!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You can't beat me easily!$"
 
 FortreeCity_Gym_Text_AshleyDefeat:
 	.string "I was beaten…$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_AshleyPostBattle:
-	.string "Thanks to WINONA, the people of\n"
-	.string "FORTREE can live without fear.$"
-
-FortreeCity_Gym_Text_HumbertoIntro:
-	.string "When WINONA takes to battle, her face\n"
-=======
 FortreeCity_Gym_Text_AshleyPostBattle: @ 8216B5F
 	.string "Thanks to Winona, the people of\n"
 	.string "Fortree can live without fear.$"
 
 FortreeCity_Gym_Text_HumbertoIntro: @ 8216B9E
 	.string "When Winona takes to battle, her face\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "shines with beautiful determination…\p"
 	.string "I'm not letting you witness that\n"
 	.string "lovely sight!$"
@@ -275,51 +230,29 @@ FortreeCity_Gym_Text_DariusPostBattle:
 	.string "But you'd better watch it! Our Leader\l"
 	.string "Winona's Pokémon are all business.$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_WinonaIntro:
-	.string "I am WINONA. I am the LEADER of\n"
-	.string "the FORTREE POKéMON GYM.\p"
-	.string "I have become one with BIRD POKéMON\n"
-=======
 FortreeCity_Gym_Text_WinonaIntro: @ 8216D75
 	.string "I am Winona. I am the Leader of\n"
 	.string "the Fortree Pokémon Gym.\p"
 	.string "I have become one with Bird Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "and have soared the skies…\p"
 	.string "However grueling the battle, we have\n"
 	.string "triumphed with grace…\p"
 	.string "Witness the elegant choreography\n"
 	.string "of Bird Pokémon and I!$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_WinonaDefeat:
-	.string "Never before have I seen a TRAINER\n"
-	.string "command POKéMON with more grace\l"
-=======
 FortreeCity_Gym_Text_WinonaDefeat: @ 8216E60
 	.string "Never before have I seen a Trainer\n"
 	.string "command Pokémon with more grace\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "than I…\p"
 	.string "In recognition of your prowess,\n"
 	.string "I present to you this Gym Badge.$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_ReceivedFeatherBadge:
-	.string "{PLAYER} received the FEATHER BADGE\n"
-	.string "from WINONA.$"
-
-FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-	.string "With the FEATHER BADGE, all POKéMON up\n"
-=======
 FortreeCity_Gym_Text_ReceivedFeatherBadge: @ 8216EEC
 	.string "{PLAYER} received the Feather Badge\n"
 	.string "from Winona.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis: @ 8216F17
 	.string "With the Feather Badge, all Pokémon up\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "to LV 70, even those received through\l"
 	.string "trades, will obey your every command.\p"
 	.string "You will also be able to use\n"
@@ -327,43 +260,20 @@ FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis: @ 8216F17
 	.string "And this…\n"
 	.string "This is a gift from me.$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_ExplainAerialAce:
-	.string "TM40 contains AERIAL ACE.\p"
-=======
 FortreeCity_Gym_Text_ExplainAerialAce: @ 8216FEC
 	.string "TM40 contains Aerial Ace.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Its speed…\n"
 	.string "No Pokémon should be able to avoid it.\p"
 	.string "… … … … … …$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_RegisteredWinona:
-	.string "Registered GYM LEADER WINONA\n"
-	.string "in the POKéNAV.$"
-=======
 FortreeCity_Gym_Text_RegisteredWinona: @ 8217044
 	.string "Registered Gym Leader Winona\n"
 	.string "in the Pokénav.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 FortreeCity_Gym_Text_WinonaPostBattle:
 	.string "Though I fell to you, I will remain\n"
 	.string "devoted to Bird Pokémon.$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_GymStatue:
-	.string "FORTREE CITY POKéMON GYM$"
-
-FortreeCity_Gym_Text_GymStatueCertified:
-	.string "FORTREE CITY POKéMON GYM\p"
-	.string "WINONA'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
-
-FortreeCity_Gym_Text_WinonaPreRematch:
-	.string "WINONA: We humans can never escape\n"
-=======
 FortreeCity_Gym_Text_GymStatue: @ 82170AE
 	.string "Fortree City Pokémon Gym$"
 
@@ -374,7 +284,6 @@ FortreeCity_Gym_Text_GymStatueCertified: @ 82170C7
 
 FortreeCity_Gym_Text_WinonaPreRematch: @ 8217100
 	.string "Winona: We humans can never escape\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "gravity's pull on the ground.\p"
 	.string "But by striving for excellence,\n"
 	.string "we have the power to soar!\p"
@@ -386,25 +295,15 @@ FortreeCity_Gym_Text_WinonaPreRematch: @ 8217100
 FortreeCity_Gym_Text_WinonaRematchDefeat:
 	.string "I failed to reach your height again…$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_WinonaPostRematch:
-	.string "WINONA: Even though I have lost,\n"
-=======
 FortreeCity_Gym_Text_WinonaPostRematch: @ 821720B
 	.string "Winona: Even though I have lost,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the wings of my heart remain unbroken.\p"
 	.string "I can rise and soar again and\n"
 	.string "yet again.\p"
 	.string "I am convinced of it!$"
 
-<<<<<<< HEAD
-FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
-	.string "WINONA: We humans can never escape\n"
-=======
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons: @ 8217292
 	.string "Winona: We humans can never escape\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "gravity's pull on the ground.\p"
 	.string "But by striving for excellence,\n"
 	.string "we have the power to soar!\p"

@@ -101,24 +101,14 @@ FallarborTown_PokemonCenter_1F_Text_LanetteGreeting:
 	.string "If you could, please visit me at home.\n"
 	.string "My house is on Route 114.$"
 
-<<<<<<< HEAD
-FallarborTown_PokemonCenter_1F_Text_FossilManiacEdgeOfTown:
-	.string "I wonder what POKéMON looked like\n"
-=======
 FallarborTown_PokemonCenter_1F_Text_FossilManiacEdgeOfTown: @ 8200E22
 	.string "I wonder what Pokémon looked like\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "long, long ago?\p"
 	.string "Maybe the Fossil Maniac at the edge\n"
 	.string "of town will know.$"
 
-<<<<<<< HEAD
-FallarborTown_PokemonCenter_1F_Text_PlantHardyTrees:
-	.string "In the fields of FALLARBOR, we plant\n"
-=======
 FallarborTown_PokemonCenter_1F_Text_PlantHardyTrees: @ 8200E8B
 	.string "In the fields of Fallarbor, we plant\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "seedlings of hardy trees that thrive\l"
 	.string "even in volcanic ash.$"
 

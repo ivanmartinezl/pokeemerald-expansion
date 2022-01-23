@@ -55,32 +55,19 @@ Route114_FossilManiacsTunnel_EventScript_PlayerRevivedFossil::
 	release
 	end
 
-<<<<<<< HEAD
-Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
-	.string "I'm the FOSSIL MANIAC…\n"
-	.string "I'm a nice guy who loves FOSSILS…\p"
-	.string "Do you want a FOSSIL?\p"
-	.string "But the FOSSILS around these parts all\n"
-=======
 Route114_FossilManiacsTunnel_Text_LookInDesertForFossils: @ 822AFD0
 	.string "I'm the Fossil Maniac…\n"
 	.string "I'm a nice guy who loves Fossils…\p"
 	.string "Do you want a Fossil?\p"
 	.string "But the Fossils around these parts all\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "belong to me… None for you…\p"
 	.string "If you can't bear to go without\n"
 	.string "a Fossil, look in a desert where there\l"
 	.string "are boulders and sand that may hide\l"
 	.string "Fossils…$"
 
-<<<<<<< HEAD
-Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
-	.string "You found a FOSSIL, didn't you?\n"
-=======
 Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils: @ 822B0D6
 	.string "You found a Fossil, didn't you?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That's so nice… It's so dreamy…\p"
 	.string "What are you going to do with that\n"
 	.string "Fossil?\p"
@@ -90,13 +77,8 @@ Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils: @ 822B0D6
 	.string "I love my Fossils, so I would never\n"
 	.string "do anything like that…$"
 
-<<<<<<< HEAD
-Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:
-	.string "FOSSILS are so… Wonderful…\n"
-=======
 Route114_FossilManiacsTunnel_Text_FossilsAreWonderful: @ 822B1CC
 	.string "Fossils are so… Wonderful…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's so dreamy…$"
 
 Route114_FossilManiacsTunnel_Text_NotSafeThatWay:

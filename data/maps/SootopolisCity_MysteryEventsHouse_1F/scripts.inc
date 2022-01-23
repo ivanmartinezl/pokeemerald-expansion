@@ -175,13 +175,8 @@ SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles:
 SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
 	.string "The door appears to be locked.$"
 
-<<<<<<< HEAD
-SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
-	.string "A TRAINER named {STR_VAR_1}\n"
-=======
 SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer: @ 8227BFC
 	.string "A Trainer named {STR_VAR_1}\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "is visiting my home.\p"
 	.string "Would you like to challenge\n"
 	.string "{STR_VAR_1}?$"

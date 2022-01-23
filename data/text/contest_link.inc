@@ -26,13 +26,8 @@ gText_MoveUsedMostOften::
 	.string "The move used most often:\n"
 	.string "{STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
 
-<<<<<<< HEAD
-gText_MostImpressiveMon::
-	.string "The most impressive POKéMON:\n"
-=======
 gText_MostImpressiveMon:: @ 827E992
 	.string "The most impressive Pokémon:\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{STR_VAR_1}'s {STR_VAR_2}{PAUSE_UNTIL_PRESS}$"
 
 gText_SetEventNumX2::

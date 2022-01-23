@@ -5,13 +5,8 @@ gText_WouldYouLikeToRestYourPkmn::
     .string "to full health.\p"
     .string "Would you like to rest your Pokémon?$"
 
-<<<<<<< HEAD
-gText_IllTakeYourPkmn::
-    .string "Okay, I'll take your POKéMON\n"
-=======
 gText_IllTakeYourPkmn:: @ 8272768
     .string "Okay, I'll take your Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "for a few seconds.$"
 
 gText_RestoredPkmnToFullHealth::
@@ -45,13 +40,8 @@ gText_YouWantTheUsual::
     .string "I'm delighted to see you, {PLAYER}!\n"
     .string "You want the usual, am I right?$"
 
-<<<<<<< HEAD
-gText_IllTakeYourPkmn2::
-    .string "Okay, I'll take your POKéMON\n"
-=======
 gText_IllTakeYourPkmn2:: @ 82729C0
     .string "Okay, I'll take your Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
     .string "for a few seconds.$"
 
 gText_ThankYouForWaiting::

@@ -30,17 +30,10 @@ RustboroCity_PokemonCenter_1F_EventScript_Girl::
 	msgbox RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
-	.string "My POKéMON has a NAIVE nature, and my\n"
-	.string "friend's has a JOLLY nature.\p"
-	.string "It's fascinating how POKéMON have\n"
-=======
 RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities: @ 8214D9F
 	.string "My Pokémon has a Naive nature, and my\n"
 	.string "friend's has a Jolly nature.\p"
 	.string "It's fascinating how Pokémon have\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "personalities!$"
 
 RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:

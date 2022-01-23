@@ -229,13 +229,8 @@ BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
 	.string "Now, please!\n"
 	.string "Up you go!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid:
-	.string "The PYRAMID's new conqueror!\n"
-=======
 BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid: @ 82554E8
 	.string "The Pyramid's new conqueror!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Let the name {PLAYER} be known!$"
 
 BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
@@ -278,13 +273,8 @@ BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle:
 	.string "Now, then!\n"
 	.string "Bring your courage to our battle!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
-	.string "BRANDON: Hahahah! Grand it was!\n"
-=======
 BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease: @ 8255873
 	.string "Brandon: Hahahah! Grand it was!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Grand, yes, indeed!\p"
 	.string "Well done! You've earned recognition!\n"
 	.string "Your Frontier Pass, please!$"
@@ -297,13 +287,8 @@ BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
 	.string "Young explorer!\n"
 	.string "I look forward to our next meeting!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
-	.string "BRANDON: …You've finally returned,\n"
-=======
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned: @ 8255951
 	.string "Brandon: …You've finally returned,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "young explorer…\p"
 	.string "Your love of adventure seems to come\n"
 	.string "deep from within your heart…\p"
@@ -325,13 +310,8 @@ BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
 	.string "Everything you have!\n"
 	.string "I'm braced for it all!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
-	.string "BRANDON: Hahahah!\n"
-=======
 BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis: @ 8255ACD
 	.string "Brandon: Hahahah!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Remarkable!\l"
 	.string "Yes, it's grand, indeed!\p"
 	.string "Young explorer!\p"

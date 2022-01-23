@@ -34,11 +34,6 @@ SootopolisCity_House4_Text_StrollUnderwaterWithPokemon:
 	.string "beautiful to take an underwater\l"
 	.string "stroll with my Pokémon.$"
 
-<<<<<<< HEAD
-SootopolisCity_House4_Text_Azumarill:
-	.string "AZUMARILL: Marurii.$"
-=======
 SootopolisCity_House4_Text_Azumarill: @ 8226E7F
 	.string "Azumarill: Marurii.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

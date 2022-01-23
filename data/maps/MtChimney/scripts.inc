@@ -533,13 +533,8 @@ MtChimney_EventScript_SawyerRematch::
 	msgbox MtChimney_Text_SawyerPostRematch, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-MtChimney_Text_MeteoriteWillActivateVolcano:
-	.string "The power contained in the METEORITE…\p"
-=======
 MtChimney_Text_MeteoriteWillActivateVolcano: @ 822F26A
 	.string "The power contained in the Meteorite…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "By amplifying its power with this\n"
 	.string "machine, Mt. Chimney's volcanic\l"
 	.string "activity will instantly intensify…\p"
@@ -547,13 +542,8 @@ MtChimney_Text_MeteoriteWillActivateVolcano: @ 822F26A
 	.string "the crater and…\l"
 	.string "Fufufu…$"
 
-<<<<<<< HEAD
-MtChimney_Text_MaxieIntro:
-	.string "MAXIE: Hm?\n"
-=======
 MtChimney_Text_MaxieIntro: @ 822F32E
 	.string "Maxie: Hm?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Who are you?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
@@ -584,13 +574,8 @@ MtChimney_Text_MaxieDefeat:
 	.string "What?!\p"
 	.string "I, Maxie, was caught off guard?!$"
 
-<<<<<<< HEAD
-MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "MAXIE: But, enough.\n"
-=======
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma: @ 822F5F7
 	.string "Maxie: But, enough.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I will back off this time.\p"
 	.string "But don't think that this is the last\n"
 	.string "you've seen of Team Magma.\p"
@@ -610,15 +595,6 @@ MtChimney_Text_TabithaDefeat:
 	.string "Even though I've lost, if our leader\n"
 	.string "awakens that thing…$"
 
-<<<<<<< HEAD
-MtChimney_Text_TabithaPostBattle:
-	.string "BOSS, hurry!\n"
-	.string "Give it the METEORITE's energy!\p"
-	.string "Hehehe…$"
-
-MtChimney_Text_Grunt2Intro:
-	.string "We of TEAM MAGMA are working hard for\n"
-=======
 MtChimney_Text_TabithaPostBattle: @ 822F76D
 	.string "Boss, hurry!\n"
 	.string "Give it the Meteorite's energy!\p"
@@ -626,7 +602,6 @@ MtChimney_Text_TabithaPostBattle: @ 822F76D
 
 MtChimney_Text_Grunt2Intro: @ 822F7A2
 	.string "We of Team Magma are working hard for\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "everyone's sake.\p"
 	.string "Like, if that thing's power made more\n"
 	.string "land, there'd be more places to live.\p"
@@ -636,13 +611,8 @@ MtChimney_Text_Grunt2Defeat:
 	.string "Hunh?\n"
 	.string "What do you mean I lost?$"
 
-<<<<<<< HEAD
-MtChimney_Text_Grunt2PostBattle:
-	.string "Our BOSS says, “It will make everyone\n"
-=======
 MtChimney_Text_Grunt2PostBattle: @ 822F859
 	.string "Our Boss says, “It will make everyone\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "happy.”\p"
 	.string "But why does everyone keep getting\n"
 	.string "in our way?$"
@@ -659,36 +629,21 @@ MtChimney_Text_Grunt1PostBattle:
 	.string "A kid like you, you ought to be\n"
 	.string "splashing about in the waves!$"
 
-<<<<<<< HEAD
-MtChimney_Text_TeamAquaAlwaysMessingWithPlans:
-	.string "That annoying TEAM AQUA…\n"
-	.string "They always mess with our plans!$"
-
-MtChimney_Text_MeteoritesPackAmazingPower:
-	.string "METEORITES pack amazing power!$"
-=======
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans: @ 822F978
 	.string "That annoying Team Aqua…\n"
 	.string "They always mess with our plans!$"
 
 MtChimney_Text_MeteoritesPackAmazingPower: @ 822F9B2
 	.string "Meteorites pack amazing power!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MtChimney_Text_YouBetterNotMessWithUs:
 	.string "You'd better not mess with us!\p"
 	.string "We're trying to awaken that thing\n"
 	.string "for the benefit of everyone!$"
 
-<<<<<<< HEAD
-MtChimney_Text_AquasNameSimilar:
-	.string "We're TEAM MAGMA!\p"
-	.string "They're TEAM AQUA!\p"
-=======
 MtChimney_Text_AquasNameSimilar: @ 822FA2F
 	.string "We're Team Magma!\p"
 	.string "They're Team Aqua!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It totally annoys me that they'd\n"
 	.string "use a name like ours!$"
 
@@ -702,13 +657,8 @@ MtChimney_Text_KeepMakingMoreLand:
 MtChimney_Text_Bufoh:
 	.string "Bufoh!$"
 
-<<<<<<< HEAD
-MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "ARCHIE: Grr, {PLAYER}!\n"
-=======
 MtChimney_Text_ArchieGoStopTeamMagma: @ 822FAD2
 	.string "Archie: Grr, {PLAYER}!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I should've guessed you'd show up!\p"
 	.string "See for yourself what the fanatics\n"
 	.string "of Team Magma are up to!\p"
@@ -717,26 +667,15 @@ MtChimney_Text_ArchieGoStopTeamMagma: @ 822FAD2
 	.string "Doing something like that will cause\n"
 	.string "the volcano's eruption!$"
 
-<<<<<<< HEAD
-MtChimney_Text_ArchieIHaveMyHandsFull:
-	.string "ARCHIE: Grrr…\p"
-	.string "I want to stop that MAXIE,\n"
-=======
 MtChimney_Text_ArchieIHaveMyHandsFull: @ 822FBC7
 	.string "Archie: Grrr…\p"
 	.string "I want to stop that Maxie,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "but I can't!\p"
 	.string "Not when I have my hands full battling\n"
 	.string "three opponents at once!$"
 
-<<<<<<< HEAD
-MtChimney_Text_ArchieThankYou:
-	.string "ARCHIE: {PLAYER}!\n"
-=======
 MtChimney_Text_ArchieThankYou: @ 822FC3D
 	.string "Archie: {PLAYER}!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Thank you!\p"
 	.string "With your help, we thwarted Team\n"
 	.string "Magma's destructive plan!\p"
@@ -747,41 +686,25 @@ MtChimney_Text_ArchieThankYou: @ 822FC3D
 	.string "our pursuit of Team Magma.\p"
 	.string "{PLAYER}, we shall meet again!$"
 
-<<<<<<< HEAD
-MtChimney_Text_MagmaOutnumbersUs:
-	.string "Darn… TEAM MAGMA outnumbers us!\n"
-=======
 MtChimney_Text_MagmaOutnumbersUs: @ 822FD1F
 	.string "Darn… Team Magma outnumbers us!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "We can't keep up with them!$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
 	.string "If they expand the land, there'll be\n"
 	.string "less habitats for Water Pokémon!$"
 
-<<<<<<< HEAD
-MtChimney_Text_MagmasNameSimilar:
-	.string "We're TEAM AQUA!\p"
-	.string "They're TEAM MAGMA!\p"
-=======
 MtChimney_Text_MagmasNameSimilar: @ 822FDA1
 	.string "We're Team Aqua!\p"
 	.string "They're Team Magma!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It burns me up that they'd use such\n"
 	.string "a confusing name!$"
 
 MtChimney_Text_Bushaa:
 	.string "Bushaa!$"
 
-<<<<<<< HEAD
-MtChimney_Text_LavaCookiesJust200:
-	.string "LAVA COOKIES are MT. CHIMNEY's local\n"
-=======
 MtChimney_Text_LavaCookiesJust200: @ 822FE04
 	.string "Lava Cookies are Mt. Chimney's local\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "specialty.\p"
 	.string "Try one. It's just ¥200.$"
 
@@ -795,57 +718,32 @@ MtChimney_Text_YouveNotGotTheMoney:
 MtChimney_Text_OhFineThen:
 	.string "Oh, fine then.$"
 
-<<<<<<< HEAD
-MtChimney_Text_MetoriteFittedOnMachine:
-	.string "A METEORITE is fitted on a mysterious\n"
-=======
 MtChimney_Text_MetoriteFittedOnMachine: @ 822FEAA
 	.string "A Meteorite is fitted on a mysterious\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "machine…\p"
 	.string "The machine seems to be storing\n"
 	.string "energy in the Meteorite.$"
 
-<<<<<<< HEAD
-MtChimney_Text_RemoveTheMeteorite:
-	.string "A METEORITE is fitted on a mysterious\n"
-=======
 MtChimney_Text_RemoveTheMeteorite: @ 822FF12
 	.string "A Meteorite is fitted on a mysterious\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "machine…\p"
 	.string "Do you want to remove the Meteorite?$"
 
-<<<<<<< HEAD
-MtChimney_Text_PlayerRemovedMeteorite:
-	.string "{PLAYER} removed the METEORITE from\n"
-	.string "the mysterious machine.$"
-
-MtChimney_Text_PlayerLeftMeteorite:
-	.string "{PLAYER} left the METEORITE where\n"
-=======
 MtChimney_Text_PlayerRemovedMeteorite: @ 822FF66
 	.string "{PLAYER} removed the Meteorite from\n"
 	.string "the mysterious machine.$"
 
 MtChimney_Text_PlayerLeftMeteorite: @ 822FF9C
 	.string "{PLAYER} left the Meteorite where\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "it was.$"
 
 MtChimney_Text_MachineMakesNoResponse:
 	.string "This mysterious machine…\n"
 	.string "It makes no response whatsoever.$"
 
-<<<<<<< HEAD
-MtChimney_Text_RouteSign:
-	.string "{DOWN_ARROW} JAGGED PATH\n"
-	.string "LAVARIDGE TOWN AHEAD$"
-=======
 MtChimney_Text_RouteSign: @ 822FFFA
 	.string "{DOWN_ARROW} Jagged Path\n"
 	.string "Lavaridge Town Ahead$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MtChimney_Text_ShelbyIntro:
 	.string "I've been to the hot springs and\n"
@@ -886,15 +784,6 @@ MtChimney_Text_MelissaIntro:
 MtChimney_Text_MelissaDefeat:
 	.string "Ooh, that was a scorching-hot match!$"
 
-<<<<<<< HEAD
-MtChimney_Text_MelissaPostBattle:
-	.string "The heat of MT. CHIMNEY warms\n"
-	.string "me up, baby!$"
-
-MtChimney_Text_SheilaIntro:
-	.string "I've finally made it to MT. CHIMNEY.\n"
-	.string "I want to make my POKéMON battle!$"
-=======
 MtChimney_Text_MelissaPostBattle: @ 8230292
 	.string "The heat of Mt. Chimney warms\n"
 	.string "me up, baby!$"
@@ -902,7 +791,6 @@ MtChimney_Text_MelissaPostBattle: @ 8230292
 MtChimney_Text_SheilaIntro: @ 82302BD
 	.string "I've finally made it to Mt. Chimney.\n"
 	.string "I want to make my Pokémon battle!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MtChimney_Text_SheilaDefeat:
 	.string "The way you battle…\n"
@@ -936,15 +824,9 @@ MtChimney_Text_SawyerIntro:
 MtChimney_Text_SawyerDefeat:
 	.string "Oh, you're a real firebrand, too!$"
 
-<<<<<<< HEAD
-MtChimney_Text_SawyerPostBattle:
-	.string "I think I need a dip in LAVARIDGE\n"
-	.string "HOT SPRING with the locals!$"
-=======
 MtChimney_Text_SawyerPostBattle: @ 8230519
 	.string "I think I need a dip in Lavaridge\n"
 	.string "Hot Spring with the locals!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MtChimney_Text_SawyerRegister:
 	.string "I like little fireballs like you.\n"

@@ -282,13 +282,8 @@ DewfordTown_Gym_EventScript_GymStatue::
 	releaseall
 	end
 
-<<<<<<< HEAD
-DewfordTown_Gym_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-=======
 DewfordTown_Gym_Text_GymGuideAdvice: @ 81FC9D6
 	.string "Hey, how's it going, Champion-\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "bound {PLAYER}?\p"
 	.string "Dewford's Gym Leader Brawly commands\n"
 	.string "Fighting-type Pokémon.\p"
@@ -318,13 +313,8 @@ DewfordTown_Gym_Text_TakaoPostBattle:
 	.string "Your skill overcame my strength!\n"
 	.string "Your technique is commendable!$"
 
-<<<<<<< HEAD
-DewfordTown_Gym_Text_JocelynIntro:
-	.string "There's no need for BRAWLY to be\n"
-=======
 DewfordTown_Gym_Text_JocelynIntro: @ 81FCC0A
 	.string "There's no need for Brawly to be\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "involved!\p"
 	.string "I'll crush you!$"
 
@@ -389,15 +379,9 @@ DewfordTown_Gym_Text_CristianPostBattle:
 	.string "You win!\n"
 	.string "Go after that Badge!$"
 
-<<<<<<< HEAD
-DewfordTown_Gym_Text_BrawlyIntro:
-	.string "I'm BRAWLY!\n"
-	.string "DEWFORD's GYM LEADER!\p"
-=======
 DewfordTown_Gym_Text_BrawlyIntro: @ 81FCF44
 	.string "I'm Brawly!\n"
 	.string "Dewford's Gym Leader!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I've been churned in the rough waves\n"
 	.string "of these parts, and I've grown tough\l"
 	.string "in the pitch-black cave!\p"
@@ -411,21 +395,12 @@ DewfordTown_Gym_Text_BrawlyDefeat:
 	.string "Okay, you've got me.\n"
 	.string "Take this Gym Badge!$"
 
-<<<<<<< HEAD
-DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} received the KNUCKLE BADGE\n"
-	.string "from BRAWLY.$"
-
-DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
-	.string "The KNUCKLE BADGE makes all POKéMON\n"
-=======
 DewfordTown_Gym_Text_ReceivedKnuckleBadge: @ 81FD07D
 	.string "{PLAYER} received the Knuckle Badge\n"
 	.string "from Brawly.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis: @ 81FD0A8
 	.string "The Knuckle Badge makes all Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "up to Level 30, even those you get in\l"
 	.string "trades, obey without question.\p"
 	.string "And, you'll be able to use the HM move\n"
@@ -433,17 +408,6 @@ DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis: @ 81FD0A8
 	.string "If you'd like, use this Technical\n"
 	.string "Machine, too.$"
 
-<<<<<<< HEAD
-DewfordTown_Gym_Text_ExplainBulkUp:
-	.string "That TM08 contains BULK UP.\p"
-	.string "It's a move that raises both ATTACK\n"
-	.string "and DEFENSE stats.\p"
-	.string "… … … … … …$"
-
-DewfordTown_Gym_Text_RegisteredBrawly:
-	.string "Registered GYM LEADER BRAWLY\n"
-	.string "in the POKéNAV.$"
-=======
 DewfordTown_Gym_Text_ExplainBulkUp: @ 81FD181
 	.string "That TM08 contains Bulk Up.\p"
 	.string "It's a move that raises both Attack\n"
@@ -453,25 +417,12 @@ DewfordTown_Gym_Text_ExplainBulkUp: @ 81FD181
 DewfordTown_Gym_Text_RegisteredBrawly: @ 81FD1E0
 	.string "Registered Gym Leader Brawly\n"
 	.string "in the Pokénav.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "I can see your talent becoming a giant\n"
 	.string "wave to cause a storm of astonishment\l"
 	.string "among Trainers one day!$"
 
-<<<<<<< HEAD
-DewfordTown_Gym_Text_GymStatue:
-	.string "DEWFORD TOWN POKéMON GYM$"
-
-DewfordTown_Gym_Text_GymStatueCertified:
-	.string "DEWFORD TOWN POKéMON GYM\p"
-	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
-
-DewfordTown_Gym_Text_BrawlyPreRematch:
-	.string "BRAWLY: A wave may draw back, but it\n"
-=======
 DewfordTown_Gym_Text_GymStatue: @ 81FD272
 	.string "Dewford Town Pokémon Gym$"
 
@@ -482,7 +433,6 @@ DewfordTown_Gym_Text_GymStatueCertified: @ 81FD28B
 
 DewfordTown_Gym_Text_BrawlyPreRematch: @ 81FD2C4
 	.string "Brawly: A wave may draw back, but it\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "always returns to the shore.\p"
 	.string "A giant wave of a talent like you…\n"
 	.string "I knew you would return!\p"
@@ -493,23 +443,13 @@ DewfordTown_Gym_Text_BrawlyRematchDefeat:
 	.string "Wow!\n"
 	.string "Swamped again!$"
 
-<<<<<<< HEAD
-DewfordTown_Gym_Text_BrawlyPostRematch:
-	.string "BRAWLY: Battling is vast and it's deep.\n"
-=======
 DewfordTown_Gym_Text_BrawlyPostRematch: @ 81FD37B
 	.string "Brawly: Battling is vast and it's deep.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You can't see the bottom.\l"
 	.string "It's just like the sea of Hoenn!$"
 
-<<<<<<< HEAD
-DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
-	.string "BRAWLY: A wave may draw back, but it\n"
-=======
 DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons: @ 81FD3DE
 	.string "Brawly: A wave may draw back, but it\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "always returns to the shore.\p"
 	.string "A giant wave of a talent like you…\n"
 	.string "I knew you would return!\p"

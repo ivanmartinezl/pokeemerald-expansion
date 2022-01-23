@@ -1021,15 +1021,9 @@ RustboroCity_EventScript_Boy1::
 	msgbox RustboroCity_Text_YouCanHave2On2Battle, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-RustboroCity_Text_WeShortenItToDevon:
-	.string "The DEVON CORPORATION…\n"
-	.string "We all just shorten it to DEVON.\p"
-=======
 RustboroCity_Text_WeShortenItToDevon: @ 81E123F
 	.string "The Devon Corporation…\n"
 	.string "We all just shorten it to Devon.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That company makes all sorts of\n"
 	.string "convenient products.$"
 
@@ -1038,29 +1032,17 @@ RustboroCity_Text_SneakyLookingManWentAroundCorner:
 	.string "Come to think of it, yes, a shady-\n"
 	.string "looking guy went around the corner.$"
 
-<<<<<<< HEAD
-RustboroCity_Text_HaveYouChallengedGym:
-	.string "Have you taken the POKéMON GYM\n"
-=======
 RustboroCity_Text_HaveYouChallengedGym: @ 81E130D
 	.string "Have you taken the Pokémon Gym\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "challenge?\p"
 	.string "When you get that shiny Gym Badge\n"
 	.string "in hand, I guess Trainers begin to\l"
 	.string "realize what is required of them.$"
 
-<<<<<<< HEAD
-RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
-	.string "Out of all the POKéMON GYM BADGES,\n"
-	.string "RUSTBORO's is the coolest, I'd say.$"
-=======
 RustboroCity_Text_HeyThatsRustborosGymBadge: @ 81E139E
 	.string "Hey, that's Rustboro's Gym Badge!\p"
 	.string "Out of all the Pokémon Gym Badges,\n"
 	.string "Rustboro's is the coolest, I'd say.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 RustboroCity_Text_YoureNewAroundHere:
 	.string "Oh? Who might you be?\n"
@@ -1068,75 +1050,37 @@ RustboroCity_Text_YoureNewAroundHere:
 	.string "Have you just transferred into the\n"
 	.string "Pokémon Trainer's School?$"
 
-<<<<<<< HEAD
-RustboroCity_Text_GymLeaderIsntEasyWithFire:
-	.string "I challenged the GYM LEADER, but…\p"
-=======
 RustboroCity_Text_GymLeaderIsntEasyWithFire: @ 81E1480
 	.string "I challenged the Gym Leader, but…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's not going to be easy winning with\n"
 	.string "my Fire-type Pokémon…\p"
 	.string "Fire-type Pokémon don't match up\n"
 	.string "well against Rock-type Pokémon…$"
 
-<<<<<<< HEAD
-RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor MR. BRINEY lives in\n"
-=======
 RustboroCity_Text_MrBrineyWalksInTheTunnel: @ 81E1520
 	.string "The old sailor Mr. Briney lives in\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "a cottage by the sea.\p"
 	.string "He goes for walks in the tunnel every\n"
 	.string "so often.$"
 
-<<<<<<< HEAD
-RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor MR. BRINEY lives in\n"
-=======
 RustboroCity_Text_MrBrineyLovesPeeko: @ 81E1589
 	.string "The old sailor Mr. Briney lives in\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "a cottage by the sea.\p"
 	.string "He said he was going shopping in\n"
 	.string "Slateport for his pet, Peeko.\p"
 	.string "That old sea dog, he must really love\n"
 	.string "that Peeko.$"
 
-<<<<<<< HEAD
-RustboroCity_Text_WowYouHavePokemon:
-	.string "Wow, you have POKéMON with you, too.\p"
-=======
 RustboroCity_Text_WowYouHavePokemon: @ 81E1633
 	.string "Wow, you have Pokémon with you, too.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "When I get bigger, I'm going to go\n"
 	.string "places with Pokémon, too.$"
 
-<<<<<<< HEAD
-RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
-	.string "POKéMON TRAINER'S SCHOOL!\p"
-=======
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool: @ 81E1695
 	.string "Pokémon Trainer's School!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "If I go to this school, will I be able\n"
 	.string "to catch rare Pokémon easily?$"
 
-<<<<<<< HEAD
-RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "If a POKéMON gains experience in\n"
-	.string "battles, it can sometimes change in\l"
-	.string "the way it looks.$"
-
-RustboroCity_Text_PokemonChangeShape:
-	.string "A POKéMON changes shape?\n"
-	.string "If one did that, I would be shocked!$"
-
-RustboroCity_Text_TradePokemonGrowFast:
-	.string "A POKéMON you get in a trade from\n"
-=======
 RustboroCity_Text_PokemonCanChangeLookFromExp: @ 81E16F4
 	.string "If a Pokémon gains experience in\n"
 	.string "battles, it can sometimes change in\l"
@@ -1148,7 +1092,6 @@ RustboroCity_Text_PokemonChangeShape: @ 81E174B
 
 RustboroCity_Text_TradePokemonGrowFast: @ 81E1789
 	.string "A Pokémon you get in a trade from\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "someone grows fast.\p"
 	.string "But if you don't have certain Gym\n"
 	.string "Badges, it may not obey you…$"
@@ -1191,30 +1134,14 @@ RustboroCity_Text_PleaseComeWithMe:
 	.string "Excuse me, please!\n"
 	.string "Please come with me!$"
 
-<<<<<<< HEAD
-RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV!\p"
-=======
 RustboroCity_Text_MayHiLetsRegister: @ 81E1A49
 	.string "May: Oh, hi, {PLAYER}{KUN}!\p"
 	.string "You had a Match Call feature put\n"
 	.string "on your Pokénav!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Let's register each other so we can\n"
 	.string "contact one another anytime!\p"
 	.string "… … … … … …$"
 
-<<<<<<< HEAD
-RustboroCity_Text_RegisteredMay:
-	.string "Registered MAY\n"
-	.string "in the POKéNAV.$"
-
-RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "MAY: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
-=======
 RustboroCity_Text_RegisteredMay: @ 81E1ADB
 	.string "Registered May\n"
 	.string "in the Pokénav.$"
@@ -1222,7 +1149,6 @@ RustboroCity_Text_RegisteredMay: @ 81E1ADB
 RustboroCity_Text_MayPassedBrineyWantToBattle: @ 81E1AFA
 	.string "May: Oh, by the way, I passed\n"
 	.string "Mr. Briney in Petalburg Woods.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I guess he's on his way home to his\n"
 	.string "cottage by the sea.\p"
 	.string "How's your Pokédex coming along,\n"
@@ -1230,74 +1156,39 @@ RustboroCity_Text_MayPassedBrineyWantToBattle: @ 81E1AFA
 	.string "So…\n"
 	.string "How about a little battle?$"
 
-<<<<<<< HEAD
-RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "MAY: Oh, what's the matter?\p"
-=======
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough: @ 81E1BD3
 	.string "May: Oh, what's the matter?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Haven't you caught or raised your\n"
 	.string "Pokémon very much?\p"
 	.string "That's not very good for a Trainer!$"
 
-<<<<<<< HEAD
-RustboroCity_Text_MayWantToBattle:
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
-
-RustboroCity_Text_MayImNotGoingToLose:
-	.string "MAY: You just became a TRAINER,\n"
-=======
 RustboroCity_Text_MayWantToBattle: @ 81E1C48
 	.string "May: So, what do you think?\n"
 	.string "How about a little battle here?$"
 
 RustboroCity_Text_MayImNotGoingToLose: @ 81E1C84
 	.string "May: You just became a Trainer,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{PLAYER}{KUN}. I'm not going to lose!$"
 
 RustboroCity_Text_MayDefeat:
 	.string "Yikes!\n"
 	.string "You're better than I expected!$"
 
-<<<<<<< HEAD
-RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
-=======
 RustboroCity_Text_MayMrBrineyHint: @ 81E1CE7
 	.string "May: Oh, by the way, Mr. Briney, who\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I just passed…\p"
 	.string "{PLAYER}{KUN}, you just moved here so you\n"
 	.string "might not know this, but Mr. Briney\l"
 	.string "was once a revered seafarer.$"
 
-<<<<<<< HEAD
-RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV! Cool!\p"
-=======
 RustboroCity_Text_BrendanHiLetsRegister: @ 81E1D7D
 	.string "Brendan: Oh, hey, {PLAYER}!\p"
 	.string "You had a Match Call feature put\n"
 	.string "on your Pokénav! Cool!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Let's register each other so we can\n"
 	.string "get in touch anytime!\p"
 	.string "… … … … … …$"
 
-<<<<<<< HEAD
-RustboroCity_Text_RegisteredBrendan:
-	.string "Registered BRENDAN\n"
-	.string "in the POKéNAV.$"
-
-RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
-=======
 RustboroCity_Text_RegisteredBrendan: @ 81E1E11
 	.string "Registered Brendan\n"
 	.string "in the Pokénav.$"
@@ -1305,7 +1196,6 @@ RustboroCity_Text_RegisteredBrendan: @ 81E1E11
 RustboroCity_Text_BrendanPassedBrineyWantToBattle: @ 81E1E34
 	.string "Brendan: By the way, {PLAYER}, I walked\n"
 	.string "by Mr. Briney in Petalburg Woods.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I bet he was on his way home to his\n"
 	.string "cottage by the sea.\p"
 	.string "{PLAYER}, how's your Pokédex?\n"
@@ -1314,19 +1204,6 @@ RustboroCity_Text_BrendanPassedBrineyWantToBattle: @ 81E1E34
 	.string "Want to have a battle to test how\n"
 	.string "far you've progressed?$"
 
-<<<<<<< HEAD
-RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
-
-RustboroCity_Text_BrendanWantToBattle:
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
-
-RustboroCity_Text_BrendanIWontGoEasy:
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
-=======
 RustboroCity_Text_BrendanNoConfidenceInPokemon: @ 81E1F2F
 	.string "Brendan: What's the matter? Don't have\n"
 	.string "any confidence in your Pokémon?$"
@@ -1338,21 +1215,14 @@ RustboroCity_Text_BrendanWantToBattle: @ 81E1F76
 RustboroCity_Text_BrendanIWontGoEasy: @ 81E1FA9
 	.string "Brendan: I know you just became\n"
 	.string "a Trainer, but I won't go easy!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 RustboroCity_Text_BrendanDefeat:
 	.string "Hmm…\n"
 	.string "You're pretty good.$"
 
-<<<<<<< HEAD
-RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: By the way, you know\n"
-	.string "MR. BRINEY? The guy I just passed?\p"
-=======
 RustboroCity_Text_BrendanMrBrineyHint: @ 81E2002
 	.string "Brendan: By the way, you know\n"
 	.string "Mr. Briney? The guy I just passed?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I bet you didn't know this, since you\n"
 	.string "just moved here, {PLAYER}, but\l"
 	.string "Mr. Briney was once a great sailor.$"
@@ -1364,30 +1234,6 @@ RustboroCity_Text_TunnelNearingCompletion:
 	.string "there's also a big “X” splashed\l"
 	.string "across it in red paint…$"
 
-<<<<<<< HEAD
-RustboroCity_Text_DevonCorpSign:
-	.string "DEVON CORPORATION\p"
-	.string "“For all your living needs, we make\n"
-	.string "it all.”$"
-
-RustboroCity_Text_GymSign:
-	.string "RUSTBORO CITY POKéMON GYM\n"
-	.string "LEADER: ROXANNE\p"
-	.string "“The ROCK-loving honors student!”$"
-
-RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "DEVON CORP. BRANCH OFFICE\p"
-	.string "“Access limited to DEVON employees\n"
-	.string "and authorized personnel.”$"
-
-RustboroCity_Text_CitySign:
-	.string "RUSTBORO CITY\p"
-	.string "“The city probing the integration of\n"
-	.string "nature and science.”$"
-
-RustboroCity_Text_TrainersSchoolSign:
-	.string "POKéMON TRAINER'S SCHOOL\p"
-=======
 RustboroCity_Text_DevonCorpSign: @ 81E2128
 	.string "Devon Corporation\p"
 	.string "“For all your living needs, we make\n"
@@ -1410,17 +1256,11 @@ RustboroCity_Text_CitySign: @ 81E220B
 
 RustboroCity_Text_TrainersSchoolSign: @ 81E2253
 	.string "Pokémon Trainer's School\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“We'll teach you anything about\n"
 	.string "Pokémon!”$"
 
-<<<<<<< HEAD
-RustboroCity_Text_CuttersHouse:
-	.string "CUTTER'S HOUSE$"
-=======
 RustboroCity_Text_CuttersHouse: @ 81E2296
 	.string "Cutter's House$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
 	.string "I've been developing an added feature\n"
@@ -1441,13 +1281,8 @@ RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
 	.string "Test it out.\n"
 	.string "Please give our President a call.$"
 
-<<<<<<< HEAD
-RustboroCity_Text_PleaseSelectPokenav:
-	.string "Please select the POKéNAV.$"
-=======
 RustboroCity_Text_PleaseSelectPokenav: @ 81E2449
 	.string "Please select the Pokénav.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 RustboroCity_Text_IdBetterGetBackToWork:
 	.string "Okay, I'd better get back to work.\n"

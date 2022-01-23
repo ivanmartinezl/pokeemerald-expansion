@@ -167,13 +167,8 @@ SlateportCity_ContestHall_Text_AdviceForContests:
 	.string "disrupting your Pokémon's showing.$"
 
 @ Unused
-<<<<<<< HEAD
-SlateportCity_ContestHall_Text_MyPapaIsContestJudge:
-	.string "My papa, he's a CONTEST JUDGE.\p"
-=======
 SlateportCity_ContestHall_Text_MyPapaIsContestJudge: @ 820917A
 	.string "My papa, he's a Contest Judge.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I wonder what I should be when I\n"
 	.string "grow up, a Judge or a Gym Leader?$"
 
@@ -209,15 +204,9 @@ SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
 	.string "My eyes have never failed me!$"
 
 @ Unused
-<<<<<<< HEAD
-SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
-	.string "JUDGE: Well, hello there!\n"
-	.string "I see that you're a TRAINER!\p"
-=======
 SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest: @ 82094A1
 	.string "Judge: Well, hello there!\n"
 	.string "I see that you're a Trainer!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Then, it just wouldn't do for you\n"
 	.string "to miss a Pokémon Contest!\p"
 	.string "Get a Contest Pass in Verdanturf\n"
@@ -255,25 +244,15 @@ SlateportCity_ContestHall_Text_MoreFreakedOutThanMon:
 	.string "I'm shivering and my heart is racing!$"
 
 @ Unused
-<<<<<<< HEAD
-SlateportCity_ContestHall_Text_BattleAndContestAlike:
-	.string "A battle and a CONTEST aren't the\n"
-=======
 SlateportCity_ContestHall_Text_BattleAndContestAlike: @ 8209775
 	.string "A battle and a Contest aren't the\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "same, but they are alike, too.\p"
 	.string "You need to work hard and believe\n"
 	.string "in the Pokémon you've raised.$"
 
 @ Unused
-<<<<<<< HEAD
-SlateportCity_ContestHall_Text_MonLooksOnTopOfGame:
-	.string "That POKéMON looks like it's on top\n"
-=======
 SlateportCity_ContestHall_Text_MonLooksOnTopOfGame: @ 82097F6
 	.string "That Pokémon looks like it's on top\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of its game, huh?\p"
 	.string "A Pokémon that does good in the\n"
 	.string "secondary judging seems to be more\l"
@@ -292,13 +271,7 @@ SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon:
 	.string "energetic appeal?$"
 
 @ Unused
-<<<<<<< HEAD
-SlateportCity_ContestHall_Text_HyperRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "HYPER RANK STAGE!$"
-=======
 SlateportCity_ContestHall_Text_HyperRankStage: @ 820993D
 	.string "Pokémon Contests\n"
 	.string "Hyper Rank Stage!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

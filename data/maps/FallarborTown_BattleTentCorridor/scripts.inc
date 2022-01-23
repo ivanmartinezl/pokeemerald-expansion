@@ -57,26 +57,14 @@ FallarborTown_ContestHall_Text_MonAllTheseRibbons:
 	.string "You can check them on your Pokénav.$"
 
 @ Unused
-<<<<<<< HEAD
-FallarborTown_ContestHall_Text_CantWinEverywhere:
-	.string "I can't beat GYM LEADERS…\p"
-	.string "I can't win any CONTESTS…\p"
-=======
 FallarborTown_ContestHall_Text_CantWinEverywhere: @ 8200802
 	.string "I can't beat Gym Leaders…\p"
 	.string "I can't win any Contests…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I've been here, there, and everywhere,\n"
 	.string "and it's all for naught…$"
 
 @ Unused
-<<<<<<< HEAD
-FallarborTown_ContestHall_Text_SuperRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "SUPER RANK STAGE!$"
-=======
 FallarborTown_ContestHall_Text_SuperRankStage: @ 8200876
 	.string "Pokémon Contests\n"
 	.string "Super Rank Stage!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

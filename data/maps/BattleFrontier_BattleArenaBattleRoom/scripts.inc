@@ -493,28 +493,6 @@ BattleFrontier_BattleArenaBattleRoom_Movement_GretaWalkBackToCenter:
 	walk_in_place_faster_left
 	step_end
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward:
-	.string "REFEREE: TRAINER {PLAYER}!\n"
-	.string "Step forward, please!$"
-
-BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward:
-	.string "REFEREE: TRAINER {STR_VAR_1}!\n"
-	.string "Step forward, please!$"
-
-BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
-	.string "REFEREE: Set KO Tourney!\n"
-	.string "Begin!$"
-
-BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
-	.string "REFEREE: The winner is {PLAYER}!$"
-
-BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
-	.string "REFEREE: The winner is {STR_VAR_1}!$"
-
-BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
-	.string "Your POKéMON will be restored to\n"
-=======
 BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward: @ 8257C3D
 	.string "Referee: Trainer {PLAYER}!\n"
 	.string "Step forward, please!$"
@@ -535,7 +513,6 @@ BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent: @ 8257CCE
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored: @ 8257CE9
 	.string "Your Pokémon will be restored to\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "full health.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent:
@@ -584,18 +561,6 @@ BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon:
 	.string "We now would like you to face our\n"
 	.string "leader, the Arena Tycoon!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon:
-	.string "A battle with the ARENA TYCOON!\n"
-	.string "Are you prepared?$"
-
-BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta:
-	.string "REFEREE: The ARENA TYCOON!\n"
-	.string "Make way for GRETA!$"
-
-BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger:
-	.string "GRETA: Hey!\n"
-=======
 BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon: @ 8257FBB
 	.string "A battle with the Arena Tycoon!\n"
 	.string "Are you prepared?$"
@@ -606,7 +571,6 @@ BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta: @ 8257FED
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger: @ 825801C
 	.string "Greta: Hey!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Howdy!\p"
 	.string "…Wait, are you the challenger?$"
 
@@ -626,13 +590,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
 	.string "Okay! Let's see you ignite my passion\n"
 	.string "for battle!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
-	.string "GRETA: Ow, wait a second!\n"
-=======
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll: @ 825813F
 	.string "Greta: Ow, wait a second!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You are tough after all!\p"
 	.string "I like you!\n"
 	.string "Let's see your Frontier Pass.$"
@@ -646,13 +605,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "It's going to be fun the next time!\n"
 	.string "I'm looking forward to it!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
-	.string "GRETA: Hey! Howdy!\n"
-=======
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain: @ 8258213
 	.string "Greta: Hey! Howdy!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You finally won your way up to me!\p"
 	.string "I was getting worried waiting for you!\n"
 	.string "I was really looking forward to seeing\l"
@@ -666,15 +620,6 @@ BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
 	.string "I won't allow a halfhearted effort!\n"
 	.string "Be ready for a thrashing!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
-	.string "Come on, REFEREE!\n"
-	.string "Let's get this started!$"
-
-BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
-	.string "GRETA: Gaaah! Blown away!\n"
-	.string "Let's see your FRONTIER PASS!$"
-=======
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted: @ 82582F9
 	.string "Come on, Referee!\n"
 	.string "Let's get this started!$"
@@ -682,7 +627,6 @@ BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted: @ 82582F9
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway: @ 8258323
 	.string "Greta: Gaaah! Blown away!\n"
 	.string "Let's see your Frontier Pass!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
 	.string "The Guts Symbol took on\n"

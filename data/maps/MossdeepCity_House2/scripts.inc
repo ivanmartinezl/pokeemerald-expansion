@@ -53,15 +53,9 @@ MossdeepCity_House2_Movement_WingullExitEast:
 	delay_8
 	step_end
 
-<<<<<<< HEAD
-MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree:
-	.string "My little sister exchanges MAIL with\n"
-	.string "her boyfriend in FORTREE.\p"
-=======
 MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree: @ 8222146
 	.string "My little sister exchanges Mail with\n"
 	.string "her boyfriend in Fortree.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I don't envy her one bit at all.$"
 
 MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth:
@@ -71,11 +65,6 @@ MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth:
 	.string "I'm not lonesome, even though we're\n"
 	.string "apart.$"
 
-<<<<<<< HEAD
-MossdeepCity_House2_Text_Wingull:
-	.string "WINGULL: Pihyoh!$"
-=======
 MossdeepCity_House2_Text_Wingull: @ 822222E
 	.string "Wingull: Pihyoh!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

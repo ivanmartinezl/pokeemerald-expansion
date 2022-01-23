@@ -17,13 +17,8 @@ AbandonedShip_Corridors_1F_Text_CharlieIntro:
 AbandonedShip_Corridors_1F_Text_CharlieDefeat:
 	.string "Whoa, you overwhelmed me!$"
 
-<<<<<<< HEAD
-AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-	.string "It's not easy throwing POKé BALLS\n"
-=======
 AbandonedShip_Corridors_1F_Text_CharliePostBattle: @ 8237A1B
 	.string "It's not easy throwing Poké Balls\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "while hanging on to an inner tube!$"
 
 AbandonedShip_Corridors_1F_Text_IsntItFunHere:

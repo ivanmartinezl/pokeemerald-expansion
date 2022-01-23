@@ -9,13 +9,8 @@ FortreeCity_House3_EventScript_SchoolKidM::
 	msgbox FortreeCity_House3_Text_OhYouHavePokedex, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
-	.string "While speaking about POKéDEXES,\n"
-=======
 FortreeCity_House3_Text_MetStevenHadAmazingPokemon: @ 8217AFA
 	.string "While speaking about Pokédexes,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I remembered something.\p"
 	.string "I met this Trainer, Steven, when\n"
 	.string "I was searching for rare stones.\p"

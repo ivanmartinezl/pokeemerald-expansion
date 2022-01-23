@@ -229,13 +229,8 @@ BerryTree_Text_PutAwayBerry:
 	.string "The soil returned to its soft and\n"
 	.string "loamy state.$"
 
-<<<<<<< HEAD
-BerryTree_Text_BerryPocketFull:
-	.string "The BAG's BERRIES POCKET is full.\p"
-=======
 BerryTree_Text_BerryPocketFull: @ 827468F
 	.string "The Bag's Berries Pocket is full.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "The {STR_VAR_1} couldn't be taken.$"
 
 BerryTree_Text_BerryLeftUnpicked:

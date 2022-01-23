@@ -39,13 +39,8 @@ FortreeCity_Mart_EventScript_Boy::
 	msgbox FortreeCity_Mart_Text_RareCandyMakesMonGrow, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-FortreeCity_Mart_Text_SuperRepelBetter:
-	.string "SUPER REPEL lasts a long time,\n"
-=======
 FortreeCity_Mart_Text_SuperRepelBetter: @ 82176B3
 	.string "Super Repel lasts a long time,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "and it gets the job done.\p"
 	.string "It's much better than an ordinary\n"
 	.string "Repel.$"
@@ -56,12 +51,7 @@ FortreeCity_Mart_Text_StockUpOnItems:
 	.string "You never know what might happen.\n"
 	.string "Better to be safe than sorry!$"
 
-<<<<<<< HEAD
-FortreeCity_Mart_Text_RareCandyMakesMonGrow:
-	.string "A RARE CANDY makes a POKéMON grow\n"
-=======
 FortreeCity_Mart_Text_RareCandyMakesMonGrow: @ 821778E
 	.string "A Rare Candy makes a Pokémon grow\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "immediately by one level.$"
 

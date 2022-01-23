@@ -61,41 +61,24 @@ Route111_WinstrateFamilysHouse_EventScript_FaceOriginalDirection::
 	release
 	end
 
-<<<<<<< HEAD
-Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou:
-	.string "You're the first TRAINER I've seen who\n"
-	.string "deploys POKéMON so masterfully.\p"
-=======
 Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou: @ 822A539
 	.string "You're the first Trainer I've seen who\n"
 	.string "deploys Pokémon so masterfully.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But, I should tell you--my son is\n"
 	.string "stronger than you.\p"
 	.string "He even took the Pokémon League\n"
 	.string "challenge, I'll have you know.$"
 
-<<<<<<< HEAD
-Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace:
-	.string "We use this MACHO BRACE to more\n"
-	.string "effectively strengthen our POKéMON\l"
-=======
 Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace: @ 822A5F4
 	.string "We use this Macho Brace to more\n"
 	.string "effectively strengthen our Pokémon\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "in training.\p"
 	.string "Since you've beaten all of us here,\n"
 	.string "I don't know if you need it, but we\l"
 	.string "would like you to have our Macho Brace.$"
 
-<<<<<<< HEAD
-Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles:
-	.string "When it comes to POKéMON battles,\n"
-=======
 Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles: @ 822A6B4
 	.string "When it comes to Pokémon battles,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "we tend to be pretty passionate.$"
 
 Route111_WinstrateFamilysHouse_Text_StrongerFamilyMembers:

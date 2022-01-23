@@ -125,30 +125,11 @@ Route112_Text_CantLetAnyonePassUntilTheyreBack:
 	.string "You got it. And until they come back,\n"
 	.string "we're not to let anyone pass, right.$"
 
-<<<<<<< HEAD
-Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Eh, I'd like to get to MAUVILLE, but if\n"
-=======
 Route112_Text_NotEasyToGetBackToLavaridge: @ 81F204E
 	.string "Eh, I'd like to get to Mauville, but if\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I went down these ledges, it'd be no\l"
 	.string "easy matter to get back to Lavaridge.$"
 
-<<<<<<< HEAD
-Route112_Text_MtChimneyCableCarSign:
-	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
-
-Route112_Text_MtChimneySign:
-	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
-
-Route112_Text_RouteSignLavaridge:
-	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} LAVARIDGE TOWN$"
-=======
 Route112_Text_MtChimneyCableCarSign: @ 81F20C1
 	.string "Mt. Chimney Cable Car\n"
 	.string "“A short walk {UP_ARROW} way!”$"
@@ -161,5 +142,4 @@ Route112_Text_MtChimneySign: @ 81F20ED
 Route112_Text_RouteSignLavaridge: @ 81F2138
 	.string "Route 112\n"
 	.string "{LEFT_ARROW} Lavaridge Town$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

@@ -626,32 +626,18 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	releaseall
 	end
 
-<<<<<<< HEAD
-MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is MAUVILLE GAME CORNER.$"
-
-MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-=======
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner: @ 8210460
 	.string "This is Mauville Game Corner.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins: @ 821047E
 	.string "Okay, you wanted some Coins for\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the games?\p"
 	.string "But you don't have a Coin Case for\n"
 	.string "stowing the Coins.$"
 
-<<<<<<< HEAD
-MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥1000 for 50 COINS.\n"
-=======
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins: @ 82104DF
 	.string "Were you looking for Coins?\p"
 	.string "It's ¥1000 for 50 Coins.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Would you like some?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
@@ -666,13 +652,8 @@ MauvilleCity_GameCorner_Text_CoinCaseIsFull:
 	.string "Oh?\n"
 	.string "Your Coin Case is full.$"
 
-<<<<<<< HEAD
-MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-=======
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen: @ 821059A
 	.string "Oh… You don't need Coins, then?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Good luck on your adventure!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
@@ -691,13 +672,8 @@ MauvilleCity_GameCorner_Text_SendToYourHomePC:
 	.string "Thank you!\n"
 	.string "We'll send it to your PC at home.$"
 
-<<<<<<< HEAD
-MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
-=======
 MauvilleCity_GameCorner_Text_NotEnoughCoins: @ 8210673
 	.string "You don't have enough Coins.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
@@ -750,23 +726,13 @@ MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
 	.string "This is too much for me.\l"
 	.string "Here, take some Coins!$"
 
-<<<<<<< HEAD
-MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-=======
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone: @ 82108EF
 	.string "Mauville has something for\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "everyone.\p"
 	.string "For me, it's the Game Corner.$"
 
-<<<<<<< HEAD
-MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-=======
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates: @ 8210932
 	.string "The Roulette tables have different\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "rates.\p"
 	.string "Check your Coins if you're going to\n"
 	.string "pick a table.$"
@@ -775,20 +741,6 @@ MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
 	.string "It's easy to lose track of time in here. \n"
 	.string "I should get back to work.$"
 
-<<<<<<< HEAD
-MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
-
-MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
-
-MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
-=======
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay: @ 82109D3
 	.string "Coins are needed to play here\n"
 	.string "in the Game Corner.$"
@@ -801,7 +753,6 @@ MauvilleCity_GameCorner_Text_RouletteOnlyLuck: @ 8210A05
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed: @ 8210A51
 	.string "Up to three Coins can be used to play\n"
 	.string "the Slots.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
 	.string "It's very difficult to make it stop\n"

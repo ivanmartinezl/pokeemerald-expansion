@@ -93,13 +93,8 @@ LilycoveCity_CoveLilyMotel_1F_Text_CantSeeTheTV:
 	.string "Hey, down in front!\n"
 	.string "I can't see the TV!$"
 
-<<<<<<< HEAD
-LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem:
-	.string "Amazing! You're telling me a POKéMON\n"
-=======
 LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem: @ 82183C3
 	.string "Amazing! You're telling me a Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "found someone's lost item?\p"
 	.string "That's something. If we had some smart\n"
 	.string "Pokémon like that…\p"
@@ -116,13 +111,8 @@ LilycoveCity_CoveLilyMotel_1F_Text_HeardAquaHideoutBusted:
 	.string "It was a company called… Uh…\n"
 	.string "Game something…$"
 
-<<<<<<< HEAD
-LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar:
-	.string "Amazing! A house-sitting POKéMON\n"
-=======
 LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar: @ 8218544
 	.string "Amazing! A house-sitting Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "caught a burglar?\p"
 	.string "That's something. If we had a tough\n"
 	.string "Pokémon as a security guard…\p"

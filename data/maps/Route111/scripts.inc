@@ -604,13 +604,8 @@ Route111_Text_VictoriaDefeat:
 	.string "Oh, gosh!\n"
 	.string "I can't get over how strong you are!$"
 
-<<<<<<< HEAD
-Route111_Text_VictoriaPostBattle:
-	.string "There's a strong TRAINER here!\n"
-=======
 Route111_Text_VictoriaPostBattle: @ 81F1645
 	.string "There's a strong Trainer here!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "This one's really strong!$"
 
 Route111_Text_ViviIntro:
@@ -639,29 +634,14 @@ Route111_Text_VickyPostBattle:
 	.string "If you're not in any hurry,\n"
 	.string "visit with us awhile.$"
 
-<<<<<<< HEAD
-Route111_Text_ToughToKeepWinningUpTheRanks:
-	.string "If you don't raise your POKéMON some\n"
-=======
 Route111_Text_ToughToKeepWinningUpTheRanks: @ 81F17BA
 	.string "If you don't raise your Pokémon some\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "more, it could be tough to keep winning\l"
 	.string "up through the ranks.\p"
 	.string "I've heard the Pokémon League's\n"
 	.string "Elite Four are far stronger than\l"
 	.string "any Gym Leader.$"
 
-<<<<<<< HEAD
-Route111_Text_WinstrateFamilyDestroyedMe:
-	.string "I challenged the WINSTRATE family,\n"
-	.string "but four matches in a row is tough\l"
-	.string "going… They destroyed me.$"
-
-Route111_Text_RouteSignMauville:
-	.string "ROUTE 111\n"
-	.string "{DOWN_ARROW} MAUVILLE CITY$"
-=======
 Route111_Text_WinstrateFamilyDestroyedMe: @ 81F186E
 	.string "I challenged the Winstrate family,\n"
 	.string "but four matches in a row is tough\l"
@@ -670,33 +650,11 @@ Route111_Text_WinstrateFamilyDestroyedMe: @ 81F186E
 Route111_Text_RouteSignMauville: @ 81F18CE
 	.string "Route 111\n"
 	.string "{DOWN_ARROW} Mauville City$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route111_Text_WinstrateHouseSign:
 	.string "“Our family's hearts beat as one!”\n"
 	.string "The Winstrate's House$"
 
-<<<<<<< HEAD
-Route111_Text_RouteSign112:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 112$"
-
-Route111_Text_RouteSign113:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 113$"
-
-Route111_Text_OldLadysRestStopSign:
-	.string "OLD LADY'S REST STOP\n"
-	.string "“Come in and rest your tired bones.”$"
-
-Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "TRAINER TIPS\p"
-	.string "One of the indicators of a POKéMON's\n"
-	.string "powerfulness is SP. ATK. It stands for\l"
-	.string "“SPECIAL ATTACK.”\p"
-	.string "Likewise, SP. DEF stands for “SPECIAL\n"
-	.string "DEFENSE.”$"
-=======
 Route111_Text_RouteSign112: @ 81F1921
 	.string "Route 111\n"
 	.string "{LEFT_ARROW} Route 112$"
@@ -716,7 +674,6 @@ Route111_Text_TrainerTipsSpAtkSpDef: @ 81F1987
 	.string "“Special Attack.”\p"
 	.string "Likewise, Sp. Def stands for “Special\n"
 	.string "Defense.”$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
 	.string "There should be a tower made of sand\n"
@@ -749,21 +706,12 @@ Route111_Text_MirageTowerHasntBeenSeenSince:
 	.string "Perhaps it really was\n"
 	.string "the Mirage Tower…$"
 
-<<<<<<< HEAD
-Route111_Text_ClawFossilDisappeared:
-	.string "The CLAW FOSSIL disappeared into\n"
-	.string "the sand…$"
-
-Route111_Text_RootFossilDisappeared:
-	.string "The ROOT FOSSIL disappeared into\n"
-=======
 Route111_Text_ClawFossilDisappeared: @ 81F1C74
 	.string "The Claw Fossil disappeared into\n"
 	.string "the sand…$"
 
 Route111_Text_RootFossilDisappeared: @ 81F1C9F
 	.string "The Root Fossil disappeared into\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the sand…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
@@ -774,13 +722,8 @@ Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "My uncle? He lives across from\n"
 	.string "the bike shop in Mauville.$"
 
-<<<<<<< HEAD
-Route111_Text_TrainerHillSign:
-	.string "{RIGHT_ARROW} TRAINER HILL ENTRANCE\p"
-=======
 Route111_Text_TrainerHillSign: @ 81F1D61
 	.string "{RIGHT_ARROW} Trainer Hill Entrance\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“Scale the heights, you hot-blooded\n"
 	.string "Trainers!”$"
 

@@ -2,15 +2,9 @@ MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
 	.string "This move can be learned only\n"
 	.string "once. Is that okay?$"
 
-<<<<<<< HEAD
-MoveTutor_Text_SwaggerTeach:
-	.string "Heh! My POKéMON totally rules!\n"
-	.string "It's cooler than any POKéMON!\p"
-=======
 MoveTutor_Text_SwaggerTeach: @ 82C6E37
 	.string "Heh! My Pokémon totally rules!\n"
 	.string "It's cooler than any Pokémon!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I was lipping off with a swagger in\n"
 	.string "my step like that when the Chairman\l"
 	.string "chewed me out.\p"
@@ -22,21 +16,12 @@ MoveTutor_Text_SwaggerDeclined:
 	.string "What, no? Can't you get into\n"
 	.string "the spirit of things?$"
 
-<<<<<<< HEAD
-MoveTutor_Text_SwaggerWhichMon:
-	.string "All right, which POKéMON wants to\n"
-	.string "learn how to SWAGGER?$"
-
-MoveTutor_Text_SwaggerTaught:
-	.string "I'll just praise my POKéMON from now\n"
-=======
 MoveTutor_Text_SwaggerWhichMon: @ 82C6F66
 	.string "All right, which Pokémon wants to\n"
 	.string "learn how to Swagger?$"
 
 MoveTutor_Text_SwaggerTaught: @ 82C6F9E
 	.string "I'll just praise my Pokémon from now\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "on without the swagger.$"
 
 MoveTutor_Text_RolloutTeach:
@@ -90,28 +75,17 @@ MoveTutor_MimicTeach:
 	.string "Would you agree to it if I were to\l"
 	.string "offer to teach the move Mimic?$"
 
-<<<<<<< HEAD
-MoveTutor_MimicDeclined:
-	.string "Oh, boo! I wanted to teach MIMIC\n"
-	.string "to your POKéMON!$"
-=======
 MoveTutor_MimicDeclined: @ 82C737F
 	.string "Oh, boo! I wanted to teach Mimic\n"
 	.string "to your Pokémon!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MoveTutor_Text_MimicWhichMon:
 	.string "Fwofwo! And so I shall!\n"
 	.string "Let me see the Pokémon\l"
 	.string "you wish me to teach.$"
 
-<<<<<<< HEAD
-MoveTutor_Text_MimicTaught:
-	.string "MIMIC is a move of great depth.\p"
-=======
 MoveTutor_Text_MimicTaught: @ 82C73F6
 	.string "Mimic is a move of great depth.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Could you execute it to perfection\n"
 	.string "as well as me…?$"
 
@@ -134,28 +108,16 @@ MoveTutor_Text_MetronomeWhichMon:
 	.string "Okay! I'll teach it!\n"
 	.string "Which Pokémon should I teach?$"
 
-<<<<<<< HEAD
-MoveTutor_Text_MetronomeTaught:
-	.string "When a POKéMON waggles its finger\n"
-	.string "like a METRONOME, all sorts of nice\l"
-=======
 MoveTutor_Text_MetronomeTaught: @ 82C75B5
 	.string "When a Pokémon waggles its finger\n"
 	.string "like a Metronome, all sorts of nice\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "things happen.\p"
 	.string "Wouldn't it be nice if we could\n"
 	.string "use it, too?$"
 
-<<<<<<< HEAD
-MoveTutor_Text_SleepTalkTeach:
-	.string "Humph! My wife relies on HIDDEN\n"
-	.string "POWER to stay awake.\p"
-=======
 MoveTutor_Text_SleepTalkTeach: @ 82C7637
 	.string "Humph! My wife relies on Hidden\n"
 	.string "Power to stay awake.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "She should just take a nap like I do,\n"
 	.string "and Sleep Talk.\p"
 	.string "I can teach your Pokémon how to\n"
@@ -222,15 +184,9 @@ MoveTutor_Text_DynamicPunchWhichMon:
 	.string "What? You do? You're a good person!\n"
 	.string "Which Pokémon should I teach?$"
 
-<<<<<<< HEAD
-MoveTutor_Text_DynamicPunchTaught:
-	.string "I want you to win at the MOSSDEEP GYM\n"
-	.string "using that DYNAMICPUNCH!$"
-=======
 MoveTutor_Text_DynamicPunchTaught: @ 82C7B4F
 	.string "I want you to win at the Mossdeep Gym\n"
 	.string "using that DynamicPunch!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MoveTutor_Text_DoubleEdgeTeach:
 	.string "Sigh…\p"
@@ -247,15 +203,9 @@ MoveTutor_Text_DoubleEdgeDeclined:
 	.string "Oh…\n"
 	.string "Even you rejected me…$"
 
-<<<<<<< HEAD
-MoveTutor_Text_DoubleEdgeWhichMon:
-	.string "Okay, which POKéMON should I teach\n"
-	.string "DOUBLE-EDGE?$"
-=======
 MoveTutor_Text_DoubleEdgeWhichMon: @ 82C7C98
 	.string "Okay, which Pokémon should I teach\n"
 	.string "Double-Edge?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MoveTutor_Text_DoubleEdgeTaught:
 	.string "I won't live for love anymore!\n"
@@ -275,16 +225,6 @@ MoveTutor_Text_ExplosionDeclined:
 	.string "Gaah! You're turning me down because\n"
 	.string "I live in the country?$"
 
-<<<<<<< HEAD
-MoveTutor_Text_ExplosionWhichMon:
-	.string "Fine! An EXPLOSION it is!\n"
-	.string "Which POKéMON wants to blow up?$"
-
-MoveTutor_Text_ExplosionTaught:
-	.string "For a long time, I've taught POKéMON\n"
-	.string "how to use EXPLOSION, but I've yet\l"
-	.string "to ignite my own EXPLOSION…\p"
-=======
 MoveTutor_Text_ExplosionWhichMon: @ 82C7E40
 	.string "Fine! An Explosion it is!\n"
 	.string "Which Pokémon wants to blow up?$"
@@ -293,6 +233,5 @@ MoveTutor_Text_ExplosionTaught: @ 82C7E7A
 	.string "For a long time, I've taught Pokémon\n"
 	.string "how to use Explosion, but I've yet\l"
 	.string "to ignite my own Explosion…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Maybe it's because deep down,\n"
 	.string "I would rather stay here…$"

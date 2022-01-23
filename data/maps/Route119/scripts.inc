@@ -479,13 +479,8 @@ Route119_EventScript_ScottWonAtFortreeGymCall::
 	releaseall
 	end
 
-<<<<<<< HEAD
-Route119_Text_MayIntro:
-	.string "MAY: {PLAYER}{KUN}!\n"
-=======
 Route119_Text_MayIntro: @ 81F49FD
 	.string "May: {PLAYER}{KUN}!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Where were you? I was looking for you!\p"
 	.string "How much stronger have you gotten?\n"
 	.string "Let me check for you!\p"
@@ -498,15 +493,6 @@ Route119_Text_MayDefeat:
 	.string "I was worried that you might be\n"
 	.string "struggling with your training.$"
 
-<<<<<<< HEAD
-Route119_Text_MayPresentForYou:
-	.string "MAY: But I had absolutely nothing to\n"
-	.string "worry about! Keep it up!\p"
-	.string "And, here! I have a present for you.$"
-
-Route119_Text_MayExplainFly:
-	.string "MAY: Use FLY, and your POKéMON will\n"
-=======
 Route119_Text_MayPresentForYou: @ 81F4AF3
 	.string "May: But I had absolutely nothing to\n"
 	.string "worry about! Keep it up!\p"
@@ -514,7 +500,6 @@ Route119_Text_MayPresentForYou: @ 81F4AF3
 
 Route119_Text_MayExplainFly: @ 81F4B56
 	.string "May: Use Fly, and your Pokémon will\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "instantly carry you to any town you've\l"
 	.string "already visited.\p"
 	.string "But, to use Fly, you have to get\n"
@@ -526,15 +511,9 @@ Route119_Text_MayExplainFly: @ 81F4B56
 	.string "{PLAYER}{KUN}.\p"
 	.string "Well, let's meet again somewhere!$"
 
-<<<<<<< HEAD
-Route119_Text_BrendanIntro:
-	.string "BRENDAN: {PLAYER}! So this is where\n"
-	.string "you've been looking for POKéMON?\p"
-=======
 Route119_Text_BrendanIntro: @ 81F4C9A
 	.string "Brendan: {PLAYER}! So this is where\n"
 	.string "you've been looking for Pokémon?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Let me see how good you got.\n"
 	.string "I'll test you!\p"
 	.string "Now!\n"
@@ -544,16 +523,6 @@ Route119_Text_BrendanDefeat:
 	.string "Hmm…\n"
 	.string "You've gotten pretty darn decent.$"
 
-<<<<<<< HEAD
-Route119_Text_BrendanIllGiveYouThis:
-	.string "BRENDAN: I'd say you're good enough\n"
-	.string "to search for POKéMON anywhere.\p"
-	.string "Here, I'll give you this.\n"
-	.string "Try it out.$"
-
-Route119_Text_BrendanExplainFly:
-	.string "BRENDAN: Use FLY, and your POKéMON\n"
-=======
 Route119_Text_BrendanIllGiveYouThis: @ 81F4D4B
 	.string "Brendan: I'd say you're good enough\n"
 	.string "to search for Pokémon anywhere.\p"
@@ -562,20 +531,14 @@ Route119_Text_BrendanIllGiveYouThis: @ 81F4D4B
 
 Route119_Text_BrendanExplainFly: @ 81F4DB5
 	.string "Brendan: Use Fly, and your Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "instantly carries you to any town\l"
 	.string "you've already visited.\p"
 	.string "But you need the Fortree Gym Badge \n"
 	.string "to do that.\p"
 	.string "Anyway, I have to move along.$"
 
-<<<<<<< HEAD
-Route119_Text_ScottWayToGoBeSeeingYou:
-	.string "SCOTT: Hahahah!\n"
-=======
 Route119_Text_ScottWayToGoBeSeeingYou: @ 81F4E60
 	.string "Scott: Hahahah!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Way to go, {PLAYER}{KUN}!\p"
 	.string "I just passed by a Trainer riding\n"
 	.string "a Bike.\p"
@@ -614,15 +577,9 @@ Route119_Text_DontGoNearWeatherInstitute:
 	.string "Hey, you! Please don't go near the\n"
 	.string "Weather Institute.$"
 
-<<<<<<< HEAD
-Route119_Text_ThoughtFlyByCatchingBirdMons:
-	.string "I thought you FLY by catching a whole\n"
-	.string "flock of BIRD POKéMON, and then\l"
-=======
 Route119_Text_ThoughtFlyByCatchingBirdMons: @ 81F51A2
 	.string "I thought you Fly by catching a whole\n"
 	.string "flock of Bird Pokémon, and then\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "hanging on to them somehow.\p"
 	.string "But it turns out there's an HM move\n"
 	.string "called Fly!\p"
@@ -635,27 +592,11 @@ Route119_Text_TallGrassSnaresBikeTires:
 	.string "The tall grass snares Bike tires.\n"
 	.string "There's no way you can cycle here.$"
 
-<<<<<<< HEAD
-Route119_Text_CanYourMonMakeSecretBase:
-	.string "Can your POKéMON use its SECRET POWER\n"
-=======
 Route119_Text_CanYourMonMakeSecretBase: @ 81F52B9
 	.string "Can your Pokémon use its Secret Power\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "on a big pile of grass and make a\l"
 	.string "Secret Base?$"
 
-<<<<<<< HEAD
-Route119_Text_RouteSignFortree:
-	.string "ROUTE 119\n"
-	.string "{RIGHT_ARROW} FORTREE CITY$"
-
-Route119_Text_WeatherInstitute:
-	.string "WEATHER INSTITUTE$"
-
-Route119_Text_TrainerTipsDecoration:
-	.string "TRAINER TIPS\p"
-=======
 Route119_Text_RouteSignFortree: @ 81F530E
 	.string "Route 119\n"
 	.string "{RIGHT_ARROW} Fortree City$"
@@ -665,7 +606,6 @@ Route119_Text_WeatherInstitute: @ 81F5327
 
 Route119_Text_TrainerTipsDecoration: @ 81F5339
 	.string "Trainer Tips\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Up to sixteen decorations and\n"
 	.string "furniture items can be placed in\l"
 	.string "a Secret Base.\p"

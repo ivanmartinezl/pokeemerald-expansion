@@ -30,15 +30,9 @@ LavaridgeTown_PokemonCenter_1F_EventScript_Gentleman::
 	msgbox LavaridgeTown_PokemonCenter_1F_Text_TrainersShouldRestToo, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-LavaridgeTown_PokemonCenter_1F_Text_TrainersPokemonSpendTimeTogether:
-	.string "I think POKéMON get closer to their\n"
-	.string "TRAINERS if they spend time together.\p"
-=======
 LavaridgeTown_PokemonCenter_1F_Text_TrainersPokemonSpendTimeTogether: @ 81FFB37
 	.string "I think Pokémon get closer to their\n"
 	.string "Trainers if they spend time together.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "The longer the better.\n"
 	.string "That's what I think.$"
 

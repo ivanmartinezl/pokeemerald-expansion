@@ -796,21 +796,6 @@ Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward:
 	.string "Hah?\n"
 	.string "Did you not come to claim your reward?$"
 
-<<<<<<< HEAD
-Route110_TrickHouseEntrance_Text_MechadollWhichTent:
-	.string "MECHADOLL 5 I AM!\n"
-	.string "IF REWARD IS NOT TAKEN BY YOU,\l"
-	.string "THEN TRICK MASTER YOU CANNOT FOLLOW.\p"
-	.string "RED TENT OR BLUE TENT,\n"
-	.string "WHICH DO YOU PREFER?$"
-
-Route110_TrickHouseEntrance_Text_ThenFarewell:
-	.string "THEN FAREWELL.$"
-
-Route110_TrickHouseEntrance_Text_PCFullAgain:
-	.string "YOUR PC STATUS: FULL AGAIN.\n"
-	.string "MEAN, YOU ARE.$"
-=======
 Route110_TrickHouseEntrance_Text_MechadollWhichTent: @ 826AB2C
 	.string "Mechadoll 5 I Am!\n"
 	.string "If Reward Is Not Taken By You,\l"
@@ -824,7 +809,6 @@ Route110_TrickHouseEntrance_Text_ThenFarewell: @ 826ABAE
 Route110_TrickHouseEntrance_Text_PCFullAgain: @ 826ABBD
 	.string "Your PC Status: Full Again.\n"
 	.string "Mean, You Are.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
 	.string "{PLAYER} found a scroll.$"

@@ -307,13 +307,8 @@ LilycoveCity_LilycoveMuseum_2F_Text_ItsGreenPictureFrame:
 	.string "It's a picture frame with\n"
 	.string "green-colored adornments.$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon:
-	.string "It's a painting of POKéMON.$"
-=======
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon: @ 821A0A1
 	.string "It's a painting of Pokémon.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
 	.string "I've been away awhile, so the new\n"

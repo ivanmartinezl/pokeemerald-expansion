@@ -82,13 +82,8 @@ VerdanturfTown_WandasHouse_EventScript_WallysAuntEverGrande::
 	release
 	end
 
-<<<<<<< HEAD
-VerdanturfTown_WandasHouse_Text_StrongerSpeech:
-	.string "WALLY: I lost to you, {PLAYER}, but I'm\n"
-=======
 VerdanturfTown_WandasHouse_Text_StrongerSpeech: @ 8202993
 	.string "Wally: I lost to you, {PLAYER}, but I'm\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "not feeling down anymore.\p"
 	.string "Because I have a new purpose in life.\n"
 	.string "Together with my Ralts, I'm going\l"
@@ -99,26 +94,15 @@ VerdanturfTown_WandasHouse_Text_StrongerSpeech: @ 8202993
 	.string "When I do, I'm going to challenge you\n"
 	.string "to another battle.$"
 
-<<<<<<< HEAD
-VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
-	.string "WALLY: Please watch me, {PLAYER}.\n"
-=======
 VerdanturfTown_WandasHouse_Text_StrongerSpeechShort: @ 8202ABE
 	.string "Wally: Please watch me, {PLAYER}.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm going to get stronger than you.\p"
 	.string "When I do, I'm going to challenge you\n"
 	.string "to another battle.$"
 
-<<<<<<< HEAD
-VerdanturfTown_WandasHouse_Text_WallysNextDoor:
-	.string "UNCLE: Oh! {PLAYER}{KUN}!\n"
-	.string "WALLY's next door.\p"
-=======
 VerdanturfTown_WandasHouse_Text_WallysNextDoor: @ 8202B37
 	.string "Uncle: Oh! {PLAYER}{KUN}!\n"
 	.string "Wally's next door.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But, boy, there's something I have to\n"
 	.string "tell you.\p"
 	.string "This natural environment is doing\n"
@@ -127,15 +111,6 @@ VerdanturfTown_WandasHouse_Text_WallysNextDoor: @ 8202B37
 	.string "It could be Pokémon that are giving\l"
 	.string "the boy hope.$"
 
-<<<<<<< HEAD
-VerdanturfTown_WandasHouse_Text_WallySlippedOff:
-	.string "WALLY's gone away…\n"
-	.string "He slipped off on his own…$"
-
-VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
-	.string "UNCLE: Is that right?\n"
-	.string "WALLY's gone away that far all by\l"
-=======
 VerdanturfTown_WandasHouse_Text_WallySlippedOff: @ 8202C20
 	.string "Wally's gone away…\n"
 	.string "He slipped off on his own…$"
@@ -143,18 +118,12 @@ VerdanturfTown_WandasHouse_Text_WallySlippedOff: @ 8202C20
 VerdanturfTown_WandasHouse_Text_WallyGoneThatFar: @ 8202C4E
 	.string "Uncle: Is that right?\n"
 	.string "Wally's gone away that far all by\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "himself…\p"
 	.string "Well, I have to give him credit--he is\n"
 	.string "my little brother's son.$"
 
-<<<<<<< HEAD
-VerdanturfTown_WandasHouse_Text_MeetWanda:
-	.string "WANDA: You are?\n"
-=======
 VerdanturfTown_WandasHouse_Text_MeetWanda: @ 8202CCF
 	.string "Wanda: You are?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Oh, right, I get it!\p"
 	.string "You're the {PLAYER} who Wally was\n"
 	.string "telling me about.\p"
@@ -163,13 +132,8 @@ VerdanturfTown_WandasHouse_Text_MeetWanda: @ 8202CCF
 	.string "I think Wally's become a lot more lively\n"
 	.string "and healthy since he came here.$"
 
-<<<<<<< HEAD
-VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
-	.string "WANDA: Don't worry about WALLY.\n"
-=======
 VerdanturfTown_WandasHouse_Text_DontWorryAboutWally: @ 8202D91
 	.string "Wanda: Don't worry about Wally.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "He'll be just fine.\p"
 	.string "I know my little cousin, and he has\n"
 	.string "Pokémon with him, too.$"
@@ -197,14 +161,8 @@ VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
 	.string "I would never be able to look his\l"
 	.string "parents in Petalburg in the eye…$"
 
-<<<<<<< HEAD
-VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:
-	.string "WALLY was in EVER GRANDE?\p"
-	.string "His parents in PETALBURG would be\n"
-=======
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande: @ 8202FDB
 	.string "Wally was in Ever Grande?\p"
 	.string "His parents in Petalburg would be\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "astonished to hear that!$"
 

@@ -272,13 +272,8 @@ EventScript_EggHatch::
 	releaseall
 	end
 
-<<<<<<< HEAD
-Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon:
-	.string "I'm the DAY-CARE MAN.\p"
-=======
 Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon: @ 8291FCF
 	.string "I'm the Day-Care Man.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I help take care of the precious\n"
 	.string "Pokémon of Trainers.\p"
 	.string "If you'd like me to raise your Pokémon,\n"
@@ -305,15 +300,9 @@ Route117_Text_YouHaveNoRoomForIt:
 	.string "You have no room for it…\n"
 	.string "Come back when you've made room.$"
 
-<<<<<<< HEAD
-Route117_Text_ReceivedEgg:
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
-=======
 Route117_Text_ReceivedEgg: @ 82921A4
 	.string "{PLAYER} received the Egg from\n"
 	.string "the Day-Care Man.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route117_Text_TakeGoodCareOfIt:
 	.string "Take good care of it.$"
@@ -326,13 +315,8 @@ Route117_Text_FriendlyWithOtherTrainersMon:
 	.string "a piece of Mail.$"
 
 @ Unused
-<<<<<<< HEAD
-Route117_Text_SeeWifeIfYouWantToPickUpMon:
-	.string "If you want to pick up your POKéMON,\n"
-=======
 Route117_Text_SeeWifeIfYouWantToPickUpMon: @ 829225A
 	.string "If you want to pick up your Pokémon,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "have a word with my wife.$"
 
 Route117_Text_YourMonsAreDoingFine:
@@ -343,15 +327,6 @@ Route117_Text_IWillKeepDoYouWantIt:
 	.string "I really will keep it.\n"
 	.string "You do want this, yes?$"
 
-<<<<<<< HEAD
-Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon:
-	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise POKéMON for you.\p"
-	.string "Would you like us to raise one?$"
-
-Route117_PokemonDayCare_Text_WhichMonShouldWeRaise:
-	.string "Which POKéMON should we raise for\n"
-=======
 Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon: @ 82922F4
 	.string "I'm the Day-Care Lady.\p"
 	.string "We can raise Pokémon for you.\p"
@@ -359,7 +334,6 @@ Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon: @ 82922F4
 
 Route117_PokemonDayCare_Text_WhichMonShouldWeRaise: @ 8292349
 	.string "Which Pokémon should we raise for\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "you?$"
 
 Route117_PokemonDayCare_Text_WellRaiseYourMon:
@@ -367,13 +341,8 @@ Route117_PokemonDayCare_Text_WellRaiseYourMon:
 	.string "for a while.\p"
 	.string "Come back for it later.$"
 
-<<<<<<< HEAD
-Route117_PokemonDayCare_Text_WeCanRaiseOneMore:
-	.string "We can raise two of your POKéMON.\n"
-=======
 Route117_PokemonDayCare_Text_WeCanRaiseOneMore: @ 82923AF
 	.string "We can raise two of your Pokémon.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Would you like us to raise one more?$"
 
 Route117_PokemonDayCare_Text_HusbandWasLookingForYou:
@@ -402,15 +371,6 @@ Route117_PokemonDayCare_Text_YourMonHasGrownXLevels:
 	.string "By level, your {STR_VAR_1} has\n"
 	.string "grown by {STR_VAR_2}.$"
 
-<<<<<<< HEAD
-Route117_PokemonDayCare_Text_YourTeamIsFull:
-	.string "Your POKéMON team is full.\n"
-	.string "Make room, then come see me.$"
-
-@ Unused
-Route117_PokemonDayCare_Text_TakeBackWhichMon:
-	.string "Which POKéMON will you take back?$"
-=======
 Route117_PokemonDayCare_Text_YourTeamIsFull: @ 82924EF
 	.string "Your Pokémon team is full.\n"
 	.string "Make room, then come see me.$"
@@ -418,7 +378,6 @@ Route117_PokemonDayCare_Text_YourTeamIsFull: @ 82924EF
 @ Unused
 Route117_PokemonDayCare_Text_TakeBackWhichMon: @ 8292527
 	.string "Which Pokémon will you take back?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route117_PokemonDayCare_Text_ItWillCostX:
 	.string "If you want your {STR_VAR_1} back,\n"
@@ -437,19 +396,11 @@ Route117_PokemonDayCare_Text_YouHaveJustOneMon:
 	.string "Pokémon.\p"
 	.string "Come back another time.$"
 
-<<<<<<< HEAD
-Route117_PokemonDayCare_Text_TakeYourMonBack:
-	.string "Will you take your POKéMON back?$"
-
-Route117_PokemonDayCare_Text_WhatWillYouBattleWith:
-	.string "If you leave me that POKéMON,\n"
-=======
 Route117_PokemonDayCare_Text_TakeYourMonBack: @ 82925F6
 	.string "Will you take your Pokémon back?$"
 
 Route117_PokemonDayCare_Text_WhatWillYouBattleWith: @ 8292617
 	.string "If you leave me that Pokémon,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "what will you battle with?\p"
 	.string "Come back another time.$"
 

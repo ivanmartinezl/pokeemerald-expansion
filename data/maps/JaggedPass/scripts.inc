@@ -149,13 +149,8 @@ JaggedPass_EventScript_Autumn::
 	msgbox JaggedPass_Text_AutumnPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-JaggedPass_Text_EricIntro:
-	.string "MT. CHIMNEY's JAGGED PASS…\p"
-=======
 JaggedPass_Text_EricIntro: @ 8230888
 	.string "Mt. Chimney's Jagged Pass…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Now this is what I've always wanted\n"
 	.string "in a mountain.\p"
 	.string "This jagged bumpiness…\n"
@@ -164,13 +159,8 @@ JaggedPass_Text_EricIntro: @ 8230888
 JaggedPass_Text_EricDefeat:
 	.string "Losing left me bitter!$"
 
-<<<<<<< HEAD
-JaggedPass_Text_EricPostBattle:
-	.string "Yes, I did lose at POKéMON…\p"
-=======
 JaggedPass_Text_EricPostBattle: @ 8230916
 	.string "Yes, I did lose at Pokémon…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But, when it comes to the love of\n"
 	.string "the mountains, I have you beat!$"
 
@@ -203,26 +193,16 @@ JaggedPass_Text_DianaPostRematch:
 	.string "I'll forget about losing and just\n"
 	.string "enjoy this bumpy hike.$"
 
-<<<<<<< HEAD
-JaggedPass_Text_EthanIntro:
-	.string "JAGGED PASS is hard to walk on.\n"
-=======
 JaggedPass_Text_EthanIntro: @ 8230B10
 	.string "Jagged Pass is hard to walk on.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's a good place for training.$"
 
 JaggedPass_Text_EthanDefeat:
 	.string "It was all over while we were still\n"
 	.string "trying to find a good footing…$"
 
-<<<<<<< HEAD
-JaggedPass_Text_EthanPostBattle:
-	.string "If I had an ACRO BIKE, I'd be able to\n"
-=======
 JaggedPass_Text_EthanPostBattle: @ 8230B93
 	.string "If I had an Acro Bike, I'd be able to\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "jump ledges.$"
 
 JaggedPass_Text_EthanRegister:
@@ -238,15 +218,9 @@ JaggedPass_Text_EthanRematchDefeat:
 	.string "It's still not easy to battle on this\n"
 	.string "bumpy ground…$"
 
-<<<<<<< HEAD
-JaggedPass_Text_EthanPostRematch:
-	.string "I should get an ACRO BIKE from RYDEL\n"
-	.string "in MAUVILLE CITY…$"
-=======
 JaggedPass_Text_EthanPostRematch: @ 8230C94
 	.string "I should get an Acro Bike from Rydel\n"
 	.string "in Mauville City…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 JaggedPass_Text_GruntIntro:
 	.string "Wah!\n"

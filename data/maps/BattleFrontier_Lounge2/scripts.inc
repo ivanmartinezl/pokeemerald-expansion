@@ -147,26 +147,16 @@ BattleFrontier_Lounge2_Text_SalonMaidenIsThere::
 	.string "It's this mysterious Trainer called\n"
 	.string "the Salon Maiden that runs the place.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_SalonMaidenSilverMons::
-	.string "Have you battled the SALON MAIDEN?\p"
-=======
 BattleFrontier_Lounge2_Text_SalonMaidenSilverMons:: @ 8260A1E
 	.string "Have you battled the Salon Maiden?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "When she's measuring up her opponent,\n"
 	.string "she apparently uses these Pokémon:\p"
 	.string "A Psychic-type Psi Pokémon,\n"
 	.string "a Fire-type Volcano Pokémon,\l"
 	.string "and a Normal-type Sleeping Pokémon.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_SalonMaidenGoldMons::
-	.string "Have you battled the SALON MAIDEN\n"
-=======
 BattleFrontier_Lounge2_Text_SalonMaidenGoldMons:: @ 8260AE7
 	.string "Have you battled the Salon Maiden\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when she's serious?\p"
 	.string "When she's battling flat out,\n"
 	.string "she apparently uses these Pokémon:\p"
@@ -181,26 +171,16 @@ BattleFrontier_Lounge2_Text_DomeAceIsThere::
 	.string "It's this flamboyant Trainer called\n"
 	.string "the Dome Ace that runs the place.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_DomeAceSilverMons::
-	.string "Have you battled the DOME ACE?\p"
-=======
 BattleFrontier_Lounge2_Text_DomeAceSilverMons:: @ 8260C6D
 	.string "Have you battled the Dome Ace?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "When he's treating the opponent\n"
 	.string "lightly, he uses these three Pokémon:\p"
 	.string "A Dragon & Flying Dragon Pokémon,\n"
 	.string "a Water & Ground Mud Fish Pokémon,\l"
 	.string "and a Fire & Flying Flame Pokémon.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_DomeAceGoldMons::
-	.string "Have you battled the DOME ACE\n"
-=======
 BattleFrontier_Lounge2_Text_DomeAceGoldMons:: @ 8260D3A
 	.string "Have you battled the Dome Ace\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when he's serious?\p"
 	.string "When he's demonstrating his strategy,\n"
 	.string "he uses these three Pokémon:\p"
@@ -216,26 +196,16 @@ BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
 	.string "It's this freaky Trainer called\n"
 	.string "the Factory Head that runs the place.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_FactoryHeadSilverMons::
-	.string "Have you battled the FACTORY HEAD\n"
-=======
 BattleFrontier_Lounge2_Text_FactoryHeadSilverMons:: @ 8260EC7
 	.string "Have you battled the Factory Head\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "already?\p"
 	.string "Let me think… When he goes to battle,\n"
 	.string "he just gets three rental Pokémon.\p"
 	.string "He battles under pretty much the same\n"
 	.string "conditions as you.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_FactoryHeadGoldMons::
-	.string "Have you battled the FACTORY HEAD\n"
-=======
 BattleFrontier_Lounge2_Text_FactoryHeadGoldMons:: @ 8260F74
 	.string "Have you battled the Factory Head\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when he's serious?\p"
 	.string "When he goes seriously to battle,\n"
 	.string "he still gets three rental Pokémon.\p"
@@ -249,13 +219,8 @@ BattleFrontier_Lounge2_Text_PikeQueenIsThere::
 	.string "It's this scary Trainer called\n"
 	.string "the Pike Queen that runs the place.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_PikeQueenSilverMons::
-	.string "Have you battled the PIKE QUEEN\n"
-=======
 BattleFrontier_Lounge2_Text_PikeQueenSilverMons:: @ 82610CC
 	.string "Have you battled the Pike Queen\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "before?\p"
 	.string "When she's in a good mood, they say\n"
 	.string "she uses these three Pokémon:\p"
@@ -263,13 +228,8 @@ BattleFrontier_Lounge2_Text_PikeQueenSilverMons:: @ 82610CC
 	.string "a Bug & Rock Mold Pokémon,\l"
 	.string "and a Water-type Tender Pokémon.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_PikeQueenGoldMons::
-	.string "Have you battled the PIKE QUEEN\n"
-=======
 BattleFrontier_Lounge2_Text_PikeQueenGoldMons:: @ 8261194
 	.string "Have you battled the Pike Queen\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when she's serious?\p"
 	.string "When she's seriously annoyed, they say\n"
 	.string "she uses these three Pokémon:\p"
@@ -285,13 +245,8 @@ BattleFrontier_Lounge2_Text_ArenaTycoonIsThere::
 	.string "It's this cute Trainer called\n"
 	.string "the Arena Tycoon that runs the place.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons::
-	.string "Have you battled the ARENA TYCOON\n"
-=======
 BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons:: @ 8261329
 	.string "Have you battled the Arena Tycoon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "before?\p"
 	.string "When she's assessing the foe's ability,\n"
 	.string "she supposedly uses these Pokémon:\p"
@@ -299,13 +254,8 @@ BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons:: @ 8261329
 	.string "a Dark-type Moonlight Pokémon,\l"
 	.string "and a Bug & Ghost Shed Pokémon.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons::
-	.string "Have you battled the ARENA TYCOON\n"
-=======
 BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons:: @ 8261403
 	.string "Have you battled the Arena Tycoon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when she's serious?\p"
 	.string "When she battles for keeps,\n"
 	.string "she supposedly uses these Pokémon:\p"
@@ -321,13 +271,8 @@ BattleFrontier_Lounge2_Text_PalaceMavenIsThere::
 	.string "It's this sinister Trainer called\n"
 	.string "the Palace Maven that runs the place.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_PalaceMavenSilverMons::
-	.string "Have you battled the PALACE MAVEN\n"
-=======
 BattleFrontier_Lounge2_Text_PalaceMavenSilverMons:: @ 8261591
 	.string "Have you battled the Palace Maven\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "before?\p"
 	.string "When he's testing the opponent's\n"
 	.string "spirit, he's said to use these Pokémon:\p"
@@ -335,13 +280,8 @@ BattleFrontier_Lounge2_Text_PalaceMavenSilverMons:: @ 8261591
 	.string "a Normal-type Lazy Pokémon, and a\l"
 	.string "Water- & Ice-type Transport Pokémon.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_PalaceMavenGoldMons::
-	.string "Have you battled the PALACE MAVEN\n"
-=======
 BattleFrontier_Lounge2_Text_PalaceMavenGoldMons:: @ 826166F
 	.string "Have you battled the Palace Maven\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when he's serious?\p"
 	.string "When he throws his entire might into\n"
 	.string "battle, he's said to use these Pokémon:\p"
@@ -356,13 +296,8 @@ BattleFrontier_Lounge2_Text_PyramidKingIsThere::
 	.string "It's this fiery-hot Trainer called\n"
 	.string "the Pyramid King that runs the place.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_PyramidKingSilverMons::
-	.string "Have you battled the PYRAMID KING\n"
-=======
 BattleFrontier_Lounge2_Text_PyramidKingSilverMons:: @ 82617F9
 	.string "Have you battled the Pyramid King\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "before?\p"
 	.string "When he's checking the foe's power,\n"
 	.string "he apparently uses these Pokémon:\p"
@@ -370,13 +305,8 @@ BattleFrontier_Lounge2_Text_PyramidKingSilverMons:: @ 82617F9
 	.string "an Ice-type Iceberg Pokémon,\l"
 	.string "and a Steel-type Iron Pokémon.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_PyramidKingGoldMons::
-	.string "Have you battled the PYRAMID KING\n"
-=======
 BattleFrontier_Lounge2_Text_PyramidKingGoldMons:: @ 82618C4
 	.string "Have you battled the Pyramid King\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when he's serious?\p"
 	.string "When he's pumped with hot power,\n"
 	.string "he apparently uses these Pokémon:\p"
@@ -406,15 +336,9 @@ BattleFrontier_Lounge2_Text_DoubleBattleAdvice3::
 	.string "think about challenging other places\l"
 	.string "offering Double Battles.$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge2_Text_MultiBattleAdvice::
-	.string "All sorts of TRAINERS gather in\n"
-	.string "the BATTLE SALON.\p"
-=======
 BattleFrontier_Lounge2_Text_MultiBattleAdvice:: @ 8261B95
 	.string "All sorts of Trainers gather in\n"
 	.string "the Battle Salon.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Just think--you may run into your\n"
 	.string "friends or followers!\l"
 	.string "You should look carefully!$"

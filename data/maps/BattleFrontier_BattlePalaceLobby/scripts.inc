@@ -374,13 +374,8 @@ BattleFrontier_BattlePalaceLobby_EventScript_ExitRules::
 	releaseall
 	end
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_WelcomeForSingleBattle:
-	.string "Where the hearts of TRAINERS\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_WelcomeForSingleBattle: @ 824DD5B
 	.string "Where the hearts of Trainers\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "are put to the test.\p"
 	.string "I welcome you to the Battle Palace.\p"
 	.string "I accept challenges to the Single\n"
@@ -390,19 +385,11 @@ BattleFrontier_BattlePalaceLobby_Text_TakeSingleBattleChallenge:
 	.string "Do you wish to take\n"
 	.string "the Single Battle Hall challenge?$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_ExplainSingleBattleChallenge:
-	.string "In the BATTLE PALACE, there are\n"
-	.string "several auditoriums for SINGLE BATTLES\l"
-	.string "that are named SINGLE BATTLE HALLS.\p"
-	.string "The SINGLE BATTLES are conducted in\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_ExplainSingleBattleChallenge: @ 824DE17
 	.string "In the Battle Palace, there are\n"
 	.string "several auditoriums for Single Battles\l"
 	.string "that are named Single Battle Halls.\p"
 	.string "The Single Battles are conducted in\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the usual way, except with one crucial\l"
 	.string "rule that must be obeyed.\p"
 	.string "Trainers are permitted only to switch\n"
@@ -425,13 +412,8 @@ BattleFrontier_BattlePalaceLobby_Text_ReturnWhenFortified:
 	.string "When you have fortified your heart\n"
 	.string "and Pokémon, you must return.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_WhichChallenge:
-	.string "There are two BATTLE HALLS,\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_WhichChallenge: @ 824E119
 	.string "There are two Battle Halls,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Level 50 and Open Level.\l"
 	.string "Which is your choice of a challenge?$"
 
@@ -547,39 +529,23 @@ BattleFrontier_BattlePalaceLobby_Text_NatureAndMovesKeyHere:
 	.string "you may need to examine how well\l"
 	.string "its moves match its nature.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_MonDocileButTransforms:
-	.string "My POKéMON is usually very docile.\p"
-	.string "But when it's in a BATTLE HALL,\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_MonDocileButTransforms: @ 824E992
 	.string "My Pokémon is usually very docile.\p"
 	.string "But when it's in a Battle Hall,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "it sometimes seems to become\l"
 	.string "transformed into something wicked!\p"
 	.string "It becomes totally intimidating.\n"
 	.string "It's shocking, even.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_WhatNatureFavorsChippingAway:
-	.string "I wonder what sort of nature a POKéMON\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_WhatNatureFavorsChippingAway: @ 824EA4B
 	.string "I wonder what sort of nature a Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "would have if it favored enfeebling its\l"
 	.string "opponents and chipping away slowly.\p"
 	.string "I'd be surprised if it was a Lax nature.\p"
 	.string "But, nah, that can't be right.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_WelcomeForDoubleBattle:
-	.string "Where the hearts of TRAINERS\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_WelcomeForDoubleBattle: @ 824EB06
 	.string "Where the hearts of Trainers\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "are put to the test.\p"
 	.string "I welcome you to the Battle Palace.\p"
 	.string "I accept challenges to the Double\n"
@@ -589,19 +555,11 @@ BattleFrontier_BattlePalaceLobby_Text_TakeDoubleBattleChallenge:
 	.string "Do you wish to take\n"
 	.string "the Double Battle Hall challenge?$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge:
-	.string "In the BATTLE PALACE, there are\n"
-	.string "several auditoriums for DOUBLE BATTLES\l"
-	.string "that are named DOUBLE BATTLE HALLS.\p"
-	.string "The DOUBLE BATTLES are conducted in\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge: @ 824EBC2
 	.string "In the Battle Palace, there are\n"
 	.string "several auditoriums for Double Battles\l"
 	.string "that are named Double Battle Halls.\p"
 	.string "The Double Battles are conducted in\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the usual way, except with one crucial\l"
 	.string "rule that must be obeyed.\p"
 	.string "Trainers are permitted only to switch\n"
@@ -620,15 +578,9 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge: @ 824EBC2
 	.string "If you don't save before interrupting,\n"
 	.string "you will be disqualified.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers:
-	.string "To defeat the PALACE MAVEN\n"
-	.string "and seven TRAINERS in a row…$"
-=======
 BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers: @ 824EE81
 	.string "To defeat the Palace Maven\n"
 	.string "and seven Trainers in a row…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_BattlePalaceLobby_Text_PresentYouWithBattlePoints:
 	.string "In honor of the bond you share with\n"
@@ -640,36 +592,21 @@ BattleFrontier_BattlePalaceLobby_Text_LikeToRecordMatch:
 	.string "Battle Palace match on your\l"
 	.string "Frontier Pass?$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_RulesAreListed:
-	.string "The BATTLE HALL rules are listed.$"
-=======
 BattleFrontier_BattlePalaceLobby_Text_RulesAreListed: @ 824EF66
 	.string "The Battle Hall rules are listed.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_BattlePalaceLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics:
-	.string "Here, POKéMON are required to think\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics: @ 824EFAB
 	.string "Here, Pokémon are required to think\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "and battle by themselves.\p"
 	.string "Unlike in the wild, Pokémon that live\n"
 	.string "with people behave differently\l"
 	.string "depending on their nature.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature:
-	.string "Depending on its nature, a POKéMON\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature: @ 824F049
 	.string "Depending on its nature, a Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "may prefer to attack no matter what.\p"
 	.string "Another Pokémon may prefer to protect\n"
 	.string "itself from any harm.\p"
@@ -694,15 +631,9 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves:
 	.string "Pokémon will consider using moves in\n"
 	.string "these three categories.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered:
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-=======
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered: @ 824F2E8
 	.string "When not under command by its Trainer,\n"
 	.string "a Pokémon may be unable to effectively\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "use certain moves.\p"
 	.string "A Pokémon is not good at using any\n"
 	.string "move that it dislikes.\p"
@@ -710,13 +641,8 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered: @ 824F2E8
 	.string "do not match its nature, it will often\l"
 	.string "be unable to live up to its potential.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger:
-	.string "Depending on its nature, a POKéMON may\n"
-=======
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger: @ 824F3F4
 	.string "Depending on its nature, a Pokémon may\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "start using moves that don't match its\l"
 	.string "nature when it is in trouble.\p"
 	.string "If a Pokémon begins behaving oddly\n"

@@ -292,13 +292,8 @@ SlateportCity_BattleTentLobby_Text_ExplainTorment:
 	.string "Hey, now, you listen here, like,\n"
 	.string "I'm not laying a torment on you!$"
 
-<<<<<<< HEAD
-SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
-	.string "I don't really like BUG POKéMON,\n"
-=======
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons: @ 8208D27
 	.string "I don't really like Bug Pokémon,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "but maybe I'll try using some for\l"
 	.string "a change of pace.\p"
 	.string "Who knows, I might even get to like\n"

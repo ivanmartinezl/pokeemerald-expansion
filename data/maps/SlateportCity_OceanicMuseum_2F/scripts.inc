@@ -272,13 +272,8 @@ SlateportCity_OceanicMuseum_2F_EventScript_MuseumPatron3::
 	release
 	end
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
-	.string "Yes? If you're looking for STERN,\n"
-=======
 SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts: @ 820BD8D
 	.string "Yes? If you're looking for Stern,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "that would be me.\p"
 	.string "Ah! Those must be the parts I ordered\n"
 	.string "from Mr. Stone of Devon.\p"
@@ -289,15 +284,6 @@ SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts:
 	.string "Hehehe, hold it!\n"
 	.string "We'll take those parts!$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou:
-	.string "CAPT. STERN: Wh-what?\n"
-	.string "Who are you people?$"
-
-SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua:
-	.string "We're TEAM AQUA!\p"
-	.string "Our BOSS wants those parts!\n"
-=======
 SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou: @ 820BE69
 	.string "Capt. Stern: Wh-what?\n"
 	.string "Who are you people?$"
@@ -305,7 +291,6 @@ SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou: @ 820BE69
 SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua: @ 820BE93
 	.string "We're Team Aqua!\p"
 	.string "Our Boss wants those parts!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Shut your yap and fork them over!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
@@ -335,13 +320,8 @@ SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
 	.string "long to snatch some parts, and you\l"
 	.string "simps are held up by a mere child?$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
-	.string "We are TEAM AQUA,\n"
-=======
 SlateportCity_OceanicMuseum_2F_Text_ArchieWarning: @ 820C059
 	.string "We are Team Aqua,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "and we love the sea!\p"
 	.string "And I am Team Aqua's leader,\n"
 	.string "Archie!\p"
@@ -367,26 +347,16 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning: @ 820C059
 	.string "dearly!\p"
 	.string "And don't you forget it!$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
-	.string "CAPT. STERN: You're…\n"
-=======
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs: @ 820C2BE
 	.string "Capt. Stern: You're…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Ah, okay, you're {PLAYER}{KUN}…\p"
 	.string "Anyway, that was a tense situation!\n"
 	.string "Thank you for saving us!\p"
 	.string "Oh, yes, I almost forgot that you\n"
 	.string "even brought the parts from Devon!$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
-	.string "CAPT. STERN: Whoops!\n"
-=======
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo: @ 820C36C
 	.string "Capt. Stern: Whoops!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "There's no time to lose!\p"
 	.string "We have to set out on our ocean-floor\n"
 	.string "expedition really soon.\p"
@@ -408,24 +378,14 @@ SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
 	.string "Wow, the submarine's awesome!\n"
 	.string "I want to go for a ride!$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
-	.string "“WATER QUALITY SAMPLE 1,” the\n"
-=======
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1: @ 820C4F9
 	.string "“Water Quality Sample 1,” the\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "label says.\p"
 	.string "The sea is all connected, but the\n"
 	.string "water seems to differ by region.$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
-	.string "“WATER QUALITY SAMPLE 2,” the\n"
-=======
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2: @ 820C566
 	.string "“Water Quality Sample 2,” the\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "label says.\p"
 	.string "Does the saltiness of seawater differ\n"
 	.string "by region, too?$"
@@ -441,13 +401,8 @@ SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
 	.string "the pressure can reach even tens of\l"
 	.string "thousands of tons on a small area.”$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_HoennModel:
-	.string "“MODEL OF HOENN REGION”\p"
-=======
 SlateportCity_OceanicMuseum_2F_Text_HoennModel: @ 820C6C7
 	.string "“Model Of Hoenn Region”\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's a miniature diorama of the\n"
 	.string "Hoenn region.\p"
 	.string "Where is Littleroot Town on this?$"
@@ -463,30 +418,11 @@ SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay:
 	.string "“Toward the surface, seawater flows\n"
 	.string "as currents driven by the winds.”$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica:
-	.string "“THE FERRY S.S. TIDAL\p"
-=======
 SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica: @ 820C82F
 	.string "“The Ferry S.S. Tidal\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“A scale replica of the ship under\n"
 	.string "construction at Stern's Shipyard.”$"
 
-<<<<<<< HEAD
-SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica:
-	.string "“SUBMARINE EXPLORER 1\p"
-	.string "“A replica of the high-performance\n"
-	.string "ocean floor exploration submarine.”$"
-
-SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica:
-	.string "“SUBMERSIBLE POD\p"
-	.string "“A replica of a compact, unmanned\n"
-	.string "pod for seafloor exploration.”$"
-
-SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica:
-	.string "“S.S. ANNE\p"
-=======
 SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica: @ 820C88B
 	.string "“Submarine Explorer 1\p"
 	.string "“A replica of the high-performance\n"
@@ -499,7 +435,6 @@ SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica: @ 820C8E8
 
 SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica: @ 820C93A
 	.string "“S.S. Anne\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“A replica of the luxury liner that\n"
 	.string "circles the globe.”$"
 

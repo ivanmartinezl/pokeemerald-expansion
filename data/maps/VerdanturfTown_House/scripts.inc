@@ -9,16 +9,6 @@ VerdanturfTown_House_EventScript_Woman2::
 	msgbox VerdanturfTown_House_Text_DefeatEliteFourInARow, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
-	.string "Far away, deep in EVER GRANDE CITY,\n"
-	.string "is the POKéMON LEAGUE.\p"
-	.string "The TRAINERS who gather there are\n"
-	.string "all frighteningly well skilled.$"
-
-VerdanturfTown_House_Text_DefeatEliteFourInARow:
-	.string "In the POKéMON LEAGUE, I think the\n"
-=======
 VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague: @ 8203371
 	.string "Far away, deep in Ever Grande City,\n"
 	.string "is the Pokémon League.\p"
@@ -27,7 +17,6 @@ VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague: @ 8203371
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow: @ 82033EE
 	.string "In the Pokémon League, I think the\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "rules say that you have to battle the\l"
 	.string "Elite Four all in a row.\p"
 	.string "If you lose to any of them, you have\n"

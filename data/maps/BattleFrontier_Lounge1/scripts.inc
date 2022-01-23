@@ -150,13 +150,8 @@ BattleFrontier_Lounge1_EventScript_Boy2::
 	msgbox BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-BattleFrontier_Lounge1_Text_PokemonBreederIntro:
-	.string "For 70 years I have raised POKéMON!\n"
-=======
 BattleFrontier_Lounge1_Text_PokemonBreederIntro: @ 825E95F
 	.string "For 70 years I have raised Pokémon!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I am the man they revere as\l"
 	.string "the legendary top Pokémon Breeder!\p"
 	.string "If you ever become as seasoned as me,\n"
@@ -240,13 +235,8 @@ BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
 	.string "I have business that needs tending!\n"
 	.string "Save it for next time!$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
-	.string "Ah, youngster! Do your POKéMON's\n"
-=======
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon: @ 825EEF6
 	.string "Ah, youngster! Do your Pokémon's\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "abilities intrigue you?\p"
 	.string "Here, here!\n"
 	.string "Let's have a look at your Pokémon!$"
@@ -257,21 +247,12 @@ BattleFrontier_Lounge1_Text_EvenICantTell:
 	.string "Show me a Pokémon!\n"
 	.string "A Pokémon is what I need to see!$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "I'm glad I raised it carefully!$"
-
-BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
-	.string "He said my POKéMON is outstanding!\n"
-=======
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding: @ 825EFDD
 	.string "He said my Pokémon is outstanding!\n"
 	.string "I'm glad I raised it carefully!$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt: @ 825F020
 	.string "He said my Pokémon is outstanding!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But I didn't do anything special\l"
 	.string "raising it…$"
 

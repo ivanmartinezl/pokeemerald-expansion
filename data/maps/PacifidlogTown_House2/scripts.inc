@@ -118,13 +118,8 @@ PacifidlogTown_House2_Text_ViciousPokemonTakeThis:
 	.string "A frightening Pokémon like that\n"
 	.string "deserves a TM like this.$"
 
-<<<<<<< HEAD
-PacifidlogTown_House2_Text_ExplainReturnFrustration:
-	.string "If a POKéMON likes you a lot, RETURN's\n"
-=======
 PacifidlogTown_House2_Text_ExplainReturnFrustration: @ 8203A85
 	.string "If a Pokémon likes you a lot, Return's\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "power is enhanced.\p"
 	.string "If it doesn't like you, Frustration's\n"
 	.string "power goes up.$"
@@ -136,30 +131,17 @@ PacifidlogTown_House2_Text_GetGoodTMInXDays:
 	.string "I'll give you a TM that's suitable for\l"
 	.string "your Pokémon.$"
 
-<<<<<<< HEAD
-PacifidlogTown_House2_Text_Rurii:
-	.string "AZURILL: Rurii.$"
-=======
 PacifidlogTown_House2_Text_Rurii: @ 8203B8D
 	.string "Azurill: Rurii.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 PacifidlogTown_House2_Text_VeryFriendlyWithTrainer:
 	.string "It appears to be very friendly with the\n"
 	.string "Trainer.$"
 
-<<<<<<< HEAD
-PacifidlogTown_House2_Text_Rururi:
-	.string "AZURILL: Rururi!$"
-
-PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch:
-	.string "It doesn't appear to like the TRAINER\n"
-=======
 PacifidlogTown_House2_Text_Rururi: @ 8203BCE
 	.string "Azurill: Rururi!$"
 
 PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch: @ 8203BDF
 	.string "It doesn't appear to like the Trainer\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "very much.$"
 

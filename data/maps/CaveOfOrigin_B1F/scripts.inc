@@ -85,15 +85,6 @@ CaveOfOrigin_B1F_Text_WallaceStory:
 	.string "But even I have no clue as to\n"
 	.string "Rayquaza's whereabouts…$"
 
-<<<<<<< HEAD
-CaveOfOrigin_B1F_Text_WhereIsRayquaza:
-	.string "WALLACE: {PLAYER}{KUN}, do you perhaps\n"
-	.string "know where RAYQUAZA is now?\p"
-	.string "If you do, please tell me.$"
-
-CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin:
-	.string "WALLACE: The CAVE OF ORIGIN?\p"
-=======
 CaveOfOrigin_B1F_Text_WhereIsRayquaza: @ 8235ACE
 	.string "Wallace: {PLAYER}{KUN}, do you perhaps\n"
 	.string "know where Rayquaza is now?\p"
@@ -101,19 +92,13 @@ CaveOfOrigin_B1F_Text_WhereIsRayquaza: @ 8235ACE
 
 CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin: @ 8235B23
 	.string "Wallace: The Cave Of Origin?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But that's right here!\n"
 	.string "I need you to do better than that!\p"
 	.string "Please, I need you to think about\n"
 	.string "where Rayquaza might be right now.$"
 
-<<<<<<< HEAD
-CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat:
-	.string "WALLACE: MT. PYRE?\p"
-=======
 CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat: @ 8235BBF
 	.string "Wallace: Mt. Pyre?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But when I met the old lady there\n"
 	.string "earlier, she made no mention of it.\p"
 	.string "I very much doubt that the old lady\n"
@@ -121,15 +106,6 @@ CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat: @ 8235BBF
 	.string "{PLAYER}{KUN}, could you think about this\n"
 	.string "more carefully for me?$"
 
-<<<<<<< HEAD
-CaveOfOrigin_B1F_Text_CantYouRememberSomehow:
-	.string "WALLACE: Huh? You don't remember?\n"
-	.string "Hmm… That's a problem…\p"
-	.string "Can't you remember somehow?$"
-
-CaveOfOrigin_B1F_Text_WellHeadToSkyPillar:
-	.string "WALLACE: The SKY PILLAR?\p"
-=======
 CaveOfOrigin_B1F_Text_CantYouRememberSomehow: @ 8235C99
 	.string "Wallace: Huh? You don't remember?\n"
 	.string "Hmm… That's a problem…\p"
@@ -137,7 +113,6 @@ CaveOfOrigin_B1F_Text_CantYouRememberSomehow: @ 8235C99
 
 CaveOfOrigin_B1F_Text_WellHeadToSkyPillar: @ 8235CEE
 	.string "Wallace: The Sky Pillar?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That's it!\n"
 	.string "It must be the Sky Pillar!\p"
 	.string "{PLAYER}{KUN}, there's not a moment to lose!\n"

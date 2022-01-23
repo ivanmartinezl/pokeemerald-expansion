@@ -48,18 +48,6 @@ MossdeepCity_House4_Text_BrotherLikesToVisitBasesAndBattle:
 	.string "visit people's Secret Bases and have\l"
 	.string "Pokémon battles.$"
 
-<<<<<<< HEAD
-MossdeepCity_House4_Text_YouMadeSecretBaseNearX:
-	.string "Was it you who made a SECRET BASE\n"
-	.string "near {STR_VAR_1}?$"
-
-MossdeepCity_House4_Text_MakeSecretBase:
-	.string "You should make a SECRET BASE\n"
-	.string "somewhere. I'll go find it!$"
-
-MossdeepCity_House4_Text_Skitty:
-	.string "SKITTY: Miyaan?$"
-=======
 MossdeepCity_House4_Text_YouMadeSecretBaseNearX: @ 8222ECC
 	.string "Was it you who made a Secret Base\n"
 	.string "near {STR_VAR_1}?$"
@@ -70,5 +58,4 @@ MossdeepCity_House4_Text_MakeSecretBase: @ 8222EF7
 
 MossdeepCity_House4_Text_Skitty: @ 8222F31
 	.string "Skitty: Miyaan?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

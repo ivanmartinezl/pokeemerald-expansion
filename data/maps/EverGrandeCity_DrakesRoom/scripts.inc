@@ -61,17 +61,10 @@ EverGrandeCity_DrakesRoom_EventScript_Defeated::
 	release
 	end
 
-<<<<<<< HEAD
-EverGrandeCity_DrakesRoom_Text_IntroSpeech:
-	.string "I am the last of the POKéMON LEAGUE\n"
-	.string "ELITE FOUR, DRAKE the DRAGON master!\p"
-	.string "In their natural state, POKéMON are\n"
-=======
 EverGrandeCity_DrakesRoom_Text_IntroSpeech: @ 822873E
 	.string "I am the last of the Pokémon League\n"
 	.string "Elite Four, Drake the Dragon master!\p"
 	.string "In their natural state, Pokémon are\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "wild living things. They are free.\p"
 	.string "At times, they hinder us.\n"
 	.string "At times, they help us.\p"

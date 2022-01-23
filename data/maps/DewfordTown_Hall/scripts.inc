@@ -271,13 +271,8 @@ DewfordTown_Hall_Text_GettingBoredOfTrend:
 	.string "But I'm getting kind of bored with it.\p"
 	.string "I should look for the next big thing.$"
 
-<<<<<<< HEAD
-DewfordTown_Hall_Text_TeachingMonAboutTrend:
-	.string "I'm teaching my POKéMON about\n"
-=======
 DewfordTown_Hall_Text_TeachingMonAboutTrend: @ 81FD8ED
 	.string "I'm teaching my Pokémon about\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“{STR_VAR_1},”\l"
 	.string "but it's not going well.\p"
 	.string "It's a bit too much, I think.$"
@@ -325,13 +320,8 @@ DewfordTown_Hall_Text_CollectTrendMerchandise:
 	.string "Heheh, I own!\n"
 	.string "I'm not sharing anything with you!$"
 
-<<<<<<< HEAD
-DewfordTown_Hall_Text_BooksAboutTrend:
-	.string "IDENTIFYING GOOD\n"
-=======
 DewfordTown_Hall_Text_BooksAboutTrend: @ 81FDB89
 	.string "Identifying Good\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“{STR_VAR_1}” &\l"
 	.string "Bad “{STR_VAR_1}”…\p"
 	.string "The Link Between\n"
@@ -342,22 +332,6 @@ DewfordTown_Hall_Text_BooksAboutTrend: @ 81FDB89
 	.string "It's neatly jammed with books about\n"
 	.string "“{STR_VAR_1}.”$"
 
-<<<<<<< HEAD
-DewfordTown_Hall_Text_TrendsScream:
-	.string "“{STR_VAR_1}'S\n"
-	.string "SCREAM” is the title.$"
-
-DewfordTown_Hall_Text_TrendsSmile:
-	.string "“{STR_VAR_1}'S\n"
-	.string "SMILE” is the title.$"
-
-DewfordTown_Hall_Text_LastTrend:
-	.string "It's titled “THE LAST\n"
-	.string "{STR_VAR_1}”.$"
-
-DewfordTown_Hall_Text_BirthOfTrend:
-	.string "It's titled “THE BIRTH OF\n"
-=======
 DewfordTown_Hall_Text_TrendsScream: @ 81FDC05
 	.string "“{STR_VAR_1}'s\n"
 	.string "Scream” is the title.$"
@@ -372,7 +346,6 @@ DewfordTown_Hall_Text_LastTrend: @ 81FDC3C
 
 DewfordTown_Hall_Text_BirthOfTrend: @ 81FDC57
 	.string "It's titled “The Birth Of\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_SawTrendCoolestThing:
@@ -456,28 +429,17 @@ DewfordTown_Hall_Text_WellBeTrendDuo:
 	.string "Isn't that a ripe image?\n"
 	.string "Hahahah!$"
 
-<<<<<<< HEAD
-DewfordTown_Hall_Text_GiveYouSludgeBomb:
-	.string "For me, SLUDGE BOMB is at the peak\n"
-=======
 DewfordTown_Hall_Text_GiveYouSludgeBomb: @ 81FE142
 	.string "For me, Sludge Bomb is at the peak\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of popularity. It's the one.\p"
 	.string "Hunh? You're telling me that you don't\n"
 	.string "know about Sludge Bomb?\p"
 	.string "That's outright pitiful.\n"
 	.string "I'll give you one.$"
 
-<<<<<<< HEAD
-DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo:
-	.string "I love SLUDGE BOMB.\p"
-	.string "But POKéMON with the move\n"
-=======
 DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo: @ 81FE1ED
 	.string "I love Sludge Bomb.\p"
 	.string "But Pokémon with the move\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“{STR_VAR_1}”\l"
 	.string "are in, too.$"
 

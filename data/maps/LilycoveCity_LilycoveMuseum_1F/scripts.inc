@@ -161,24 +161,14 @@ LilycoveCity_LilycoveMuseum_1F_EventScript_FatMan::
 	msgbox LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum:
-	.string "Welcome to LILYCOVE MUSEUM.\p"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum: @ 8218E4B
 	.string "Welcome to Lilycove Museum.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Please take the time to enjoy our\n"
 	.string "collection of fantastic artwork\l"
 	.string "featuring Pokémon.$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
-	.string "I'm the CURATOR of this MUSEUM of\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings: @ 8218EBC
 	.string "I'm the Curator of this Museum of\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "fine arts.\p"
 	.string "It's heartening to see someone so\n"
 	.string "young as you in our Museum.\p"
@@ -217,24 +207,14 @@ LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman:
 	.string "It's a painting of a beautiful, smiling\n"
 	.string "woman with a Pokémon on her lap.$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
-	.string "It's a painting of a legendary POKéMON\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon: @ 8219142
 	.string "It's a painting of a legendary Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "from long ago.\p"
 	.string "The artist painted this from\n"
 	.string "imagination.$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "It's a painting of GRASS POKéMON\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon: @ 82191A2
 	.string "It's a painting of Grass Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "swaying in a breeze.\p"
 	.string "They appear to be enjoying the wind's\n"
 	.string "gentle caress.$"
@@ -248,13 +228,8 @@ LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
 	.string "It's a replica of a famous sculpture.\p"
 	.string "It depicts an ancient Bird Pokémon.$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "It's a big POKé BALL carved from\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone: @ 82192AA
 	.string "It's a big Poké Ball carved from\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "a black stone.\p"
 	.string "It was apparently used in festivals\n"
 	.string "in the olden days.$"
@@ -269,24 +244,14 @@ LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence:
 	.string "Hmmm…\n"
 	.string "What works of great magnificence…$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts:
-	.string "Battling with POKéMON is fun,\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts: @ 82193B4
 	.string "Battling with Pokémon is fun,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'll grant you that.\p"
 	.string "But one mustn't forget our love for\n"
 	.string "the fine arts.$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration:
-	.string "This ART MUSEUM… Well, you could\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration: @ 821941A
 	.string "This Art Museum… Well, you could\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "see many fantastic paintings.\p"
 	.string "And the Curator is a wonderful person.\p"
 	.string "Among artists like myself, this Museum\n"
@@ -296,33 +261,19 @@ LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty:
 	.string "This lady is pretty!\n"
 	.string "She's like Mommy!$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable:
-	.string "This POKéMON is adorable!\n"
-	.string "Just like our little boy!$"
-
-LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings:
-	.string "I'd heard that this ART MUSEUM got\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable: @ 82194E1
 	.string "This Pokémon is adorable!\n"
 	.string "Just like our little boy!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings: @ 8219515
 	.string "I'd heard that this Art Museum got\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "in some new paintings.\p"
 	.string "So, naturally I hurried over.\p"
 	.string "Are the new paintings up on\n"
 	.string "the second floor?$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful:
-	.string "Lately, the CURATOR has been\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful: @ 821959B
 	.string "Lately, the Curator has been\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "unusually cheerful.\p"
 	.string "I bet something good happened for him.\n"
 	.string "Definitely.$"
@@ -333,13 +284,8 @@ LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
 	.string "I have this dream of one day having\n"
 	.string "my artwork exhibited here.$"
 
-<<<<<<< HEAD
-LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
-	.string "The ART MUSEUM has become a favorite\n"
-=======
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination: @ 821967A
 	.string "The Art Museum has become a favorite\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "tourist destination.\p"
 	.string "It's great for Lilycove…\n"
 	.string "No, great for the Hoenn region!\p"

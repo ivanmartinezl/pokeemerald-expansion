@@ -364,24 +364,14 @@ MossdeepCity_SpaceCenter_2F_EventScript_BrendanRayquazaCall::
 	waitmessage
 	return
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
-	.string "MOSSDEEP has mainly sunny weather,\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets: @ 82241A1
 	.string "Mossdeep has mainly sunny weather,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "and its winds are stable.\p"
 	.string "It's an ideal location for launching\n"
 	.string "rockets.$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Why would TEAM MAGMA want to steal\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel: @ 822420C
 	.string "Why would Team Magma want to steal\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "our rocket fuel in the first place?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
@@ -390,13 +380,8 @@ MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
 	.string "No… It's not too late!\n"
 	.string "I can and will try!$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis: @ 82242C5
 	.string "If Team Magma takes the rocket fuel,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I won't be able to go to space!\p"
 	.string "They can't be allowed to get away\n"
 	.string "with such an outrage!$"
@@ -405,13 +390,8 @@ MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
 	.string "I wish ordinary people could go into\n"
 	.string "space one day…$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
-	.string "TEAM MAGMA…\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace: @ 8224376
 	.string "Team Magma…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Do they want to go to space, too?$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
@@ -466,19 +446,6 @@ MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
 	.string "If you're going to mess with us too,\n"
 	.string "we'll take care of you at the same time!$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Clear out of the way!\n"
-	.string "Don't you dare interfere!$"
-
-MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
-	.string "STEVEN: TEAM MAGMA…\p"
-	.string "What's the point of stealing rocket\n"
-	.string "fuel?$"
-
-MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere: @ 822467B
 	.string "Maxie: Clear out of the way!\n"
 	.string "Don't you dare interfere!$"
@@ -490,7 +457,6 @@ MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel: @ 82246B2
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano: @ 82246F0
 	.string "Maxie: Fufufu… Since you're so\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "curious, you deserve an explanation.\p"
 	.string "We're going to jettison the entire\n"
 	.string "load into Mt. Chimney!\p"
@@ -500,24 +466,14 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano: @ 82246F0
 	.string "the volcano erupt!\p"
 	.string "It will be savage!$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle: @ 82247FF
 	.string "Steven: {PLAYER}{KUN}!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You're going to help me?\p"
 	.string "Let's go into battle together!\n"
 	.string "Are you ready?$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "STEVEN: Then, hurry!\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly: @ 8224854
 	.string "Steven: Then, hurry!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Get ready quickly!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
@@ -527,13 +483,8 @@ MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
 MossdeepCity_SpaceCenter_Text_TabithaDefeat:
 	.string "I'm with our leader…$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: We failed to make the volcano\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided: @ 82248C2
 	.string "Maxie: We failed to make the volcano\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "erupt…\p"
 	.string "We failed to control Groudon after\n"
 	.string "we had awoken it…\p"
@@ -547,24 +498,14 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided: @ 82248C2
 	.string "Then might Team Aqua's goal to expand\n"
 	.string "the sea also be equally misguided?$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: All right…\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp: @ 82249DC
 	.string "Maxie: All right…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "We will give up on the fuel…\p"
 	.string "There appear to be more important\n"
 	.string "matters that I must examine…$"
 
-<<<<<<< HEAD
-MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "STEVEN: Whew, that was too tense.\n"
-=======
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome: @ 8224A4A
 	.string "Steven: Whew, that was too tense.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{PLAYER}{KUN}, thank you.\p"
 	.string "I have something to give you as\n"
 	.string "thanks for your support.\p"

@@ -31,17 +31,10 @@ MtPyre_1F_Text_TakeThisForYourOwnGood:
 	.string "There is no telling what may happen.\n"
 	.string "Take this. It's for your own good.$"
 
-<<<<<<< HEAD
-MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Have a POKéMON hold that\n"
-	.string "CLEANSE TAG.\p"
-	.string "It will help ward off wild POKéMON.$"
-=======
 MtPyre_1F_Text_ExplainCleanseTag: @ 8231005
 	.string "Have a Pokémon hold that\n"
 	.string "Cleanse Tag.\p"
 	.string "It will help ward off wild Pokémon.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 MtPyre_1F_Text_ComeToPayRespects:
 	.string "Did you come to pay your respect\n"

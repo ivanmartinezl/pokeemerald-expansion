@@ -638,29 +638,6 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	release
 	end
 
-<<<<<<< HEAD
-DewfordTown_Text_TinyIslandCommunity:
-	.string "DEWFORD is a tiny island community.\n"
-	.string "If something gets trendy here,\l"
-	.string "everyone picks up on it right away.$"
-
-DewfordTown_Text_TownSign:
-	.string "DEWFORD TOWN\n"
-	.string "“A tiny island in the blue sea.”$"
-
-DewfordTown_Text_GymSign:
-	.string "DEWFORD TOWN POKéMON GYM\n"
-	.string "LEADER: BRAWLY\l"
-	.string "“A big wave in fighting!”$"
-
-DewfordTown_Text_HallSign:
-	.string "DEWFORD HALL\n"
-	.string "“Everyone's information exchange!”$"
-
-Route104_Text_LandedInDewfordDeliverLetter:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've hit land in DEWFORD.\p"
-=======
 DewfordTown_Text_TinyIslandCommunity: @ 81E99A8
 	.string "Dewford is a tiny island community.\n"
 	.string "If something gets trendy here,\l"
@@ -682,51 +659,20 @@ DewfordTown_Text_HallSign: @ 81E9A7F
 Route104_Text_LandedInDewfordDeliverLetter: @ 81E9AAF
 	.string "Mr. Briney: Ahoy!\n"
 	.string "We've hit land in Dewford.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I suppose you're off to deliver that\n"
 	.string "Letter to, who was it now, Steven!$"
 
-<<<<<<< HEAD
-DewfordTown_Text_SetSailBackToPetalburg:
-	.string "MR. BRINEY: Have you delivered your\n"
-	.string "LETTER?\p"
-=======
 DewfordTown_Text_SetSailBackToPetalburg: @ 81E9B24
 	.string "Mr. Briney: Have you delivered your\n"
 	.string "Letter?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Or were you meaning to sail back to\n"
 	.string "Petalburg?$"
 
-<<<<<<< HEAD
-DewfordTown_Text_PetalburgWereSettingSail2:
-	.string "MR. BRINEY: PETALBURG it is, then!\p"
-=======
 DewfordTown_Text_PetalburgWereSettingSail2: @ 81E9B7F
 	.string "Mr. Briney: Petalburg it is, then!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Anchors aweigh!\n"
 	.string "Peeko, we're setting sail, my darling!$"
 
-<<<<<<< HEAD
-DewfordTown_Text_GoDeliverIllBeWaiting:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the LETTER. I'll be waiting.$"
-
-DewfordTown_Text_BrineyLandedInDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've hit land in DEWFORD!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
-
-DewfordTown_Text_WhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
-
-DewfordTown_Text_PetalburgWereSettingSail:
-	.string "MR. BRINEY: PETALBURG, is it?\p"
-=======
 DewfordTown_Text_GoDeliverIllBeWaiting: @ 81E9BD9
 	.string "Mr. Briney: Then you go on and deliver\n"
 	.string "the Letter. I'll be waiting.$"
@@ -744,27 +690,16 @@ DewfordTown_Text_WhereAreWeBound: @ 81E9C8A
 
 DewfordTown_Text_PetalburgWereSettingSail: @ 81E9CE5
 	.string "Mr. Briney: Petalburg, is it?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Anchors aweigh!\n"
 	.string "Peeko, we're setting sail, my darling!$"
 
-<<<<<<< HEAD
-DewfordTown_Text_SlateportWereSettingSail:
-	.string "MR. BRINEY: SLATEPORT, is it?\p"
-=======
 DewfordTown_Text_SlateportWereSettingSail: @ 81E9D3A
 	.string "Mr. Briney: Slateport, is it?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Anchors aweigh!\n"
 	.string "Peeko, we're setting sail, my darling!$"
 
-<<<<<<< HEAD
-DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-=======
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail: @ 81E9D8F
 	.string "Mr. Briney: You just tell me whenever\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "you need to set sail again!$"
 
 DewfordTown_Text_GettingItchToFish:

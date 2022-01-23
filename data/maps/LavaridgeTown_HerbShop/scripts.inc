@@ -41,13 +41,8 @@ LavaridgeTown_HerbShop_EventScript_ExplainCharcoal::
 	release
 	end
 
-<<<<<<< HEAD
-LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
-	.string "Welcome to the HERB SHOP, home of\n"
-=======
 LavaridgeTown_HerbShop_Text_WelcomeToHerbShop: @ 81FE53E
 	.string "Welcome to the Herb Shop, home of\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "effective and inexpensive medicine!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
@@ -56,13 +51,8 @@ LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
 	.string "That's rather commendable.\p"
 	.string "I like you! Take this!$"
 
-<<<<<<< HEAD
-LavaridgeTown_HerbShop_Text_ExplainCharcoal:
-	.string "That CHARCOAL I gave you, it's used\n"
-=======
 LavaridgeTown_HerbShop_Text_ExplainCharcoal: @ 81FE5EB
 	.string "That Charcoal I gave you, it's used\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "for making herbal medicine.\p"
 	.string "It also does wonders when held by\n"
 	.string "a Pokémon.\p"

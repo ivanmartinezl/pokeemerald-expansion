@@ -180,15 +180,6 @@ MauvilleCity_BikeShop_Text_RydelGreeting:
 	.string "Me? You may call me Rydel.\n"
 	.string "I'm the owner of this cycle shop.$"
 
-<<<<<<< HEAD
-MauvilleCity_BikeShop_Text_DidYouComeFromFarAway:
-	.string "RYDEL: Your RUNNING SHOES…\n"
-	.string "They're awfully filthy.\p"
-	.string "Did you come from far away?$"
-
-MauvilleCity_BikeShop_Text_GuessYouDontNeedBike:
-	.string "RYDEL: Is that right?\p"
-=======
 MauvilleCity_BikeShop_Text_DidYouComeFromFarAway: @ 820EE99
 	.string "Rydel: Your Running Shoes…\n"
 	.string "They're awfully filthy.\p"
@@ -196,17 +187,11 @@ MauvilleCity_BikeShop_Text_DidYouComeFromFarAway: @ 820EE99
 
 MauvilleCity_BikeShop_Text_GuessYouDontNeedBike: @ 820EEE8
 	.string "Rydel: Is that right?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Then, I guess you have no need for\n"
 	.string "any of my Bikes.$"
 
-<<<<<<< HEAD
-MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
-	.string "RYDEL: Hm, hm… … … … …\p"
-=======
 MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne: @ 820EF32
 	.string "Rydel: Hm, hm… … … … …\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You're saying that you came all this\n"
 	.string "way from Littleroot?\p"
 	.string "My goodness!\n"
@@ -229,40 +214,6 @@ MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne: @ 820EF32
 	.string "have whichever one you like!\p"
 	.string "Which one will you choose?$"
 
-<<<<<<< HEAD
-MauvilleCity_BikeShop_Text_ChoseMachBike:
-	.string "{PLAYER} chose the MACH BIKE.$"
-
-MauvilleCity_BikeShop_Text_ChoseAcroBike:
-	.string "{PLAYER} chose the ACRO BIKE.$"
-
-MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes:
-	.string "RYDEL: If you get the urge to switch\n"
-	.string "BIKES, just come see me!$"
-
-MauvilleCity_BikeShop_Text_WantToSwitchBikes:
-	.string "RYDEL: Oh? Were you thinking about\n"
-	.string "switching BIKES?$"
-
-MauvilleCity_BikeShop_Text_IllSwitchBikes:
-	.string "RYDEL: Okay, no problem!\n"
-	.string "I'll switch BIKES for you!$"
-
-MauvilleCity_BikeShop_Text_ExchangedMachForAcro:
-	.string "{PLAYER} got the MACH BIKE exchanged\n"
-	.string "for an ACRO BIKE.$"
-
-MauvilleCity_BikeShop_Text_ExchangedAcroForMach:
-	.string "{PLAYER} got the ACRO BIKE exchanged\n"
-	.string "for a MACH BIKE.$"
-
-MauvilleCity_BikeShop_Text_HappyYouLikeIt:
-	.string "RYDEL: Good, good!\n"
-	.string "I'm happy that you like it!$"
-
-MauvilleCity_BikeShop_Text_OhYourBikeIsInPC:
-	.string "Oh? What happened to that BIKE\n"
-=======
 MauvilleCity_BikeShop_Text_ChoseMachBike: @ 820F18D
 	.string "{PLAYER} chose the Mach Bike.$"
 
@@ -295,7 +246,6 @@ MauvilleCity_BikeShop_Text_HappyYouLikeIt: @ 820F2C4
 
 MauvilleCity_BikeShop_Text_OhYourBikeIsInPC: @ 820F2F3
 	.string "Oh? What happened to that Bike\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I gave you?\p"
 	.string "Oh, I get it, you stored it using your PC.\p"
 	.string "Well, take it out of PC storage,\n"
@@ -303,46 +253,27 @@ MauvilleCity_BikeShop_Text_OhYourBikeIsInPC: @ 820F2F3
 	.string "May the wind always be at your back\n"
 	.string "on your adventure!$"
 
-<<<<<<< HEAD
-MauvilleCity_BikeShop_Text_HandbooksAreInBack:
-	.string "I'm learning about BIKES while\n"
-=======
 MauvilleCity_BikeShop_Text_HandbooksAreInBack: @ 820F3C3
 	.string "I'm learning about Bikes while\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I work here.\p"
 	.string "If you need advice on how to ride your\n"
 	.string "Bike, there're a couple handbooks in\l"
 	.string "the back.$"
 
-<<<<<<< HEAD
-MauvilleCity_BikeShop_Text_MachHandbookWhichPage:
-	.string "It's a handbook on the MACH BIKE.\p"
-	.string "Which page do you want to read?$"
-
-MauvilleCity_BikeShop_Text_HowToRideMachBike:
-	.string "A BIKE moves in the direction that\n"
-=======
 MauvilleCity_BikeShop_Text_MachHandbookWhichPage: @ 820F445
 	.string "It's a handbook on the Mach Bike.\p"
 	.string "Which page do you want to read?$"
 
 MauvilleCity_BikeShop_Text_HowToRideMachBike: @ 820F487
 	.string "A Bike moves in the direction that\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the + Control Pad is pressed.\p"
 	.string "It will speed up once it gets rolling.\p"
 	.string "To stop, release the + Control Pad.\n"
 	.string "The Bike will slow to a stop.\p"
 	.string "Want to read a different page?$"
 
-<<<<<<< HEAD
-MauvilleCity_BikeShop_Text_HowToTurnMachBike:
-	.string "A MACH BIKE is speedy, but it can't\n"
-=======
 MauvilleCity_BikeShop_Text_HowToTurnMachBike: @ 820F550
 	.string "A Mach Bike is speedy, but it can't\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "stop very quickly.\p"
 	.string "It gets a little tricky to get around\n"
 	.string "a corner.\p"
@@ -359,13 +290,8 @@ MauvilleCity_BikeShop_Text_SandySlopes:
 	.string "zip up a sandy slope.\p"
 	.string "Want to read a different page?$"
 
-<<<<<<< HEAD
-MauvilleCity_BikeShop_Text_AcroHandbookWhichPage:
-	.string "It's a handbook on the ACRO BIKE.\p"
-=======
 MauvilleCity_BikeShop_Text_AcroHandbookWhichPage: @ 820F6ED
 	.string "It's a handbook on the Acro Bike.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Which page do you want to read?$"
 
 MauvilleCity_BikeShop_Text_Wheelies:

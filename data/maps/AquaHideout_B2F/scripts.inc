@@ -126,21 +126,12 @@ AquaHideout_B2F_Text_Grunt4Defeat:
 	.string "Tired of waiting…\n"
 	.string "Lost and dazed…$"
 
-<<<<<<< HEAD
-AquaHideout_B2F_Text_Grunt4PostBattle:
-	.string "BOSS…\n"
-	.string "Is this good enough?$"
-
-AquaHideout_B2F_Text_Grunt6Intro:
-	.string "Warp panels, the HIDEOUT's pride\n"
-=======
 AquaHideout_B2F_Text_Grunt4PostBattle: @ 8234112
 	.string "Boss…\n"
 	.string "Is this good enough?$"
 
 AquaHideout_B2F_Text_Grunt6Intro: @ 823412D
 	.string "Warp panels, the Hideout's pride\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "and joy!\p"
 	.string "You're clueless about where you are,\n"
 	.string "aren't you?\p"
@@ -157,13 +148,8 @@ AquaHideout_B2F_Text_Grunt6PostBattle:
 	.string "If I fail to guard it, our Boss will\n"
 	.string "chew me out…$"
 
-<<<<<<< HEAD
-AquaHideout_B2F_Text_Grunt8Intro:
-	.string "When I joined TEAM AQUA, the first\n"
-=======
 AquaHideout_B2F_Text_Grunt8Intro: @ 823426F
 	.string "When I joined Team Aqua, the first\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "thing I had to learn was how these\l"
 	.string "warp panels connected.$"
 

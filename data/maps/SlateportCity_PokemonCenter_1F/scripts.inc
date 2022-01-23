@@ -35,14 +35,8 @@ SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
 	.string "If it has a type disadvantage,\n"
 	.string "it might not stand a chance.$"
 
-<<<<<<< HEAD
-SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
-	.string "I trade POKéMON with my friends.\p"
-	.string "If a traded POKéMON is holding an\n"
-=======
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend: @ 820DBBC
 	.string "I trade Pokémon with my friends.\p"
 	.string "If a traded Pokémon is holding an\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "item, it makes me twice as happy!$"
 

@@ -24,15 +24,9 @@ MossdeepCity_House3_EventScript_DeclineSuperRod::
 	release
 	end
 
-<<<<<<< HEAD
-MossdeepCity_House3_Text_YouWantSuperRod:
-	.string "Hey there, TRAINER!\n"
-	.string "A SUPER ROD really is super!\p"
-=======
 MossdeepCity_House3_Text_YouWantSuperRod: @ 8222616
 	.string "Hey there, Trainer!\n"
 	.string "A Super Rod really is super!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Say all you want, but this baby can\n"
 	.string "catch Pokémon off the seafloor!\p"
 	.string "What do you think?\n"
@@ -50,13 +44,7 @@ MossdeepCity_House3_Text_DontYouLikeToFish:
 	.string "Hunh?\n"
 	.string "Don't you like to fish?$"
 
-<<<<<<< HEAD
-MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
-	.string "Go after the seafloor POKéMON with\n"
-	.string "your SUPER ROD.$"
-=======
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon: @ 8222751
 	.string "Go after the seafloor Pokémon with\n"
 	.string "your Super Rod.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

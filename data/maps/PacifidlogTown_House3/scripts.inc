@@ -81,13 +81,8 @@ PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
 	.string "But I really wanted to get a Bagon\n"
 	.string "that another Trainer caught…$"
 
-<<<<<<< HEAD
-PacifidlogTown_House3_Text_IsThatAPokedex:
-	.string "Is that a POKéDEX?\p"
-=======
 PacifidlogTown_House3_Text_IsThatAPokedex: @ 8203EF1
 	.string "Is that a Pokédex?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Did you get to meet a lot of different\n"
 	.string "Pokémon?\p"
 	.string "I wish I was like you.$"

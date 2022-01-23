@@ -175,13 +175,8 @@ SootopolisCity_Gym_1F_EventScript_GymStatue::
 	releaseall
 	end
 
-<<<<<<< HEAD
-SootopolisCity_Gym_1F_Text_GymGuideAdvice:
-	.string "Yo! How's it going, CHAMPION-\n"
-=======
 SootopolisCity_Gym_1F_Text_GymGuideAdvice: @ 8225093
 	.string "Yo! How's it going, Champion-\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "bound {PLAYER}?\p"
 	.string "Sootopolis's Gym Leader Juan is\n"
 	.string "a master of Water-type Pokémon.\p"
@@ -192,21 +187,12 @@ SootopolisCity_Gym_1F_Text_GymGuideAdvice: @ 8225093
 	.string "The rest of the way, you have to\n"
 	.string "go for it yourself!$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
-	.string "Yow! You've beaten even JUAN, who\n"
-	.string "was supposedly the best in all HOENN!\p"
-	.string "Okay! Check out your TRAINER CARD.\p"
-	.string "If you've gotten all the BADGES, you're\n"
-	.string "set for the POKéMON LEAGUE challenge!$"
-=======
 SootopolisCity_Gym_1F_Text_GymGuidePostVictory: @ 82251AF
 	.string "Yow! You've beaten even Juan, who\n"
 	.string "was supposedly the best in all Hoenn!\p"
 	.string "Okay! Check out your Trainer Card.\p"
 	.string "If you've gotten all the Badges, you're\n"
 	.string "set for the Pokémon League challenge!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SootopolisCity_Gym_1F_Text_JuanIntro:
 	.string "Let me ask you.\n"
@@ -246,15 +232,6 @@ SootopolisCity_Gym_1F_Text_JuanDefeat:
 	.string "Rather than my clothes, I shall reward\n"
 	.string "you with this, the Rain Badge!$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_1F_Text_ReceivedRainBadge:
-	.string "{PLAYER} received the RAIN BADGE\n"
-	.string "from JUAN.$"
-
-SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
-	.string "Having the RAIN BADGE shall assure you\n"
-	.string "the full obedience of all your POKéMON\l"
-=======
 SootopolisCity_Gym_1F_Text_ReceivedRainBadge: @ 8225598
 	.string "{PLAYER} received the Rain Badge\n"
 	.string "from Juan.$"
@@ -262,7 +239,6 @@ SootopolisCity_Gym_1F_Text_ReceivedRainBadge: @ 8225598
 SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis: @ 82255BE
 	.string "Having the Rain Badge shall assure you\n"
 	.string "the full obedience of all your Pokémon\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "to your every command.\p"
 	.string "The Rain Badge also allows the use\n"
 	.string "of the HM move Waterfall to scale\l"
@@ -270,28 +246,13 @@ SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis: @ 82255BE
 	.string "And, so that you never forget the\n"
 	.string "battle we shared, take this…$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
-	.string "The TECHNICAL MACHINE I handed you\n"
-	.string "contains WATER PULSE.\p"
-=======
 SootopolisCity_Gym_1F_Text_ExplainWaterPulse: @ 82256C1
 	.string "The Technical Machine I handed you\n"
 	.string "contains Water Pulse.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "In use, it will occasionally confuse\n"
 	.string "the target with ultrasonic waves.\p"
 	.string "… … … … … …$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_1F_Text_RegisteredJuan:
-	.string "Registered GYM LEADER JUAN\n"
-	.string "in the POKéNAV.$"
-
-SootopolisCity_Gym_1F_Text_JuanPostBattle:
-	.string "The TRAINERS who have gathered all\n"
-	.string "the GYM BADGES of HOENN should make\l"
-=======
 SootopolisCity_Gym_1F_Text_RegisteredJuan: @ 822574D
 	.string "Registered Gym Leader Juan\n"
 	.string "in the Pokénav.$"
@@ -299,7 +260,6 @@ SootopolisCity_Gym_1F_Text_RegisteredJuan: @ 822574D
 SootopolisCity_Gym_1F_Text_JuanPostBattle: @ 8225778
 	.string "The Trainers who have gathered all\n"
 	.string "the Gym Badges of Hoenn should make\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "way to the ultimate destination.\p"
 	.string "The Pokémon League.\p"
 	.string "Travel to the easternmost reaches\n"
@@ -307,25 +267,6 @@ SootopolisCity_Gym_1F_Text_JuanPostBattle: @ 8225778
 	.string "There, you shall find the Pokémon\n"
 	.string "League.$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
-	.string "There remains but one BADGE to\n"
-	.string "obtain in HOENN.\p"
-	.string "If you wish to challenge the POKéMON\n"
-	.string "LEAGUE, you must obtain the last\l"
-	.string "BADGE from the GYM in FORTREE.$"
-
-SootopolisCity_Gym_1F_Text_GymStatue:
-	.string "SOOTOPOLIS CITY POKéMON GYM$"
-
-SootopolisCity_Gym_1F_Text_GymStatueCertified:
-	.string "SOOTOPOLIS CITY POKéMON GYM\p"
-	.string "JUAN'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
-
-SootopolisCity_Gym_1F_Text_JuanPreRematch:
-	.string "JUAN: Ah, this GYM had returned to its\n"
-=======
 SootopolisCity_Gym_1F_Text_GoGetFortreeBadge: @ 8225865
 	.string "There remains but one Badge to\n"
 	.string "obtain in Hoenn.\p"
@@ -343,7 +284,6 @@ SootopolisCity_Gym_1F_Text_GymStatueCertified: @ 8225916
 
 SootopolisCity_Gym_1F_Text_JuanPreRematch: @ 8225950
 	.string "Juan: Ah, this Gym had returned to its\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "usual state of serenity…\p"
 	.string "But our young typhoon has returned\n"
 	.string "to put us to the test again!\p"
@@ -355,13 +295,8 @@ SootopolisCity_Gym_1F_Text_JuanRematchDefeat:
 	.string "Ahahaha, you are the winner!\n"
 	.string "You have defeated me again!$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_1F_Text_JuanPostRematch:
-	.string "JUAN: If I told you to become my\n"
-=======
 SootopolisCity_Gym_1F_Text_JuanPostRematch: @ 8225A67
 	.string "Juan: If I told you to become my\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "apprentice, you will refuse, I am sure.\p"
 	.string "I would like to make a gift of my coat\n"
 	.string "to you.\p"
@@ -370,13 +305,8 @@ SootopolisCity_Gym_1F_Text_JuanPostRematch: @ 8225A67
 	.string "And that, my friend, is a certain sign\n"
 	.string "of nobility!$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons:
-	.string "JUAN: Ah, this GYM had returned to its\n"
-=======
 SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons: @ 8225B48
 	.string "Juan: Ah, this Gym had returned to its\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "usual state of serenity…\p"
 	.string "But our young typhoon has returned\n"
 	.string "to put us to the test again!\p"

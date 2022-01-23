@@ -74,13 +74,8 @@ LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
 	.string "I can make Pokémon forget their moves.\p"
 	.string "Would you like me to do that?$"
 
-<<<<<<< HEAD
-LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
-=======
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget: @ 821EB65
 	.string "Which Pokémon should forget a move?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
 	.string "Which move should be forgotten?$"

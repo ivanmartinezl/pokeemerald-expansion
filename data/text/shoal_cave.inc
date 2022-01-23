@@ -13,13 +13,8 @@ ShoalCave_LowTideEntranceRoom_Text_BringMe4ShoalSaltAndShells:
 	.string "You can get those ingredients\n"
 	.string "every day.$"
 
-<<<<<<< HEAD
-ShoalCave_LowTideEntranceRoom_Text_WouldYouLikeShellBell:
-	.string "Oh, hey! SHOAL SALT and SHOAL SHELLS!\n"
-=======
 ShoalCave_LowTideEntranceRoom_Text_WouldYouLikeShellBell: @ 82A7F37
 	.string "Oh, hey! Shoal Salt and Shoal Shells!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "And enough of them, too!\p"
 	.string "Would you like me to make you\n"
 	.string "a Shell Bell with them?$"
@@ -31,13 +26,8 @@ ShoalCave_LowTideEntranceRoom_Text_MakeShellBellRightAway:
 	.string "… … … … … … … …\p"
 	.string "There! Done!$"
 
-<<<<<<< HEAD
-ShoalCave_LowTideEntranceRoom_Text_ExplainShellBell:
-	.string "Have a POKéMON hold on to that.\n"
-=======
 ShoalCave_LowTideEntranceRoom_Text_ExplainShellBell: @ 82A8012
 	.string "Have a Pokémon hold on to that.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It'll love it, that's for certain.\p"
 	.string "Why, the Shell Bell's chime…\n"
 	.string "It's simply sublime!\p"
@@ -48,30 +38,16 @@ ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell:
 	.string "Oh… Is that so…\n"
 	.string "I wanted to make a Shell Bell…$"
 
-<<<<<<< HEAD
-ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag:
-	.string "You don't have space in your BAG\n"
-=======
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag: @ 82A80F5
 	.string "You don't have space in your Bag\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "if I were to make it for you.\p"
 	.string "You should make room and come back\n"
 	.string "for a Shell Bell.$"
 
-<<<<<<< HEAD
-ShoalCave_Text_WasShoalSaltNowNothing:
-	.string "There was some SHOAL SALT here.\n"
-	.string "But, there's nothing here now.$"
-
-ShoalCave_Text_WasShoallShellNowNothing:
-	.string "There was a SHOAL SHELL here.\n"
-=======
 ShoalCave_Text_WasShoalSaltNowNothing: @ 82A8169
 	.string "There was some Shoal Salt here.\n"
 	.string "But, there's nothing here now.$"
 
 ShoalCave_Text_WasShoallShellNowNothing: @ 82A81A8
 	.string "There was a Shoal Shell here.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But, there's nothing here now.$"

@@ -2008,15 +2008,9 @@ const struct ContestPokemon gContestOpponents[] =
     },
     [CONTEST_OPPONENT_COLTIN] = {
         .species = SPECIES_CUBONE,
-<<<<<<< HEAD
-        .nickname = _("CUBIN"),
-        .trainerName = _("COLTIN"),
-        .trainerGfxId = OBJ_EVENT_GFX_MAN_4,
-=======
         .nickname = _("Cubin"),
         .trainerName = _("Coltin"),
         .trainerGfxId = OBJ_EVENT_GFX_MAN_4, 
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
         .aiFlags = CONTEST_AI_SET_2,
         .whichRank = CONTEST_RANK_HYPER,
         .aiPool_Cool = FALSE,

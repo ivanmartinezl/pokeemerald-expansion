@@ -113,12 +113,7 @@ AquaHideout_1F_Text_Grunt1Defeat:
 	.string "Grrrrr…\n"
 	.string "I lost it!$"
 
-<<<<<<< HEAD
-AquaHideout_1F_Text_Grunt1PostBattle:
-	.string "I took the loss for the TEAM,\n"
-=======
 AquaHideout_1F_Text_Grunt1PostBattle: @ 8233977
 	.string "I took the loss for the Team,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "but I did my job…$"
 

@@ -352,28 +352,17 @@ OldaleTown_Text_IWorkAtPokemonMart:
 	.string "I work at a Pokémon Mart.\p"
 	.string "Can I get you to come with me?$"
 
-<<<<<<< HEAD
-OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a POKéMON MART.\n"
-=======
 OldaleTown_Text_ThisIsAPokemonMart: @ 81E91FD
 	.string "This is a Pokémon Mart.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Just look for our blue roof.\p"
 	.string "We sell a variety of goods including\n"
 	.string "Poké Balls for catching Pokémon.\p"
 	.string "Here, I'd like you to have this as\n"
 	.string "a promotional item.$"
 
-<<<<<<< HEAD
-OldaleTown_Text_PotionExplanation:
-	.string "A POTION can be used anytime, so it's\n"
-	.string "even more useful than a POKéMON CENTER\l"
-=======
 OldaleTown_Text_PotionExplanation: @ 81E92AF
 	.string "A Potion can be used anytime, so it's\n"
 	.string "even more useful than a Pokémon Center\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "in certain situations.$"
 
 OldaleTown_Text_WaitDontComeInHere:
@@ -396,20 +385,6 @@ OldaleTown_Text_FinishedSketchingFootprints:
 	.string "But it turns out they were only my\n"
 	.string "own footprints…$"
 
-<<<<<<< HEAD
-OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
-
-OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: I'm heading back to my dad's\n"
-	.string "LAB now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
-
-OldaleTown_Text_CitySign:
-	.string "OLDALE TOWN\n"
-=======
 OldaleTown_Text_MayLetsGoBack: @ 81E9462
 	.string "May: {PLAYER}{KUN}!\n"
 	.string "Over here!\l"
@@ -422,6 +397,5 @@ OldaleTown_Text_BrendanLetsGoBack: @ 81E948A
 
 OldaleTown_Text_CitySign: @ 81E94DA
 	.string "Oldale Town\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“Where things start off scarce.”$"
 

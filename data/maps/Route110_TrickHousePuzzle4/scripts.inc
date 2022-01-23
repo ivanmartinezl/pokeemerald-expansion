@@ -58,13 +58,8 @@ Route110_TrickHousePuzzle4_Text_YujiPostBattle:
 	.string "It's not good enough to be brawny…\n"
 	.string "You have to use your head. Be brainy!$"
 
-<<<<<<< HEAD
-Route110_TrickHousePuzzle4_Text_PaulaIntro:
-	.string "The TRICK HOUSE is getting trickier,\n"
-=======
 Route110_TrickHousePuzzle4_Text_PaulaIntro: @ 826CA9C
 	.string "The Trick House is getting trickier,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "isn't it?$"
 
 Route110_TrickHousePuzzle4_Text_PaulaDefeat:

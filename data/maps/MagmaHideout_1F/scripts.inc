@@ -16,13 +16,8 @@ MagmaHideout_1F_EventScript_Grunt2::
 	msgbox MagmaHideout_1F_Text_Grunt2PostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-MagmaHideout_1F_Text_Grunt1Intro:
-	.string "When TEAM MAGMA has roll call, we get\n"
-=======
 MagmaHideout_1F_Text_Grunt1Intro: @ 82398BA
 	.string "When Team Magma has roll call, we get\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "important guarding assignments in\l"
 	.string "the order that we line up.\p"
 	.string "That's why I'm stuck off in this corner.\n"

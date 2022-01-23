@@ -412,13 +412,8 @@ LilycoveCity_EventScript_DontKnowAboutBerryBlender::
 	msgbox LilycoveCity_Text_ExplainBerryBlender, MSGBOX_DEFAULT
 	return
 
-<<<<<<< HEAD
-LilycoveCity_Text_MayShoppingLetsBattle:
-	.string "MAY: Oh, hey?\n"
-=======
 LilycoveCity_Text_MayShoppingLetsBattle: @ 81E3061
 	.string "May: Oh, hey?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{PLAYER}{KUN}, are you shopping, too?\p"
 	.string "I bought a whole bunch of Dolls and\n"
 	.string "Posters.\p"
@@ -430,27 +425,12 @@ LilycoveCity_Text_MayShoppingLetsBattle: @ 81E3061
 	.string "I'll battle with you, so you can show\n"
 	.string "me your Pokémon, {PLAYER}{KUN}.$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_MayNotRaisingPokemon:
-	.string "MAY: Oh, why? {PLAYER}{KUN}, haven't you\n"
-	.string "been raising your POKéMON?\p"
-=======
 LilycoveCity_Text_MayNotRaisingPokemon: @ 81E318D
 	.string "May: Oh, why? {PLAYER}{KUN}, haven't you\n"
 	.string "been raising your Pokémon?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That's not a very good showing as a\n"
 	.string "Trainer…$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_MayBattleMe:
-	.string "MAY: Come on, battle with me, so I can\n"
-	.string "check out your POKéMON!$"
-
-LilycoveCity_Text_MayWontBeBeaten:
-	.string "MAY: The POKéMON I raised won't be\n"
-	.string "beaten by your POKéMON, {PLAYER}{KUN}!$"
-=======
 LilycoveCity_Text_MayBattleMe: @ 81E31F5
 	.string "May: Come on, battle with me, so I can\n"
 	.string "check out your Pokémon!$"
@@ -458,7 +438,6 @@ LilycoveCity_Text_MayBattleMe: @ 81E31F5
 LilycoveCity_Text_MayWontBeBeaten: @ 81E3234
 	.string "May: The Pokémon I raised won't be\n"
 	.string "beaten by your Pokémon, {PLAYER}{KUN}!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LilycoveCity_Text_MayDefeat:
 	.string "… … … … … … … …\p"
@@ -467,19 +446,11 @@ LilycoveCity_Text_MayDefeat:
 	.string "That battle helped you become this\n"
 	.string "strong, {PLAYER}{KUN}, didn't it?$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_MayGoingBackToLittleroot:
-	.string "MAY: I'm thinking of going back to\n"
-	.string "LITTLEROOT soon.\p"
-	.string "I've caught a decent group of POKéMON,\n"
-	.string "and my POKéDEX is coming along, so\l"
-=======
 LilycoveCity_Text_MayGoingBackToLittleroot: @ 81E32FB
 	.string "May: I'm thinking of going back to\n"
 	.string "Littleroot soon.\p"
 	.string "I've caught a decent group of Pokémon,\n"
 	.string "and my Pokédex is coming along, so\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm going home to show my dad.$"
 
 LilycoveCity_Text_MayYouGoingToCollectBadges:
@@ -511,31 +482,14 @@ LilycoveCity_Text_MayYouGoingToBattleFrontier:
 	.string "but I'll finish my Pokédex before you!\p"
 	.string "See you!$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_BrendanShoppingLetsBattle:
-	.string "BRENDAN: Oh, hey, it's {PLAYER}.\p"
-=======
 LilycoveCity_Text_BrendanShoppingLetsBattle: @ 81E3608
 	.string "Brendan: Oh, hey, it's {PLAYER}.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm running an errand for my dad.\n"
 	.string "No, I'm not buying any Dolls.\p"
 	.string "Anyways, it's been a while.\p"
 	.string "Want to have a battle to see who's been\n"
 	.string "raising Pokémon better?$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_BrendanNoConfidence:
-	.string "BRENDAN: Oh, what's the matter?\n"
-	.string "Don't have the confidence?$"
-
-LilycoveCity_Text_BrendanBattleMe:
-	.string "BRENDAN: Want to battle to see who's\n"
-	.string "been raising POKéMON better?$"
-
-LilycoveCity_Text_BrendanWontBeBeaten:
-	.string "BRENDAN: Aww, but you know I'm not\n"
-=======
 LilycoveCity_Text_BrendanNoConfidence: @ 81E36BF
 	.string "Brendan: Oh, what's the matter?\n"
 	.string "Don't have the confidence?$"
@@ -546,7 +500,6 @@ LilycoveCity_Text_BrendanBattleMe: @ 81E36FA
 
 LilycoveCity_Text_BrendanWontBeBeaten: @ 81E373C
 	.string "Brendan: Aww, but you know I'm not\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "going to lose to no {PLAYER}.$"
 
 LilycoveCity_Text_BrendanDefeat:
@@ -555,15 +508,9 @@ LilycoveCity_Text_BrendanDefeat:
 	.string "That stings a bit--I had a head start\n"
 	.string "on you as a Trainer…$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_BrendanGoingBackToLittleroot:
-	.string "BRENDAN: I…\n"
-	.string "I plan on going home to LITTLEROOT.\p"
-=======
 LilycoveCity_Text_BrendanGoingBackToLittleroot: @ 81E37D7
 	.string "Brendan: I…\n"
 	.string "I plan on going home to Littleroot.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You know I'm helping out my dad on his\n"
 	.string "Pokédex. It's coming together pretty\l"
 	.string "decently, so I should go show him.$"
@@ -605,17 +552,10 @@ LilycoveCity_Text_MovedLootIntoHideoutToday:
 	.string "Wh-who are you?!\n"
 	.string "I was just talking to myself!$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_ChanceToDoBigThings:
-	.string "I'm just a GRUNT, so I don't know what\n"
-	.string "the BOSS is thinking…\p"
-	.string "But being on TEAM AQUA, I know I'll get\n"
-=======
 LilycoveCity_Text_ChanceToDoBigThings: @ 81E3B95
 	.string "I'm just a Grunt, so I don't know what\n"
 	.string "the Boss is thinking…\p"
 	.string "But being on Team Aqua, I know I'll get\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the chance to do big things!\p"
 	.string "Wh-who are you?!\n"
 	.string "I was just talking to myself!$"
@@ -631,13 +571,8 @@ LilycoveCity_Text_IfWorldBecomesOurs:
 	.string "Team Aqua's, it will be a happier\l"
 	.string "place for Pokémon, too.$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_WailmerLeapOutOfWater:
-	.string "There! WAILMER!\n"
-=======
 LilycoveCity_Text_WailmerLeapOutOfWater: @ 81E3D1F
 	.string "There! Wailmer!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Leap out of the water now!$"
 
 LilycoveCity_Text_GetLostMessingUpTraining:
@@ -645,13 +580,8 @@ LilycoveCity_Text_GetLostMessingUpTraining:
 	.string "You're messing up our training,\n"
 	.string "so can you, like, get lost?$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_ContestHallInTown:
-	.string "There's a POKéMON CONTEST HALL\n"
-=======
 LilycoveCity_Text_ContestHallInTown: @ 81E3D9E
 	.string "There's a Pokémon Contest Hall\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "right in this here town. \p"
 	.string "That means well-raised Pokémon will\n"
 	.string "come from all over the country.\p"
@@ -661,17 +591,6 @@ LilycoveCity_Text_StrangeCaveInCove:
 	.string "Have you seen that strange cave in\n"
 	.string "the cove at the edge of town?$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_GoingToMoveDeleterForHMs:
-	.string "I'm going to teach my POKéMON some new\n"
-	.string "moves for entering a CONTEST.\p"
-	.string "So, I'm going to see the MOVE DELETER\n"
-	.string "and make it forget HM moves.$"
-
-LilycoveCity_Text_ImFromKanto:
-	.string "I came from KANTO.\p"
-	.string "The HOENN region is beautiful with\n"
-=======
 LilycoveCity_Text_GoingToMoveDeleterForHMs: @ 81E3E7D
 	.string "I'm going to teach my Pokémon some new\n"
 	.string "moves for entering a Contest.\p"
@@ -681,23 +600,15 @@ LilycoveCity_Text_GoingToMoveDeleterForHMs: @ 81E3E7D
 LilycoveCity_Text_ImFromKanto: @ 81E3F05
 	.string "I came from Kanto.\p"
 	.string "The Hoenn region is beautiful with\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "all its water and verdant nature.\p"
 	.string "Hunh? Wait a second…\p"
 	.string "Could there be rare Pokémon that live\n"
 	.string "only in this area?$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_TeamAquaBeenTrainingWailmer:
-	.string "TEAM AQUA's been training their\n"
-	.string "WAILMER in the cove.\p"
-	.string "We SAILORS can't get our boats out\n"
-=======
 LilycoveCity_Text_TeamAquaBeenTrainingWailmer: @ 81E3FAB
 	.string "Team Aqua's been training their\n"
 	.string "Wailmer in the cove.\p"
 	.string "We Sailors can't get our boats out\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "to sea with them in the way!$"
 
 LilycoveCity_Text_SomeonePuntedTeamAquaOut:
@@ -714,21 +625,12 @@ LilycoveCity_Text_SomeoneStoleMyPokemon:
 	.string "Who's the abductor?\n"
 	.string "Team Aqua? Is it Team Aqua?$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_MissingPokemonCameBack:
-	.string "My missing POKéMON…\n"
-	.string "It came back without me noticing!$"
-
-LilycoveCity_Text_ImArtDealer:
-	.string "I'm an ART DEALER.\p"
-=======
 LilycoveCity_Text_MissingPokemonCameBack: @ 81E4145
 	.string "My missing Pokémon…\n"
 	.string "It came back without me noticing!$"
 
 LilycoveCity_Text_ImArtDealer: @ 81E417B
 	.string "I'm an Art Dealer.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I am a buyer and seller of fine art,\n"
 	.string "especially paintings.\p"
 	.string "I've heard that the Museum here has\n"
@@ -764,41 +666,6 @@ LilycoveCity_Text_TeamAquaLotGoneForGood:
 	.string "That Team Aqua lot, they must\n"
 	.string "have gone away for good.$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_CitySign:
-	.string "LILYCOVE CITY\p"
-	.string "“Where the land ends and the\n"
-	.string "sea begins.”$"
-
-LilycoveCity_Text_ContestHallSign:
-	.string "POKéMON CONTEST HALL\n"
-	.string "“The gathering place for TRAINERS!”$"
-
-LilycoveCity_Text_MotelSign:
-	.string "COVE LILY MOTEL\p"
-	.string "“Remember us as COVE LILY of\n"
-	.string "LILYCOVE.”$"
-
-LilycoveCity_Text_MuseumSign:
-	.string "LILYCOVE MUSEUM\p"
-	.string "“POKéMON Masterpiece Collection\n"
-	.string "on exhibit!”$"
-
-LilycoveCity_Text_MuseumSignPlayersExhibit:
-	.string "LILYCOVE MUSEUM\p"
-	.string "“{PLAYER}'s POKéMON Collection\n"
-	.string "on exhibit!”$"
-
-LilycoveCity_Text_HarborSignUnderConstruction:
-	.string "LILYCOVE CITY HARBOR\p"
-	.string "“The ferry S.S. TIDAL is under\n"
-	.string "construction in SLATEPORT CITY.\p"
-	.string "“Service is scheduled to begin\n"
-	.string "shortly.”$"
-
-LilycoveCity_Text_HarborSign:
-	.string "LILYCOVE CITY HARBOR\p"
-=======
 LilycoveCity_Text_CitySign: @ 81E448B
 	.string "Lilycove City\p"
 	.string "“Where the land ends and the\n"
@@ -832,19 +699,9 @@ LilycoveCity_Text_HarborSignUnderConstruction: @ 81E45A7
 
 LilycoveCity_Text_HarborSign: @ 81E4624
 	.string "Lilycove City Harbor\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“Enjoy a delightful cruise on\n"
 	.string "the ferry S.S. Tidal.”$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_TrainerFanClubSign:
-	.string "POKéMON TRAINER FAN CLUB\p"
-	.string "The names of TRAINERS are scribbled\n"
-	.string "all over the sign…$"
-
-LilycoveCity_Text_DepartmentStoreSign:
-	.string "LILYCOVE DEPARTMENT STORE\p"
-=======
 LilycoveCity_Text_TrainerFanClubSign: @ 81E466E
 	.string "Pokémon Trainer Fan Club\p"
 	.string "The names of Trainers are scribbled\n"
@@ -852,21 +709,14 @@ LilycoveCity_Text_TrainerFanClubSign: @ 81E466E
 
 LilycoveCity_Text_DepartmentStoreSign: @ 81E46BE
 	.string "Lilycove Department Store\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "“Overflowing with great merchandise\n"
 	.string "and excitement!\p"
 	.string "“A great place to find that something\n"
 	.string "you need!”$"
 
-<<<<<<< HEAD
-LilycoveCity_Text_MoveDeletersHouseSign:
-	.string "MOVE DELETER'S HOUSE\p"
-	.string "“Unwanted POKéMON moves deleted.”$"
-=======
 LilycoveCity_Text_MoveDeletersHouseSign: @ 81E473D
 	.string "Move Deleter's House\p"
 	.string "“Unwanted Pokémon moves deleted.”$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LilycoveCity_Text_DoYouKnowAboutBerryBlender:
 	.string "Do you know about the machine\n"

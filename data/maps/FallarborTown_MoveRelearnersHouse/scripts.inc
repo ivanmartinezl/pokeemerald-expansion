@@ -58,15 +58,9 @@ FallarborTown_MoveRelearnersHouse_EventScript_ComeBackWithHeartScale::
 	releaseall
 	end
 
-<<<<<<< HEAD
-FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor:
-	.string "I'm the MOVE TUTOR.\p"
-	.string "I know all the moves that POKéMON\n"
-=======
 FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor: @ 820145C
 	.string "I'm the Move Tutor.\p"
 	.string "I know all the moves that Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "learn--every one of them--and I can\l"
 	.string "teach Pokémon those moves.\p"
 	.string "I can teach a move to a Pokémon\n"
@@ -80,13 +74,8 @@ FallarborTown_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
 	.string "Let me guess, you want me to teach\n"
 	.string "a move?$"
 
-<<<<<<< HEAD
-FallarborTown_MoveRelearnersHouse_Text_TutorWhichMon:
-	.string "Which POKéMON needs tutoring?$"
-=======
 FallarborTown_MoveRelearnersHouse_Text_TutorWhichMon: @ 82015A5
 	.string "Which Pokémon needs tutoring?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 FallarborTown_MoveRelearnersHouse_Text_TeachWhichMove:
 	.string "Which move should I teach?$"
@@ -96,15 +85,6 @@ FallarborTown_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
 	.string "It doesn't appear as if I have any move\n"
 	.string "I can teach that Pokémon.$"
 
-<<<<<<< HEAD
-FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale:
-	.string "{PLAYER} handed over one HEART SCALE\n"
-	.string "in exchange.$"
-
-FallarborTown_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
-	.string "If your POKéMON need to learn a move,\n"
-	.string "come back with a HEART SCALE.$"
-=======
 FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale: @ 8201627
 	.string "{PLAYER} handed over one Heart Scale\n"
 	.string "in exchange.$"
@@ -112,7 +92,6 @@ FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale: @ 8201627
 FallarborTown_MoveRelearnersHouse_Text_ComeBackWithHeartScale: @ 8201653
 	.string "If your Pokémon need to learn a move,\n"
 	.string "come back with a Heart Scale.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 FallarborTown_MoveRelearnersHouse_Text_CantTeachEgg:
 	.string "Hunh? There isn't a single move that\n"

@@ -987,13 +987,8 @@ LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
 	.string "The lady at the reception counter\n"
 	.string "gave me a case for {POKEBLOCK}s!$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
-	.string "Make {POKEBLOCK}S and put them in there.\p"
-=======
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries: @ 821AD55
 	.string "Make {POKEBLOCK}s and put them in there.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "When you make a {POKEBLOCK}, everyone\n"
 	.string "has to put in a different Berry.$"
 
@@ -1029,19 +1024,11 @@ LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
 	.string "As a memento of me painting your\n"
 	.string "Pokémon, please take this.$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestLobby_Text_ReceivedARibbon:
-	.string "{PLAYER} received a RIBBON.$"
-
-LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon:
-	.string "{PLAYER} put the RIBBON on\n"
-=======
 LilycoveCity_ContestLobby_Text_ReceivedARibbon: @ 821B07E
 	.string "{PLAYER} received a Ribbon.$"
 
 LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon: @ 821B094
 	.string "{PLAYER} put the Ribbon on\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{STR_VAR_1}.$"
 
 LilycoveCity_ContestLobby_Text_OkaySeeYou:
@@ -1059,13 +1046,8 @@ LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
 	.string "I'll just have to try harder next time.\n"
 	.string "Well, be seeing you.$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestLobby_Text_MasterRankHereICome:
-	.string "Hoo, boy… Master Rank CONTESTS,\n"
-=======
 LilycoveCity_ContestLobby_Text_MasterRankHereICome: @ 821B1B1
 	.string "Hoo, boy… Master Rank Contests,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "here I come.\p"
 	.string "The world will know that my dearest\n"
 	.string "Pokémon is the cutest being in all\l"
@@ -1078,24 +1060,14 @@ LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
 	.string "That's why I make this place a regular\n"
 	.string "part of my daily stroll.$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
-	.string "Wow, coming out to a CONTEST is\n"
-=======
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes: @ 821B2BA
 	.string "Wow, coming out to a Contest is\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "a feast for these eyes!\p"
 	.string "Would you look at all the Pokémon\n"
 	.string "that just scream to be painted?$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestLobby_Text_ToughContestIsExtreme:
-	.string "The TOUGHNESS CONTEST is like\n"
-=======
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme: @ 821B334
 	.string "The Toughness Contest is like\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "extreme, man!\p"
 	.string "Those muscular appeals…\n"
 	.string "Cascading sweat… I swoon!$"
@@ -1106,13 +1078,8 @@ LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
 	.string "Its condition is peaking.\n"
 	.string "Today, victory is mine!$"
 
-<<<<<<< HEAD
-LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
-	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
-=======
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily: @ 821B3FC
 	.string "I made {POKEBLOCK}s with Mom, Dad, and\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Big Sister. They turned out great!\p"
 	.string "I bet you can make smoother, better\n"
 	.string "{POKEBLOCK}s if you have more people.$"

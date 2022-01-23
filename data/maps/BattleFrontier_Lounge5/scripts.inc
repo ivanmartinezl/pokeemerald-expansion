@@ -183,13 +183,8 @@ BattleFrontier_Lounge5_Text_NatureGirlCareful::
 	.string "But if it gets enough ouchies,\l"
 	.string "it will turn sneaky!$"
 
-<<<<<<< HEAD
-BattleFrontier_Lounge5_Text_NatureGirlEgg::
-	.string "That's silly! An EGG is asleep!\n"
-=======
 BattleFrontier_Lounge5_Text_NatureGirlEgg:: @ 8264EEE
 	.string "That's silly! An Egg is asleep!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I can't talk to it!$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon::

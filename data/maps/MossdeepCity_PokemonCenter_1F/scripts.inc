@@ -25,13 +25,8 @@ MossdeepCity_PokemonCenter_1F_EventScript_Girl::
 	msgbox MossdeepCity_PokemonCenter_1F_Text_AbilitiesMightChangeMoves, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-MossdeepCity_PokemonCenter_1F_Text_GymLeaderDuoFormidable:
-	.string "The GYM LEADERS in this town are\n"
-=======
 MossdeepCity_PokemonCenter_1F_Text_GymLeaderDuoFormidable: @ 822226E
 	.string "The Gym Leaders in this town are\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "a formidable duo.\p"
 	.string "Their combination attacks are, like,\n"
 	.string "excellent and wow!$"

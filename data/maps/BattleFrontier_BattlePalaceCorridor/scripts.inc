@@ -121,37 +121,22 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	set_invisible
 	step_end
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "People and POKéMON, they are but\n"
-=======
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame: @ 824F5DD
 	.string "People and Pokémon, they are but\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the same…\p"
 	.string "Their individual nature makes them\n"
 	.string "good at certain things, and not good\l"
 	.string "at others.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Rather than trying to make a POKéMON\n"
-=======
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes: @ 824F65B
 	.string "Rather than trying to make a Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "do what it dislikes, try to let it do\l"
 	.string "what it likes and is good at doing.\p"
 	.string "Put yourself in the Pokémon's position\n"
 	.string "and consider what moves it would like.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "A POKéMON's nature is a remarkable\n"
-=======
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered: @ 824F718
 	.string "A Pokémon's nature is a remarkable\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "thing…\p"
 	.string "Some Pokémon behave in a completely\n"
 	.string "different way when they are cornered.$"

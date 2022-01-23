@@ -847,28 +847,14 @@ gText_MomOrDadMightLikeThisProgram::
 	.string "… … … … … … … … … … … … … … … …\p"
 	.string "Better get going!$"
 
-<<<<<<< HEAD
-gText_WhichFloorWouldYouLike::
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
-=======
 gText_WhichFloorWouldYouLike:: @ 8272C1D
 	.string "Welcome to Lilycove Department Store.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Which floor would you like?$"
 
 gText_SandstormIsVicious::
 	.string "The sandstorm is vicious.\n"
 	.string "It's impossible to keep going.$"
 
-<<<<<<< HEAD
-gText_SelectWithoutRegisteredItem::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
-
-gText_PokemonTrainerSchoolEmail::
-	.string "There's an e-mail from POKéMON TRAINER\n"
-	.string "SCHOOL.\p"
-=======
 gText_SelectWithoutRegisteredItem:: @ 8272C98
 	.string "An item in the Bag can be\n"
 	.string "registered to Select for easy use.$"
@@ -876,7 +862,6 @@ gText_SelectWithoutRegisteredItem:: @ 8272C98
 gText_PokemonTrainerSchoolEmail:: @ 8272CD5
 	.string "There's an e-mail from Pokémon Trainer\n"
 	.string "School.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "… … … … … …\p"
 	.string "A Pokémon may learn up to four moves.\p"
 	.string "A Trainer's expertise is tested on the\n"
@@ -901,33 +886,19 @@ gText_RegisteredTrainerinPokeNav::
 	.string "Registered {STR_VAR_1} {STR_VAR_2}\n"
 	.string "in the Pokénav.$"
 
-<<<<<<< HEAD
-gText_ComeBackWithSecretPower::
-	.string "Do you know the TM SECRET POWER?\p"
-	.string "Our group, we love the TM SECRET\n"
-	.string "POWER.\p"
-=======
 gText_ComeBackWithSecretPower:: @ 8272E30
 	.string "Do you know the TM Secret Power?\p"
 	.string "Our group, we love the TM Secret\n"
 	.string "Power.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "One of our members will give it to you.\n"
 	.string "Come back and show me if you get it.\p"
 	.string "We'll accept you as a member and sell\n"
 	.string "you good stuff in secrecy.$"
 
-<<<<<<< HEAD
-gText_PokerusExplanation::
-	.string "Your POKéMON may be infected with\n"
-	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
-=======
 gText_PokerusExplanation:: @ 8272F07
 	.string "Your Pokémon may be infected with\n"
 	.string "Pokérus.\p"
 	.string "Little is known about the Pokérus\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "except that they are microscopic life-\l"
 	.string "forms that attach to Pokémon.\p"
 	.string "While infected, Pokémon are said to\n"
@@ -952,15 +923,6 @@ gText_UndergoingAdjustments::
 	.string "adjustments…$"
 
 @ Unused
-<<<<<<< HEAD
-gText_SorryTradeCenterInspections::
-	.string "I'm terribly sorry. The TRADE CENTER\n"
-	.string "is undergoing inspections.$"
-
-@ Unused
-gText_SorryRecordCornerPreparation::
-	.string "I'm terribly sorry. The RECORD CORNER\n"
-=======
 gText_SorryTradeCenterInspections:: @ 82730E5
 	.string "I'm terribly sorry. The Trade Center\n"
 	.string "is undergoing inspections.$"
@@ -968,7 +930,6 @@ gText_SorryTradeCenterInspections:: @ 82730E5
 @ Unused
 gText_SorryRecordCornerPreparation:: @ 8273125
 	.string "I'm terribly sorry. The Record Corner\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "is under preparation.$"
 
 gText_PlayerHandedOverTheItem::

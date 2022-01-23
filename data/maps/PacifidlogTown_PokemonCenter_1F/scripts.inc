@@ -29,15 +29,6 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 	msgbox PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
-	.string "What color is your TRAINER CARD?\n"
-	.string "Mine's copper!$"
-
-PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
-	.string "PACIFIDLOG TOWN floats on top of\n"
-	.string "a colony of CORSOLA.\p"
-=======
 PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard: @ 82034DF
 	.string "What color is your Trainer Card?\n"
 	.string "Mine's copper!$"
@@ -45,7 +36,6 @@ PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard: @ 82034DF
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola: @ 820350F
 	.string "Pacifidlog Town floats on top of\n"
 	.string "a colony of Corsola.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "If I told you that, would you believe\n"
 	.string "me?$"
 

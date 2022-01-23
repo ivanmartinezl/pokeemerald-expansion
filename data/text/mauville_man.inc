@@ -58,11 +58,6 @@ GiddyText_LyingBackInTheGreenGrass::
 	.string "Lying back in the green grass…\n"
 	.string "Oh, it's so, so nice!$"
 
-<<<<<<< HEAD
-GiddyText_SecretBasesAreSoWonderful::
-	.string "SECRET BASES are so wonderful!\n"
-=======
 gMauvilleManText_SecretBasesAreSoWonderful:: @ 82944D5
 	.string "Secret Bases are so wonderful!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Can't you feel the excitement?$"

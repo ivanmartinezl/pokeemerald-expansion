@@ -185,13 +185,8 @@ LavaridgeTown_Gym_1F_EventScript_GymStatue::
 	releaseall
 	end
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-=======
 LavaridgeTown_Gym_1F_Text_GymGuideAdvice: @ 81FE9BF
 	.string "Hey, how's it going, Champion-\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "bound {PLAYER}?\p"
 	.string "Lavaridge's Gym Leader Flannery\n"
 	.string "uses Fire-type Pokémon.\p"
@@ -221,13 +216,8 @@ LavaridgeTown_Gym_1F_Text_AxleIntro:
 	.string "I'm trying to relieve my stress.\n"
 	.string "Don't come along and stress me out!$"
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_AxleDefeat:
-	.string "I hope FLANNERY flames you good!$"
-=======
 LavaridgeTown_Gym_1F_Text_AxleDefeat: @ 81FEBC0
 	.string "I hope Flannery flames you good!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LavaridgeTown_Gym_1F_Text_AxlePostBattle:
 	.string "Haaah… Whew…\p"
@@ -251,13 +241,8 @@ LavaridgeTown_Gym_B1F_Text_KeeganPostBattle:
 	.string "If you don't watch yourself, you'll be\n"
 	.string "burned seriously.$"
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_GeraldIntro:
-	.string "Can your POKéMON withstand\n"
-=======
 LavaridgeTown_Gym_1F_Text_GeraldIntro: @ 81FED72
 	.string "Can your Pokémon withstand\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "392-degree heat?$"
 
 LavaridgeTown_Gym_1F_Text_GeraldDefeat:
@@ -345,21 +330,12 @@ LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 	.string "Thanks for teaching me that.\n"
 	.string "For that, you deserve this.$"
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge:
-	.string "{PLAYER} received the HEAT BADGE\n"
-	.string "from FLANNERY.$"
-
-LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis:
-	.string "If you have a HEAT BADGE, all POKéMON\n"
-=======
 LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge: @ 81FF32F
 	.string "{PLAYER} received the Heat Badge\n"
 	.string "from Flannery.$"
 
 LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis: @ 81FF359
 	.string "If you have a Heat Badge, all Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "up to Level 50, even those you get in\l"
 	.string "trades from other people, will obey\l"
 	.string "you completely.\p"
@@ -368,46 +344,23 @@ LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis: @ 81FF359
 	.string "This is a token of my appreciation.\n"
 	.string "Don't be shy about taking it!$"
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_ExplainOverheat:
-	.string "That TM50 contains OVERHEAT.\p"
-=======
 LavaridgeTown_Gym_1F_Text_ExplainOverheat: @ 81FF45C
 	.string "That TM50 contains Overheat.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That move inflicts serious damage on\n"
 	.string "the opponent.\p"
 	.string "But it also sharply cuts the Sp. Atk\n"
 	.string "of the Pokémon using it. It might not\l"
 	.string "be suitable for longer battles.$"
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
-	.string "Registered GYM LEADER FLANNERY\n"
-	.string "in the POKéNAV.$"
-=======
 LavaridgeTown_Gym_1F_Text_RegisteredFlannery: @ 81FF517
 	.string "Registered Gym Leader Flannery\n"
 	.string "in the Pokénav.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
 	.string "Your power reminds me of someone…\p"
 	.string "Oh! I know! You battle like Norman,\n"
 	.string "the Gym Leader of Petalburg.$"
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_GymStatue:
-	.string "LAVARIDGE TOWN POKéMON GYM$"
-
-LavaridgeTown_Gym_1F_Text_GymStatueCertified:
-	.string "LAVARIDGE TOWN POKéMON GYM\p"
-	.string "FLANNERY'S CERTIFIED TRAINERS:\n"
-	.string "{PLAYER}$"
-
-LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:
-	.string "FLANNERY: Losing a battle isn't going\n"
-=======
 LavaridgeTown_Gym_1F_Text_GymStatue: @ 81FF5A9
 	.string "Lavaridge Town Pokémon Gym$"
 
@@ -418,7 +371,6 @@ LavaridgeTown_Gym_1F_Text_GymStatueCertified: @ 81FF5C4
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch: @ 81FF601
 	.string "Flannery: Losing a battle isn't going\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "to deflate me.\p"
 	.string "I love Pokémon.\n"
 	.string "I love to battle.\l"
@@ -430,26 +382,16 @@ LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
 	.string "Whew!\n"
 	.string "On the verge of eruption!$"
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
-	.string "FLANNERY: I lost the match,\n"
-=======
 LavaridgeTown_Gym_1F_Text_FlanneryPostRematch: @ 81FF6BF
 	.string "Flannery: I lost the match,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "but I'm completely satisfied.\p"
 	.string "It's not often I get to enjoy a battle\n"
 	.string "this heated.\p"
 	.string "Let's have another one like this\n"
 	.string "again sometime!$"
 
-<<<<<<< HEAD
-LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons:
-	.string "FLANNERY: Losing a battle isn't going\n"
-=======
 LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons: @ 81FF75E
 	.string "Flannery: Losing a battle isn't going\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "to deflate me.\p"
 	.string "I love Pokémon.\n"
 	.string "I love to battle.\l"

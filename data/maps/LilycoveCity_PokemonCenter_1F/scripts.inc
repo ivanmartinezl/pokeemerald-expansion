@@ -50,13 +50,8 @@ LilycoveCity_PokemonCenter_1F_EventScript_ManiacBadTeamGone::
 	release
 	end
 
-<<<<<<< HEAD
-LilycoveCity_PokemonCenter_1F_Text_HowManyKindsOfPokemon:
-	.string "I wonder how many kinds of POKéMON\n"
-=======
 LilycoveCity_PokemonCenter_1F_Text_HowManyKindsOfPokemon: @ 821C61E
 	.string "I wonder how many kinds of Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "there are in the world.\p"
 	.string "It'd be great to cross seas and\n"
 	.string "trade Pokémon with people far away.$"

@@ -223,15 +223,9 @@ EverGrandeCity_ChampionsRoom_Movement_BirchArrives:
 	walk_in_place_faster_left
 	step_end
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_IntroSpeech:
-	.string "WALLACE: Welcome, {PLAYER}{KUN}.\p"
-	.string "That incident in SOOTOPOLIS CITY…\n"
-=======
 EverGrandeCity_ChampionsRoom_Text_IntroSpeech: @ 8228C4C
 	.string "Wallace: Welcome, {PLAYER}{KUN}.\p"
 	.string "That incident in Sootopolis City…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That was superb work, putting an end\l"
 	.string "to that crisis all by yourself.\p"
 	.string "Oops!\p"
@@ -252,13 +246,8 @@ EverGrandeCity_ChampionsRoom_Text_IntroSpeech: @ 8228C4C
 	.string "their Pokémon in Hoenn?\p"
 	.string "Show me right here and now!$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_Defeat:
-	.string "I, the CHAMPION, fall in defeat…\p"
-=======
 EverGrandeCity_ChampionsRoom_Text_Defeat: @ 8228EAC
 	.string "I, the Champion, fall in defeat…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "That was wonderful work.\n"
 	.string "You were elegant, infuriatingly so.\l"
 	.string "And yet it was utterly glorious!\p"
@@ -266,13 +255,8 @@ EverGrandeCity_ChampionsRoom_Text_Defeat: @ 8228EAC
 	.string "You are a truly noble Pokémon\n"
 	.string "Trainer!$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
-	.string "WALLACE: The POKéMON you sent into\n"
-=======
 EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech: @ 8228F66
 	.string "Wallace: The Pokémon you sent into\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "battle…\p"
 	.string "At times they danced like a spring\n"
 	.string "breeze, and at times they struck\l"
@@ -286,55 +270,30 @@ EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech: @ 8228F66
 	.string "I now proclaim you to be the new\n"
 	.string "Hoenn region…$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_MayAdvice:
-	.string "MAY: {PLAYER}{KUN}!\p"
-=======
 EverGrandeCity_ChampionsRoom_Text_MayAdvice: @ 82290CA
 	.string "May: {PLAYER}{KUN}!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Here's some advice before you challenge\n"
 	.string "the Champion…$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver:
-	.string "MAY: Huh?\n"
-=======
 EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver: @ 822910B
 	.string "May: Huh?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "What, what, what?\p"
 	.string "{PLAYER}{KUN}…\n"
 	.string "Could it be that…\l"
 	.string "It's already over?$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_BrendanAdvice:
-	.string "BRENDAN: {PLAYER}!\p"
-=======
 EverGrandeCity_ChampionsRoom_Text_BrendanAdvice: @ 8229152
 	.string "Brendan: {PLAYER}!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "How would you like some advice before\n"
 	.string "you challenge the Champion?…$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon:
-	.string "BRENDAN: {PLAYER}…\p"
-=======
 EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon: @ 82291A2
 	.string "Brendan: {PLAYER}…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Are you trying to tell me…\n"
 	.string "You've beaten the Champion?$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
-	.string "PROF. BIRCH: See?\n"
-=======
 EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex: @ 82291E6
 	.string "Prof. Birch: See?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "What did I tell you, {RIVAL}?\p"
 	.string "Didn't I tell you that you don't need\n"
 	.string "to worry about {PLAYER}{KUN}?\p"
@@ -349,15 +308,6 @@ EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex: @ 82291E6
 	.string "What became of your Pokédex?\n"
 	.string "Here, let me see.$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_BirchCongratulations:
-	.string "PROF. BIRCH: Anyways,\n"
-	.string "congratulations!\p"
-	.string "Now, go proudly into the final room!$"
-
-EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe:
-	.string "WALLACE: {PLAYER}{KUN}…\p"
-=======
 EverGrandeCity_ChampionsRoom_Text_BirchCongratulations: @ 822934D
 	.string "Prof. Birch: Anyways,\n"
 	.string "congratulations!\p"
@@ -365,32 +315,19 @@ EverGrandeCity_ChampionsRoom_Text_BirchCongratulations: @ 822934D
 
 EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe: @ 8229399
 	.string "Wallace: {PLAYER}{KUN}…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "No, let me rephrase that properly.\p"
 	.string "The new Champion!\p"
 	.string "Come with me.$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside:
-	.string "WALLACE: I'm sorry, but…\p"
-	.string "From here on, only those TRAINERS who\n"
-	.string "have become CHAMPIONS may enter.\p"
-=======
 EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside: @ 82293EB
 	.string "Wallace: I'm sorry, but…\p"
 	.string "From here on, only those Trainers who\n"
 	.string "have become Champions may enter.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You'll have to wait outside with\n"
 	.string "Prof. Birch.$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
-	.string "MAY: Groan…\p"
-=======
 EverGrandeCity_ChampionsRoom_Text_MayCongratulations: @ 8229479
 	.string "May: Groan…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "I'm just joking! That's okay!\n"
@@ -398,13 +335,8 @@ EverGrandeCity_ChampionsRoom_Text_MayCongratulations: @ 8229479
 	.string "{PLAYER}{KUN}!\n"
 	.string "Honestly, congratulations!$"
 
-<<<<<<< HEAD
-EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations:
-	.string "BRENDAN: Whaaaat?! … … … … …\n"
-=======
 EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations: @ 82294F5
 	.string "Brendan: Whaaaat?! … … … … …\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "… … … … … … … …\p"
 	.string "It can't be helped if that's the rule.\p"
 	.string "{PLAYER}, way to go!\n"

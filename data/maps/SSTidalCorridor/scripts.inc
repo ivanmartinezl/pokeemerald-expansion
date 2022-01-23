@@ -253,13 +253,8 @@ SSTidalCorridor_Movement_SailorReturn:
 	walk_in_place_faster_up
 	step_end
 
-<<<<<<< HEAD
-SSTidalCorridor_Text_ScottBattleFrontierInvite:
-	.string "SCOTT: Well, hi, hi!\n"
-=======
 SSTidalCorridor_Text_ScottBattleFrontierInvite: @ 823C28F
 	.string "Scott: Well, hi, hi!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "{PLAYER}{KUN}, {PLAYER}{KUN}!\p"
 	.string "Something's come up, so I have to\n"
 	.string "disembark, but am I glad to see you!\p"
@@ -288,21 +283,12 @@ SSTidal_Text_HopeYouEnjoyVoyage:
 	.string "We hope you enjoy your voyage on\n"
 	.string "our ferry.$"
 
-<<<<<<< HEAD
-SSTidal_Text_MadeLandInSlateport:
-	.string "We have made land in SLATEPORT CITY.\n"
-	.string "Thank you for sailing with us.$"
-
-SSTidal_Text_MadeLandInLilycove:
-	.string "We have made land in LILYCOVE CITY.\n"
-=======
 SSTidal_Text_MadeLandInSlateport: @ 823C50F
 	.string "We have made land in Slateport City.\n"
 	.string "Thank you for sailing with us.$"
 
 SSTidal_Text_MadeLandInLilycove: @ 823C553
 	.string "We have made land in Lilycove City.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Thank you for sailing with us.$"
 
 SSTidalCorridor_Text_CanRestInCabin2:
@@ -328,13 +314,8 @@ SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole:
 	.string "The horizon spreads beyond\n"
 	.string "the porthole.$"
 
-<<<<<<< HEAD
-SSTidalCorridor_Text_BrineyWelcomeAboard:
-	.string "MR. BRINEY: Welcome aboard, {PLAYER}{KUN}!\p"
-=======
 SSTidalCorridor_Text_BrineyWelcomeAboard: @ 823C6EC
 	.string "Mr. Briney: Welcome aboard, {PLAYER}{KUN}!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "They made me honorary captain of\n"
 	.string "the S.S. Tidal!\p"
 	.string "You can call me Captain Briney now!\p"
@@ -343,13 +324,8 @@ SSTidalCorridor_Text_BrineyWelcomeAboard: @ 823C6EC
 	.string "Let me just say, it stirred my sleeping\n"
 	.string "soul as a sailor!$"
 
-<<<<<<< HEAD
-SSTidalCorridor_Text_Peeko:
-	.string "PEEKO: Pihyo pihyohyo…$"
-=======
 SSTidalCorridor_Text_Peeko: @ 823C7E1
 	.string "Peeko: Pihyo pihyohyo…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SSTidalCorridor_Text_Cabin1:
 	.string "Cabin 1$"

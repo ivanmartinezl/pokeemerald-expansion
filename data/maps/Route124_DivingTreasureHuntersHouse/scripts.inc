@@ -283,24 +283,14 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 	msgbox Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard, MSGBOX_SIGN
 	end
 
-<<<<<<< HEAD
-Route124_DivingTreasureHuntersHouse_Text_Greeting:
-	.string "I'm the DIVING TREASURE HUNTER!\p"
-=======
 Route124_DivingTreasureHuntersHouse_Text_Greeting: @ 8270F6C
 	.string "I'm the Diving Treasure Hunter!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm the awesome dude who makes\n"
 	.string "deep-sea dives to gather treasures\l"
 	.string "resting at the bottom.$"
 
-<<<<<<< HEAD
-Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
-	.string "Tell me, have you seen any SHARDS of\n"
-=======
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards: @ 8270FE5
 	.string "Tell me, have you seen any Shards of\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "tools made in ancient times?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
@@ -329,13 +319,8 @@ Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
 	.string "Do you want to trade something else?$"
 
-<<<<<<< HEAD
-Route124_DivingTreasureHuntersHouse_Text_BagFull:
-	.string "Whoops, your BAG's full.\n"
-=======
 Route124_DivingTreasureHuntersHouse_Text_BagFull: @ 82711A0
 	.string "Whoops, your Bag's full.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Get rid of some items, friend!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:

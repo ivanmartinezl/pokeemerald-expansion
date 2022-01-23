@@ -429,15 +429,6 @@ MtPyre_Summit_EventScript_Grunt4::
 	msgbox MtPyre_Summit_Text_Grunt4PostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-MtPyre_Summit_Text_Grunt1Intro:
-	.string "No! Those TEAM MAGMA goons got\n"
-	.string "here ahead of us!\p"
-	.string "We can't fall behind!$"
-
-MtPyre_Summit_Text_Grunt1Defeat:
-	.string "I thought you were one of the MAGMAS\n"
-=======
 MtPyre_Summit_Text_Grunt1Intro: @ 8232459
 	.string "No! Those Team Magma goons got\n"
 	.string "here ahead of us!\p"
@@ -445,7 +436,6 @@ MtPyre_Summit_Text_Grunt1Intro: @ 8232459
 
 MtPyre_Summit_Text_Grunt1Defeat: @ 82324A0
 	.string "I thought you were one of the Magmas\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "who happened to come back…$"
 
 MtPyre_Summit_Text_Grunt1PostBattle:
@@ -491,26 +481,16 @@ MtPyre_Summit_Text_Grunt4Intro:
 	.string "Well, don't think that we'll let you\n"
 	.string "join our Team Aqua!$"
 
-<<<<<<< HEAD
-MtPyre_Summit_Text_Grunt4Defeat:
-	.string "If you want to join TEAM AQUA that\n"
-=======
 MtPyre_Summit_Text_Grunt4Defeat: @ 823279A
 	.string "If you want to join Team Aqua that\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "badly, we can consider it…$"
 
 MtPyre_Summit_Text_Grunt4PostBattle:
 	.string "We have a great combination going\n"
 	.string "with us members and our leader.$"
 
-<<<<<<< HEAD
-MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
-	.string "ARCHIE: TEAM MAGMA's MAXIE got ahead\n"
-=======
 MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo: @ 823281A
 	.string "Archie: Team Magma's Maxie got ahead\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of us, but we also got what we wanted.\p"
 	.string "The Red Orb preserved at Mt. Pyre…\n"
 	.string "I, Archie, now have it in my possession!\p"
@@ -539,13 +519,8 @@ MtPyre_Summit_Text_BothOrbsTakenMagmaLeftThis:
 	.string "I would like you to have it.\n"
 	.string "Perhaps it will be useful in some way.$"
 
-<<<<<<< HEAD
-MtPyre_Summit_Text_OrbsHaveBeenTaken:
-	.string "The BLUE ORB and RED ORB taken by\n"
-=======
 MtPyre_Summit_Text_OrbsHaveBeenTaken: @ 8232AD8
 	.string "The Blue Orb and Red Orb taken by\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "those sinister men…\p"
 	.string "They must never be apart…\n"
 	.string "I fear something terrible will happen…$"
@@ -564,13 +539,8 @@ MtPyre_Summit_Text_GroudonKyogreAwakened:
 	.string "It could be a human, or perhaps\n"
 	.string "a Pokémon, but no one knows.$"
 
-<<<<<<< HEAD
-MtPyre_Summit_Text_ThoseTwoMenReturnedOrbs:
-	.string "The two men who took the ORBS came\n"
-=======
 MtPyre_Summit_Text_ThoseTwoMenReturnedOrbs: @ 8232CA6
 	.string "The two men who took the Orbs came\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "back to return them on their own.\p"
 	.string "Those men…\n"
 	.string "Perhaps they are not so evil after all…$"
@@ -586,15 +556,9 @@ MtPyre_Summit_Text_SuperAncientPokemonTaughtUs:
 	.string "The super-ancient Pokémon have\n"
 	.string "taught us that…$"
 
-<<<<<<< HEAD
-MtPyre_Summit_Text_WillYouHearOutMyTale:
-	.string "MT. PYRE is where we calm the spirits\n"
-	.string "of POKéMON that have passed on…\p"
-=======
 MtPyre_Summit_Text_WillYouHearOutMyTale: @ 8232E0C
 	.string "Mt. Pyre is where we calm the spirits\n"
 	.string "of Pokémon that have passed on…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "This is a high place where one can\n"
 	.string "see all of Hoenn…\p"
 	.string "The disembodied spirits of Pokémon\n"
@@ -627,13 +591,8 @@ MtPyre_Summit_Text_WellThatTooIsFine:
 	.string "I see…\n"
 	.string "Well, that, too, is fine…$"
 
-<<<<<<< HEAD
-MtPyre_Summit_Text_MaxieSilence:
-	.string "MAXIE: {PLAYER}…\p"
-=======
 MtPyre_Summit_Text_MaxieSilence: @ 8233183
 	.string "Maxie: {PLAYER}…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 

@@ -56,19 +56,11 @@ FallarborTown_Mart_Text_DecidingSkittyEvolve:
 	.string "much stronger.\p"
 	.string "But it will look so different, too.$"
 
-<<<<<<< HEAD
-FallarborTown_Mart_Text_Skitty:
-	.string "SKITTY: Miyao?$"
-
-FallarborTown_Mart_Text_SellNuggetIFound:
-	.string "This NUGGET I found here…\n"
-=======
 FallarborTown_Mart_Text_Skitty: @ 81FFDFA
 	.string "Skitty: Miyao?$"
 
 FallarborTown_Mart_Text_SellNuggetIFound: @ 81FFE09
 	.string "This Nugget I found here…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I suppose I'll have to sell it, seeing\l"
 	.string "as how it has no other use.$"
 

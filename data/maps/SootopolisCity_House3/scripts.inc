@@ -19,17 +19,10 @@ SootopolisCity_House3_EventScript_Girl::
 	msgbox SootopolisCity_House3_Text_TrainerFanClubWasWild, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-SootopolisCity_House3_Text_JuanHasManyFansDoYou:
-	.string "You're a POKéMON TRAINER, aren't you?\p"
-	.string "SOOTOPOLIS's JUAN has many fans.\n"
-	.string "Even more than his student WALLACE!\p"
-=======
 SootopolisCity_House3_Text_JuanHasManyFansDoYou: @ 8226BA4
 	.string "You're a Pokémon Trainer, aren't you?\p"
 	.string "Sootopolis's Juan has many fans.\n"
 	.string "Even more than his student Wallace!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Do you have any?$"
 
 SootopolisCity_House3_Text_YouMustBePrettyStrong:

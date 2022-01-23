@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "FALLARBOR SITE!\p"
-=======
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C47EB
 	.string "I welcome you to the Battle Tent\n"
 	.string "Fallarbor Site!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I am your guide to the Set KO Tourney!$"
 
 FallarborTown_BattleTentLobby_Text_TakeChallenge:
@@ -17,13 +11,8 @@ FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
 	.string "We await your challenge on\n"
 	.string "another occasion!$"
 
-<<<<<<< HEAD
-FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
-	.string "In the FALLARBOR BATTLE TENT,\n"
-=======
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent: @ 82C48AC
 	.string "In the Fallarbor Battle Tent,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "we undertake the Set KO Tourney.\p"
 	.string "All participants enter with a team of\n"
 	.string "three Pokémon.\p"
@@ -43,15 +32,9 @@ FallarborTown_BattleTentLobby_Text_ExplainFallarborTent: @ 82C48AC
 	.string "three Trainers in succession,\l"
 	.string "we will present you with a fine prize.$"
 
-<<<<<<< HEAD
-FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before showing you to the BATTLE\n"
-	.string "TENT, I must save. Is that okay?$"
-=======
 FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge: @ 82C4B35
 	.string "Before showing you to the Battle\n"
 	.string "Tent, I must save. Is that okay?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 @ Unused
 FallarborTown_BattleTentLobby_Text_WhichLevelMode:
@@ -134,20 +117,6 @@ FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
 	.string "Before I show you to the Battle Tent,\n"
 	.string "I must save the game. Please wait.$"
 
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "VERDANTURF SITE!\p"
-	.string "Here, the TRAINER's trust toward\n"
-	.string "POKéMON is tested.$"
-
-VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Do you wish to take the VERDANTURF\n"
-	.string "BATTLE TENT challenge?$"
-
-VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
-	.string "In the VERDANTURF BATTLE TENT,\n"
-=======
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C50C3
 	.string "I welcome you to the Battle Tent\n"
 	.string "Verdanturf Site!\p"
@@ -160,7 +129,6 @@ VerdanturfTown_BattleTentLobby_Text_TakeChallenge: @ 82C5129
 
 VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent: @ 82C5163
 	.string "In the Verdanturf Battle Tent,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "there is one crucial rule that must\l"
 	.string "be obeyed.\p"
 	.string "Trainers are permitted only to switch\n"
@@ -244,15 +212,9 @@ VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
 	.string "For the feat of your 3-win streak,\n"
 	.string "we present you with this prize.$"
 
-<<<<<<< HEAD
-SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "Welcome to the BATTLE TENT\n"
-	.string "SLATEPORT SITE!\p"
-=======
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C5810
 	.string "Welcome to the Battle Tent\n"
 	.string "Slateport Site!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I am your guide to the Battle Swap\n"
 	.string "Tournament.$"
 
@@ -260,13 +222,8 @@ SlateportCity_BattleTentLobby_Text_TakeChallenge:
 	.string "Would you like to take the Battle\n"
 	.string "Swap challenge?$"
 
-<<<<<<< HEAD
-SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
-	.string "Here at the SLATEPORT BATTLE TENT,\n"
-=======
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent: @ 82C589C
 	.string "Here at the Slateport Battle Tent,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "we hold Battle Swap events\l"
 	.string "using rental Pokémon.\p"
 	.string "First, you will be loaned three\n"
@@ -296,13 +253,8 @@ SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "I need to save data. Is that okay?$"
 
 @ Unused
-<<<<<<< HEAD
-SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-=======
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping: @ 82C5B4A
 	.string "Okay, I will hold your Pokémon for\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "safekeeping while you compete.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
@@ -316,15 +268,9 @@ SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
 	.string "Please wait.$"
 
 @ Unused
-<<<<<<< HEAD
-SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
-=======
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals: @ 82C5C30
 	.string "I will return your Pokémon in exchange\n"
 	.string "for our rental Pokémon.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
 	.string "Congratulations!\n"
@@ -356,13 +302,8 @@ SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "from your challenge.$"
 
 @ Unused
-<<<<<<< HEAD
-SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
-	.string "We'll return your personal POKéMON.$"
-=======
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons: @ 82C5E85
 	.string "We'll return your personal Pokémon.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
@@ -384,19 +325,11 @@ SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
 	.string "your team may not have two or more\l"
 	.string "of the same Pokémon.$"
 
-<<<<<<< HEAD
-SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
-=======
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules: @ 82C5F9D
 	.string "You may swap Pokémon only with\n"
 	.string "the Trainer you have just defeated.\p"
 	.string "You may swap for only those Pokémon\n"
 	.string "used by the beaten Trainer.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
 	.string "After every battle you win, you may\n"
@@ -417,17 +350,6 @@ SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
 	.string "This sequence remains unchanged\n"
 	.string "even when swaps are made.$"
 
-<<<<<<< HEAD
-SlateportCity_BattleTentLobby_Text_ExplainMonRules:
-	.string "The POKéMON of the SLATEPORT\n"
-	.string "BATTLE TENT are all rentals.\p"
-	.string "All rental POKéMON are kept at\n"
-	.string "Level 30.$"
-
-@ Unused
-VerdanturfTown_BattleTentLobby_Text_RulesAreListed2:
-	.string "The VERDANTURF BATTLE TENT\n"
-=======
 SlateportCity_BattleTentLobby_Text_ExplainMonRules: @ 82C61FE
 	.string "The Pokémon of the Slateport\n"
 	.string "Battle Tent are all rentals.\p"
@@ -437,7 +359,6 @@ SlateportCity_BattleTentLobby_Text_ExplainMonRules: @ 82C61FE
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed2: @ 82C6261
 	.string "The Verdanturf Battle Tent\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "rules are listed.$"
 
 @ Unused
@@ -445,28 +366,17 @@ VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
 @ Unused
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
-	.string "Here at the VERDANTURF BATTLE TENT,\n"
-	.string "POKéMON are required to think and\l"
-=======
 VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules: @ 82C62B1
 	.string "Here at the Verdanturf Battle Tent,\n"
 	.string "Pokémon are required to think and\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "battle by themselves.\p"
 	.string "Unlike in the wild, Pokémon that live\n"
 	.string "with people behave differently\l"
 	.string "depending on their nature.$"
 
 @ Unused
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
-	.string "Depending on its nature, a POKéMON\n"
-=======
 VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules: @ 82C636D
 	.string "Depending on its nature, a Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "may prefer to attack no matter what.\p"
 	.string "Another Pokémon may prefer to protect\n"
 	.string "itself from any harm.\p"
@@ -493,15 +403,9 @@ VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
 	.string "these three categories.$"
 
 @ Unused
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
-	.string "When not under command by its TRAINER,\n"
-	.string "a POKéMON may be unable to effectively\l"
-=======
 VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules: @ 82C6612
 	.string "When not under command by its Trainer,\n"
 	.string "a Pokémon may be unable to effectively\l"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "use certain moves.\p"
 	.string "A Pokémon is not good at using any\n"
 	.string "move that it dislikes.\p"
@@ -510,35 +414,20 @@ VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules: @ 82C6612
 	.string "be unable to live up to its potential.$"
 
 @ Unused
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
-	.string "Depending on its nature, a POKéMON may\n"
-=======
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules: @ 82C671E
 	.string "Depending on its nature, a Pokémon may\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "start using moves that don't match its\l"
 	.string "nature when it is in trouble.\p"
 	.string "If a Pokémon begins behaving oddly\n"
 	.string "in a pinch, watch it carefully.$"
 
-<<<<<<< HEAD
-BattleTentLobby_Text_ExplainLevelRules:
-	.string "At this BATTLE TENT, the levels of\n"
-=======
 BattleTentLobby_Text_ExplainLevelRules: @ 82C67CD
 	.string "At this Battle Tent, the levels of\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "your opponents will be adjusted to\l"
 	.string "match the levels of your Pokémon.\p"
 	.string "However, no Trainer you face will\n"
 	.string "have any Pokémon below Level 30.$"
 
-<<<<<<< HEAD
-VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
-	.string "The VERDANTURF BATTLE TENT\n"
-=======
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed: @ 82C6878
 	.string "The Verdanturf Battle Tent\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "rules are listed.$"

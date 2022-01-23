@@ -55,13 +55,8 @@ SootopolisCity_Gym_B1F_Text_AndreaIntro:
 	.string "I'll show you the sublime techniques\n"
 	.string "I learned from our Leader Juan!$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_B1F_Text_AndreaDefeat:
-	.string "Please forgive me, JUAN…$"
-=======
 SootopolisCity_Gym_B1F_Text_AndreaDefeat: @ 8225DB6
 	.string "Please forgive me, Juan…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
 	.string "Watch what happens if you crack all\n"
@@ -80,13 +75,8 @@ SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
 	.string "You might be good enough to avoid\n"
 	.string "being wiped out in one hit by Juan.$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_B1F_Text_DaphneIntro:
-	.string "The sight of JUAN conducting\n"
-=======
 SootopolisCity_Gym_B1F_Text_DaphneIntro: @ 8225ED6
 	.string "The sight of Juan conducting\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "a battle…\p"
 	.string "The very beauty of it compelled me to\n"
 	.string "become a Trainer.$"
@@ -114,17 +104,10 @@ SootopolisCity_Gym_B1F_Text_ConniePostBattle:
 	.string "If you want to reach Juan, you\n"
 	.string "need to walk on each floor tile once.$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_B1F_Text_BridgetIntro:
-	.string "The POKéMON GYM of the highest level\n"
-	.string "in the HOENN region…\p"
-	.string "That's the SOOTOPOLIS GYM.$"
-=======
 SootopolisCity_Gym_B1F_Text_BridgetIntro: @ 8226061
 	.string "The Pokémon Gym of the highest level\n"
 	.string "in the Hoenn region…\p"
 	.string "That's the Sootopolis Gym.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SootopolisCity_Gym_B1F_Text_BridgetDefeat:
 	.string "What a high level you are!$"
@@ -135,15 +118,9 @@ SootopolisCity_Gym_B1F_Text_BridgetPostBattle:
 	.string "other places will make you stronger.\l"
 	.string "But above all, it looks more fun.$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_B1F_Text_OliviaIntro:
-	.string "I train my POKéMON together with\n"
-	.string "JUAN.\p"
-=======
 SootopolisCity_Gym_B1F_Text_OliviaIntro: @ 8226164
 	.string "I train my Pokémon together with\n"
 	.string "Juan.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Don't think I'm a pushover.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaDefeat:
@@ -167,13 +144,8 @@ SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
 	.string "you are as a Trainer has nothing to do\l"
 	.string "with how young or old you are.$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_B1F_Text_BethanyIntro:
-	.string "When I'm with my POKéMON, the time\n"
-=======
 SootopolisCity_Gym_B1F_Text_BethanyIntro: @ 82262F3
 	.string "When I'm with my Pokémon, the time\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "flies by before you can say, “Oops!”$"
 
 SootopolisCity_Gym_B1F_Text_BethanyDefeat:
@@ -183,30 +155,18 @@ SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
 	.string "I wish I could forget about lost causes\n"
 	.string "before I can manage an “Oops!”$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_B1F_Text_AnnikaIntro:
-	.string "I can battle with really rare POKéMON\n"
-=======
 SootopolisCity_Gym_B1F_Text_AnnikaIntro: @ 8226388
 	.string "I can battle with really rare Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "if you'd like.$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaDefeat:
 	.string "Oh, there now! Did you have a good look\n"
 	.string "at my Pokémon?$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_B1F_Text_AnnikaPostBattle:
-	.string "I came to this GYM because JUAN\n"
-	.string "praised me for my darling POKéMON.\p"
-	.string "Oh, if only I'd met JUAN years ago\n"
-=======
 SootopolisCity_Gym_B1F_Text_AnnikaPostBattle: @ 82263F4
 	.string "I came to this Gym because Juan\n"
 	.string "praised me for my darling Pokémon.\p"
 	.string "Oh, if only I'd met Juan years ago\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "when I was younger…$"
 
 SootopolisCity_Gym_B1F_Text_BriannaIntro:
@@ -217,12 +177,7 @@ SootopolisCity_Gym_B1F_Text_BriannaDefeat:
 	.string "Oh, dear.\n"
 	.string "I went much too easy on you.$"
 
-<<<<<<< HEAD
-SootopolisCity_Gym_B1F_Text_BriannaPostBattle:
-	.string "You couldn't lay a finger on JUAN,\n"
-=======
 SootopolisCity_Gym_B1F_Text_BriannaPostBattle: @ 82264BC
 	.string "You couldn't lay a finger on Juan,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm sure. Giggle…$"
 

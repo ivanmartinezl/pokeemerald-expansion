@@ -117,33 +117,19 @@ Route110_TrickHousePuzzle2_Text_TedPostBattle:
 	.string "Can I get you to push all the buttons\n"
 	.string "for me?$"
 
-<<<<<<< HEAD
-Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! You're on your second TRICK HOUSE\n"
-=======
 Route110_TrickHousePuzzle2_Text_PaulIntro: @ 826BD9E
 	.string "Oh! You're on your second Trick House\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "challenge!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
 	.string "You're good at battling too?$"
 
-<<<<<<< HEAD
-Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "The TRICK MASTER rigged all the tricks\n"
-	.string "in this house all by himself.$"
-
-Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own GYM one day.\n"
-=======
 Route110_TrickHousePuzzle2_Text_PaulPostBattle: @ 826BDEC
 	.string "The Trick Master rigged all the tricks\n"
 	.string "in this house all by himself.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro: @ 826BE31
 	.string "I want to make my own Gym one day.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "So, I'm studying how to set traps.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:

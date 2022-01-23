@@ -43,13 +43,8 @@ FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat:
 	.string "I don't know quite how it works,\n"
 	.string "but it's cool. It's exciting, even!$"
 
-<<<<<<< HEAD
-FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav:
-	.string "Oh, wow, you have a POKéNAV!\n"
-=======
 FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav: @ 821751F
 	.string "Oh, wow, you have a Pokénav!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "And it's just like mine!\p"
 	.string "Do you know about Pokénav's\n"
 	.string "Match Call system?\p"

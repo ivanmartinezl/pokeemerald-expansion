@@ -28,24 +28,14 @@ AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner:
 	.string "He also asked me to find a Scanner,\n"
 	.string "but I haven't had any success…$"
 
-<<<<<<< HEAD
-AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner:
-	.string "Oh! That's a SCANNER!\p"
-=======
 AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner: @ 823889D
 	.string "Oh! That's a Scanner!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Listen, can I get you to deliver that\n"
 	.string "to Capt. Stern?\p"
 	.string "I want to investigate this ship a\n"
 	.string "little more.$"
 
-<<<<<<< HEAD
-AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus:
-	.string "This ship is called S.S. CACTUS.\n"
-=======
 AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus: @ 8238918
 	.string "This ship is called S.S. Cactus.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It seems to be from an earlier era.$"
 

@@ -83,13 +83,8 @@ PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally:
 	.string "I wonder where he could have\n"
 	.string "gotten by now?$"
 
-<<<<<<< HEAD
-PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing:
-	.string "I wonder how our WALLY is doing?$"
-=======
 PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing: @ 820444D
 	.string "I wonder how our Wally is doing?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 PetalburgCity_WallysHouse_Text_PleaseExcuseUs:
 	.string "{PLAYER}{KUN}! Please excuse us for\n"
@@ -108,19 +103,6 @@ PetalburgCity_WallysHouse_Text_PleaseExcuseUs:
 	.string "This isn't a bribe or anything, but\n"
 	.string "I'd really like you to have this.$"
 
-<<<<<<< HEAD
-PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces:
-	.string "If your POKéMON can SURF, you'll be\n"
-	.string "able to go to all sorts of places.$"
-
-PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon:
-	.string "WALLY's coming home soon.\n"
-	.string "I'm looking forward to that.$"
-
-PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity:
-	.string "Oh? You met WALLY in\n"
-	.string "EVER GRANDE CITY?\p"
-=======
 PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces: @ 820461A
 	.string "If your Pokémon can Surf, you'll be\n"
 	.string "able to go to all sorts of places.$"
@@ -132,21 +114,14 @@ PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon: @ 8204661
 PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity: @ 8204698
 	.string "Oh? You met Wally in\n"
 	.string "Ever Grande City?\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Oh, {PLAYER}{KUN}, don't be silly.\p"
 	.string "He may have gotten healthy, but he\n"
 	.string "can't go somewhere far away like\l"
 	.string "that all by himself.$"
 
-<<<<<<< HEAD
-PetalburgCity_WallysHouse_Text_WallyWasReallyHappy:
-	.string "WALLY was really happy when he told\n"
-	.string "us that he caught a POKéMON.\p"
-=======
 PetalburgCity_WallysHouse_Text_WallyWasReallyHappy: @ 8204732
 	.string "Wally was really happy when he told\n"
 	.string "us that he caught a Pokémon.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "It's been ages since I've seen him\n"
 	.string "smile like that.$"
 

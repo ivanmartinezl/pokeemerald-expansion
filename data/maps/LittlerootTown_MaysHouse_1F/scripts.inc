@@ -345,13 +345,8 @@ RivalsHouse_1F_Text_TooBusyToNoticeVisit:
 	.string "Pokémon to notice that you came\l"
 	.string "to visit, {PLAYER}{KUN}.$"
 
-<<<<<<< HEAD
-RivalsHouse_1F_Text_WentOutToRoute103:
-	.string "Oh, {RIVAL} went out to ROUTE 103\n"
-=======
 RivalsHouse_1F_Text_WentOutToRoute103: @ 81F8D93
 	.string "Oh, {RIVAL} went out to Route 103\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "just a little while ago.\p"
 	.string "Like father, like child.\n"
 	.string "{RIVAL} can't stay quietly at home.$"

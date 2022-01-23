@@ -9,16 +9,6 @@ PetalburgCity_House2_EventScript_SchoolKid::
 	msgbox PetalburgCity_House2_Text_BattledNormanOnce, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-PetalburgCity_House2_Text_NormanBecameGymLeader:
-	.string "NORMAN became our town's new\n"
-	.string "GYM LEADER.\p"
-	.string "I think he called his family over from\n"
-	.string "somewhere far away.$"
-
-PetalburgCity_House2_Text_BattledNormanOnce:
-	.string "I battled NORMAN once, but, whew,\n"
-=======
 PetalburgCity_House2_Text_NormanBecameGymLeader: @ 8207905
 	.string "Norman became our town's new\n"
 	.string "Gym Leader.\p"
@@ -27,7 +17,6 @@ PetalburgCity_House2_Text_NormanBecameGymLeader: @ 8207905
 
 PetalburgCity_House2_Text_BattledNormanOnce: @ 8207969
 	.string "I battled Norman once, but, whew,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "he was way too strong.\p"
 	.string "How would I put it?\p"
 	.string "I just got the feeling that he\n"

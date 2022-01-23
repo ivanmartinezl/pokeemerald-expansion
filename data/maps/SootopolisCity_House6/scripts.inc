@@ -48,11 +48,6 @@ SootopolisCity_House6_Text_DontWantThisDoll:
 	.string "Are you sure?\n"
 	.string "You don't want this Doll?$"
 
-<<<<<<< HEAD
-SootopolisCity_House6_Text_LovePlushDolls:
-	.string "I love plush DOLLS!$"
-=======
 SootopolisCity_House6_Text_LovePlushDolls: @ 82270B7
 	.string "I love plush Dolls!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

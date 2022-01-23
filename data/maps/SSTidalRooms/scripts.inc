@@ -66,15 +66,9 @@ SSTidalRooms_Text_TakeRestOnBed:
 	.string "There's a bed…\n"
 	.string "Let's take a rest.$"
 
-<<<<<<< HEAD
-SSTidalRooms_Text_ColtonIntro:
-	.string "I often sail to LILYCOVE CITY.\p"
-	.string "I enjoy attending CONTESTS,\n"
-=======
 SSTidalRooms_Text_ColtonIntro: @ 823CB14
 	.string "I often sail to Lilycove City.\p"
 	.string "I enjoy attending Contests,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "you see.$"
 
 SSTidalRooms_Text_ColtonDefeat:
@@ -107,17 +101,6 @@ SSTidalRooms_Text_ThomasPostBattle:
 	.string "To be never ruffled in any situation is\n"
 	.string "the Gentleman's code of conduct.$"
 
-<<<<<<< HEAD
-SSTidalRooms_Text_JedIntro:
-	.string "JED: I feel a little shy about this, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
-
-SSTidalRooms_Text_JedDefeat:
-	.string "JED: Sigh…$"
-
-SSTidalRooms_Text_JedPostBattle:
-	.string "JED: It's the first time that our lovey-\n"
-=======
 SSTidalRooms_Text_JedIntro: @ 823CD04
 	.string "Jed: I feel a little shy about this, but…\n"
 	.string "We'll show you our lovey-dovey power!$"
@@ -127,25 +110,9 @@ SSTidalRooms_Text_JedDefeat: @ 823CD54
 
 SSTidalRooms_Text_JedPostBattle: @ 823CD5F
 	.string "Jed: It's the first time that our lovey-\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "dovey power couldn't prevail!\l"
 	.string "You must be an awesome Trainer!$"
 
-<<<<<<< HEAD
-SSTidalRooms_Text_JedNotEnoughMons:
-	.string "JED: You only have one POKéMON?\n"
-	.string "Isn't that just too lonesome?$"
-
-SSTidalRooms_Text_LeaIntro:
-	.string "LEA: I feel a little silly, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
-
-SSTidalRooms_Text_LeaDefeat:
-	.string "LEA: Oh, boo!$"
-
-SSTidalRooms_Text_LeaPostBattle:
-	.string "LEA: I can't believe it!\n"
-=======
 SSTidalRooms_Text_JedNotEnoughMons: @ 823CDC6
 	.string "Jed: You only have one Pokémon?\n"
 	.string "Isn't that just too lonesome?$"
@@ -159,19 +126,12 @@ SSTidalRooms_Text_LeaDefeat: @ 823CE4B
 
 SSTidalRooms_Text_LeaPostBattle: @ 823CE59
 	.string "Lea: I can't believe it!\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Our lovey-dovey power failed…\l"
 	.string "You must be an awesome Trainer!$"
 
-<<<<<<< HEAD
-SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "LEA: I wanted to battle…\n"
-	.string "But you don't even have two POKéMON…$"
-=======
 SSTidalRooms_Text_LeaNotEnoughMons: @ 823CEB0
 	.string "Lea: I wanted to battle…\n"
 	.string "But you don't even have two Pokémon…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 SSTidalRooms_Text_GarretIntro:
 	.string "Ah, you've come just in time.\p"
@@ -186,13 +146,8 @@ SSTidalRooms_Text_GarretPostBattle:
 	.string "a yacht for me.\l"
 	.string "A yacht for me and Pokémon!$"
 
-<<<<<<< HEAD
-SSTidalRooms_Text_NaomiIntro:
-	.string "Oh, you're such an adorable TRAINER.\n"
-=======
 SSTidalRooms_Text_NaomiIntro: @ 823CF97
 	.string "Oh, you're such an adorable Trainer.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Would you like to have tea?\l"
 	.string "Or would you rather battle?$"
 
@@ -213,13 +168,8 @@ SSTidalRooms_Text_NotSuspiciousTakeThis:
 	.string "someone! I'd never do such a thing!\l"
 	.string "It's clean! You can use it!$"
 
-<<<<<<< HEAD
-SSTidalRooms_Text_ExplainSnatch:
-	.string "SNATCH steals the beneficial effects\n"
-=======
 SSTidalRooms_Text_ExplainSnatch: @ 823D145
 	.string "Snatch steals the beneficial effects\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of certain moves before they can be\l"
 	.string "used by a foe or ally.$"
 

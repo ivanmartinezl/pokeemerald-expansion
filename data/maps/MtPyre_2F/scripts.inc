@@ -42,13 +42,8 @@ MtPyre_2F_EventScript_Zander::
 	msgbox MtPyre_2F_Text_ZanderPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "Memories of my darling SKITTY…\n"
-=======
 MtPyre_2F_Text_MemoriesOfSkitty: @ 82311A3
 	.string "Memories of my darling Skitty…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "My eyes overflow thinking about it.$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
@@ -57,13 +52,8 @@ MtPyre_2F_Text_TumbledFromFloorAbove:
 	.string "I didn't notice and took a tumble from\n"
 	.string "the floor above.$"
 
-<<<<<<< HEAD
-MtPyre_2F_Text_MarkIntro:
-	.string "Hey! Are you searching for POKéMON?\n"
-=======
 MtPyre_2F_Text_MarkIntro: @ 8231258
 	.string "Hey! Are you searching for Pokémon?\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "You came along after me! You're rude!$"
 
 MtPyre_2F_Text_MarkDefeat:
@@ -74,36 +64,13 @@ MtPyre_2F_Text_MarkPostBattle:
 	.string "People don't come here often, so\n"
 	.string "I thought there'd be rare Pokémon.$"
 
-<<<<<<< HEAD
-MtPyre_2F_Text_LukeIntro:
-	.string "LUKE: We're here on a dare.\p"
-=======
 MtPyre_2F_Text_LukeIntro: @ 823130F
 	.string "Luke: We're here on a dare.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Heheh, if I show her how cool I am,\n"
 	.string "she'll fall for me. I know it!\p"
 	.string "I know! I'll cream you and show her\n"
 	.string "how cool I am!$"
 
-<<<<<<< HEAD
-MtPyre_2F_Text_LukeDefeat:
-	.string "LUKE: Whoopsie!$"
-
-MtPyre_2F_Text_LukePostBattle:
-	.string "LUKE: Well, we lost but that's okay!\n"
-	.string "I'm right here by your side.\l"
-	.string "We'll make it through this dare!$"
-
-MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: If you want to take me on,\n"
-	.string "bring some more POKéMON.\p"
-	.string "If you don't, I won't be able to show\n"
-	.string "off to my girl how cool I am!$"
-
-MtPyre_2F_Text_DezIntro:
-	.string "DEZ: I came here on a dare with my\n"
-=======
 MtPyre_2F_Text_LukeDefeat: @ 82313A1
 	.string "Luke: Whoopsie!$"
 
@@ -120,25 +87,12 @@ MtPyre_2F_Text_LukeNotEnoughMons: @ 8231414
 
 MtPyre_2F_Text_DezIntro: @ 8231492
 	.string "Dez: I came here on a dare with my\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "boyfriend.\p"
 	.string "It's really scary, but I'm with my\n"
 	.string "boyfriend. It's okay.\p"
 	.string "I know! I'll get my boyfriend to look\n"
 	.string "cool by beating you!$"
 
-<<<<<<< HEAD
-MtPyre_2F_Text_DezDefeat:
-	.string "DEZ: Waaaah! I'm scared!$"
-
-MtPyre_2F_Text_DezPostBattle:
-	.string "DEZ: We're lovey-dovey, so we don't\n"
-	.string "care if we lose!$"
-
-MtPyre_2F_Text_DezNotEnoughMons:
-	.string "DEZ: If you want to challenge us, you\n"
-	.string "should bring at least two POKéMON.\p"
-=======
 MtPyre_2F_Text_DezDefeat: @ 8231534
 	.string "Dez: Waaaah! I'm scared!$"
 
@@ -149,7 +103,6 @@ MtPyre_2F_Text_DezPostBattle: @ 823154D
 MtPyre_2F_Text_DezNotEnoughMons: @ 8231582
 	.string "Dez: If you want to challenge us, you\n"
 	.string "should bring at least two Pokémon.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "My boyfriend's strong.\n"
 	.string "Just one Pokémon won't do at all.$"
 
@@ -161,13 +114,8 @@ MtPyre_2F_Text_LeahDefeat:
 	.string "Hmm…\n"
 	.string "You're durable.$"
 
-<<<<<<< HEAD
-MtPyre_2F_Text_LeahPostBattle:
-	.string "Our family has been TRAINERS here\n"
-=======
 MtPyre_2F_Text_LeahPostBattle: @ 823165A
 	.string "Our family has been Trainers here\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "since my great-grandmother's time…\p"
 	.string "It is my duty to protect this\n"
 	.string "mountain…$"

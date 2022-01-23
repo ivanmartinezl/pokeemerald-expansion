@@ -244,19 +244,11 @@ Route118_EventScript_Deandre::
 	msgbox Route118_Text_DeandrePostBattle, MSGBOX_AUTOCLOSE
 	end
 
-<<<<<<< HEAD
-Route118_Text_StevenQuestions:
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
-	.string "It's me, STEVEN!\n"
-	.string "We met in the cave near DEWFORD.\p"
-	.string "Have you met many kinds of POKéMON\n"
-=======
 Route118_Text_StevenQuestions: @ 81F40BE
 	.string "Steven: Hi, {PLAYER}{KUN}!\p"
 	.string "It's me, Steven!\n"
 	.string "We met in the cave near Dewford.\p"
 	.string "Have you met many kinds of Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "since I last saw you?\p"
 	.string "There are many, many kinds of Pokémon\n"
 	.string "in this wide world of ours.\p"
@@ -288,15 +280,9 @@ Route118_Text_TryYourLuckFishing:
 Route118_Text_DontYouLikeToFish:
 	.string "Don't you like to fish?$"
 
-<<<<<<< HEAD
-Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Try catching all sorts of POKéMON\n"
-	.string "with your GOOD ROD.$"
-=======
 Route118_Text_TryCatchingMonWithGoodRod: @ 81F4331
 	.string "Try catching all sorts of Pokémon\n"
 	.string "with your Good Rod.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 Route118_Text_CanCrossRiversWithSurf:
 	.string "Even if there isn't a boat, you can\n"
@@ -305,15 +291,6 @@ Route118_Text_CanCrossRiversWithSurf:
 	.string "Pokémon can be counted on to do so\n"
 	.string "much!$"
 
-<<<<<<< HEAD
-Route118_Text_RouteSignMauville:
-	.string "ROUTE 118\n"
-	.string "{LEFT_ARROW} MAUVILLE CITY$"
-
-Route118_Text_RouteSign119:
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
-=======
 Route118_Text_RouteSignMauville: @ 81F43F4
 	.string "Route 118\n"
 	.string "{LEFT_ARROW} Mauville City$"
@@ -321,5 +298,4 @@ Route118_Text_RouteSignMauville: @ 81F43F4
 Route118_Text_RouteSign119: @ 81F440E
 	.string "Route 118\n"
 	.string "{UP_ARROW} Route 119$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 

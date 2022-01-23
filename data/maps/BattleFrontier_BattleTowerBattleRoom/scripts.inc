@@ -437,13 +437,8 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge::
 	goto BattleFrontier_BattleTower_EventScript_WarpToLobbyLost
 	end
 
-<<<<<<< HEAD
-BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth:
-	.string "We will restore your POKéMON to\n"
-=======
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth: @ 8242217
 	.string "We will restore your Pokémon to\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "full health.$"
 
 @ Unused
@@ -491,15 +486,9 @@ BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
 	.string "Saving your battle data.\n"
 	.string "Please wait.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
-	.string "Would you like to cancel your BATTLE\n"
-	.string "ROOM challenge?$"
-=======
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge: @ 824244C
 	.string "Would you like to cancel your Battle\n"
 	.string "Room challenge?$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
 	.string "There was an error of some sort.\n"
@@ -511,13 +500,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay:
 	.string "her way here in hopes of battling you.\p"
 	.string "She should be arriving very shortly.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden:
-	.string "You will be facing the SALON MAIDEN.\n"
-=======
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden: @ 8242542
 	.string "You will be facing the Salon Maiden.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Are you prepared?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel:
@@ -536,15 +520,9 @@ BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent:
 	.string "Let me see your talent in\n"
 	.string "its entirety…$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
-	.string "ANABEL: Fufufu, nicely done…\p"
-	.string "Your FRONTIER PASS, please…\n"
-=======
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized: @ 82426B4
 	.string "Anabel: Fufufu, nicely done…\p"
 	.string "Your Frontier Pass, please…\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "Your talent shall be recognized.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
@@ -560,13 +538,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime:
 	.string "I will be waiting for you.\n"
 	.string "Until the next time we meet…$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack:
-	.string "ANABEL: You really did come back to\n"
-=======
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack: @ 82427F9
 	.string "Anabel: You really did come back to\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "see me…\p"
 	.string "… … … … … …\p"
 	.string "You've won straight matches to see me…\n"
@@ -578,15 +551,9 @@ BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack: @ 82427F9
 BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe:
 	.string "Let's begin, shall we?$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease:
-	.string "ANABEL: Fufu, congratulations…\n"
-	.string "Your FRONTIER PASS, please…$"
-=======
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease: @ 82428F7
 	.string "Anabel: Fufu, congratulations…\n"
 	.string "Your Frontier Pass, please…$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine:
 	.string "The Ability Symbol took on\n"

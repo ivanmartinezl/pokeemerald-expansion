@@ -28,13 +28,8 @@ MeteorFalls_StevensCave_EventScript_Defeated::
 	release
 	end
 
-<<<<<<< HEAD
-MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst:
-	.string "STEVEN: Oh, wow, {PLAYER}{KUN}.\n"
-=======
 MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst: @ 823B1E1
 	.string "Steven: Oh, wow, {PLAYER}{KUN}.\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm amazed you knew where to find me.\p"
 	.string "Do you, uh…maybe think of me as\n"
 	.string "just a rock maniac?\p"
@@ -50,17 +45,10 @@ MeteorFalls_StevensCave_Text_StevenDefeat:
 	.string "You…\n"
 	.string "I had no idea you'd become so strong…$"
 
-<<<<<<< HEAD
-MeteorFalls_StevensCave_Text_MyPredictionCameTrue:
-	.string "STEVEN: Come to think of it, ever since\n"
-	.string "our paths first crossed in GRANITE\l"
-	.string "CAVE in DEWFORD, I had this feeling.\p"
-=======
 MeteorFalls_StevensCave_Text_MyPredictionCameTrue: @ 823B358
 	.string "Steven: Come to think of it, ever since\n"
 	.string "our paths first crossed in Granite\l"
 	.string "Cave in Dewford, I had this feeling.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I thought that you would eventually\n"
 	.string "become the Champion.\p"
 	.string "My predictions usually come true.\p"

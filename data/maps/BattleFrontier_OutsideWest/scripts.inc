@@ -307,24 +307,6 @@ BattleFrontier_OutsideWest_EventScript_PokefanF::
 	msgbox BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier, MSGBOX_NPC
 	end
 
-<<<<<<< HEAD
-BattleFrontier_OutsideWest_Text_BattleDomeSign:
-	.string "This is the BATTLE DOME!\n"
-	.string "Your path to the invincible superstar!$"
-
-BattleFrontier_OutsideWest_Text_BattleFactorySign:
-	.string "This is the BATTLE FACTORY!\n"
-	.string "Seek out the toughest POKéMON!$"
-
-BattleFrontier_OutsideWest_Text_BattlePikeSign:
-	.string "This is the BATTLE PIKE!\n"
-	.string "Choose one of three paths!$"
-
-BattleFrontier_OutsideWest_Text_ThisIsBattleTower:
-	.string "This is the BATTLE TOWER.\p"
-	.string "TRAINERS bring their best-raised\n"
-	.string "POKéMON for elimination-style matches.$"
-=======
 BattleFrontier_OutsideWest_Text_BattleDomeSign: @ 823D6F7
 	.string "This is the Battle Dome!\n"
 	.string "Your path to the invincible superstar!$"
@@ -341,35 +323,17 @@ BattleFrontier_OutsideWest_Text_ThisIsBattleTower: @ 823D7A6
 	.string "This is the Battle Tower.\p"
 	.string "Trainers bring their best-raised\n"
 	.string "Pokémon for elimination-style matches.$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
 	.string "Hello, are you here for the ferry?\n"
 	.string "May I see your Ticket?$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-=======
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard: @ 823D842
 	.string "{PLAYER} doesn't have the Ticket…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm terribly sorry.\p"
 	.string "You must have a Ticket to board\n"
 	.string "the ferry.$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
-
-BattleFrontier_OutsideWest_Text_SlateportItIs:
-	.string "SLATEPORT CITY it is, then!$"
-
-BattleFrontier_OutsideWest_Text_LilycoveItIs:
-	.string "LILYCOVE CITY it is, then!$"
-=======
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo: @ 823D89D
 	.string "{PLAYER} flashed the Ticket.\p"
 	.string "Perfect! That's all you need!\p"
@@ -380,7 +344,6 @@ BattleFrontier_OutsideWest_Text_SlateportItIs: @ 823D8F2
 
 BattleFrontier_OutsideWest_Text_LilycoveItIs: @ 823D90E
 	.string "Lilycove City it is, then!$"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 
 BattleFrontier_OutsideWest_Text_SailWithUsAnotherTime:
 	.string "Please sail with us another time!$"
@@ -397,13 +360,8 @@ BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends:
 	.string "But here…\l"
 	.string "I've been useless!$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideWest_Text_CantFindBattleTower:
-	.string "I want to go to the BATTLE TOWER,\n"
-=======
 BattleFrontier_OutsideWest_Text_CantFindBattleTower: @ 823D9DD
 	.string "I want to go to the Battle Tower,\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "but I can't find it even though I have\l"
 	.string "a map of the Battle Frontier.\p"
 	.string "This place is just too big!$"
@@ -434,27 +392,15 @@ BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons:
 	.string "But remember that big scary guy?\n"
 	.string "He said, “I'll lend you Pokémon!”$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons:
-	.string "That's the BATTLE FACTORY.\n"
-	.string "You can rent strong POKéMON there.\p"
-=======
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons: @ 823DC36
 	.string "That's the Battle Factory.\n"
 	.string "You can rent strong Pokémon there.\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But it makes me wonder.\n"
 	.string "Who's raising those rental Pokémon?$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper:
-	.string "I'm scared of going into the BATTLE\n"
-	.string "PIKE because of SEVIPER…\p"
-=======
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper: @ 823DCB0
 	.string "I'm scared of going into the Battle\n"
 	.string "Pike because of Seviper…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "B-but I came all the way here, so I will\n"
 	.string "try to conquer everything!\l"
 	.string "…Shudder…$"
@@ -498,15 +444,9 @@ BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa:
 	.string "The Battle Dome is here!\l"
 	.string "Go get 'em, Grandpa!$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe:
-	.string "Ah, so this here is the BATTLE DOME?\n"
-	.string "I won't let GENTLEMEN beat me!\p"
-=======
 BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe: @ 823DFBF
 	.string "Ah, so this here is the Battle Dome?\n"
 	.string "I won't let Gentlemen beat me!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "But where is the entrance?$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
@@ -515,15 +455,9 @@ BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
 	.string "But, now look at this place! Amazing!\n"
 	.string "I'll bring my mother out to see this.$"
 
-<<<<<<< HEAD
-BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier:
-	.string "I've finally arrived at the BATTLE\n"
-	.string "FRONTIER!\p"
-=======
 BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier: @ 823E09F
 	.string "I've finally arrived at the Battle\n"
 	.string "Frontier!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I'm sure to grab attention with\n"
 	.string "my looks and ability!$"
 
