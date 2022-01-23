@@ -352,13 +352,8 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 	releaseall
 	end
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
-	.string "Where the battling spirit of TRAINERS\n"
-=======
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena: @ 8256166
 	.string "Where the battling spirit of Trainers\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "is put to the test!\p"
 	.string "I welcome you to the Battle Arena!\p"
 	.string "I am your guide to the Set KO Tourney!$"
@@ -371,13 +366,8 @@ BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge:
 	.string "We await your challenge on\n"
 	.string "another occasion!$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
-	.string "In the BATTLE ARENA, we undertake\n"
-=======
 BattleFrontier_BattleArenaLobby_Text_ExplainChallenge: @ 825624C
 	.string "In the Battle Arena, we undertake\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "the Set KO Tourney.\p"
 	.string "All participants enter with a team of\n"
 	.string "three Pokémon.\p"
@@ -397,21 +387,12 @@ BattleFrontier_BattleArenaLobby_Text_ExplainChallenge: @ 825624C
 	.string "seven Trainers in succession,\l"
 	.string "we will present you with Battle Points.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaLobby_Text_OkayToSave:
-	.string "Before showing you to the BATTLE\n"
-	.string "ARENA, you must save. Is that okay?$"
-
-BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
-	.string "The BATTLE ARENA offers two levels\n"
-=======
 BattleFrontier_BattleArenaLobby_Text_OkayToSave: @ 82564CE
 	.string "Before showing you to the Battle\n"
 	.string "Arena, you must save. Is that okay?$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode: @ 8256513
 	.string "The Battle Arena offers two levels\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "of challenge, Level 50 and Open Level.\l"
 	.string "Which is your choice?$"
 
@@ -499,21 +480,12 @@ BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame:
 	.string "Arena, I must save the game.\l"
 	.string "Please wait.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaLobby_Text_RecordLastMatch:
-	.string "Shall I record your last BATTLE ARENA\n"
-	.string "match on your FRONTIER PASS?$"
-
-BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
-	.string "I lost on the REFEREE's decision…\p"
-=======
 BattleFrontier_BattleArenaLobby_Text_RecordLastMatch: @ 8256B19
 	.string "Shall I record your last Battle Arena\n"
 	.string "match on your Frontier Pass?$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack: @ 8256B5C
 	.string "I lost on the Referee's decision…\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "I don't think it was a good idea to only\n"
 	.string "use defensive moves and not attack…$"
 
@@ -528,17 +500,10 @@ BattleFrontier_BattleArenaLobby_Text_MatchWasDeclaredDraw:
 	.string "Pokémon and the opponent's had about\l"
 	.string "the same amount of HP left.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
-	.string "In the BATTLE ARENA, the order of\n"
-	.string "POKéMON is totally important.\p"
-	.string "For example, if your first POKéMON\n"
-=======
 BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant: @ 8256C9A
 	.string "In the Battle Arena, the order of\n"
 	.string "Pokémon is totally important.\p"
 	.string "For example, if your first Pokémon\n"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "has certain type disadvantages,\l"
 	.string "try making your second Pokémon one\l"
 	.string "with moves that are super effective\l"
@@ -599,15 +564,9 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
 	.string "HP a Pokémon had at the start of\l"
 	.string "battle, and what remained at the end.$"
 
-<<<<<<< HEAD
-BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon:
-	.string "A victory snatched from the ARENA\n"
-	.string "TYCOON, and a seven-TRAINER sweep!\p"
-=======
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon: @ 82572D9
 	.string "A victory snatched from the Arena\n"
 	.string "Tycoon, and a seven-Trainer sweep!\p"
->>>>>>> 4d1bf9605eadf3149434efea17932b2dcfa12b24
 	.string "We congratulate you on your most\n"
 	.string "splendid challenge!$"
 
