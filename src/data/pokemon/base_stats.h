@@ -9237,7 +9237,7 @@ const struct BaseStats gBaseStats[] =
         .eggGroup1 = EGG_GROUP_FIELD,
         .eggGroup2 = EGG_GROUP_FIELD,
         #ifdef BATTLE_ENGINE
-            .abilities = {ABILITY_THICK_FAT, ABILITY_GLUTTONY, ABILITY_SPEED_BOOST,
+            .abilities = {ABILITY_THICK_FAT, ABILITY_GLUTTONY, ABILITY_SPEED_BOOST},
         #else
             .abilities = {ABILITY_THICK_FAT, ABILITY_OWN_TEMPO},
         #endif
@@ -9265,7 +9265,7 @@ const struct BaseStats gBaseStats[] =
         .eggGroup1 = EGG_GROUP_FIELD,
         .eggGroup2 = EGG_GROUP_FIELD,
         #ifdef BATTLE_ENGINE
-            .abilities = {ABILITY_THICK_FAT, ABILITY_GLUTTONY, ABILITY_SPEED_BOOST,
+            .abilities = {ABILITY_THICK_FAT, ABILITY_GLUTTONY, ABILITY_SPEED_BOOST},
         #else
             .abilities = {ABILITY_THICK_FAT, ABILITY_OWN_TEMPO},
         #endif
