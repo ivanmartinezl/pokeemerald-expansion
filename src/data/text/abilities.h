@@ -88,6 +88,7 @@ static const u8 sSimpleDescription[] = _("Prone to wild stat changes.");
 static const u8 sDrySkinDescription[] = _("Prefers moisture to heat.");
 static const u8 sDownloadDescription[] = _("Adjusts power favorably.");
 static const u8 sIronFistDescription[] = _("Boosts punching moves.");
+static const u8 sFierceKickDescription[] = _("Boosts kicking moves.");
 static const u8 sPoisonHealDescription[] = _("Restores HP if poisoned.");
 static const u8 sAdaptabilityDescription[] = _("Boosts same type attacks.");
 static const u8 sSkillLinkDescription[] = _("Multi-hit moves hit 5 times.");
@@ -606,4 +607,5 @@ const u8 *const gAbilityDescriptionPointers[ABILITIES_COUNT] =
     [ABILITY_GRIM_NEIGH] = sGrimNeighDescription,
     [ABILITY_AS_ONE_ICE_RIDER] = sAsOneIceRiderDescription,
     [ABILITY_AS_ONE_SHADOW_RIDER] = sAsOneShadowRiderDescription,
+    [ABILITY_FIERCE_KICK] = sFierceKickDescription,
 };
