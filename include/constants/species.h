@@ -1689,8 +1689,8 @@
 #define NATIONAL_DEX_ALTARIA 334
 #define NATIONAL_DEX_ZANGOOSE 335
 #define NATIONAL_DEX_SEVIPER 336
-#define NATIONAL_DEX_LUNATONE 337
-#define NATIONAL_DEX_SOLROCK 338
+#define NATIONAL_DEX_SOLROCK 337
+#define NATIONAL_DEX_LUNATONE 338
 #define NATIONAL_DEX_BARBOACH 339
 #define NATIONAL_DEX_WHISCASH 340
 #define NATIONAL_DEX_CORPHISH 341
@@ -2268,8 +2268,8 @@
 #define HOENN_DEX_SWAMPERT 9
 #define HOENN_DEX_POOCHYENA 10
 #define HOENN_DEX_MIGHTYENA 11
-#define HOENN_DEX_ZIGZAGOON 12
-#define HOENN_DEX_LINOONE 13
+#define HOENN_DEX_SNOM 12
+#define HOENN_DEX_FROSMOTH 13
 #define HOENN_DEX_WURMPLE 14
 #define HOENN_DEX_SILCOON 15
 #define HOENN_DEX_BEAUTIFLY 16
@@ -2387,8 +2387,8 @@
 #define HOENN_DEX_ZANGOOSE 128
 #define HOENN_DEX_SEVIPER 129
 #define HOENN_DEX_LUNATONE 130
-#define HOENN_DEX_SOLROCK 131
-#define HOENN_DEX_BARBOACH 132
+#define HOENN_DEX_MELTAN 131
+#define HOENN_DEX_MELMETAL 132
 #define HOENN_DEX_WHISCASH 133
 #define HOENN_DEX_CORPHISH 134
 #define HOENN_DEX_CRAWDAUNT 135
@@ -2737,507 +2737,233 @@
 #define HOENN_DEX_HEATRAN 478
 #define HOENN_DEX_REGIGIGAS 479
 #define HOENN_DEX_MANAPHY 480
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
-#define HOENN_DEX_
+#define HOENN_DEX_VICTINI 481
+#define HOENN_DEX_SNIVY 482
+#define HOENN_DEX_SERVINE 483
+#define HOENN_DEX_SERPERIOR 484
+#define HOENN_DEX_TEPIG 485
+#define HOENN_DEX_PIGNITE 486
+#define HOENN_DEX_EMBOAR 487
+#define HOENN_DEX_OSHAWOTT 488
+#define HOENN_DEX_DEWOTT 489
+#define HOENN_DEX_SAMUROTT 490
+#define HOENN_DEX_LILLIPUP 491
+#define HOENN_DEX_HERDIER 492
+#define HOENN_DEX_STOUTLAND 493
+#define HOENN_DEX_MUNNA 494
+#define HOENN_DEX_MUSHARNA 495
+#define HOENN_DEX_BLITZLE 496
+#define HOENN_DEX_ZEBSTRIKA 497
+#define HOENN_DEX_ROGGENROLA 498
+#define HOENN_DEX_BOLDORE 499
+#define HOENN_DEX_GIGALITH 500
+#define HOENN_DEX_WOOBAT 501
+#define HOENN_DEX_SWOOBAT 502
+#define HOENN_DEX_DRILBUR 503
+#define HOENN_DEX_EXCADRILL 504
+#define HOENN_DEX_AUDINO 505
+#define HOENN_DEX_TIMBURR 506
+#define HOENN_DEX_GURDURR 507
+#define HOENN_DEX_CONKELDURR 508
+#define HOENN_DEX_VENIPEDE 509
+#define HOENN_DEX_WHIRLIPEDE 510
+#define HOENN_DEX_SCOLIPEDE 511
+#define HOENN_DEX_COTTONEE 512
+#define HOENN_DEX_WHIMSICOTT 513
+#define HOENN_DEX_SANDILE 514
+#define HOENN_DEX_KROKOROK 515
+#define HOENN_DEX_KROOKODILE 516
+#define HOENN_DEX_DARUMAKA 517
+#define HOENN_DEX_DARMANITAN 518
+#define HOENN_DEX_SCRAGGY 519
+#define HOENN_DEX_SCRAFTY 520
+#define HOENN_DEX_SIGILYPH 521
+#define HOENN_DEX_YAMASK 522
+#define HOENN_DEX_COFAGRIGUS 523
+#define HOENN_DEX_TIRTOUGA 524
+#define HOENN_DEX_CARRACOSTA 525
+#define HOENN_DEX_ARCHEN 526
+#define HOENN_DEX_ARCHEOPS 527
+#define HOENN_DEX_ZORUA 528
+#define HOENN_DEX_ZOROARK 529
+#define HOENN_DEX_MINCCINO 530
+#define HOENN_DEX_CINCCINO 531
+#define HOENN_DEX_GOTHITA 532
+#define HOENN_DEX_GOTHORITA 533
+#define HOENN_DEX_GOTHITELLE 534
+#define HOENN_DEX_SOLOSIS 535
+#define HOENN_DEX_DUOSION 536
+#define HOENN_DEX_REUNICLUS 537
+#define HOENN_DEX_VANILLITE 538
+#define HOENN_DEX_VANILLISH 539
+#define HOENN_DEX_VANILLUXE 540
+#define HOENN_DEX_FOONGUS 541
+#define HOENN_DEX_AMOONGUSS 542
+#define HOENN_DEX_FRILLISH 543
+#define HOENN_DEX_JELLICENT 544
+#define HOENN_DEX_JOLTIK 545
+#define HOENN_DEX_GALVANTULA 546
+#define HOENN_DEX_FERROSEED 547
+#define HOENN_DEX_FERROTHORN 548
+#define HOENN_DEX_KLINK 549
+#define HOENN_DEX_KLANG 550
+#define HOENN_DEX_KLINKLANG 551
+#define HOENN_DEX_TYNAMO 552
+#define HOENN_DEX_EELEKTRIK 553
+#define HOENN_DEX_EELEKTROSS 554
+#define HOENN_DEX_ELGYEM 555
+#define HOENN_DEX_BEHEEYEM 556
+#define HOENN_DEX_LITWICK 557
+#define HOENN_DEX_LAMPENT 558
+#define HOENN_DEX_CHANDELURE 559
+#define HOENN_DEX_AXEW 560
+#define HOENN_DEX_FRAXURE 561
+#define HOENN_DEX_HAXORUS 562
+#define HOENN_DEX_CUBCHOO 563
+#define HOENN_DEX_BEARTIC 564
+#define HOENN_DEX_CRYOGONAL 565
+#define HOENN_DEX_GOLETT 566
+#define HOENN_DEX_GOLURK 567
+#define HOENN_DEX_PAWNIARD 568
+#define HOENN_DEX_BISHARP 569
+#define HOENN_DEX_VULLABY 570
+#define HOENN_DEX_MANDIBUZZ 571
+#define HOENN_DEX_DEINO 572
+#define HOENN_DEX_ZWEILOUS 573
+#define HOENN_DEX_HYDREIGON 574
+#define HOENN_DEX_LARVESTA 575
+#define HOENN_DEX_VOLCARONA 576
+#define HOENN_DEX_CHESPIN 577
+#define HOENN_DEX_QUILLADIN 578
+#define HOENN_DEX_CHESNAUGHT 579
+#define HOENN_DEX_FENNEKIN 580
+#define HOENN_DEX_BRAIXEN 581
+#define HOENN_DEX_DELPHOX 582
+#define HOENN_DEX_FROAKIE 583
+#define HOENN_DEX_FROGADIER 584
+#define HOENN_DEX_GRENINJA 585
+#define HOENN_DEX_BUNNELBY 586
+#define HOENN_DEX_DIGGERSBY 587
+#define HOENN_DEX_FLETCHLING 588
+#define HOENN_DEX_FLETCHINDER 589
+#define HOENN_DEX_TALONFLAME 590
+#define HOENN_DEX_LITLEO 591
+#define HOENN_DEX_PYROAR 592
+#define HOENN_DEX_SKIDDO 593
+#define HOENN_DEX_GOGOAT 594
+#define HOENN_DEX_PANCHAM 595
+#define HOENN_DEX_PANGORO 596
+#define HOENN_DEX_HONEDGE 597
+#define HOENN_DEX_DOUBLADE 598
+#define HOENN_DEX_AEGISLASH 599
+#define HOENN_DEX_INKAY 600
+#define HOENN_DEX_MALAMAR 601
+#define HOENN_DEX_HELIOPTILE 602
+#define HOENN_DEX_HELIOLISK 603
+#define HOENN_DEX_TYRUNT 604
+#define HOENN_DEX_TYRANTRUM 605
+#define HOENN_DEX_AMAURA 606
+#define HOENN_DEX_AURORUS 607
+#define HOENN_DEX_HAWLUCHA 608
+#define HOENN_DEX_CARBINK 609
+#define HOENN_DEX_DIANCIE 610
+#define HOENN_DEX_GOOMY 611
+#define HOENN_DEX_SLIGGOO 612
+#define HOENN_DEX_GOODRA 613
+#define HOENN_DEX_PHANTUMP 614
+#define HOENN_DEX_TREVENANT 615
+#define HOENN_DEX_BERGMITE 616
+#define HOENN_DEX_AVALUGG 617
+#define HOENN_DEX_NOIBAT 618
+#define HOENN_DEX_NOIVERN 619
+#define HOENN_DEX_VOLCANION 620
+#define HOENN_DEX_ROWLET 621
+#define HOENN_DEX_DARTRIX 622
+#define HOENN_DEX_DECIDUEYE 623
+#define HOENN_DEX_LITTEN 624
+#define HOENN_DEX_INCINEROAR 625
+#define HOENN_DEX_POPPLIO 626
+#define HOENN_DEX_BRIONNE 627
+#define HOENN_DEX_PRIMARINA 628
+#define HOENN_DEX_PIKIPEK 629
+#define HOENN_DEX_TRUMBEAK 630
+#define HOENN_DEX_TOUCANNON 631
+#define HOENN_DEX_ROCKRUFF 632
+#define HOENN_DEX_LYCANROC 633
+#define HOENN_DEX_MAREANIE 634
+#define HOENN_DEX_TOXAPEX 635
+#define HOENN_DEX_MUDBRAY 636
+#define HOENN_DEX_MUDSDALE 637
+#define HOENN_DEX_DEWPIDER 638
+#define HOENN_DEX_ARAQUANID 639
+#define HOENN_DEX_SALANDIT 640
+#define HOENN_DEX_SALAZZLE 641
+#define HOENN_DEX_STUFFUL 642
+#define HOENN_DEX_BEWEAR 643
+#define HOENN_DEX_BOUNSWEET 644
+#define HOENN_DEX_STEENEE 645
+#define HOENN_DEX_TSAREENA 646
+#define HOENN_DEX_ORANGURU 647
+#define HOENN_DEX_PASSIMIAN 648
+#define HOENN_DEX_SANDYGAST 649
+#define HOENN_DEX_PALOSSAND 650
+#define HOENN_DEX_MIMIKYU 651
+#define HOENN_DEX_DHELMISE 652
+#define HOENN_DEX_JANGMO_O 653
+#define HOENN_DEX_HAKAMO_O 654
+#define HOENN_DEX_KOMMO_O 655
+#define HOENN_DEX_COSMOG 656
+#define HOENN_DEX_COSMOEM 657
+#define HOENN_DEX_SOLROCK 658
+#define HOENN_DEX_LUNATONE 659
+#define HOENN_DEX_NIHILEGO 660
+#define HOENN_DEX_CELESTEELA 661
+#define HOENN_DEX_KARTANA 662
+#define HOENN_DEX_GUZZLORD 663
+#define HOENN_DEX_MARSHADOW 664
+#define HOENN_DEX_POIPOLE 665
+#define HOENN_DEX_NAGANADEL 666
+#define HOENN_DEX_BLACEPHALON 667
+#define HOENN_DEX_GROOKEY 668
+#define HOENN_DEX_THWACKEY 669
+#define HOENN_DEX_RILLABOOM 670
+#define HOENN_DEX_SCORBUNNY 671
+#define HOENN_DEX_RABOOT 672
+#define HOENN_DEX_CINDERACE 673
+#define HOENN_DEX_SOBBLE 674
+#define HOENN_DEX_DRIZZILE 675
+#define HOENN_DEX_INTELEON 676
+#define HOENN_DEX_ROOKIDEE 677
+#define HOENN_DEX_CORVISQUIRE 678
+#define HOENN_DEX_CORVIKNIGHT 679
+#define HOENN_DEX_BLIPBUG 680
+#define HOENN_DEX_DOTTLER 681
+#define HOENN_DEX_ORBEETLE 682
+#define HOENN_DEX_WOOLOO 683
+#define HOENN_DEX_DUBWOOL 684
+#define HOENN_DEX_ROLYCOLY 685
+#define HOENN_DEX_CARKOL 686
+#define HOENN_DEX_COALOSSAL 687
+#define HOENN_DEX_SILICOBRA 688
+#define HOENN_DEX_SANDACONDA 689
+#define HOENN_DEX_TOXEL 690
+#define HOENN_DEX_TOXTRICITY 691
+#define HOENN_DEX_HATENNA 692
+#define HOENN_DEX_HATTREM 693
+#define HOENN_DEX_HATTERENE 694
+#define HOENN_DEX_IMPIDIMP 695
+#define HOENN_DEX_MORGREM 696
+#define HOENN_DEX_GRIMMSNARL 697
+#define HOENN_DEX_ZIGZAGOON 698
+#define HOENN_DEX_LINOONE 699
+#define HOENN_DEX_OBSTAGOON 700
+#define HOENN_DEX_CUFANT 701
+#define HOENN_DEX_COPPERAJAH 702
+#define HOENN_DEX_DREEPY 703
+#define HOENN_DEX_DRAKLOAK 704
+#define HOENN_DEX_DRAGAPULT 705
 
-#define HOENN_DEX_COUNT 212
+#define HOENN_DEX_COUNT 706
 
 // species flags
 #define F_ULTRA_BEAST   (1 << 0)
