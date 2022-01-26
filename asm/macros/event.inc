@@ -2026,7 +2026,6 @@
 	setvar VAR_UNUSED_0x8014, 1
 	callnative UpdateFollowerPokemonGraphic
 	.endm
-
 	.macro pokemonfaceplayer objectId=254
 	setvar VAR_UNUSED_0x8014, \objectId
 	callnative ScrCmd_pokemonfaceplayer
@@ -2034,7 +2033,6 @@
 	.macro hidefollower
 	callnative HideFollower
 	.endm
-
 	.macro showfollower
 	callnative ShowFollower
 	.endm
