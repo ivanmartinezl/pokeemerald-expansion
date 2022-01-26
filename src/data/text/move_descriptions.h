@@ -1787,15 +1787,15 @@ static const u8 sAQUA_JETDescription[] = _(
 
 static const u8 sATTACK_ORDERDescription[] = _(
     "Underlings pummel the foe.\n"
-    "High critical-hit ratio.");
+    "High crit and priority.");
 
 static const u8 sDEFEND_ORDERDescription[] = _(
     "Raises Defense and Sp. Def\n"
-    "with a living shield.");
+    "with a living shield with prior.");
 
 static const u8 sHEAL_ORDERDescription[] = _(
     "The user's underlings show\n"
-    "up to heal half its max HP.");
+    "up to heal half HP with prior.");
 
 static const u8 sHEAD_SMASHDescription[] = _(
     "A life-risking headbutt that\n"
