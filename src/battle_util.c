@@ -4263,6 +4263,44 @@ u8 AbilityBattleEffects(u8 caseID, u8 battler, u16 ability, u8 special, u16 move
                 }
             }
             break;
+        case ABILITY_NATURAL_RESERVE:
+            if (!gSpecialStatuses[battler].switchInAbilityDone)
+            {
+                u32 statId, opposingBattler;
+                u32 opposingAtk = 0, opposingSpAtk = 0;
+
+                opposingBattler = BATTLE_OPPOSITE(battler);
+                for (i = 0; i < 2; opposingBattler ^= BIT_FLANK, i++)
+                {
+                    if (IsBattlerAlive(opposingBattler))
+                    {
+                        opposingAtk += gBattleMons[opposingBattler].attack
+                                    * gStatStageRatios[gBattleMons[opposingBattler].statStages[STAT_ATK]][0]
+                                    / gStatStageRatios[gBattleMons[opposingBattler].statStages[STAT_ATK]][1];
+                        opposingSpAtk += gBattleMons[opposingBattler].spAttack
+                                      * gStatStageRatios[gBattleMons[opposingBattler].statStages[STAT_SPATK]][0]
+                                      / gStatStageRatios[gBattleMons[opposingBattler].statStages[STAT_SPATK]][1];
+                    }
+                }
+
+                if (opposingAtk < opposingSpAtk)
+                    statId = STAT_DEF;
+                else
+                    statId = STAT_SPDEF;
+
+                gSpecialStatuses[battler].switchInAbilityDone = TRUE;
+
+                if (CompareStat(battler, statId, MAX_STAT_STAGE, CMP_LESS_THAN))
+                {
+                    gBattleMons[battler].statStages[statId]++;
+                    SET_STATCHANGER(statId, 1, FALSE);
+                    gBattlerAttacker = battler;
+                    PREPARE_STAT_BUFFER(gBattleTextBuff1, statId);
+                    BattleScriptPushCursorAndCallback(BattleScript_AttackerAbilityStatRaiseEnd3);
+                    effect++;
+                }
+            }
+            break;
         case ABILITY_PRESSURE:
             if (!gSpecialStatuses[battler].switchInAbilityDone)
             {
@@ -5752,6 +5790,8 @@ u32 IsAbilityPreventingEscape(u32 battlerId)
     if ((id = IsAbilityOnOpposingSide(battlerId, ABILITY_ARENA_TRAP)) && IsBattlerGrounded(battlerId))
         return id;
     if ((id = IsAbilityOnOpposingSide(battlerId, ABILITY_MAGNET_PULL)) && IS_BATTLER_OF_TYPE(battlerId, TYPE_STEEL))
+        return id;
+    if ((id = IsAbilityOnOpposingSide(battlerId, ABILITY_SWATTER)) && IS_BATTLER_OF_TYPE(battlerId, TYPE_BUG))
         return id;
 
     return 0;

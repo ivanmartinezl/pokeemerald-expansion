@@ -61,7 +61,7 @@ EventScript_PkmnCenterNurse_ReturnPkmn:: @ 82719E2
     goto_if_eq EventScript_PkmnCenterNurse_ReturnPkmn2
     @ message gText_RestoredPkmnToFullHealth
     @ waitmessage
-    applymovement VAR_0x800B, EventScript_PkmnCenterNurse_Bow
+    applymovement VAR_0x800B, Movement_PkmnCenterNurse_Bow
     waitmovement 0
     message gText_WeHopeToSeeYouAgain
     goto EventScript_PkmnCenterNurse_PlayerTurn

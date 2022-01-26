@@ -64,6 +64,7 @@ static const s8 sAiAbilityRatings[ABILITIES_COUNT] =
     [ABILITY_DESOLATE_LAND] = 10,
     [ABILITY_DISGUISE] = 8,
     [ABILITY_DOWNLOAD] = 7,
+    [ABILITY_NATURAL_RESERVE] = 7,
     [ABILITY_DRIZZLE] = 9,
     [ABILITY_DROUGHT] = 9,
     [ABILITY_DRY_SKIN] = 6,
@@ -130,6 +131,7 @@ static const s8 sAiAbilityRatings[ABILITIES_COUNT] =
     [ABILITY_MAGICIAN] = 3,
     [ABILITY_MAGMA_ARMOR] = 1,
     [ABILITY_MAGNET_PULL] = 9,
+    [ABILITY_SWATTER] = 9,
     [ABILITY_MARVEL_SCALE] = 5,
     [ABILITY_MEGA_LAUNCHER] = 7,
     [ABILITY_MERCILESS] = 4,
@@ -1140,7 +1142,7 @@ s32 AI_GetAbility(u32 battlerId)
         return BATTLE_HISTORY->abilities[battlerId];
 
     // Abilities that prevent fleeing - treat as always known
-    if (knownAbility == ABILITY_SHADOW_TAG || knownAbility == ABILITY_MAGNET_PULL || knownAbility == ABILITY_ARENA_TRAP)
+    if (knownAbility == ABILITY_SHADOW_TAG || knownAbility == ABILITY_MAGNET_PULL || knownAbility == ABILITY_SWATTER || knownAbility == ABILITY_ARENA_TRAP)
         return knownAbility;
 
     // Else, guess the ability
