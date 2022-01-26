@@ -7697,7 +7697,7 @@ static void Task_LoadEvolutionScreen(u8 taskId)
         GetSeenFlagTargetSpecies();
         if (sPokedexView->sEvoScreenData.numAllEvolutions != 0 && sPokedexView->sEvoScreenData.numSeen != 0)
         {
-            sPokedexView->sEvoScreenData.arrowSpriteId = CreateSprite(&sSpriteTemplate_Arrow, 7, 58, 0);
+            sPokedexView->sEvoScreenData.arrowSpriteId = CreateSprite(&gSpriteTemplate_Arrow, 7, 58, 0);
             gSprites[sPokedexView->sEvoScreenData.arrowSpriteId].animNum = 2;
         }
         gMain.state++;
@@ -7795,14 +7795,6 @@ static void Task_HandleEvolutionScreenInput(u8 taskId)
             sPokedexListItem->dexNum = dexNum;
             sPokedexListItem->seen   = GetSetPokedexFlag(dexNum, FLAG_GET_SEEN);
             sPokedexListItem->owned  = GetSetPokedexFlag(dexNum, FLAG_GET_CAUGHT);
-
-            #ifdef POKEMON_EXPANSION
-                if (gFormSpeciesIdTables[targetSpecies] != NULL)
-                    sPokedexView->formSpecies = targetSpecies;
-                else
-                    sPokedexView->formSpecies = 0;
-            #endif
-
             sPokedexView->sEvoScreenData.fromEvoPage = TRUE;
             PlaySE(SE_PIN);
             BeginNormalPaletteFade(PALETTES_ALL, 0, 0, 16, RGB_BLACK);
