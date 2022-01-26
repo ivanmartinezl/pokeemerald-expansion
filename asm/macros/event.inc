@@ -2020,9 +2020,6 @@
 	.endm
 	.macro totemboost_evas2 battler:req
 	settotemboost \battler, 0, 0, 0, 0, 0, 0, 2
-	.macro pokemonfaceplayer objectId=254
-	setvar VAR_UNUSED_0x8014, \objectId
-	callnative ScrCmd_pokemonfaceplayer
 	.endm
 
 	.macro updatefollowerpokemongraphic
@@ -2030,6 +2027,10 @@
 	callnative UpdateFollowerPokemonGraphic
 	.endm
 
+	.macro pokemonfaceplayer objectId=254
+	setvar VAR_UNUSED_0x8014, \objectId
+	callnative ScrCmd_pokemonfaceplayer
+    .endm
 	.macro hidefollower
 	callnative HideFollower
 	.endm
