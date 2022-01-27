@@ -12,8 +12,6 @@
 #include "constants/berry.h"
 #include "constants/maps.h"
 #include "constants/expansion_branches.h"
-#include "constants/pokemon.h"
-#include "constants/easy_chat.h"
 
 // Prevent cross-jump optimization.
 #define BLOCK_CROSS_JUMP asm("");
@@ -136,7 +134,6 @@
 
 #define DEX_FLAGS_NO ROUND_BITS_TO_BYTES(POKEMON_SLOTS_NUMBER)
 #define NUM_FLAG_BYTES ROUND_BITS_TO_BYTES(FLAGS_COUNT)
-#define NUM_ADDITIONAL_PHRASE_BYTES ROUND_BITS_TO_BYTES(NUM_ADDITIONAL_PHRASES)
 
 struct Coords8
 {
@@ -460,31 +457,6 @@ struct RankingHall1P
     u8 language;
 };
 
-// follow me
-struct FollowerMapData
-{
-    /*0x0*/ u8 id;
-    /*0x1*/ u8 number;
-    /*0x2*/ u8 group;
-}; /* size = 0x4 */
-struct Follower
-{
-    /*0x00*/ u8 inProgress:1;
-             u8 warpEnd:1;
-             u8 createSurfBlob:3;
-             u8 comeOutDoorStairs:3;
-    /*0x01*/ u8 objId;
-    /*0x02*/ u8 currentSprite;
-    /*0x03*/ u8 delayedState;
-    /*0x04*/ struct FollowerMapData map;
-    /*0x08*/ struct Coords16 log;
-    /*0x0C*/ const u8* script;
-    /*0x10*/ u16 flag;
-    /*0x12*/ u16 graphicsId;
-    /*0x14*/ u16 flags;
-    /*0x15*/ u8 locked;
-}; /* size = 0x18 */
-
 struct RankingHall2P
 {
     u8 id1[TRAINER_ID_LENGTH];
@@ -527,7 +499,6 @@ struct SaveBlock2
     /*0x57C*/ struct RankingHall2P hallRecords2P[FRONTIER_LVL_MODE_COUNT][HALL_RECORDS_COUNT]; // From record mixing.
     /*0x624*/ u16 contestLinkResults[CONTEST_CATEGORIES_COUNT][CONTESTANT_COUNT];
     /*0x64C*/ struct BattleFrontier frontier;
-              struct Follower follower;
 }; // sizeof=0xF2C
 
 extern struct SaveBlock2 *gSaveBlock2Ptr;
@@ -1019,7 +990,7 @@ struct SaveBlock1
     /*0x2BC8*/ u16 easyChatBattleWon[EASY_CHAT_BATTLE_WORDS_COUNT];
     /*0x2BD4*/ u16 easyChatBattleLost[EASY_CHAT_BATTLE_WORDS_COUNT];
     /*0x2BE0*/ struct Mail mail[MAIL_COUNT];
-    /*0x2E20*/ u8 additionalPhrases[NUM_ADDITIONAL_PHRASE_BYTES]; // bitfield for 33 additional phrases in easy chat system
+    /*0x2E20*/ u8 additionalPhrases[8]; // bitfield for 33 additional phrases in easy chat system
     /*0x2E28*/ OldMan oldMan;
     /*0x2e64*/ struct DewfordTrend dewfordTrends[SAVED_TRENDS_COUNT];
     /*0x2e90*/ struct ContestWinner contestWinners[NUM_CONTEST_WINNERS]; // see CONTEST_WINNER_*
