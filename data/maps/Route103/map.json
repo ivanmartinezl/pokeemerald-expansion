@@ -293,9 +293,18 @@
       "elevation": 0,
       "dest_map": "MAP_ALTERING_CAVE",
       "dest_warp_id": 0
+    },
+    {
+      "x": 25,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_OLDALE_RUINS",
+      "dest_warp_id": 0
     }
   ],
-  "coord_events": [],
+  "coord_events": [
+
+  ],
   "bg_events": [
     {
       "type": "sign",
