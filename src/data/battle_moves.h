@@ -3207,7 +3207,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
         .secondaryEffectChance = 0,
         .target = MOVE_TARGET_ALL_BATTLERS,
         .priority = 0,
-        .flags = 0,
+        .flags = FLAG_DANCE,
         .split = SPLIT_STATUS,
     },
 
@@ -3811,7 +3811,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
         .secondaryEffectChance = 0,
         .target = MOVE_TARGET_ALL_BATTLERS,
         .priority = 0,
-        .flags = 0,
+        .flags = FLAG_DANCE,
         .split = SPLIT_STATUS,
     },
 
@@ -3825,7 +3825,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
         .secondaryEffectChance = 0,
         .target = MOVE_TARGET_ALL_BATTLERS,
         .priority = 0,
-        .flags = 0,
+        .flags = FLAG_DANCE,
         .split = SPLIT_STATUS,
     },
 
@@ -4132,7 +4132,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
         .secondaryEffectChance = 0,
         .target = MOVE_TARGET_ALL_BATTLERS,
         .priority = 0,
-        .flags = FLAG_PROTECT_AFFECTED,
+        .flags = FLAG_DANCE,
         .split = SPLIT_STATUS,
     },
 

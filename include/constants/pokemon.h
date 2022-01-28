@@ -298,7 +298,7 @@
 #define FLAG_IRON_FIST_BOOST                      (1 << 8)
 #define FLAG_SHEER_FORCE_BOOST                    (1 << 9)
 #define FLAG_STRONG_JAW_BOOST                     (1 << 10)
-#define FLAG_MEGA_LAUNCHER_BOOST                  (1 << 11)
+#define FLAG_FIERCE_KICK_BOOST                    (1 << 11)
 #define FLAG_STAT_STAGES_IGNORED                  (1 << 12)
 #define FLAG_DMG_MINIMIZE                         (1 << 13)
 #define FLAG_DMG_UNDERGROUND                      (1 << 14)
@@ -315,7 +315,6 @@
 #define FLAG_THAW_USER                            (1 << 25)
 #define FLAG_HIT_IN_SUBSTITUTE                    (1 << 26) // Hyperspace Fury
 #define FLAG_TWO_STRIKES                          (1 << 27) // A move with this flag will strike twice, and may apply its effect on each hit
-#define FLAG_FIERCE_KICK_BOOST                    (1 << 28)
 
 // Split defines.
 #define SPLIT_PHYSICAL  0x0

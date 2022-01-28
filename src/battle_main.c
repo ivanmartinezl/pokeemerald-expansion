@@ -4426,6 +4426,11 @@ s8 GetMovePriority(u32 battlerId, u16 move)
     {
         priority++;
     }
+    else if (GetBattlerAbility(battlerId) == ABILITY_DANCER
+        && gBattleMoves[move].flags == FLAG_DANCE)
+    {
+        priority++;
+    }
     else if (GetBattlerAbility(battlerId) == ABILITY_PRANKSTER && IS_MOVE_STATUS(move))
     {
         gProtectStructs[battlerId].pranksterElevated = 1;

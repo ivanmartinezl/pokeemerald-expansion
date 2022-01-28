@@ -635,6 +635,7 @@ static s16 AI_CheckBadMove(u8 battlerAtk, u8 battlerDef, u16 move, s16 score)
                 if (TestMoveFlags(move, FLAG_BALLISTIC))
                     RETURN_SCORE_MINUS(10);
                 break;
+            case ABILITY_ANTICIPATION:
             case ABILITY_DAZZLING:
             case ABILITY_QUEENLY_MAJESTY:
                 if (atkPriority > 0)
@@ -676,7 +677,7 @@ static s16 AI_CheckBadMove(u8 battlerAtk, u8 battlerDef, u16 move, s16 score)
                     RETURN_SCORE_MINUS(10);
                 break;
             case ABILITY_BIG_PECKS:
-                if (moveEffect == EFFECT_DEFENSE_DOWN || moveEffect == EFFECT_DEFENSE_DOWN_2)
+                if (moveEffect == EFFECT_DEFENSE_DOWN || moveEffect == EFFECT_DEFENSE_DOWN_2 || moveEffect == EFFECT_SPECIAL_DEFENSE_DOWN || moveEffect == EFFECT_SPECIAL_DEFENSE_DOWN_2)
                     RETURN_SCORE_MINUS(10);
                 break;
             case ABILITY_DEFIANT:

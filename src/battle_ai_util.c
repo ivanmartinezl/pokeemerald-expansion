@@ -51,11 +51,11 @@ static const s8 sAiAbilityRatings[ABILITIES_COUNT] =
     [ABILITY_COMPETITIVE] = 5,
     [ABILITY_COMPOUND_EYES] = 7,
     [ABILITY_CONTRARY] = 8,
-    [ABILITY_CORROSION] = 5,
+    [ABILITY_CORROSION] = 6,
     [ABILITY_CURSED_BODY] = 4,
     [ABILITY_CUTE_CHARM] = 2,
     [ABILITY_DAMP] = 2,
-    [ABILITY_DANCER] = 5,
+    [ABILITY_DANCER] = 6,
     [ABILITY_DARK_AURA] = 6,
     [ABILITY_DAZZLING] = 5,
     [ABILITY_DEFEATIST] = -1,
@@ -1509,7 +1509,6 @@ bool32 ShouldSetSandstorm(u8 battler, u16 ability, u16 holdEffect)
     if (ability == ABILITY_SAND_VEIL
       || ability == ABILITY_SAND_RUSH
       || ability == ABILITY_SAND_FORCE
-      || ability == ABILITY_SAND_FORCE
       || ability == ABILITY_OVERCOAT
       || ability == ABILITY_MAGIC_GUARD
       || holdEffect == HOLD_EFFECT_SAFETY_GOGGLES
@@ -1585,6 +1584,7 @@ bool32 ShouldSetSun(u8 battlerAtk, u16 atkAbility, u16 holdEffect)
       || atkAbility == ABILITY_LEAF_GUARD
       || atkAbility == ABILITY_SOLAR_POWER
       || atkAbility == ABILITY_HARVEST
+      || atkAbility == ABILITY_EARLY_BIRD
       || HasMoveEffect(battlerAtk, EFFECT_SOLAR_BEAM)
       || HasMoveEffect(battlerAtk, EFFECT_MORNING_SUN)
       || HasMoveEffect(battlerAtk, EFFECT_SYNTHESIS)
@@ -1783,6 +1783,7 @@ bool32 ShouldLowerSpDef(u8 battlerAtk, u8 battlerDef, u16 defAbility)
       && defAbility != ABILITY_CONTRARY
       && defAbility != ABILITY_CLEAR_BODY
       && defAbility != ABILITY_FULL_METAL_BODY
+      && defAbility != ABILITY_BIG_PECKS
       && defAbility != ABILITY_WHITE_SMOKE)
         return TRUE;
     return FALSE;
