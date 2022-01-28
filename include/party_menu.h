@@ -94,4 +94,6 @@ void GetNumMovesSelectedMonHas(void);
 void MoveDeleterChooseMoveToForget(void);
 u32 CanSpeciesLearnMove(u16 species, u16 move);
 
+bool8 CanLearnTutorMove(u16, u8);
+
 #endif // GUARD_PARTY_MENU_H
