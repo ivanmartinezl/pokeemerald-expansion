@@ -1625,10 +1625,10 @@ u8 LoadEggSpritePalette(const struct SpritePalette *palette1, const struct Sprit
     }
     else
     {
-        sSpritePaletteTags[index] = palette->tag;
-        DoLoadSpritePalette(palette->data, index * 16);
-        DoLoadSpritePalette(palette->data, 112 + index * 16);
-        return index + 112;
+        sSpritePaletteTags[index] = palette1->tag;
+        DoLoadSpriteShortPalette(palette1->data, index * 16);
+        DoLoadSpriteShortPalette(palette2->data, index * 16 + 8);
+        return index;
     }
 }
 
