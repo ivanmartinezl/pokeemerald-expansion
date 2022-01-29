@@ -1060,3 +1060,9 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/scripts/change_deoxys_form.inc"
 
 	.include "data/maps/OldaleRuins/scripts.inc"
+
+	.include "data/maps/LittleParkGrass/scripts.inc"
+
+	.include "data/maps/LittleParkWater/scripts.inc"
+
+	.include "data/maps/LittleParkFire/scripts.inc"

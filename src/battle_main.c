@@ -4432,7 +4432,7 @@ s8 GetMovePriority(u32 battlerId, u16 move)
         priority++;
     }
     else if (GetBattlerAbility(battlerId) == ABILITY_SCREEN_CLEANER
-        && gBattleMoves[move].flags == FLAG_SCREE)
+        && gBattleMoves[move].flags == FLAG_SCREEN)
     {
         priority++;
     }

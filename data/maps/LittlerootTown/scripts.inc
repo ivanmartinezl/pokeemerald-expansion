@@ -254,6 +254,12 @@ LittlerootTown_EventScript_Boy::
 	msgbox LittlerootTown_Text_BirchSpendsDaysInLab, MSGBOX_NPC
 	end
 
+LittlerootTown_EventScript_OldLady::
+    lock
+	faceplayer
+	msgbox LittlerootTown_Text_EnjoyGardens, MSGBOX_NPC
+	end
+
 LittlerootTown_EventScript_Twin::
 	lock
 	faceplayer
@@ -350,6 +356,12 @@ LittlerootTown_EventScript_NeedPokemonTriggerRight::
 	call LittlerootTown_EventScript_DangerousWithoutPokemon
 	applymovement LOCALID_TWIN, LittlerootTown_Movement_TwinReturnRight
 	waitmovement 0
+	releaseall
+	end
+
+LittlerootTown_EventScript_NeedPokemonTriggerSouth::
+	lockall
+	call LittlerootTown_EventScript_DangerousWithoutPokemon
 	releaseall
 	end
 
@@ -968,6 +980,9 @@ LittlerootTown_Text_BirchSpendsDaysInLab: @ 81E8B25
 	.string "the wild to do more research…\p"
 	.string "When does Prof. Birch spend time\n"
 	.string "at home?$"
+
+LittlerootTown_Text_EnjoyGardens:
+    .string "Enjoy the beautiful gardens.$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 	.string "Um, um, um!\p"

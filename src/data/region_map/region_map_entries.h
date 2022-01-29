@@ -202,8 +202,11 @@ static const u8 sMapName_TrainerHill[] = _("Trainer Hill");
 
 const struct RegionMapLocation gRegionMapEntries[] = {
     [MAPSEC_LITTLEROOT_TOWN]            = { 4, 11, 1, 1, sMapName_LittlerootTown},
+    [MAPSEC_LITTLE_PARK_GRASS]          = { 4, 11, 1, 1, sMapName_LittlerootTown},
+    [MAPSEC_LITTLE_PARK_FIRE]           = { 4, 11, 1, 1, sMapName_LittlerootTown},
+    [MAPSEC_LITTLE_PARK_WATER]          = { 4, 11, 1, 1, sMapName_LittlerootTown},
     [MAPSEC_OLDALE_TOWN]                = { 4,  9, 1, 1, sMapName_OldaleTown},
-    [MAPSEC_OLDALE_RUINS]                = { 4,  9, 1, 1, sMapName_OldaleRuins},
+    [MAPSEC_OLDALE_RUINS]               = { 4,  9, 1, 1, sMapName_OldaleRuins},
     [MAPSEC_DEWFORD_TOWN]               = { 2, 14, 1, 1, sMapName_DewfordTown},
     [MAPSEC_LAVARIDGE_TOWN]             = { 5,  3, 1, 1, sMapName_LavaridgeTown},
     [MAPSEC_FALLARBOR_TOWN]             = { 3,  0, 1, 1, sMapName_FallarborTown},

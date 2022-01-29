@@ -4420,6 +4420,36 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/OldaleRuins/border.bin",
       "blockdata_filepath": "data/layouts/OldaleRuins/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLE_PARK_GRASS",
+      "name": "LittleParkGrass_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LittleParkGrass/border.bin",
+      "blockdata_filepath": "data/layouts/LittleParkGrass/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLE_PARK_WATER",
+      "name": "LittleParkWater_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LittleParkWater/border.bin",
+      "blockdata_filepath": "data/layouts/LittleParkWater/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLE_PARK_FIRE",
+      "name": "LittleParkFire_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_BattlePyramid",
+      "border_filepath": "data/layouts/LittleParkFire/border.bin",
+      "blockdata_filepath": "data/layouts/LittleParkFire/map.bin"
     }
   ]
 }

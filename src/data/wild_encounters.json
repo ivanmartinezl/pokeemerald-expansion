@@ -853,36 +853,6 @@
         {
           "map": "MAP_ROUTE111",
           "base_label": "gRoute111",
-          "rock_smash_mons": {
-            "encounter_rate": 20,
-            "mons": [
-              {
-                "min_level": 10,
-                "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 15,
-                "max_level": 20,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 15,
-                "max_level": 20,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 15,
-                "max_level": 20,
-                "species": "SPECIES_GEODUDE"
-              }
-            ]
-          },
           "fishing_mons": {
             "encounter_rate": 30,
             "mons": [
@@ -935,6 +905,36 @@
                 "min_level": 40,
                 "max_level": 45,
                 "species": "SPECIES_BARBOACH"
+              }
+            ]
+          },
+          "rock_smash_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 10,
+                "max_level": 15,
+                "species": "SPECIES_GEODUDE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 10,
+                "species": "SPECIES_GEODUDE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_GEODUDE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_GEODUDE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_GEODUDE"
               }
             ]
           },
@@ -1175,36 +1175,6 @@
         {
           "map": "MAP_ROUTE114",
           "base_label": "gRoute114",
-          "rock_smash_mons": {
-            "encounter_rate": 20,
-            "mons": [
-              {
-                "min_level": 10,
-                "max_level": 15,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 5,
-                "max_level": 10,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 15,
-                "max_level": 20,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 15,
-                "max_level": 20,
-                "species": "SPECIES_GEODUDE"
-              },
-              {
-                "min_level": 15,
-                "max_level": 20,
-                "species": "SPECIES_GEODUDE"
-              }
-            ]
-          },
           "fishing_mons": {
             "encounter_rate": 30,
             "mons": [
@@ -1257,6 +1227,36 @@
                 "min_level": 40,
                 "max_level": 45,
                 "species": "SPECIES_BARBOACH"
+              }
+            ]
+          },
+          "rock_smash_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 10,
+                "max_level": 15,
+                "species": "SPECIES_GEODUDE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 10,
+                "species": "SPECIES_GEODUDE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_GEODUDE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_GEODUDE"
+              },
+              {
+                "min_level": 15,
+                "max_level": 20,
+                "species": "SPECIES_GEODUDE"
               }
             ]
           },
@@ -11721,6 +11721,213 @@
                 "min_level": 13,
                 "max_level": 13,
                 "species": "SPECIES_FERROSEED"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_LITTLE_PARK_GRASS",
+          "base_label": "gLittleParkGrass",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_TURTWIG"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_TREECKO"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_SNIVY"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_CHESPIN"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_CHESPIN"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_ROWLET"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_ROWLET"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_BULBASAUR"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_GROOKEY"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_CHIKORITA"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_TREECKO"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_BULBASAUR"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_LITTLE_PARK_WATER",
+          "base_label": "gLittleParkWater",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_SQUIRTLE"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_OSHAWOTT"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_FROAKIE"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_PIPLUP"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_TOTODILE"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_SOBBLE"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_POPPLIO"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_OSHAWOTT"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_FROAKIE"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_PIPLUP"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_TOTODILE"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_MUDKIP"
+              }
+            ]
+          }
+        },
+        {
+          "map": "MAP_LITTLE_PARK_FIRE",
+          "base_label": "gLittleParkFire",
+          "land_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_CHARMANDER"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_TEPIG"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_CYNDAQUIL"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_TORCHIC"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_CHIMCHAR"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_FENNEKIN"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_LITTEN"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_SCORBUNNY"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_SCORBUNNY"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_LITTEN"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_FENNEKIN"
+              },
+              {
+                "min_level": 1,
+                "max_level": 1,
+                "species": "SPECIES_CHIMCHAR"
               }
             ]
           }
