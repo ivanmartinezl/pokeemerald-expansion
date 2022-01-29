@@ -2703,11 +2703,8 @@ BattleScript_EffectSleep::
 	jumpifsubstituteblocks BattleScript_ButItFailed
 	jumpifstatus BS_TARGET, STATUS1_SLEEP, BattleScript_AlreadyAsleep
 	jumpifcantmakeasleep BattleScript_CantMakeAsleep
-	jumpifability BS_TARGET, ABILITY_COMATOSE, BattleScript_LeafGuardProtects
 	jumpifflowerveil BattleScript_FlowerVeilProtects
 	jumpifability BS_TARGET_SIDE, ABILITY_SWEET_VEIL, BattleScript_SweetVeilProtects
-	jumpifleafguardprotected BS_TARGET, BattleScript_LeafGuardProtects
-	jumpifshieldsdown BS_TARGET, BattleScript_LeafGuardProtects
 	jumpifstatus BS_TARGET, STATUS1_ANY, BattleScript_ButItFailed
 	jumpifterrainaffected BS_TARGET, STATUS_FIELD_ELECTRIC_TERRAIN, BattleScript_ElectricTerrainPrevents
 	jumpifterrainaffected BS_TARGET, STATUS_FIELD_MISTY_TERRAIN, BattleScript_MistyTerrainPrevents
@@ -2784,18 +2781,6 @@ BattleScript_PastelVeilProtectsRet::
 
 BattleScript_PastelVeilProtects:
 	call BattleScript_PastelVeilProtectsRet
-	orhalfword gMoveResultFlags, MOVE_RESULT_FAILED
-	goto BattleScript_MoveEnd
-
-BattleScript_LeafGuardProtectsRet::
-	pause B_WAIT_TIME_SHORT
-	call BattleScript_AbilityPopUp
-	printstring STRINGID_ITDOESNTAFFECT
-	waitmessage B_WAIT_TIME_LONG
-	return
-
-BattleScript_LeafGuardProtects:
-	call BattleScript_LeafGuardProtectsRet
 	orhalfword gMoveResultFlags, MOVE_RESULT_FAILED
 	goto BattleScript_MoveEnd
 
@@ -3286,11 +3271,8 @@ BattleScript_EffectToxic::
 	attackstring
 	ppreduce
 	jumpifability BS_TARGET, ABILITY_IMMUNITY, BattleScript_ImmunityProtected
-	jumpifability BS_TARGET, ABILITY_COMATOSE, BattleScript_LeafGuardProtects
 	jumpifability BS_TARGET_SIDE, ABILITY_PASTEL_VEIL, BattleScript_PastelVeilProtects
 	jumpifflowerveil BattleScript_FlowerVeilProtects
-	jumpifleafguardprotected BS_TARGET, BattleScript_LeafGuardProtects
-	jumpifshieldsdown BS_TARGET, BattleScript_LeafGuardProtects
 	jumpifsubstituteblocks BattleScript_ButItFailed
 	jumpifstatus BS_TARGET, STATUS1_POISON | STATUS1_TOXIC_POISON, BattleScript_AlreadyPoisoned
 	jumpifstatus BS_TARGET, STATUS1_ANY, BattleScript_ButItFailed
@@ -3643,11 +3625,8 @@ BattleScript_EffectPoison::
 	attackstring
 	ppreduce
 	jumpifability BS_TARGET, ABILITY_IMMUNITY, BattleScript_ImmunityProtected
-	jumpifability BS_TARGET, ABILITY_COMATOSE, BattleScript_LeafGuardProtects
 	jumpifability BS_TARGET_SIDE, ABILITY_PASTEL_VEIL, BattleScript_PastelVeilProtects
 	jumpifflowerveil BattleScript_FlowerVeilProtects
-	jumpifleafguardprotected BS_TARGET, BattleScript_LeafGuardProtects
-	jumpifshieldsdown BS_TARGET, BattleScript_LeafGuardProtects
 	jumpifsubstituteblocks BattleScript_ButItFailed
 	jumpifstatus BS_TARGET, STATUS1_POISON, BattleScript_AlreadyPoisoned
 	jumpifstatus BS_TARGET, STATUS1_TOXIC_POISON, BattleScript_AlreadyPoisoned
@@ -3669,10 +3648,7 @@ BattleScript_EffectParalyze:
 	attackstring
 	ppreduce
 	jumpifability BS_TARGET, ABILITY_LIMBER, BattleScript_LimberProtected
-	jumpifability BS_TARGET, ABILITY_COMATOSE, BattleScript_LeafGuardProtects
 	jumpifflowerveil BattleScript_FlowerVeilProtects
-	jumpifleafguardprotected BS_TARGET, BattleScript_LeafGuardProtects
-	jumpifshieldsdown BS_TARGET, BattleScript_LeafGuardProtects
 	jumpifsubstituteblocks BattleScript_ButItFailed
 .if B_GLARE_GHOST >= GEN_4
 	jumpifmove MOVE_GLARE, BattleScript_BattleScript_EffectParalyzeNoTypeCalc
@@ -4244,6 +4220,7 @@ BattleScript_EffectMeanLook::
 	accuracycheck BattleScript_ButItFailed, NO_ACC_CALC_CHECK_LOCK_ON
 	jumpifstatus2 BS_TARGET, STATUS2_ESCAPE_PREVENTION, BattleScript_ButItFailed
 	jumpifsubstituteblocks BattleScript_ButItFailed
+    jumpifability BS_TARGET, ABILITY_RUN_AWAY, BattleScript_ButItFailed
 .if B_GHOSTS_ESCAPE >= GEN_6
 	jumpiftype BS_TARGET, TYPE_GHOST, BattleScript_ButItFailed
 .endif
@@ -5109,10 +5086,7 @@ BattleScript_EffectWillOWisp::
 	jumpiftype BS_TARGET, TYPE_FIRE, BattleScript_NotAffected
 	jumpifability BS_TARGET, ABILITY_WATER_VEIL, BattleScript_WaterVeilPrevents
 	jumpifability BS_TARGET, ABILITY_WATER_BUBBLE, BattleScript_WaterVeilPrevents
-	jumpifability BS_TARGET, ABILITY_COMATOSE, BattleScript_LeafGuardProtects
 	jumpifflowerveil BattleScript_FlowerVeilProtects
-	jumpifleafguardprotected BS_TARGET, BattleScript_LeafGuardProtects
-	jumpifshieldsdown BS_TARGET, BattleScript_LeafGuardProtects
 	jumpifstatus BS_TARGET, STATUS1_ANY, BattleScript_ButItFailed
 	jumpifterrainaffected BS_TARGET, STATUS_FIELD_MISTY_TERRAIN, BattleScript_MistyTerrainPrevents
 	accuracycheck BattleScript_ButItFailed, ACC_CURR_MOVE
@@ -5389,8 +5363,6 @@ BattleScript_EffectYawn::
 	jumpifability BS_TARGET, ABILITY_INSOMNIA, BattleScript_PrintBankAbilityMadeIneffective
 	jumpifability BS_TARGET, ABILITY_COMATOSE, BattleScript_PrintBankAbilityMadeIneffective
 	jumpifflowerveil BattleScript_FlowerVeilProtects
-	jumpifleafguardprotected BS_TARGET, BattleScript_LeafGuardProtects
-	jumpifshieldsdown BS_TARGET, BattleScript_LeafGuardProtects
 	jumpifsubstituteblocks BattleScript_ButItFailed
 	jumpifsafeguard BattleScript_SafeguardProtected
 	accuracycheck BattleScript_ButItFailed, NO_ACC_CALC_CHECK_LOCK_ON
@@ -8396,7 +8368,7 @@ BattleScript_ActivateAsOne::
 	printfromtable gSwitchInAbilityStringIds
 	waitmessage B_WAIT_TIME_LONG
 	@ show unnerve
-	sethword sABILITY_OVERWRITE, ABILITY_UNNERVE
+	sethword sABILITY_OVERWRITE, ABILITY_PRESSURE
 	setbyte cMULTISTRING_CHOOSER, B_MSG_SWITCHIN_UNNERVE
 	call BattleScript_AbilityPopUp
 	printfromtable gSwitchInAbilityStringIds
@@ -8413,6 +8385,18 @@ BattleScript_FriskMsg::
 
 BattleScript_FriskActivates::
 	tryfriskmsg BS_ATTACKER
+	end3
+
+BattleScript_ForewarnMsgWithPopup::
+	copybyte gBattlerAbility, gBattlerAttacker
+	call BattleScript_AbilityPopUp
+BattleScript_ForewarnMsg::
+	printstring STRINGID_FOREWARNACTIVATES
+	waitmessage B_WAIT_TIME_LONG
+	return
+
+BattleScript_ForewarnActivates::
+	tryforewarnmsg BS_ATTACKER
 	end3
 
 BattleScript_ImposterActivates::

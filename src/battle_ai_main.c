@@ -2663,9 +2663,7 @@ static s16 AI_DoubleBattle(u8 battlerAtk, u8 battlerDef, u16 move, s16 score)
                     }
                     break;
                 case ABILITY_LIGHTNING_ROD:
-                    if (moveType == TYPE_ELECTRIC
-                      && HasMoveWithSplit(battlerAtkPartner, SPLIT_SPECIAL)
-                      && BattlerStatCanRise(battlerAtkPartner, atkPartnerAbility, STAT_SPATK))
+                    if (moveType == TYPE_ELECTRIC)
                     {
                         RETURN_SCORE_PLUS(1);
                     }
@@ -3351,6 +3349,7 @@ static s16 AI_CheckViability(u8 battlerAtk, u8 battlerDef, u16 move, s16 score)
     case EFFECT_MEAN_LOOK:
         if (HasMoveEffect(battlerDef, EFFECT_RAPID_SPIN)
           || (B_GHOSTS_ESCAPE >= GEN_6 && IS_BATTLER_OF_TYPE(battlerDef, TYPE_GHOST))
+          || AI_DATA->defAbility == ABILITY_RUN_AWAY
           || gBattleMons[battlerDef].status2 & STATUS2_WRAPPED)
         {
             break; // in this case its a bad attacking move

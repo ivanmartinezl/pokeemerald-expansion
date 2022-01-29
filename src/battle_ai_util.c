@@ -104,7 +104,7 @@ static const s8 sAiAbilityRatings[ABILITIES_COUNT] =
     [ABILITY_HYDRATION] = 4,
     [ABILITY_HYPER_CUTTER] = 3,
     [ABILITY_ICE_BODY] = 3,
-    [ABILITY_ILLUMINATE] = 0,
+    [ABILITY_ILLUMINATE] = 2,
     [ABILITY_ILLUSION] = 8,
     [ABILITY_IMMUNITY] = 4,
     [ABILITY_IMPOSTER] = 9,
@@ -118,7 +118,7 @@ static const s8 sAiAbilityRatings[ABILITIES_COUNT] =
     [ABILITY_JUSTIFIED] = 4,
     [ABILITY_KEEN_EYE] = 1,
     [ABILITY_KLUTZ] = -1,
-    [ABILITY_LEAF_GUARD] = 2,
+    [ABILITY_LEAF_GUARD] = 4,
     [ABILITY_LEVITATE] = 7,
     [ABILITY_LIGHT_METAL] = 2,
     [ABILITY_LIGHTNING_ROD] = 7,
@@ -128,7 +128,7 @@ static const s8 sAiAbilityRatings[ABILITIES_COUNT] =
     [ABILITY_LONG_REACH] = 3,
     [ABILITY_MAGIC_BOUNCE] = 9,
     [ABILITY_MAGIC_GUARD] = 9,
-    [ABILITY_MAGICIAN] = 3,
+    [ABILITY_MAGICIAN] = 5,
     [ABILITY_MAGMA_ARMOR] = 1,
     [ABILITY_MAGNET_PULL] = 9,
     [ABILITY_SWATTER] = 9,
@@ -1407,7 +1407,7 @@ u32 AI_GetMoveAccuracy(u8 battlerAtk, u8 battlerDef, u16 atkAbility, u16 defAbil
         calc = (calc * 50) / 100; // 1.5 tangled feet loss
 
     if (atkAbility == ABILITY_HUSTLE && IS_MOVE_PHYSICAL(move))
-        calc = (calc * 80) / 100; // 1.2 hustle loss
+        calc = (calc * 85) / 100; // 1.2 hustle loss
 
     if (defHoldEffect == HOLD_EFFECT_EVASION_UP)
         calc = (calc * (100 - defParam)) / 100;
@@ -2788,6 +2788,7 @@ bool32 AI_CanBeBurned(u8 battler, u16 ability)
 {
     if (ability == ABILITY_WATER_VEIL
       || ability == ABILITY_WATER_BUBBLE
+      || ability == ABILITY_HEATPROOF
       || IS_BATTLER_OF_TYPE(battler, TYPE_FIRE)
       || gBattleMons[battler].status1 & STATUS1_ANY
       || IsAbilityStatusProtected(battler)
