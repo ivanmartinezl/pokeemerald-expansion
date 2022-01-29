@@ -276,7 +276,7 @@ static const s8 sAiAbilityRatings[ABILITIES_COUNT] =
     [ABILITY_ICE_FACE] = 4,
     [ABILITY_POWER_SPOT] = 2,
     [ABILITY_MIMICRY] = 2,
-    [ABILITY_SCREEN_CLEANER] = 3,
+    [ABILITY_SCREEN_CLEANER] = 6,
     [ABILITY_NEUTRALIZING_GAS] = 5,
     [ABILITY_HUNGER_SWITCH] = 2,
     [ABILITY_PASTEL_VEIL] = 4,
@@ -1394,17 +1394,19 @@ u32 AI_GetMoveAccuracy(u8 battlerAtk, u8 battlerDef, u16 atkAbility, u16 defAbil
 
     if (atkAbility == ABILITY_COMPOUND_EYES)
         calc = (calc * 130) / 100; // 1.3 compound eyes boost
+    else if (atkAbility == ABILITY_KEEN_EYE)
+        calc = (calc * 110) / 100;
     else if (atkAbility == ABILITY_VICTORY_STAR)
-        calc = (calc * 110) / 100; // 1.1 victory star boost
+        calc = (calc * 120) / 100; // 1.1 victory star boost
     if (IsBattlerAlive(BATTLE_PARTNER(battlerAtk)) && GetBattlerAbility(BATTLE_PARTNER(battlerAtk)) == ABILITY_VICTORY_STAR)
-        calc = (calc * 110) / 100; // 1.1 ally's victory star boost
+        calc = (calc * 120) / 100; // 1.1 ally's victory star boost
 
     if (defAbility == ABILITY_SAND_VEIL && WEATHER_HAS_EFFECT && gBattleWeather & B_WEATHER_SANDSTORM)
-        calc = (calc * 80) / 100; // 1.2 sand veil loss
+        calc = (calc * 70) / 100; // 1.2 sand veil loss
     else if (defAbility == ABILITY_SNOW_CLOAK && WEATHER_HAS_EFFECT && gBattleWeather & B_WEATHER_HAIL)
-        calc = (calc * 80) / 100; // 1.2 snow cloak loss
+        calc = (calc * 70) / 100; // 1.2 snow cloak loss
     else if (defAbility == ABILITY_TANGLED_FEET && gBattleMons[battlerDef].status2 & STATUS2_CONFUSION)
-        calc = (calc * 50) / 100; // 1.5 tangled feet loss
+        calc = (calc * 30) / 100; // 1.5 tangled feet loss
 
     if (atkAbility == ABILITY_HUSTLE && IS_MOVE_PHYSICAL(move))
         calc = (calc * 85) / 100; // 1.2 hustle loss

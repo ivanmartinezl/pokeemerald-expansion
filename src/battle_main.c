@@ -4365,7 +4365,7 @@ u32 GetBattlerTotalSpeedStat(u8 battlerId)
     else if (ability == ABILITY_SURGE_SURFER && gFieldStatuses & STATUS_FIELD_ELECTRIC_TERRAIN)
         speed *= 2;
     else if (ability == ABILITY_SLOW_START && gDisableStructs[battlerId].slowStartTimer != 0)
-        speed /= 2;
+        speed /= 4;
 
     // stat stages
     speed *= gStatStageRatios[gBattleMons[battlerId].statStages[STAT_SPEED]][0];
@@ -4428,6 +4428,11 @@ s8 GetMovePriority(u32 battlerId, u16 move)
     }
     else if (GetBattlerAbility(battlerId) == ABILITY_DANCER
         && gBattleMoves[move].flags == FLAG_DANCE)
+    {
+        priority++;
+    }
+    else if (GetBattlerAbility(battlerId) == ABILITY_SCREEN_CLEANER
+        && gBattleMoves[move].flags == FLAG_SCREE)
     {
         priority++;
     }
