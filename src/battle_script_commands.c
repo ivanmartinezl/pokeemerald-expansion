@@ -1703,6 +1703,8 @@ u32 GetTotalAccuracy(u32 battlerAtk, u32 battlerDef, u32 move)
 
     if (atkAbility == ABILITY_COMPOUND_EYES)
         calc = (calc * 130) / 100; // 1.3 compound eyes boost
+    else if (atkAbility == ABILITY_KEEN_EYE)
+        calc = (calc * 110) / 100; // 1.1 keen eye boost
     else if (atkAbility == ABILITY_VICTORY_STAR)
         calc = (calc * 110) / 100; // 1.1 victory star boost
     if (IsBattlerAlive(BATTLE_PARTNER(battlerAtk)) && GetBattlerAbility(BATTLE_PARTNER(battlerAtk)) == ABILITY_VICTORY_STAR)
@@ -1713,10 +1715,10 @@ u32 GetTotalAccuracy(u32 battlerAtk, u32 battlerDef, u32 move)
     else if (defAbility == ABILITY_SNOW_CLOAK && WEATHER_HAS_EFFECT && gBattleWeather & B_WEATHER_HAIL)
         calc = (calc * 80) / 100; // 1.2 snow cloak loss
     else if (defAbility == ABILITY_TANGLED_FEET && gBattleMons[battlerDef].status2 & STATUS2_CONFUSION)
-        calc = (calc * 50) / 100; // 1.5 tangled feet loss
+        calc = (calc * 30) / 100; // 1.5 tangled feet loss
 
     if (atkAbility == ABILITY_HUSTLE && IS_MOVE_PHYSICAL(move))
-        calc = (calc * 80) / 100; // 1.2 hustle loss
+        calc = (calc * 85) / 100; // 1.2 hustle loss
 
     if (defHoldEffect == HOLD_EFFECT_EVASION_UP)
         calc = (calc * (100 - defParam)) / 100;
@@ -7458,14 +7460,6 @@ u32 IsFlowerVeilProtected(u32 battler)
         return 0;
 }
 
-u32 IsLeafGuardProtected(u32 battler)
-{
-    if (IsBattlerWeatherAffected(battler, B_WEATHER_SUN))
-        return GetBattlerAbility(battler) == ABILITY_LEAF_GUARD;
-    else
-        return 0;
-}
-
 bool32 IsShieldsDownProtected(u32 battler)
 {
     return (GetBattlerAbility(battler) == ABILITY_SHIELDS_DOWN
@@ -7475,7 +7469,6 @@ bool32 IsShieldsDownProtected(u32 battler)
 u32 IsAbilityStatusProtected(u32 battler)
 {
     return IsFlowerVeilProtected(battler)
-        || IsLeafGuardProtected(battler)
         || IsShieldsDownProtected(battler);
 }
 
@@ -7643,6 +7636,32 @@ static void Cmd_various(void)
         }
         gBattleStruct->friskedBattler = 0;
         gBattleStruct->friskedAbility = FALSE;
+        break;
+    case VARIOUS_TRY_FOREWARN:
+        while (gBattleStruct->forewarnedBattler < gBattlersCount)
+        {
+            gBattlerTarget = gBattleStruct->forewarnedBattler++;
+            if (GET_BATTLER_SIDE2(gActiveBattler) != GET_BATTLER_SIDE2(gBattlerTarget)
+                && IsBattlerAlive(gBattlerTarget))
+            {
+                gLastUsedAbility = gBattleMons[gBattlerTarget].ability;
+                RecordAbilityBattle(gBattlerTarget, GetBattlerAbility(gBattlerTarget));
+                BattleScriptPushCursor();
+                // If Frisk identifies two mons' items, show the pop-up only once.
+                if (gBattleStruct->forewarnedAbility)
+                {
+                    gBattlescriptCurrInstr = BattleScript_ForewarnMsg;
+                }
+                else
+                {
+                    gBattleStruct->forewarnedAbility = TRUE;
+                    gBattlescriptCurrInstr = BattleScript_ForewarnMsgWithPopup;
+                }
+                return;
+            }
+        }
+        gBattleStruct->forewarnedBattler = 0;
+        gBattleStruct->forewarnedAbility = FALSE;
         break;
     case VARIOUS_POISON_TYPE_IMMUNITY:
         if (!CanPoisonType(gActiveBattler, GetBattlerForBattleScript(gBattlescriptCurrInstr[3])))
@@ -9187,17 +9206,6 @@ static void Cmd_various(void)
             gSwapDamageCategory = TRUE;
         break;
     }
-    case VARIOUS_JUMP_IF_LEAF_GUARD_PROTECTED:
-        if (IsLeafGuardProtected(gActiveBattler))
-        {
-            gBattlerAbility = gActiveBattler;
-            gBattlescriptCurrInstr = T1_READ_PTR(gBattlescriptCurrInstr + 3);
-        }
-        else
-        {
-            gBattlescriptCurrInstr += 7;
-        }
-        return;
     case VARIOUS_SET_ATTACKER_STICKY_WEB_USER:
         // For Mirror Armor: "If the Pokémon with this Ability is affected by Sticky Web, the effect is reflected back to the Pokémon which set it up.
         //  If Pokémon which set up Sticky Web is not on the field, no Pokémon have their Speed lowered."
@@ -12881,7 +12889,7 @@ static void Cmd_pickup(void)
                 && heldItem >= FIRST_BERRY_INDEX
                 && heldItem <= LAST_BERRY_INDEX)
             {
-            if (!(Random() % 16))
+            if (!(Random() % 10))
                 {
                   heldItem = ITEM_BERRY_JUICE;
                   SetMonData(&gPlayerParty[i], MON_DATA_HELD_ITEM, &heldItem);
@@ -12893,7 +12901,7 @@ static void Cmd_pickup(void)
                 && species != SPECIES_EGG
                 && heldItem == ITEM_NONE)
             {
-                if ((lvlDivBy10 + 1 ) * 5 > Random() % 100)
+                if ((lvlDivBy10 + 1 ) * 10 > Random() % 100)
                 {
                     heldItem = ITEM_HONEY;
                     SetMonData(&gPlayerParty[i], MON_DATA_HELD_ITEM, &heldItem);
