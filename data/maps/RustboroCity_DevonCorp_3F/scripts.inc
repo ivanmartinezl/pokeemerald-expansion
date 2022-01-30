@@ -55,6 +55,7 @@ RustboroCity_DevonCorp_3F_EventScript_MeetPresident::
 	message RustboroCity_DevonCorp_3F_Text_ReceivedPokenav
 	waitfanfare
 	setflag FLAG_SYS_POKENAV_GET
+	setflag FLAG_SYS_DEXNAV_GET
 	setflag FLAG_RECEIVED_POKENAV
 	setflag FLAG_HIDE_RUSTBORO_CITY_POKEMON_SCHOOL_SCOTT
 	msgbox RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp, MSGBOX_DEFAULT
@@ -217,20 +218,22 @@ RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis: @ 821277C
 	.string "I am a great President.\p"
 	.string "So, I'd never be so cheap as to ask\n"
 	.string "a favor for nothing in return.\p"
-	.string "That's why I want you to have this!$"
+	.string "That's why I want you to have these!$"
 
 RustboroCity_DevonCorp_3F_Text_ReceivedPokenav: @ 8212820
-	.string "{PLAYER} received a Pokénav.$"
+	.string "{PLAYER} received PokéNav and DéxNav.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp: @ 8212837
-	.string "Mr. Stone: That device…\p"
-	.string "It's a Pokémon Navigator, or Pokénav\n"
+	.string "Mr. Stone: That devices…\p"
+	.string "There is Pokénav and DéxNav\n"
 	.string "for short.\p"
-	.string "It's an indispensable tool for any\n"
+	.string "They are indispensable tools for any\n"
 	.string "Trainer on an adventure.\p"
 	.string "It has a map of the Hoenn region.\p"
 	.string "You can check the locations of\n"
 	.string "Dewford and Slateport easily!\p"
+	.string "Also, you can use DéxNav\n"
+	.string "to find Pokémon with better stats!\p"
 	.string "By the way, I've heard that sinister\n"
 	.string "criminals--Magma and Aqua, I believe--\l"
 	.string "have been making trouble far and wide.\p"

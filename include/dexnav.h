@@ -24,39 +24,39 @@
 #define SEARCHLEVEL100_MOVECHANCE       83
 //Chance of encountering Hidden Abilities at search levels
 #define SEARCHLEVEL0_ABILITYCHANCE      0
-#define SEARCHLEVEL5_ABILITYCHANCE      0
+#define SEARCHLEVEL5_ABILITYCHANCE      1
 #define SEARCHLEVEL10_ABILITYCHANCE     5
-#define SEARCHLEVEL25_ABILITYCHANCE     15
+#define SEARCHLEVEL25_ABILITYCHANCE     10
 #define SEARCHLEVEL50_ABILITYCHANCE     20
-#define SEARCHLEVEL100_ABILITYCHANCE    23
+#define SEARCHLEVEL100_ABILITYCHANCE    40
 //Chance of encountering held item
 #define SEARCHLEVEL0_ITEM               0
-#define SEARCHLEVEL5_ITEM               0
-#define SEARCHLEVEL10_ITEM              1
-#define SEARCHLEVEL25_ITEM              7
-#define SEARCHLEVEL50_ITEM              6
-#define SEARCHLEVEL100_ITEM             12
+#define SEARCHLEVEL5_ITEM               1
+#define SEARCHLEVEL10_ITEM              5
+#define SEARCHLEVEL25_ITEM              10
+#define SEARCHLEVEL50_ITEM              20
+#define SEARCHLEVEL100_ITEM             40
 //Chance of encountering one star potential
-#define SEARCHLEVEL0_ONESTAR            0
-#define SEARCHLEVEL5_ONESTAR            14
-#define SEARCHLEVEL10_ONESTAR           17
+#define SEARCHLEVEL0_ONESTAR            10
+#define SEARCHLEVEL5_ONESTAR            25
+#define SEARCHLEVEL10_ONESTAR           50
 #define SEARCHLEVEL25_ONESTAR           17
-#define SEARCHLEVEL50_ONESTAR           15
-#define SEARCHLEVEL100_ONESTAR          8
+#define SEARCHLEVEL50_ONESTAR           18
+#define SEARCHLEVEL100_ONESTAR          1
 //Chance of encountering two star potential
-#define SEARCHLEVEL0_TWOSTAR            0
-#define SEARCHLEVEL5_TWOSTAR            1
+#define SEARCHLEVEL0_TWOSTAR            1
+#define SEARCHLEVEL5_TWOSTAR            3
 #define SEARCHLEVEL10_TWOSTAR           9
-#define SEARCHLEVEL25_TWOSTAR           16
-#define SEARCHLEVEL50_TWOSTAR           17
-#define SEARCHLEVEL100_TWOSTAR          24
+#define SEARCHLEVEL25_TWOSTAR           27
+#define SEARCHLEVEL50_TWOSTAR           54
+#define SEARCHLEVEL100_TWOSTAR          18
 //Chance of encountering three star potential
 #define SEARCHLEVEL0_THREESTAR          0
-#define SEARCHLEVEL5_THREESTAR          0
-#define SEARCHLEVEL10_THREESTAR         1
-#define SEARCHLEVEL25_THREESTAR         7
-#define SEARCHLEVEL50_THREESTAR         6
-#define SEARCHLEVEL100_THREESTAR        12
+#define SEARCHLEVEL5_THREESTAR          1
+#define SEARCHLEVEL10_THREESTAR         3
+#define SEARCHLEVEL25_THREESTAR         9
+#define SEARCHLEVEL50_THREESTAR         27
+#define SEARCHLEVEL100_THREESTAR        81
 
 // GUI Info
 #define ROW_WATER       0
