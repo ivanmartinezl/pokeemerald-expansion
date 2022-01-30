@@ -1066,3 +1066,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/LittleParkWater/scripts.inc"
 
 	.include "data/maps/LittleParkFire/scripts.inc"
+
+    .include "data/scripts/dexnav.inc"
