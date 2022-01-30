@@ -2,7 +2,7 @@
   "id": "MAP_LITTLE_PARK_GRASS",
   "name": "LittleParkGrass",
   "layout": "LAYOUT_LITTLE_PARK_GRASS",
-  "music": "MUS_ABANDONED_SHIP",
+  "music": "MUS_RG_OAK_LAB",
   "region_map_section": "MAPSEC_LITTLE_PARK_GRASS",
   "requires_flash": false,
   "weather": "WEATHER_NONE",

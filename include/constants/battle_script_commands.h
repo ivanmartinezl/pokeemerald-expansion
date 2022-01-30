@@ -290,10 +290,9 @@
 #define MOVEEND_EJECT_PACK                        23
 #define MOVEEND_LIFEORB_SHELLBELL                 24    // Includes shell bell, throat spray, etc
 #define MOVEEND_PICKPOCKET                        25
-#define MOVEEND_DANCER                            26
-#define MOVEEND_EMERGENCY_EXIT                    27
-#define MOVEEND_CLEAR_BITS                        28
-#define MOVEEND_COUNT                             29
+#define MOVEEND_EMERGENCY_EXIT                    26
+#define MOVEEND_CLEAR_BITS                        27
+#define MOVEEND_COUNT                             28
 
 // switch cases
 #define B_SWITCH_NORMAL     0

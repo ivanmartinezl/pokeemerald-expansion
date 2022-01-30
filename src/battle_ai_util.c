@@ -1511,7 +1511,6 @@ bool32 ShouldSetSandstorm(u8 battler, u16 ability, u16 holdEffect)
     if (ability == ABILITY_SAND_VEIL
       || ability == ABILITY_SAND_RUSH
       || ability == ABILITY_SAND_FORCE
-      || ability == ABILITY_SAND_FORCE
       || ability == ABILITY_OVERCOAT
       || ability == ABILITY_MAGIC_GUARD
       || holdEffect == HOLD_EFFECT_SAFETY_GOGGLES
@@ -1585,6 +1584,7 @@ bool32 ShouldSetSun(u8 battlerAtk, u16 atkAbility, u16 holdEffect)
       || atkAbility == ABILITY_FLOWER_GIFT
       || atkAbility == ABILITY_FORECAST
       || atkAbility == ABILITY_LEAF_GUARD
+      || atkAbility == ABILITY_EARLY_BIRD
       || atkAbility == ABILITY_SOLAR_POWER
       || atkAbility == ABILITY_HARVEST
       || HasMoveEffect(battlerAtk, EFFECT_SOLAR_BEAM)
