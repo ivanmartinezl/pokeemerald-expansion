@@ -1,5 +1,6 @@
 static const u8 sNoneDescription[] = _("No special ability.");
-static const u8 sStenchDescription[] = _("Helps repel wild Pokémon.");
+static const u8 sStenchDescription[] = _("Helps avoiding attacks.");
+static const u8 sMagicianDescription[] = _("Powers psychic moves.");
 static const u8 sDrizzleDescription[] = _("Summons rain in battle.");
 static const u8 sSpeedBoostDescription[] = _("Gradually boosts Speed.");
 static const u8 sBattleArmorDescription[] = _("Blocks critical hits.");
