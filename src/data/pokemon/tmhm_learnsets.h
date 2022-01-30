@@ -6382,7 +6382,6 @@ const u32 gTMHMLearnsets[][2] =
                                             | TMHM(TM21_FRUSTRATION)
                                             | TMHM(TM10_HIDDEN_POWER)
                                             | TMHM(TM50_OVERHEAT)
-                                            | TMHM(TM51_U_TURN)
                                             | TMHM(TM17_PROTECT)
                                             | TMHM(TM44_REST)
                                             | TMHM(TM27_RETURN)

@@ -325,14 +325,6 @@
       "elevation": 3,
       "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_PETALBURG_CITY_RARE_CANDY"
-    },
-    {
-      "type": "hidden_item",
-      "x": 23,
-      "y": 9,
-      "elevation": 3,
-      "item": "ITEM_TM51_U_TURN",
-      "flag": "FLAG_HIDDEN_ITEM_TM51"
     }
   ]
 }
