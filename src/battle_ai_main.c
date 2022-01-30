@@ -635,7 +635,6 @@ static s16 AI_CheckBadMove(u8 battlerAtk, u8 battlerDef, u16 move, s16 score)
                 if (TestMoveFlags(move, FLAG_BALLISTIC))
                     RETURN_SCORE_MINUS(10);
                 break;
-            case ABILITY_ANTICIPATION:
             case ABILITY_DAZZLING:
             case ABILITY_QUEENLY_MAJESTY:
                 if (atkPriority > 0)

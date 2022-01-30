@@ -175,7 +175,7 @@ u32 BattlePalace_TryEscapeStatus(u8 battlerId)
         case 1:
             if (gBattleMons[battlerId].status1 & STATUS1_FREEZE)
             {
-                if (Random() % 3 != 0)
+                if (Random() % 5 != 0)
                 {
                     // Still frozen
                     gBattlescriptCurrInstr = BattleScript_MoveUsedIsFrozen;
