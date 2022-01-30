@@ -24837,7 +24837,7 @@ const struct BaseStats gBaseStats[] =
         .eggGroup1 = EGG_GROUP_FIELD,
         .eggGroup2 = EGG_GROUP_MINERAL,
         #ifdef BATTLE_ENGINE
-            .abilities = {ABILITY_SHEER_FORCE, ABILITY_WATER_BUBBLE, ABILITY_HYDRATION},
+            .abilities = {ABILITY_SHEER_FORCE, ABILITY_WATER_VEIL, ABILITY_HEAVY_METAL},
         #else
             .abilities = {ABILITY_NONE, ABILITY_NONE},
         #endif
@@ -24868,7 +24868,7 @@ const struct BaseStats gBaseStats[] =
         .eggGroup1 = EGG_GROUP_FIELD,
         .eggGroup2 = EGG_GROUP_MINERAL,
         #ifdef BATTLE_ENGINE
-            .abilities = {ABILITY_SHEER_FORCE, ABILITY_WATER_BUBBLE, ABILITY_HYDRATION},
+            .abilities = {ABILITY_SHEER_FORCE, ABILITY_WATER_VEIL, ABILITY_HEAVY_METAL},
         #else
             .abilities = {ABILITY_NONE, ABILITY_NONE},
         #endif

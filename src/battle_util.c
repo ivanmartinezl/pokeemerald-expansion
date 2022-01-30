@@ -8062,15 +8062,15 @@ static u32 CalcMoveBasePowerAfterModifiers(u16 move, u8 battlerAtk, u8 battlerDe
         break;
     case ABILITY_RECKLESS:
         if (gBattleMoves[move].flags & FLAG_RECKLESS_BOOST)
-           MulModifier(&modifier, UQ_4_12(1.3));
+           MulModifier(&modifier, UQ_4_12(1.2));
         break;
     case ABILITY_IRON_FIST:
         if (gBattleMoves[move].flags & FLAG_IRON_FIST_BOOST)
-           MulModifier(&modifier, UQ_4_12(1.3));
+           MulModifier(&modifier, UQ_4_12(1.2));
         break;
     case ABILITY_FIERCE_KICK:
         if (gBattleMoves[move].flags & FLAG_FIERCE_KICK_BOOST)
-           MulModifier(&modifier, UQ_4_12(1.3));
+           MulModifier(&modifier, UQ_4_12(1.2));
         break;
     case ABILITY_SHEER_FORCE:
         if (gBattleMoves[move].flags & FLAG_SHEER_FORCE_BOOST)
@@ -8112,6 +8112,10 @@ static u32 CalcMoveBasePowerAfterModifiers(u16 move, u8 battlerAtk, u8 battlerDe
     case ABILITY_MEGA_LAUNCHER:
         if (gBattleMoves[move].flags & FLAG_BALLISTIC)
            MulModifier(&modifier, UQ_4_12(1.5));
+        break;
+    case ABILITY_WATER_BUBBLE:
+        if (moveType == TYPE_WATER)
+           MulModifier(&modifier, UQ_4_12(2.0));
         break;
     case ABILITY_STEELWORKER:
         if (moveType == TYPE_STEEL)
@@ -8200,6 +8204,7 @@ static u32 CalcMoveBasePowerAfterModifiers(u16 move, u8 battlerAtk, u8 battlerDe
                 RecordAbilityBattle(battlerDef, ability);
         }
         break;
+    case ABILITY_DAMP:
     case ABILITY_HEATPROOF:
     case ABILITY_WATER_BUBBLE:
         if (moveType == TYPE_FIRE)
