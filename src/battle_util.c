@@ -3793,6 +3793,11 @@ u8 TryWeatherFormChange(u8 battler)
             SET_BATTLER_TYPE(battler, TYPE_ICE);
             ret = CASTFORM_ICE + 1;
         }
+        else if (gBattleWeather & B_WEATHER_SANDSTORM && !IS_BATTLER_OF_TYPE(battler, TYPE_ROCK))
+        {
+            SET_BATTLER_TYPE(battler, TYPE_ROCK);
+            ret = CASTFORM_SAND + 1;
+        }
     }
     else if (gBattleMons[battler].species == SPECIES_CHERRIM)
     {
