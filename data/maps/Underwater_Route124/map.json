@@ -33,7 +33,7 @@
       "x": 42,
       "y": 51,
       "elevation": 0,
-      "item": "ITEM_CARBOS",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_CARBOS"
     },
     {
@@ -41,7 +41,7 @@
       "x": 14,
       "y": 40,
       "elevation": 0,
-      "item": "ITEM_GREEN_SHARD",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_GREEN_SHARD"
     },
     {
@@ -49,7 +49,7 @@
       "x": 66,
       "y": 34,
       "elevation": 3,
-      "item": "ITEM_PEARL",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_PEARL"
     },
     {
@@ -57,7 +57,7 @@
       "x": 64,
       "y": 54,
       "elevation": 3,
-      "item": "ITEM_BIG_PEARL",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_BIG_PEARL"
     },
     {
@@ -65,7 +65,7 @@
       "x": 70,
       "y": 64,
       "elevation": 3,
-      "item": "ITEM_HEART_SCALE",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_HEART_SCALE_1"
     },
     {
@@ -73,7 +73,7 @@
       "x": 42,
       "y": 5,
       "elevation": 3,
-      "item": "ITEM_CALCIUM",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_CALCIUM"
     },
     {
@@ -81,7 +81,7 @@
       "x": 45,
       "y": 36,
       "elevation": 3,
-      "item": "ITEM_HEART_SCALE",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_UNDERWATER_124_HEART_SCALE_2"
     }
   ]

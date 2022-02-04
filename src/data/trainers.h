@@ -3832,7 +3832,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_Jerry1),
-        .party = {.NoItemDefaultMoves = sParty_Jerry1},
+        .party = {.ItemCustomMoves = sParty_Jerry1},
     },
 
     [TRAINER_TED] =

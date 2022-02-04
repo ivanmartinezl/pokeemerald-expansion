@@ -292,6 +292,7 @@
 #define MOVEEND_PICKPOCKET                        25
 #define MOVEEND_EMERGENCY_EXIT                    26
 #define MOVEEND_CLEAR_BITS                        27
+
 #define MOVEEND_COUNT                             28
 
 // switch cases

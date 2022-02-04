@@ -99,7 +99,7 @@
       "x": 19,
       "y": 36,
       "elevation": 3,
-      "item": "ITEM_PP_UP",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_SAFARI_ZONE_SOUTH_EAST_PP_UP"
     },
     {
@@ -107,7 +107,7 @@
       "x": 32,
       "y": 33,
       "elevation": 0,
-      "item": "ITEM_FULL_RESTORE",
+      "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_SAFARI_ZONE_SOUTH_EAST_FULL_RESTORE"
     }
   ]
