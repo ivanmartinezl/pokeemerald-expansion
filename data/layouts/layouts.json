@@ -4450,6 +4450,16 @@
       "secondary_tileset": "gTileset_BattlePyramid",
       "border_filepath": "data/layouts/LittleParkFire/border.bin",
       "blockdata_filepath": "data/layouts/LittleParkFire/map.bin"
+    },
+    {
+      "id": "LAYOUT_BEACH_CAVE",
+      "name": "BeachCave_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_NavelRock",
+      "border_filepath": "data/layouts/BeachCave/border.bin",
+      "blockdata_filepath": "data/layouts/BeachCave/map.bin"
     }
   ]
 }
