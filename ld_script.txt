@@ -333,7 +333,6 @@ SECTIONS {
         src/battle_transition_frontier.o(.text);
         src/international_string_util.o(.text);
         src/rhh_copyright.o(.text);
-        src/tm_case.o(.text);
 		src/dexnav.o(.text);
     } =0
 
@@ -698,7 +697,6 @@ SECTIONS {
         src/m4a_tables.o(.rodata);
         data/sound_data.o(.rodata);
         src/rhh_copyright.o(.rodata);
-        src/tm_case.o(.rodata);
 		src/dexnav.o(.rodata);
     } =0
 
