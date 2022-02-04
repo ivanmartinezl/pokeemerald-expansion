@@ -1996,6 +1996,28 @@ bool8 CanLearnTutorMove(u16 species, u8 tutor)
         return FALSE;
 }
 
+u8 ReturnTMHMId(u16 move)
+{
+    u8 i;
+    if (IsMoveHm(move))
+    {
+	for (i = 0; i < NUM_HIDDEN_MACHINES; i++)
+	{
+	    if (sTMHMMoves[i + NUM_TECHNICAL_MACHINES] == move)
+	        return i + NUM_TECHNICAL_MACHINES;
+	}
+    }
+    else
+    {
+	for (i = 0; i < NUM_TECHNICAL_MACHINES; i++)
+	{
+	    if (sTMHMMoves[i] == move)
+		return i;
+	    }
+	}    
+    return FALSE;
+}
+
 static void InitPartyMenuWindows(u8 layout)
 {
     u8 i;
@@ -2531,26 +2553,30 @@ static void SetPartyMonSelectionActions(struct Pokemon *mons, u8 slotId, u8 acti
 
 static void SetPartyMonFieldSelectionActions(struct Pokemon *mons, u8 slotId)
 {
-    int i, j, e;
+    u8 i, j;
 
     sPartyMenuInternal->numActions = 0;
     AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, MENU_SUMMARY);
 
     // Add field moves to action list
-    for (j = 0; j <= FIELD_MOVE_WATERFALL; j++)
+    for (i = 0; i < MAX_MON_MOVES; i++)
     {
-        for (e = 0; e < NUM_TECHNICAL_MACHINES + NUM_HIDDEN_MACHINES; e++)
+        for (j = 0; sFieldMoves[j] != FIELD_MOVE_TERMINATOR; j++)
         {
-            if (sFieldMoves[j] == ItemIdToBattleMoveId(ITEM_TM01 + e)
-              && CanMonLearnTMHM(&mons[slotId], e)
-              && CanSpeciesLearnMove(GetMonData(&mons[slotId], MON_DATA_SPECIES), ItemIdToBattleMoveId(ITEM_TM01 + e))
-              && FlagGet(FLAG_BADGE01_GET + j))
+            if (GetMonData(&mons[slotId], i + MON_DATA_MOVE1) == sFieldMoves[j])
             {
-                AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, j + MENU_FIELD_MOVES);
-                    break;
+                if (sFieldMoves[j] != MOVE_FLY) // If Mon already knows FLY, prevent it from being added to action list
+                    if (sFieldMoves[j] != MOVE_FLASH) // If Mon already knows FLASH, prevent it from being added to action list
+                        AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, j + MENU_FIELD_MOVES);
+                        break;
             }
         }
     }
+
+    if (sPartyMenuInternal->numActions < 5 && CanMonLearnTMHM(&mons[slotId], ITEM_HM02 - ITEM_TM01)) // If Mon can learn HM02 and action list consists of < 4 moves, add FLY to action list
+        AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, 5 + MENU_FIELD_MOVES);
+    if (sPartyMenuInternal->numActions < 5 && CanMonLearnTMHM(&mons[slotId], ITEM_HM05 - ITEM_TM01)) // If Mon can learn HM05 and action list consists of < 4 moves, add FLASH to action list
+        AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, 1 + MENU_FIELD_MOVES);
 
     if (!InBattlePike())
     {
@@ -4762,6 +4788,8 @@ bool8 MonKnowsMove(struct Pokemon *mon, u16 move)
     return FALSE;
 }
 
+
+
 static void DisplayLearnMoveMessage(const u8 *str)
 {
     StringExpandPlaceholders(gStringVar4, str);
@@ -6629,33 +6657,4 @@ void IsLastMonThatKnowsSurf(void)
         if (AnyStorageMonWithMove(move) != TRUE)
             gSpecialVar_Result = TRUE;
     }
-}
-
-
-u32 CanSpeciesLearnMove(u16 species, u16 move)
-{
-    int i;
-
-    // Check level up learnset
-    for (i = 0; i < MAX_LEVEL_UP_MOVES; i++)
-    {
-        if (gLevelUpLearnsets[species][i].move == LEVEL_UP_END)
-            break;
-        if (move == gLevelUpLearnsets[species][i].move)
-            return move;
-    }
-    // Check TM/HM learnset
-    for (i = 0; i < (NUM_TECHNICAL_MACHINES + NUM_HIDDEN_MACHINES); i++)
-    {
-        if (move == ItemIdToBattleMoveId(ITEM_TM01 + i))
-            return move;
-    }
-    // Check tutor learnset
-    for (i = 0; i < NELEMS(gTutorMoves); i++)
-    {
-        if (move == gTutorMoves[i])
-            return move;
-    }
-
-    return FALSE;
 }
