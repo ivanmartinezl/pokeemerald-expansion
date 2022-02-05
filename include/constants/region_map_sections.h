@@ -218,7 +218,10 @@
 #define MAPSEC_LITTLE_PARK_GRASS            0xD6
 #define MAPSEC_LITTLE_PARK_WATER            0xD7
 #define MAPSEC_LITTLE_PARK_FIRE             0xD8
-#define MAPSEC_NONE                         0xD9
+#define MAPSEC_FREEZE_VAULT                 0xD9
+#define MAPSEC_FREEZE_ROOM                  0xDA
+#define MAPSEC_BEACH_CAVE                   0xDB
+#define MAPSEC_NONE                         0xDC
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE

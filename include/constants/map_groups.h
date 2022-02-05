@@ -405,6 +405,8 @@
 #define MAP_METEOR_FALLS_STEVENS_CAVE                (107 | (24 << 8))
 #define MAP_OLDALE_RUINS                             (108 | (24 << 8))
 #define MAP_BEACH_CAVE                               (109 | (24 << 8))
+#define MAP_FREEZE_ROOM                              (110 | (24 << 8))
+#define MAP_FREEZE_VAULT                             (111 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))

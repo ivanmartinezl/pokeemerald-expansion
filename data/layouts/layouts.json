@@ -4456,10 +4456,30 @@
       "name": "BeachCave_Layout",
       "width": 20,
       "height": 20,
-      "primary_tileset": "gTileset_Building",
+      "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_NavelRock",
       "border_filepath": "data/layouts/BeachCave/border.bin",
       "blockdata_filepath": "data/layouts/BeachCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_FREEZE_ROOM",
+      "name": "FreezeRoom_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/FreezeRoom/border.bin",
+      "blockdata_filepath": "data/layouts/FreezeRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_FREEZE_VAULT",
+      "name": "FreezeVault_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/FreezeVault/border.bin",
+      "blockdata_filepath": "data/layouts/FreezeVault/map.bin"
     }
   ]
 }

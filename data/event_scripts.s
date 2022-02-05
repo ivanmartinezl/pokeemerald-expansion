@@ -1070,3 +1070,7 @@ Common_EventScript_LegendaryFlewAway::
     .include "data/scripts/dexnav.inc"
 
 	.include "data/maps/BeachCave/scripts.inc"
+
+	.include "data/maps/FreezeRoom/scripts.inc"
+
+	.include "data/maps/FreezeVault/scripts.inc"

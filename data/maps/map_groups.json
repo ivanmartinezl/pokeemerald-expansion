@@ -435,7 +435,9 @@
     "AlteringCave",
     "MeteorFalls_StevensCave",
     "OldaleRuins",
-    "BeachCave"
+    "BeachCave",
+    "FreezeRoom",
+    "FreezeVault"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",
