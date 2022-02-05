@@ -18,17 +18,16 @@
 #define ENGLISH
 
 #ifdef ENGLISH
-#define UNITS_IMPERIAL
-#else
 #define UNITS_METRIC
+#else
+#define UNITS_IMPERIAL
 #endif
 
-// Uncomment to fix some identified minor bugs
-//#define BUGFIX
+#define BUGFIX
 
 // Various undefined behavior bugs may or may not prevent compilation with
 // newer compilers. So always fix them when using a modern compiler.
-#if MODERN || defined(BUGFIX)
+#if MODERN || defined(BUGFIX) 
 #ifndef UBFIX
 #define UBFIX
 #endif

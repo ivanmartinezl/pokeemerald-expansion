@@ -59,7 +59,7 @@ static const u8 sSwordsDanceDescription[] = _(
 
 static const u8 sCutDescription[] = _(
     "Cuts the foe with sharp\n"
-    "scythes, claws, etc.");
+    "claws and lowers the Atk.");
 
 static const u8 sGustDescription[] = _(
     "Strikes the foe with a gust\n"
@@ -590,8 +590,8 @@ static const u8 sSporeDescription[] = _(
     "that always induce sleep.");
 
 static const u8 sFlashDescription[] = _(
-    "Looses a powerful blast of\n"
-    "light that cuts accuracy.");
+    "Looses a light with high\n"
+    "priority that cuts accuracy.");
 
 static const u8 sPsywaveDescription[] = _(
     "Attacks with a psychic\n"
@@ -1787,15 +1787,15 @@ static const u8 sAQUA_JETDescription[] = _(
 
 static const u8 sATTACK_ORDERDescription[] = _(
     "Underlings pummel the foe.\n"
-    "High critical-hit ratio.");
+    "High crit and priority.");
 
 static const u8 sDEFEND_ORDERDescription[] = _(
     "Raises Defense and Sp. Def\n"
-    "with a living shield.");
+    "with a living shield with prior.");
 
 static const u8 sHEAL_ORDERDescription[] = _(
     "The user's underlings show\n"
-    "up to heal half its max HP.");
+    "up to heal half HP with prior.");
 
 static const u8 sHEAD_SMASHDescription[] = _(
     "A life-risking headbutt that\n"
@@ -2776,7 +2776,7 @@ static const u8 sBREAKING_SWIPEDescription[] = _(
     
 static const u8 sBRANCH_POKEDescription[] = _(
     "The user pokes the target\n"
-    "with a pointed branch.");
+    "with a branch. It can flinch.");
     
 static const u8 sOVERDRIVEDescription[] = _(
     "The user twangs its guitar,\n"

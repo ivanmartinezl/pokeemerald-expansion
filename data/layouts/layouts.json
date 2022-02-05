@@ -4410,6 +4410,76 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLDALE_RUINS",
+      "name": "OldaleRuins_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/OldaleRuins/border.bin",
+      "blockdata_filepath": "data/layouts/OldaleRuins/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLE_PARK_GRASS",
+      "name": "LittleParkGrass_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LittleParkGrass/border.bin",
+      "blockdata_filepath": "data/layouts/LittleParkGrass/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLE_PARK_WATER",
+      "name": "LittleParkWater_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LittleParkWater/border.bin",
+      "blockdata_filepath": "data/layouts/LittleParkWater/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLE_PARK_FIRE",
+      "name": "LittleParkFire_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_BattlePyramid",
+      "border_filepath": "data/layouts/LittleParkFire/border.bin",
+      "blockdata_filepath": "data/layouts/LittleParkFire/map.bin"
+    },
+    {
+      "id": "LAYOUT_BEACH_CAVE",
+      "name": "BeachCave_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_NavelRock",
+      "border_filepath": "data/layouts/BeachCave/border.bin",
+      "blockdata_filepath": "data/layouts/BeachCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_FREEZE_ROOM",
+      "name": "FreezeRoom_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/FreezeRoom/border.bin",
+      "blockdata_filepath": "data/layouts/FreezeRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_FREEZE_VAULT",
+      "name": "FreezeVault_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/FreezeVault/border.bin",
+      "blockdata_filepath": "data/layouts/FreezeVault/map.bin"
     }
   ]
 }

@@ -478,6 +478,8 @@ static void Task_EggHatch(u8 taskID)
 
 static void CB2_EggHatch_0(void)
 {
+    const struct CompressedSpritePalette *pal1, *pal2;
+
     switch (gMain.state)
     {
     case 0:
@@ -527,7 +529,10 @@ static void CB2_EggHatch_0(void)
     case 3:
         LoadSpriteSheet(&sEggHatch_Sheet);
         LoadSpriteSheet(&sEggShards_Sheet);
-        LoadSpritePalette(&sEgg_SpritePalette);
+        //LoadSpritePalette(&sEgg_SpritePalette);
+        pal1 = &gEgg1PaletteTable[gBaseStats[GetMonData(&gPlayerParty[sEggHatchData->eggPartyID], MON_DATA_SPECIES)].type1];
+        pal2 = &gEgg2PaletteTable[gBaseStats[GetMonData(&gPlayerParty[sEggHatchData->eggPartyID], MON_DATA_SPECIES)].type2];
+        LoadCompressedEggHatchSpritePalette(pal1, pal2);
         gMain.state++;
         break;
     case 4:
@@ -879,8 +884,9 @@ u8 GetEggCyclesToSubtract(void)
             u16 ability = GetMonAbility(&gPlayerParty[i]);
             if (ability == ABILITY_MAGMA_ARMOR
              || ability == ABILITY_FLAME_BODY
+             || ability == ABILITY_GALE_WINGS
              || ability == ABILITY_STEAM_ENGINE)
-                return 2;
+                return 10;
         }
     }
     return 1;

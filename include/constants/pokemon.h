@@ -90,7 +90,7 @@
 #define MAX_STAT_STAGE    12
 
 // Shiny odds
-#define SHINY_ODDS 8 // Actual probability is SHINY_ODDS/65536
+#define SHINY_ODDS 128 // Actual probability is SHINY_ODDS/65536
 
 // Flags for Get(Box)MonData / Set(Box)MonData
 #define MON_DATA_PERSONALITY        0
@@ -254,7 +254,7 @@
 #define LEVEL_UP_MOVE_LV   0xFE00
 #define LEVEL_UP_END       0xFFFF
 
-#define MAX_LEVEL_UP_MOVES       20
+#define MAX_LEVEL_UP_MOVES       50
 
 #define MON_MALE       0x00
 #define MON_FEMALE     0xFE
@@ -278,12 +278,12 @@
 #define MAX_PER_STAT_IVS 31
 #define MAX_IV_MASK 31
 #define USE_RANDOM_IVS (MAX_PER_STAT_IVS + 1)
-#define MAX_PER_STAT_EVS 255
+#define MAX_PER_STAT_EVS 252
 #define MAX_TOTAL_EVS 510
 #if I_VITAMIN_EV_CAP >= GEN_8
 #define EV_ITEM_RAISE_LIMIT MAX_PER_STAT_EVS
 #else
-#define EV_ITEM_RAISE_LIMIT 100
+#define EV_ITEM_RAISE_LIMIT 252
 #endif
 
 // Battle move flags
@@ -298,13 +298,13 @@
 #define FLAG_IRON_FIST_BOOST                      (1 << 8)
 #define FLAG_SHEER_FORCE_BOOST                    (1 << 9)
 #define FLAG_STRONG_JAW_BOOST                     (1 << 10)
-#define FLAG_MEGA_LAUNCHER_BOOST                  (1 << 11)
+#define FLAG_BALLISTIC                            (1 << 11)
 #define FLAG_STAT_STAGES_IGNORED                  (1 << 12)
 #define FLAG_DMG_MINIMIZE                         (1 << 13)
 #define FLAG_DMG_UNDERGROUND                      (1 << 14)
 #define FLAG_DMG_UNDERWATER                       (1 << 15)
 #define FLAG_SOUND                                (1 << 16)
-#define FLAG_BALLISTIC                            (1 << 17)
+#define FLAG_SCREEN                               (1 << 17)
 #define FLAG_PROTECTION_MOVE                      (1 << 18)
 #define FLAG_POWDER                               (1 << 19)
 #define FLAG_TARGET_ABILITY_IGNORED               (1 << 20)
@@ -315,6 +315,7 @@
 #define FLAG_THAW_USER                            (1 << 25)
 #define FLAG_HIT_IN_SUBSTITUTE                    (1 << 26) // Hyperspace Fury
 #define FLAG_TWO_STRIKES                          (1 << 27) // A move with this flag will strike twice, and may apply its effect on each hit
+#define FLAG_FIERCE_KICK_BOOST                    (1 << 28)
 
 // Split defines.
 #define SPLIT_PHYSICAL  0x0

@@ -5169,6 +5169,11 @@ const struct MonCoords gMonBackPicCoords[] =
         .size = MON_COORDS_SIZE(56, 64),
         .y_offset = 0,
     },
+    [SPECIES_CASTFORM_SANDY] =
+    {
+        .size = MON_COORDS_SIZE(56, 64),
+        .y_offset = 0,
+    },
     // Deoxys
     [SPECIES_DEOXYS_ATTACK] =
     {

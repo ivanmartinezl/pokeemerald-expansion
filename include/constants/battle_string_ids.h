@@ -461,7 +461,7 @@
 #define STRINGID_TURBOBLAZEENTERS                     457
 #define STRINGID_SLOWSTARTENTERS                      458
 #define STRINGID_SLOWSTARTEND                         459
-#define STRINGID_SOLARPOWERHPDROP                     460
+#define STRINGID_NEUTRALIZINGGASOVER                  460
 #define STRINGID_AFTERMATHDMG                         461
 #define STRINGID_ANTICIPATIONACTIVATES                462
 #define STRINGID_FOREWARNACTIVATES                    463
@@ -608,9 +608,8 @@
 #define STRINGID_ABOUTTOUSEPOLTERGEIST                605
 #define STRINGID_CANTESCAPEBECAUSEOFCURRENTMOVE       606
 #define STRINGID_NEUTRALIZINGGASENTERS                607
-#define STRINGID_NEUTRALIZINGGASOVER                  608
 
-#define BATTLESTRINGS_COUNT                           609
+#define BATTLESTRINGS_COUNT                           608
 
 // The below IDs are all indexes into battle message tables,
 // used to determine which of a set of messages to print.

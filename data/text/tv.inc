@@ -1200,7 +1200,7 @@ gTVTodaysRivalTrainerText10::
 	.string "$"
 
 gTVTodaysRivalTrainerText01::
-	.string "And how many BADGES does our rival\n"
+	.string "And how many badges does our rival\n"
 	.string "have? The number is {STR_VAR_1}!$"
 
 gTVTodaysRivalTrainerText02::
@@ -2995,3 +2995,4 @@ ContestLadyShow_Text_LostBadly::
 	.string "MC: Uh… Uh-oh…\p"
 	.string "Uh… That's all the time we have today!\n"
 	.string "Thanks for tuning in!$"
+	

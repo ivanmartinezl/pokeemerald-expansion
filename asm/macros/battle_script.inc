@@ -1725,6 +1725,10 @@
 	various \battler, VARIOUS_TRY_FRISK
 	.endm
 
+	.macro tryforewarnmsg battler:req
+	various \battler, VARIOUS_TRY_FOREWARN
+	.endm
+
 	.macro jumpifshieldsdown battler:req, ptr:req
 	various \battler, VARIOUS_JUMP_IF_SHIELDS_DOWN_PROTECTED
 	.4byte \ptr
@@ -2049,11 +2053,6 @@
 	1:
 	subbyte gBattlerTarget, 0x2
 	goto \jumpptr
-	.endm
-
-	.macro jumpifleafguardprotected battler:req, jumpptr:req
-	various \battler, VARIOUS_JUMP_IF_LEAF_GUARD_PROTECTED
-	.4byte \jumpptr
 	.endm
 
 	.macro jumpifsafeguard jumpptr:req

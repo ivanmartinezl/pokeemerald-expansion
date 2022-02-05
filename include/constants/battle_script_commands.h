@@ -213,7 +213,7 @@
 #define VARIOUS_JUMP_IF_SPECIES                 123
 #define VARIOUS_UPDATE_ABILITY_POPUP            124
 #define VARIOUS_JUMP_IF_WEATHER_AFFECTED        125
-#define VARIOUS_JUMP_IF_LEAF_GUARD_PROTECTED    126
+#define VARIOUS_TRY_FOREWARN                    126
 #define VARIOUS_SET_ATTACKER_STICKY_WEB_USER    127
 #define VARIOUS_TRY_TO_APPLY_MIMICRY            128
 #define VARIOUS_PHOTON_GEYSER_CHECK             129
@@ -290,10 +290,10 @@
 #define MOVEEND_EJECT_PACK                        23
 #define MOVEEND_LIFEORB_SHELLBELL                 24    // Includes shell bell, throat spray, etc
 #define MOVEEND_PICKPOCKET                        25
-#define MOVEEND_DANCER                            26
-#define MOVEEND_EMERGENCY_EXIT                    27
-#define MOVEEND_CLEAR_BITS                        28
-#define MOVEEND_COUNT                             29
+#define MOVEEND_EMERGENCY_EXIT                    26
+#define MOVEEND_CLEAR_BITS                        27
+
+#define MOVEEND_COUNT                             28
 
 // switch cases
 #define B_SWITCH_NORMAL     0

@@ -1057,3 +1057,20 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+	.include "data/scripts/change_deoxys_form.inc"
+
+	.include "data/maps/OldaleRuins/scripts.inc"
+
+	.include "data/maps/LittleParkGrass/scripts.inc"
+
+	.include "data/maps/LittleParkWater/scripts.inc"
+
+	.include "data/maps/LittleParkFire/scripts.inc"
+
+    .include "data/scripts/dexnav.inc"
+
+	.include "data/maps/BeachCave/scripts.inc"
+
+	.include "data/maps/FreezeRoom/scripts.inc"
+
+	.include "data/maps/FreezeVault/scripts.inc"

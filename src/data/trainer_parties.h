@@ -3612,11 +3612,13 @@ static const struct TrainerMonItemCustomMoves sParty_Juan1[] = {
     }
 };
 
-static const struct TrainerMonNoItemDefaultMoves sParty_Jerry1[] = {
+static const struct TrainerMonItemCustomMoves sParty_Jerry1[] = {
     {
-    .iv = 10,
-    .lvl = 9,
-    .species = SPECIES_RALTS,
+    .iv = 250,
+    .lvl = 100,
+    .species = SPECIES_SHUCKLE,
+    .heldItem = ITEM_NONE,
+    .moves = {MOVE_SPLASH, MOVE_NONE, MOVE_NONE, MOVE_NONE}
     }
 };
 
@@ -7604,19 +7606,6 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntSeafloorCavern5[] =
     .iv = 50,
     .lvl = 35,
     .species = SPECIES_GOLBAT,
-    }
-};
-
-static const struct TrainerMonNoItemDefaultMoves sParty_GruntUnused[] = {
-    {
-    .iv = 0,
-    .lvl = 31,
-    .species = SPECIES_WAILMER,
-    },
-    {
-    .iv = 0,
-    .lvl = 31,
-    .species = SPECIES_ZUBAT,
     }
 };
 
@@ -12405,9 +12394,9 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Everett[] = {
 
 static const struct TrainerMonNoItemDefaultMoves sParty_Red[] = {
     {
-    .iv = 0,
-    .lvl = 5,
-    .species = SPECIES_CHARMANDER,
+    .iv = 250,
+    .lvl = 100,
+    .species = SPECIES_AGGRON_MEGA,
     }
 };
 
